@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:27+00:00",
+ "updated": "2026-10-31T19:16+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -41,8 +41,8 @@
      "source": "BBC News"
     },
     {
-     "title": "Trump beware: US voters are concerned about government corruption",
-     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+     "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
      "source": "The Guardian"
     },
     {
@@ -58,38 +58,90 @@
    ]
   },
   {
-   "topic": "Trump",
-   "sources": 8,
+   "topic": "França",
+   "sources": 7,
    "examples": [
     {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Trump beware: US voters are concerned about government corruption",
-     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+     "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
      "source": "The Guardian"
     },
     {
-     "title": "Trump vs MAGA: Why his movement is splitting",
-     "link": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
+     "title": "More than 290 arrested in France as some weekend protests turn violent",
+     "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+     "link": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
      "source": "France 24"
     },
     {
-     "title": "Elections de mi-mandat : Donald Trump rattrapé par son bilan",
-     "link": "https://www.lemonde.fr/idees/article/2026/10/31/elections-de-mi-mandat-donald-trump-rattrape-par-son-bilan_6803488_3232.html",
+     "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+     "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+     "source": "The New York Times"
+    }
+   ]
+  },
+  {
+   "topic": "Ucrânia",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+     "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : des habitants d’Olechky, évacués vendredi, sont arrivés dans le nord du pays ; Volodymyr Zelensky en Turquie pour rencontrer Recep Tayyip Erdogan",
+     "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-habitants-d-olechky-evacues-vendredi-sont-arrives-dans-le-nord-du-pays-volodymyr-zelensky-en-turquie-pour-rencontrer-recep-tayyip-erdogan_6799896_3210.html",
      "source": "Le Monde"
+    },
+    {
+     "title": "Relato del infierno en la ciudad ucrania de Oleshki: “Apenas salía de mi casa, no teníamos comida, solo unas alcachofas”",
+     "link": "https://elpais.com/internacional/2026-10-31/los-evacuados-de-la-ocupada-olsehki-regresan-a-territorio-controlado-por-ucrania.html",
+     "source": "El País"
+    }
+   ]
+  },
+  {
+   "topic": "Alemanha",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Gen Z protests sweep cities across Germany",
+     "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
+     "link": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
+     "source": "Euronews"
+    },
+    {
+     "title": "Protestos da geração Z chegam à Alemanha, com fantasia e desalento",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/protestos-da-geracao-z-chegam-a-alemanha-com-fantasia-e-desalento.shtml",
+     "source": "Folha — Mundo"
     }
    ]
   },
   {
    "topic": "Binance",
-   "sources": 4,
+   "sources": 5,
    "examples": [
     {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
@@ -103,9 +155,87 @@
      "source": "France 24"
     },
     {
-     "title": "Binance hack exposes unsolvable crypto risk: disappearing money",
-     "link": "https://www.japantimes.co.jp/business/2026/10/31/binance-hack-disappearing-money/",
+     "title": "Binance repone el 90% de las criptomonedas robadas en el ciberataque",
+     "link": "https://www.lavanguardia.com/economia/20261031/11672942/binance-repone-90-criptomonedas-robadas-ciberataque.html",
+     "source": "La Vanguardia"
+    }
+   ]
+  },
+  {
+   "topic": "Israel",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Israel is in a political deadlock. What comes next?",
+     "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+     "source": "NPR"
+    },
+    {
+     "title": "Iran's Khamenei warns US and Israel against new attacks",
+     "link": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "source": "France 24"
+    },
+    {
+     "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+     "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Iran’s supreme leader warns US, Israel against war",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
+   "topic": "Trump",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Cascade of court rulings rebuffs Trump administration's election efforts",
+     "link": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
+     "source": "Los Angeles Times"
+    },
+    {
+     "title": "Governo Trump investiga suposta fraude no Alasca por candidatos com nomes iguais",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-investiga-suposta-fraude-no-alasca-por-candidatos-rivais-com-nomes-iguais.shtml",
+     "source": "Folha — Mundo"
+    },
+    {
+     "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+     "link": "https://www.japantimes.co.jp/business/2026/10/31/venezuela-oil-trump-reality/",
      "source": "The Japan Times"
+    }
+   ]
+  },
+  {
+   "topic": "Brasil",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+     "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+     "source": "Euronews"
+    },
+    {
+     "title": "Flávio Bolsonaro asegura desde Estados Unidos que volverá a ser candidato a la Presidencia de Brasil",
+     "link": "https://elpais.com/america/2026-10-31/flavio-bolsonaro-asegura-desde-estados-unidos-que-volvera-a-ser-candidato-a-la-presidencia-de-brasil.html",
+     "source": "El País"
+    },
+    {
+     "title": "'Quero abrir caminhos', diz paraense coroada Miss Universe Trans Brasil 2026",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/10/quero-abrir-caminhos-diz-paraense-coroada-miss-universe-trans-brasil-2026.shtml",
+     "source": "Folha de S.Paulo"
+    },
+    {
+     "title": "Perto do Brasil, Colômbia recebe militares americanos para suposto treinamento",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/10/perto-do-brasil-colombia-recebe-militares-americanos-para-suposto-treinamento.shtml",
+     "source": "Folha — Mundo"
     }
    ]
   },
@@ -114,14 +244,9 @@
    "sources": 4,
    "examples": [
     {
-     "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+     "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
      "source": "The Guardian"
-    },
-    {
-     "title": "European diplomats shun Russia at G20 gathering in the US",
-     "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
     },
     {
      "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
@@ -129,191 +254,81 @@
      "source": "Euronews"
     },
     {
-     "title": "Nicaragua exportó más de 50,000 ejemplares de fauna exótica hacia Asia, Europa y Norteamérica",
-     "link": "https://www.infobae.com/nicaragua/2026/10/31/nicaragua-exporto-mas-de-50000-ejemplares-de-fauna-exotica-hacia-asia-europa-y-norteamerica/",
-     "source": "Infobae"
+     "title": "Europa bajo presión tras una ola de protestas que sacude el continente, en imágenes",
+     "link": "https://www.lavanguardia.com/fotos/20261031/11672927/europa-presion-ola-protestas-sacude-continente-imagenes.html",
+     "source": "La Vanguardia"
+    },
+    {
+     "title": "Otoño en el parque natural más fascinante de Europa: una ruta entre lagos, cascadas y bosques teñidos de dorado",
+     "link": "https://www.eldiario.es/viajes/otono-parque-natural-fascinante-europa-ruta-lagos-cascadas-bosques-tenidos-dorado-pm_1_13629515.html",
+     "source": "elDiario.es"
     }
    ]
   },
   {
-   "topic": "França",
+   "topic": "Oleshky",
    "sources": 4,
    "examples": [
     {
-     "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Third weekend of protests in France",
-     "link": "https://www.france24.com/en/third-weekend-of-protests-in-france",
-     "source": "France 24"
-    },
-    {
-     "title": "Why Are There Protests in France?",
-     "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "França reforça segurança para novos protestos no Halloween e teme ação de mascarados",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Polônia",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Poland: Protesters clash with police over sacked court chief",
-     "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+     "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "En Pologne, le président de la République va recevoir les partis samedi après la suspension du président du Tribunal constitutionnel",
-     "link": "https://www.lemonde.fr/international/article/2026/10/31/en-pologne-le-president-de-la-republique-va-recevoir-les-partis-samedi-apres-la-suspension-du-president-du-tribunal-constitutionnel_6803486_3210.html",
-     "source": "Le Monde"
+     "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+     "link": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+     "source": "France 24"
     },
     {
-     "title": "Presidente da Polônia convoca reuniões após crise no Tribunal Constitucional e acusação de golpe",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/presidente-da-polonia-convoca-reunioes-apos-crise-no-tribunal-constitucional-e-acusacao-de-golpe.shtml",
-     "source": "Folha de S.Paulo"
+     "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
+     "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+     "source": "The New York Times"
     },
     {
-     "title": "Presidente da Polônia convoca reuniões após crise no Tribunal Constitucional e acusação de golpe",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/presidente-da-polonia-convoca-reunioes-apos-crise-no-tribunal-constitucional-e-acusacao-de-golpe.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Ucrânia",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "EN DIRECT, guerre en Ukraine : des centaines de milliers de foyers privés d’électricité dans les régions de Dnipro et de Kiev à la suite de bombardements russes",
-     "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-centaines-de-milliers-de-foyers-prives-d-electricite-dans-les-regions-de-dnipro-et-de-kiev-apres-des-bombardements-russes_6799896_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Trump administration approves potential Patriot missiles sale to Ukraine",
-     "link": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/",
-     "source": "The Japan Times"
-    },
-    {
-     "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
+     "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ]
   },
   {
-   "topic": "Africa",
+   "topic": "Barcelona",
    "sources": 3,
    "examples": [
     {
-     "title": "Senegal hosts Africa’s first ever Youth Olympic Games",
-     "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-     "source": "France 24"
+     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
+     "link": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
+     "source": "El País"
     },
     {
-     "title": "Africa suffering in ‘strongmen’ era, says governance watchdog",
-     "link": "https://www.scmp.com/news/world/africa/article/3372832/africa-suffering-strongmen-era-says-governance-watchdog",
-     "source": "South China Morning Post"
-    },
-    {
-     "title": "Africa: Who Dares Wins - LPG, the Next Frontier for Africa's Downstream",
-     "link": "https://allafrica.com/stories/202610300664.html",
-     "source": "AllAfrica"
-    }
-   ]
-  },
-  {
-   "topic": "Alemanha",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Germany news: Merkel calls for first female president",
-     "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
-     "link": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "China",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-     "source": "NPR"
-    },
-    {
-     "title": "China destoa de outros países e vê ações caírem apesar do boom da IA",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/china-destoa-de-outros-paises-e-ve-acoes-cairem-apesar-do-boom-da-ia.shtml",
-     "source": "Folha de S.Paulo"
-    },
-    {
-     "title": "With ‘Kissinger moment’ over, US and China urged to foster new ‘bridge builders’",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Elections",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Elections de mi-mandat : Donald Trump rattrapé par son bilan",
-     "link": "https://www.lemonde.fr/idees/article/2026/10/31/elections-de-mi-mandat-donald-trump-rattrape-par-son-bilan_6803488_3232.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-     "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "South Africa: SAPS Ready to Ensure Safe Elections",
-     "link": "https://allafrica.com/stories/202610300541.html",
-     "source": "AllAfrica"
-    }
-   ]
-  },
-  {
-   "topic": "Espanha",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Spain train disaster clouds Sánchez chances of re-election",
-     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "El impulsor de Blocus España y otro detenido pasan este sábado a disposición judicial",
-     "link": "https://www.lavanguardia.com/local/valencia/20261031/11672793/impulsor-blocus-espana-detenido-pasan-sabado-disposicion-judicial.html",
+     "title": "Los Mossos detienen a una cuarta persona por organizar los saqueos de Blocus en Barcelona",
+     "link": "https://www.lavanguardia.com/local/catalunya/20261031/11672920/mossos-detienen-cuarto-implicado-saqueos-blocus-barcelona.html",
      "source": "La Vanguardia"
     },
     {
-     "title": "El presunto impulsor de Blocus España y otro detenido en Valencia pasan este sábado a disposición judicial",
-     "link": "https://www.eldiario.es/comunitat-valenciana/presunto-impulsor-blocus-espana-detenido-valencia-pasan-sabado-disposicion-judicial_1_13629097.html",
+     "title": "Última hora sobre las convocatorias de Blocus, en directo: más de 450 identificados en Barcelona por los Mossos",
+     "link": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html",
+     "source": "elDiario.es"
+    }
+   ]
+  },
+  {
+   "topic": "Blocus",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
+     "link": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
+     "source": "El País"
+    },
+    {
+     "title": "Los Mossos detienen a una cuarta persona por organizar los saqueos de Blocus en Barcelona",
+     "link": "https://www.lavanguardia.com/local/catalunya/20261031/11672920/mossos-detienen-cuarto-implicado-saqueos-blocus-barcelona.html",
+     "source": "La Vanguardia"
+    },
+    {
+     "title": "Última hora sobre las convocatorias de Blocus, en directo: más de 450 identificados en Barcelona por los Mossos",
+     "link": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html",
      "source": "elDiario.es"
     }
    ]
@@ -329,6 +344,41 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+     "published": "2026-10-31T17:53+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+     "published": "2026-10-31T16:32+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+    },
+    {
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+     "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+     "published": "2026-10-31T15:16+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
+    },
+    {
+     "title": "Ethiopian PM puts ministers through military training",
+     "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+     "published": "2026-10-31T14:28+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
+    },
+    {
+     "title": "Watch: Blood donors get a Halloween fright in Thailand",
+     "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+     "published": "2026-10-31T12:50+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
      "title": "US approves sale of 500 Patriot missiles to Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
@@ -336,14 +386,7 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
     },
     {
-     "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-     "published": "2026-10-31T12:05+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+     "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
      "published": "2026-10-31T09:16+00:00",
@@ -355,34 +398,6 @@
      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
      "published": "2026-10-31T05:44+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-     "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-     "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-     "published": "2026-10-31T04:32+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg"
-    },
-    {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-     "published": "2026-10-31T02:39+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-     "published": "2026-10-31T02:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "The Indian chef who brought curry to America - then vanished",
-     "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-     "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-     "published": "2026-10-31T02:02+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png"
     }
    ]
   },
@@ -394,60 +409,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+     "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+     "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime…",
+     "published": "2026-10-31T19:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=f774176952b35a2f6f87a9e3e6fa6a60"
+    },
+    {
+     "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-     "summary": "French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’ Here are some of the latest images from around France: In Paris, two separate marches planned by unions and…",
-     "published": "2026-10-31T12:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/c2c1f4d3ca9aba5bea8a24095c58a324cb8404f8/680_0_4692_3754/master/4692.jpg?width=140&quality=85&auto=format&fit=max&s=f8c650b6a428e93b69cd1ad08a335b01"
+     "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with…",
+     "published": "2026-10-31T18:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/44bb99bd91da42dacd8498932568e88c7f5b702a/838_171_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=665eae78c3f02e83de454c28893308c3"
     },
     {
-     "title": "Healey to veto new offshore wind projects if they will not lower bills",
-     "link": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
-     "summary": "UK chancellor’s plans add to concerns government is moving away from pro-renewables agenda John Healey has said he will veto new offshore wind projects if they will not lower bills, adding to concerns that the…",
-     "published": "2026-10-31T11:48+00:00",
-     "image": "https://i.guim.co.uk/img/media/1b421be8971c5f4e293889e1c1004b2259e48cf8/0_0_4638_3710/master/4638.jpg?width=140&quality=85&auto=format&fit=max&s=d841d35b7e5810b0d75396e51d233a96"
+     "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+     "summary": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in largest such gathering under Burnham Almost 140 people have been arrested at the largest mass demonstrations under Andy Burnham’s premiership…",
+     "published": "2026-10-31T18:28+00:00",
+     "image": "https://i.guim.co.uk/img/media/6807820322847a216baf62975e1cb66f78e36b30/808_0_4041_3233/master/4041.jpg?width=140&quality=85&auto=format&fit=max&s=7bb8e1c324b0bddb15e9b7da0a9f2767"
     },
     {
-     "title": "Railway engineering work over Christmas will cause 10 days of disruption",
-     "link": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
-     "summary": "London Paddington and Birmingham New Street stations will shut for five days but most routes will stay open Passengers travelling on some of Great Britain’s busiest railway lines at Christmas have been warned of…",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/3291566d297d05139ad70f54090d09e49ab0344c/437_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4994821e5e3fd4a1e8a8038a7a515793"
+     "title": "Police clash with masked rioters after largely peaceful protests across France",
+     "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+     "summary": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in…",
+     "published": "2026-10-31T18:23+00:00",
+     "image": "https://i.guim.co.uk/img/media/3546bec1281afb0dcb3d211110686c453d00fa3e/0_0_4914_3933/master/4914.jpg?width=140&quality=85&auto=format&fit=max&s=28e4f98442489f9988db1c362c0869cb"
     },
     {
-     "title": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
-     "link": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
-     "summary": "Defence secretary says value for money and modernisation key for spending to ‘fight the wars ahead’ The defence secretary, Wes Streeting, says he started stockpiling food and water weeks ago in case of a national…",
-     "published": "2026-10-31T10:57+00:00",
-     "image": "https://i.guim.co.uk/img/media/50435f64f826729047d60e82b9ee1b5abf7d6797/295_0_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=34703d019dc531d95654f496ccb84431"
+     "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+     "summary": "Legal challenges to Donald Trump’s proposed memorial arch are mounting even as its construction is imminent The legal challenges to Donald Trump ’s proposed memorial arch are mounting, with the District of Columbia and…",
+     "published": "2026-10-31T17:57+00:00",
+     "image": "https://i.guim.co.uk/img/media/af712f082122dd236c913383ef2b06e95aa4269e/743_1_4799_3839/master/4799.jpg?width=140&quality=85&auto=format&fit=max&s=e0cdf6d3c8b9bdf0f652f3fcf3fd9987"
     },
     {
-     "title": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
-     "link": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix",
-     "summary": "The 15th amateur to challenge Littler in Netflix stream on Friday evening, Sherrock was ‘lost for words’ after winning £501,000 prize The name of the programme was Beat Luke Littler, and Fallon Sherrock did just that…",
-     "published": "2026-10-31T10:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/583ca267731d5ddfc268fccb582fa70356861ae2/685_297_2521_2017/master/2521.jpg?width=140&quality=85&auto=format&fit=max&s=551768dbc908bbd025108b622dd4f726"
+     "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+     "summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going…",
+     "published": "2026-10-31T16:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/5be30a14eb0d454a08ebdb9b506b0bd380833fdb/2_0_6348_5081/master/6348.jpg?width=140&quality=85&auto=format&fit=max&s=32fe3d705a01ed7013a48fbcfb618d11"
     },
     {
-     "title": "Trump beware: US voters are concerned about government corruption",
-     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
-     "summary": "Alleged self-dealing by the president and his allies doesn’t look so good as corruption emerges as a key issue for midterm voters Government corruption a top issue for US midterm voters, exclusive poll finds Voters…",
-     "published": "2026-10-31T10:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/21217762389479f3f9a230f0533351ae2894221a/468_0_4683_3747/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=5c1465cb55d5e9973dde0706cbd5b044"
+     "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
+     "link": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+     "summary": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have…",
+     "published": "2026-10-31T15:10+00:00",
+     "image": "https://i.guim.co.uk/img/media/96af588f30bb56de819cd5be243b9f7784fab473/26_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=d361795511aaccc711e179a445804418"
     },
     {
-     "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-     "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-     "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with…",
-     "published": "2026-10-31T09:13+00:00",
-     "image": "https://i.guim.co.uk/img/media/f9bcca919390196c72d4b51a3bee7cfc21271ac9/356_0_6772_5418/master/6772.jpg?width=140&quality=85&auto=format&fit=max&s=5715ad8fcfcd8353438cc59f7867a9fc"
-    },
-    {
-     "title": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
-     "link": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies",
-     "summary": "Mouria coffeehouse unable to renew lease in Exarchia, known for leftwing solidarity, resistance and radicalism It has been the hangout of writers, artists, poets and politicians, doctors and lawyers, radicals and…",
-     "published": "2026-10-31T08:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/8ef959f19537963b274f4bf76e4fd4c6e85e3c75/599_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b50cad423dfefdbc225fc4ebbb2e0c10"
+     "title": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
+     "link": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+     "summary": "Tucked away in John Healey’s budget is decision to ringfence preventative projects where future savings outweigh initial cost It merited the briefest of mentions in John Healey’s speech and just one paragraph in the…",
+     "published": "2026-10-31T15:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/d505b50ee150457caa3be161d1998fe5dfe518a3/2321_1321_2998_2398/master/2998.jpg?width=140&quality=85&auto=format&fit=max&s=c603403cd808bfca390d8c6967811953"
     }
    ]
   },
@@ -458,6 +473,13 @@
    "region": "mundo",
    "url": "https://feeds.npr.org/1004/rss.xml",
    "items": [
+    {
+     "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+     "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+     "published": "2026-10-31T18:42+00:00",
+     "image": ""
+    },
     {
      "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
@@ -506,13 +528,6 @@
      "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
      "published": "2026-10-29T15:53+00:00",
      "image": ""
-    },
-    {
-     "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
-     "summary": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.",
-     "published": "2026-10-29T14:52+00:00",
-     "image": ""
     }
    ]
   },
@@ -524,17 +539,31 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
     {
+     "title": "More than 290 arrested in France as some weekend protests turn violent",
+     "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+     "summary": "Protests continue across France as 320,000 people take to the streets over rising living costs and poor school conditions for a third consecutive weekend, with clashes reported in several cities.",
+     "published": "2026-10-31T18:49+00:00",
+     "image": ""
+    },
+    {
+     "title": "Gen Z protests sweep cities across Germany",
+     "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+     "summary": "Young people in Germany have taken to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come amid a wave of youth demonstrations across Europe. DW has more.",
+     "published": "2026-10-31T16:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+     "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+     "summary": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed a hit on a Russian rocket fuel plant. DW has more.",
+     "published": "2026-10-31T15:47+00:00",
+     "image": ""
+    },
+    {
      "title": "Germany news: Merkel calls for first female president",
      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
      "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to enter coalition talks. DW has more.",
      "published": "2026-10-31T11:18+00:00",
-     "image": ""
-    },
-    {
-     "title": "Massive Gen Z protests set to sweep cities across Germany",
-     "link": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
-     "summary": "Young people in Germany are taking to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come amid a wave of youth demonstrations across Europe. DW has more.",
-     "published": "2026-10-31T09:47+00:00",
      "image": ""
     },
     {
@@ -552,9 +581,9 @@
      "image": ""
     },
     {
-     "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in Parliament",
+     "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
      "link": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf",
-     "summary": "Home Minister Amit Shah has challenged Rahul Gandhi to debate electoral irregularity allegations in parliament, ahead of a major opposition rally against the election chief in Delhi. DW has more.",
+     "summary": "Home Minister Amit Shah has challenged Rahul Gandhi to debate electoral irregularity allegations in parliament, ahead of a major opposition rally against the election chief in Delhi.",
      "published": "2026-10-31T05:06+00:00",
      "image": ""
     },
@@ -563,20 +592,6 @@
      "link": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-rdf",
      "summary": "The mandate of the UN peacekeeping force in Western Sahara will expire on October 31. The UN Security Council could not agree on a resolution to extend the mission.",
      "published": "2026-10-31T04:24+00:00",
-     "image": ""
-    },
-    {
-     "title": "European diplomats shun Russia at G20 gathering in the US",
-     "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
-     "summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelenskyy should travel to Russia if he wanted talks with Vladimir Putin.",
-     "published": "2026-10-31T01:56+00:00",
-     "image": ""
-    },
-    {
-     "title": "Poland: Protesters clash with police over sacked court chief",
-     "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
-     "summary": "Polish Prime Minister Donald Tusk defended the firing of top court President Bogdan Swieczkowski as a move to \"restore the rule of law.\"",
-     "published": "2026-10-30T23:22+00:00",
      "image": ""
     }
    ]
@@ -588,6 +603,41 @@
    "region": "europa",
    "url": "https://www.france24.com/en/rss",
    "items": [
+    {
+     "title": "Iran's Khamenei warns US and Israel against new attacks",
+     "link": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "summary": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli…",
+     "published": "2026-10-31T17:00+00:00",
+     "image": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1024/p:16x9/AP26285515397254.jpg"
+    },
+    {
+     "title": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+     "link": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+     "summary": "",
+     "published": "2026-10-31T16:45+00:00",
+     "image": ""
+    },
+    {
+     "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
+     "link": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+     "summary": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was officially backed by Turkish…",
+     "published": "2026-10-31T14:28+00:00",
+     "image": "https://s.france24.com/media/display/0c8c6ba0-d533-11f1-8f20-d18c5759e759/w:1024/p:16x9/AP26304313866709.jpg"
+    },
+    {
+     "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+     "link": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+     "summary": "Evacuees from Oleshky crossed into Ukrainian-held territory Saturday in a major rescue operation after travelling through Belarus during a rare truce brokered by US First Lady Melania Trump. The city of Oleshky has been…",
+     "published": "2026-10-31T12:45+00:00",
+     "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg"
+    },
+    {
+     "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+     "link": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+     "summary": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around…",
+     "published": "2026-10-31T12:31+00:00",
+     "image": "https://s.france24.com/media/display/0a003486-d527-11f1-b75d-bf1914cabd52/w:1024/p:16x9/74706f6624812bdb75973570d6ce3acdf7330c24.jpg"
+    },
     {
      "title": "Binance hit by 6.3 billion dollar crypto theft",
      "link": "https://www.france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
@@ -608,41 +658,6 @@
      "summary": "France is preparing for a third weekend of protests, with 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as authorities warn of further…",
      "published": "2026-10-31T11:13+00:00",
      "image": "https://s.france24.com/media/display/8d26b616-d51b-11f1-b158-d18c5759e759/w:1024/p:16x9/EN-20261031-110610-110903-CS.jpg"
-    },
-    {
-     "title": "Trump vs MAGA: Why his movement is splitting",
-     "link": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
-     "summary": "As the 2026 midterm elections approach, divisions within the MAGA camp are becoming increasingly visible. From the war in Iran and rising fuel prices to the Epstein files, several of Trump’s decisions are fuelling…",
-     "published": "2026-10-31T10:11+00:00",
-     "image": "https://s.france24.com/media/display/1b3c170e-d515-11f1-8178-695cb59fade5/w:1024/p:16x9/MAGA-Why-Trump-s-movement-is-fracturing.jpg"
-    },
-    {
-     "title": "PSG secure 9th consecutive win thanks to Achraf Hakimi hat-trick",
-     "link": "https://www.france24.com/en/tv-shows/sports/20261031-psg-secure-9th-consecutive-win-thanks-to-achraf-hakimi-hat-trick",
-     "summary": "A night to remember for PSG in Le Havre. In the opening fixture of Ligue 1's ninth round, the French champions thrashed Le Havre at the Stade Océane, inspired by an outstanding performance from Achraf Hakimi. The…",
-     "published": "2026-10-31T09:51+00:00",
-     "image": "https://s.france24.com/media/display/8ef6341c-d4d0-11f1-93dd-695cb59fade5/w:1024/p:16x9/000-D4YG3ZQ.jpg"
-    },
-    {
-     "title": "'Atmosphere of fear': Trump moves to curtail voting rights ahead of the midterms",
-     "link": "https://www.france24.com/en/americas/20261031-united-states-atmosphere-of-fear-trump-moves-to-curtail-voting-rights-ahead-of-the-midterms",
-     "summary": "Americans vote on November 3 in midterm elections that could see Republicans lose control of Congress, endangering US President Donald Trump's legislative agenda. Under the US Constitution, elections are organized by…",
-     "published": "2026-10-31T09:40+00:00",
-     "image": "https://s.france24.com/media/display/e60e1826-cefb-11f1-8e8e-bba4eee3dc72/w:1024/p:16x9/AP26296071599538.jpg"
-    },
-    {
-     "title": "Senegal hosts Africa’s first ever Youth Olympic Games",
-     "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-     "summary": "The 2026 Youth Olympic Games opens with a spectacular ceremony Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in…",
-     "published": "2026-10-31T09:37+00:00",
-     "image": "https://s.france24.com/media/display/0ac93fb2-d508-11f1-9a1a-a575454bc579/w:1024/p:16x9/000-D4YN3TJ.jpg"
-    },
-    {
-     "title": "Protesters gather at Poland's Top court",
-     "link": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
-     "summary": "Police in Poland have stepped up security around the country’s Constitutional Tribunal after dozens of protesters gathered on Friday to oppose the government’s suspension of its president, which they say was unlawful…",
-     "published": "2026-10-31T09:31+00:00",
-     "image": "https://s.france24.com/media/display/7fc37982-d50c-11f1-990b-1beafce15fea/w:1024/p:16x9/EN-20261031-100702-100845-CS.jpg"
     }
    ]
   },
@@ -654,60 +669,60 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
-     "title": "En Allemagne, des dizaines de milliers de jeunes attendus dans les rues samedi pour manifester contre le coût de la vie et l’état des établissements scolaires",
-     "link": "https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html",
-     "summary": "Ces manifestations s’inspirent de mouvements similaires dans d’autres pays européens, notamment en France et en Italie, où des jeunes ont exprimé leur colère contre des élites politiques, les accusant d’ignorer leurs…",
-     "published": "2026-10-31T12:03+00:00",
-     "image": "https://img.lemde.fr/2026/10/02/214/0/6030/3015/644/322/60/0/45fc7e7_ftp-1-a0jxdllr8lst-cd8104eb7eb74fb38e1eab1b9ce3feb4-0-d1b34f82ed3e4d2dbba17a5c5ca96a8c.jpg"
+     "title": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
+     "summary": "De Cologne à Berlin en passant par Hambourg, les rassemblements se sont déroulés sans débordement. Au sein des cortèges, constitués principalement de jeunes, le coût de la vie, le refus de la conscription ou la…",
+     "published": "2026-10-31T18:31+00:00",
+     "image": "https://img.lemde.fr/2026/10/31/86/0/5500/2750/644/322/60/0/fb55511_ftp-1-kk8xtyugn20e-2026-10-31t133551z-315778834-rc2deoazyw8a-rtrmadp-3-germany-protest.JPG"
     },
     {
-     "title": "EN DIRECT, midterms 2026 : les dernières informations à quelques jours des élections aux Etats-Unis",
-     "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-les-dernieres-informations-a-quelques-jours-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html",
-     "summary": "Lors d’un meeting en Floride, vendredi soir, Donald Trump a de nouveau promis 5 000 dollars à chaque Américain en cas de victoire des républicains aux élections, malgré les interrogations concernant la légalité d’une…",
-     "published": "2026-10-31T11:50+00:00",
-     "image": "https://img.lemde.fr/2026/10/31/468/0/5616/2808/644/322/60/0/56c575c_ftp-1-hps1njt6em2l-6e6f6933cbb2443d8a195beb5d3e68f5-0-3e568de4bd234076907bff5318e993d8.jpg"
+     "title": "En Roumanie, les citoyens s’emparent du problème de la désinformation en ligne",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/en-roumanie-les-citoyens-s-emparent-du-probleme-de-la-desinformation-en-ligne_6803728_3210.html",
+     "summary": "Le premier tour de la présidentielle de 2024, finalement annulé, a révélé des manipulations en ligne. Auparavant présente dans la rue, la société civile est désormais très investie sur les réseaux sociaux contre les…",
+     "published": "2026-10-31T18:16+00:00",
+     "image": "https://img.lemde.fr/2026/10/27/1439/0/2096/1048/644/322/60/0/c2aabcf_upload-1-2fzgpsqes43c-ares-cuba-3.jpg"
     },
     {
-     "title": "L’Afrique, l’autre champ de bataille de la droite religieuse américaine",
-     "link": "https://www.lemonde.fr/idees/article/2026/10/31/l-afrique-l-autre-champ-de-bataille-de-la-droite-religieuse-americaine_6803560_3232.html",
-     "summary": "Profitant de l’arrêt de l’aide publique au développement, décidé par Donald Trump, et des vides laissés par l’Europe en matière de défense des droits humains, les organisations politico-religieuses états-uniennes…",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://img.lemde.fr/2026/10/29/458/0/5500/2750/644/322/60/0/eb99bad_upload-1-kjpela1xxhhk-2026-06-03t182015z-484886032-rc29mlarecc1-rtrmadp-3-ghana-lgbt.JPG"
+     "title": "A Moscou, l’ambassade américaine prévient la Russie de la « menace crédible » d’une attaque sur un musée",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html",
+     "summary": "Les autorités russes ont confirmé « des informations sur la préparation d’un attentat à Moscou », samedi, et ont depuis évacué et sécurisé la zone.",
+     "published": "2026-10-31T16:55+00:00",
+     "image": "https://img.lemde.fr/2025/04/09/915/0/5809/2904/644/322/60/0/1811d2b_ftp-import-images-1-twzkbui39l8a-2025-04-09t172227z-1601955888-rc2vfdae4vos-rtrmadp-3-usa-trump-tariffs-russia.JPG"
     },
     {
-     "title": "Au Liban, 13 personnes liées au Hezbollah poursuivies après la saisie de 500 kilos d’explosifs",
-     "link": "https://www.lemonde.fr/international/article/2026/10/31/au-liban-13-personnes-liees-au-hezbollah-poursuivies-apres-la-saisie-de-500-kilos-d-explosifs_6803561_3210.html",
-     "summary": "Les poursuites engagées vendredi interviennent alors que les Etats-Unis exigent un désarmement plus rapide du mouvement chiite et menacent de sanctions des responsables libanais.",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://img.lemde.fr/2026/10/31/741/0/5900/2950/644/322/60/0/f511cdb_upload-1-7w6b1pq5ugi4-2026-03-24t124952z-532638901-rc20bkaa58hi-rtrmadp-3-iran-crisis-lebanon-hezbollah.JPG"
+     "title": "EN DIRECT, guerre en Ukraine : des habitants d’Olechky, évacués vendredi, sont arrivés dans le nord du pays ; Volodymyr Zelensky en Turquie pour rencontrer Recep Tayyip Erdogan",
+     "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-habitants-d-olechky-evacues-vendredi-sont-arrives-dans-le-nord-du-pays-volodymyr-zelensky-en-turquie-pour-rencontrer-recep-tayyip-erdogan_6799896_3210.html",
+     "summary": "L’évacuation a été faite en bus ou en avion, en passant par la Russie puis la Biélorussie. « Je remercie la délégation américaine et la première dame des Etats-Unis, Melania Trump, pour leur médiation », a déclaré le…",
+     "published": "2026-10-31T16:37+00:00",
+     "image": "https://img.lemde.fr/2026/10/31/653/0/5152/2576/644/322/60/0/784ef33_ftp-1-chavw3qjptso-2026-10-31t131804z-1803645108-rc2ceoatramw-rtrmadp-3-ukraine-crisis-oleshky.JPG"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : des centaines de milliers de foyers privés d’électricité dans les régions de Dnipro et de Kiev à la suite de bombardements russes",
-     "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-centaines-de-milliers-de-foyers-prives-d-electricite-dans-les-regions-de-dnipro-et-de-kiev-apres-des-bombardements-russes_6799896_3210.html",
-     "summary": "Dans la capitale, des drones de type Shahed « ont frappé une centrale thermique et électrique », a écrit Volodymyr Zelensky. Dans l’oblast de Dnipropetrovsk, quatre sous-stations électriques ont été touchées au cours de…",
-     "published": "2026-10-31T10:51+00:00",
-     "image": "https://img.lemde.fr/2026/10/30/228/0/4156/2078/644/322/60/0/97df3ed_ftp-1-lkl5xmopyew5-2026-10-30t083438z-531711366-rc2jdoawuquu-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+     "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
+     "summary": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien…",
+     "published": "2026-10-31T16:00+00:00",
+     "image": "https://img.lemde.fr/2026/10/29/720/0/8640/4320/644/322/60/0/bf66bb0_upload-1-zjrvybpef76q-sipa-ap22998390-000008.jpg"
     },
     {
-     "title": "Après Viktor Orban, la Hongrie au défi de restaurer la confiance citoyenne",
-     "link": "https://www.lemonde.fr/le-monde-evenements/article/2026/10/31/apres-viktor-orban-la-hongrie-au-defi-de-restaurer-la-confiance-citoyenne_6803491_4333359.html",
-     "summary": "La société civile, qui avait fait l’objet d’un dénigrement constant et d’un arsenal législatif particulièrement répressif sous Viktor Orban, respire à nouveau depuis le changement de pouvoir. Tous ses acteurs restent…",
-     "published": "2026-10-31T10:00+00:00",
-     "image": "https://img.lemde.fr/2026/04/14/319/0/3307/1653/644/322/60/0/0f91b4b_upload-1-243yxf5xrjwj-piet-france-1-1.jpg"
+     "title": "Collision de trains en Espagne : une Française parmi les 69 morts, le ministère des affaires étrangères dit sa « très vive émotion »",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/collision-de-trains-en-espagne-une-francaise-parmi-les-69-morts-le-ministere-des-affaires-etrangeres-dit-sa-tres-vive-emotion_6803714_3210.html",
+     "summary": "Les autorités ont terminé les autopsies des personnes tuées dans l’accident qui a eu lieu mercredi près de Tolède et dont elles n’ont pas encore formellement établi la cause.",
+     "published": "2026-10-31T15:38+00:00",
+     "image": "https://img.lemde.fr/2026/10/30/458/0/5500/2750/644/322/60/0/f61309e_ftp-1-xh4uotq2qisu-2026-10-30t170722z-495208549-rc2sdoax9ayj-rtrmadp-3-spain-accident.JPG"
     },
     {
-     "title": "Elections de mi-mandat : Donald Trump rattrapé par son bilan",
-     "link": "https://www.lemonde.fr/idees/article/2026/10/31/elections-de-mi-mandat-donald-trump-rattrape-par-son-bilan_6803488_3232.html",
-     "summary": "Les midterms sont traditionnellement délicates pour le parti qui occupe la Maison Blanche. Comme pendant le mandat de Joe Biden, la vigueur macroéconomique des Etats-Unis est éclipsée par les difficultés du quotidien…",
-     "published": "2026-10-31T09:45+00:00",
-     "image": "https://img.lemde.fr/2026/10/31/475/0/3818/1909/644/322/60/0/0e801e8_ftp-1-rzmu0buudim7-cdb7f147b55244dba1f9a5254aab109d-0-f0123756ddc544bab2b7d6f3d28b149b.jpg"
+     "title": "L’Ukranienne Alla Didur reçoit le prix du « News Fixer » 2026, remis par le fonds américain dédié à la mémoire du journaliste Kurt Schork",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/alla-didur-recoit-le-prix-du-news-fixer-2026-remis-par-le-fonds-americain-kurt-schork_6803672_3210.html",
+     "summary": "Travaillant pour plusieurs médias internationaux en Ukraine depuis l’attaque russe de février 2022, la fixeuse originaire d’Odessa est récompensée notamment pour son travail réalisé avec « Le Monde ».",
+     "published": "2026-10-31T14:15+00:00",
+     "image": "https://img.lemde.fr/2026/10/31/33/0/1024/512/644/322/60/0/6e0656a_upload-1-88khmxmjwwio-whatsapp-image-2026-10-31-at-14-01-38.jpeg"
     },
     {
-     "title": "En Pologne, le président de la République va recevoir les partis samedi après la suspension du président du Tribunal constitutionnel",
-     "link": "https://www.lemonde.fr/international/article/2026/10/31/en-pologne-le-president-de-la-republique-va-recevoir-les-partis-samedi-apres-la-suspension-du-president-du-tribunal-constitutionnel_6803486_3210.html",
-     "summary": "Le président du Tribunal constitutionnel, Bogdan Swieczkowski, est au cœur d’un bras de fer entre la droite nationaliste du PiS qui l’a nommé quand elle était au pouvoir, et l’actuel gouvernement centriste de Donald…",
-     "published": "2026-10-31T09:43+00:00",
-     "image": "https://img.lemde.fr/2026/10/31/469/0/5625/2812/644/322/60/0/cf5cd0d_ftp-1-tdla571jptwa-7fe814ec17f14f61be252ee8af68ff6d-0-b3519c2743594de5ae52f57a9088cce3.jpg"
+     "title": "Andy Burnham se dit ouvert à des « excuses officielles » du Royaume-Uni à propos de l’esclavage et écarte toute compensation financière",
+     "link": "https://www.lemonde.fr/international/article/2026/10/31/au-royaume-uni-le-premier-ministre-andy-burnham-se-dit-ouvert-a-des-excuses-officielles-a-propos-de-l-esclavage_6803603_3210.html",
+     "summary": "Le chef du gouvernement britannique a déclaré, samedi, dans une tribune au « Guardian », être à l’écoute et en « faveur » d’excuses.",
+     "published": "2026-10-31T13:02+00:00",
+     "image": "https://img.lemde.fr/2026/10/31/400/0/5665/2832/644/322/60/0/cac4744_ftp-1-bqgldvygul06-2026-10-31t100609z-128435128-rc2mdoa7k8gw-rtrmadp-3-britain-slavery.JPG"
     }
    ]
   },
@@ -718,6 +733,13 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "Latest news bulletin | October 31st, 2026 – Evening",
+     "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening",
+     "summary": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "published": "2026-10-31T17:00+00:00",
+     "image": ""
+    },
     {
      "title": "Latest news bulletin | October 31st, 2026 – Midday",
      "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
@@ -766,13 +788,6 @@
      "summary": "According to Argentina's migration authorities, Bolsonaro boarded a private plane in the northeastern city of Puerto Iguazú on Tuesday evening, just 40 minutes after crossing into the country by land.",
      "published": "2026-10-30T20:07+00:00",
      "image": ""
-    },
-    {
-     "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
-     "link": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
-     "summary": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
-     "published": "2026-10-30T17:03+00:00",
-     "image": ""
     }
    ]
   },
@@ -784,60 +799,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Wizz Air abre dos nuevas rutas aéreas entre Madrid, Sevilla y Málaga ante el bloqueo del tren por el accidente de Urda",
-     "link": "https://elpais.com/economia/2026-10-31/wizz-air-abre-dos-nuevas-rutas-aereas-entre-madrid-sevilla-y-malaga-ante-el-bloqueo-del-tren-por-el-accidente-de-urda.html",
-     "summary": "La aerolínea se suma al refuerzo de otras aerolíneas como Iberia, Volotea, Air Europa o Ryanair. Los billetes costarán entre 50 y 100 euros",
-     "published": "2026-10-31T11:50+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/UVIJB2FOQRHWLEKVYWDVIEBZOQ.JPG?auth=14968ca54fe0e3749b598d57c3960d6c3a4a12663d6b50cde436ff1b3e865731"
+     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
+     "link": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
+     "summary": "Los Mossos y la Guardia Urbana identifican en la capital catalana a un millar de personas para prevenir altercados | El comercio del centro echa el cierre ante el temor de saqueos",
+     "published": "2026-10-31T18:56+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/KNQNNOVWWNCIRBTQXVQGK5IZO4.jpg?auth=7e20878cfa989a916dc2b3d1e8b5707c8217631f26d221944193af156e2a0fd9"
     },
     {
-     "title": "‘Dao’, apuesta arriesgada y experimental sobre la familia y África, gana en la Seminci",
-     "link": "https://elpais.com/cultura/cine/2026-10-31/dao-apuesta-arriesgada-y-experimental-sobre-la-familia-y-africa-gana-en-la-seminci.html",
-     "summary": "El filme del francosenegalés Alain Gomis triunfa en un palmarés muy repartido en el que solo repiten premios ‘La Gradiva’ y ‘Un hombre de nuestro tiempo’",
-     "published": "2026-10-31T11:09+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/3IPIC3C4CZIOHDWXD5ATH5WFOY.jpg?auth=62fc77b30f3cd2ae5a2b7b34875d620f5ecc0a748defd08b011486f23e49bf87"
+     "title": "La operación policial contra Blocus acumula dos encarcelados en Valencia y un detenido en Barcelona",
+     "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
+     "summary": "El arrestado en Picanya se autoproclamaba “fundador e impulsor” del movimiento en España",
+     "published": "2026-10-31T18:38+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/VBAZ3MB7WFMXFFGM2HMCPOXILY.jpg?auth=18a86f380168084ce00a3f856ad7084f402db944ba9716e07bdec33edeaaf0e3"
     },
     {
-     "title": "Lisette Oropesa da una lección de bel canto con Bellini en el Liceu",
-     "link": "https://elpais.com/cultura/2026-10-31/lisette-oropesa-da-una-leccion-de-bel-canto-con-bellini-en-el-liceu.html",
-     "summary": "La soprano estadounidense triunfa como Giulietta en ‘I Capuleti e i Montecchi’, junto al brillante Romeo de Raffaella Lupinacci y la experta batuta de Riccardo Frizza, en una producción de Allex Aguilera visualmente…",
-     "published": "2026-10-31T10:41+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/GGFYLVWKWFBQBKW4FAM2VDMJBQ.jpeg?auth=465f614e069e7e96cff1307a549c4c6adcb2476845f7cc44c215d79dc98cdc93"
+     "title": "Relato del infierno en la ciudad ucrania de Oleshki: “Apenas salía de mi casa, no teníamos comida, solo unas alcachofas”",
+     "link": "https://elpais.com/internacional/2026-10-31/los-evacuados-de-la-ocupada-olsehki-regresan-a-territorio-controlado-por-ucrania.html",
+     "summary": "Varios cientos de desplazados llegan a Ucrania tras pasar por Rusia y volar a Bielorrusia en una operación coordinada entre Kiev y Moscú",
+     "published": "2026-10-31T18:30+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/X3OH7ZPQENPA5O43ZGIWTAWOAM.jpg?auth=69a528ce3b4c3362475dbf3266a1c9381515595df6b36c957e68a04d04604bd8"
     },
     {
-     "title": "Marc Márquez pisa la alfombra roja hacia el título de MotoGP tras la renuncia de Jorge Martín en el GP de Malasia",
-     "link": "https://elpais.com/deportes/motociclismo/2026-10-31/marc-marquez-pisa-la-alfombra-roja-hacia-el-titulo-de-motogp-tras-la-renuncia-de-jorge-martin-en-el-gp-de-malasia.html",
-     "summary": "El catalán de Ducati amplía a 19 puntos su ventaja en la tabla y el madrileño de Aprilia da por perdida la batalla en un sábado con ‘pole’ para Alex Márquez y victoria en la ‘sprint’ para Pedro Acosta",
-     "published": "2026-10-31T09:43+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/LALBDYON7BNQBHDHCNLQRRIQ5A.jpg?auth=55812f6179589c33cf8a91a570e71f9c46652b50aea5bd71a4e9576d335bda7e"
+     "title": "Más de 300.000 franceses salen a la calle por tercer fin de semana para protestar por el coste de la vida",
+     "link": "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html",
+     "summary": "En la jornada, considerada de alto riesgo, se han producido choques y cargas policiales en París, Marsella, Lyon y Burdeos y casi 300 manifestantes han sido detenidos",
+     "published": "2026-10-31T17:52+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/2LW35WF3QNIJLDJGLJEJSPYYEA.jpg?auth=54dd2ee6c016c24083761fc5daa00159906869d511f24d8db3b6c74fe8791d16"
     },
     {
-     "title": "Venezuela, 10 meses después, parece que empezó la transición",
-     "link": "https://elpais.com/america/2026-10-31/venezuela-10-meses-despues-parece-que-empezo-la-transicion.html",
-     "summary": "La dictadura exhibe un pragmatismo sin nostalgias revolucionarias, mientras que los intereses en juego reclaman tener pulso de filigrana",
-     "published": "2026-10-31T09:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/TCDFILWAAFIXRARETTAFLTMGNM.jpg?auth=73cfce7f8752f70a42c1b1440aa113e05eb64f91053055bd3e412e6f24e38503"
+     "title": "El Rayo resucita en Liga y golea al Celta en Vallecas",
+     "link": "https://elpais.com/deportes/futbol/2026-10-31/el-rayo-resucita-en-liga-y-golea-al-celta-en-vallecas.html",
+     "summary": "El conjunto de Beñat San José se reencuentra con la victoria tres jornadas después el día en el que se reabrió a los aficionados el fondo del estadio que cumplió el cierre parcial ante el Elche",
+     "published": "2026-10-31T17:31+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/FHI34EXESRPGPP7P767MNG3OQ4.jpg?auth=11d4574c6eeddbc773aa57e4c38f5045659304da1f2d14ca2b9ec08b1c1b42da"
     },
     {
-     "title": "Buenos Aires incorpora las demandas de las ‘familias multiespecie’ y crea un cementerio para mascotas",
-     "link": "https://elpais.com/argentina/2026-10-31/buenos-aires-incorpora-las-demandas-de-las-familias-multiespecie-y-crea-un-cementerio-para-mascotas.html",
-     "summary": "En una ciudad que tiene más perros que niños, avanzan distintas iniciativas para darles mayor protección y seguimiento",
-     "published": "2026-10-31T09:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/L34IFQNTZFBGFMNYX3SX5RKQKE.jpg?auth=f0e27d0bd6af3c133a6cb2f80330d3cd6f29e4b0f0269092d12657f69d67d35b"
+     "title": "Alcaraz se expande ante Medvedev y alcanza la final de Viena",
+     "link": "https://elpais.com/deportes/tenis/2026-10-31/alcaraz-se-expande-ante-medvedev-y-alcanza-la-final-de-viena.html",
+     "summary": "El español prolonga las buenas sensaciones y supera al ruso, el que más triunfos acumula este año en dura: 6-4 y 7-6(2). Se enfrentará De Miñaur, superior a Zverev",
+     "published": "2026-10-31T16:39+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/KPWZYNANHBLHJIWIZ4LEK43R3M.jpg?auth=073af551825753deef712a732de7249f05b559d442cd56dbbe3476f9b16c50fa"
     },
     {
-     "title": "Dos dinastías enfrentadas y un gay reacio a hablar de sexualidad: los protagonistas de la lucha por New Hampshire",
-     "link": "https://elpais.com/us/2026-10-31/dos-dinastias-enfrentadas-y-un-gay-reacio-a-hablar-de-sexualidad-los-protagonistas-de-la-lucha-por-new-hampshire.html",
-     "summary": "John Sununu, hijo y hermano de gobernadores, se enfrenta al demócrata Chris Pappas, que si gana será el primer hombre abiertamente homosexual en el Senado",
-     "published": "2026-10-31T09:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/VJ2DX3TVMZPF3NPAEOFCEKTAU4.jpg?auth=fdcb7107556e254c1e04a2119591f1668974170d3925d10683de9f2fab7eb38c"
+     "title": "Los familiares recuerdan a las 234 víctimas de la dana: “La ausencia nos enseña el peso de la vida”",
+     "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/los-familiares-recuerdan-a-las-234-victimas-de-la-dana-la-ausencia-nos-ensena-el-peso-de-la-vida.html",
+     "summary": "La Asociación de Víctimas Mortales reconoce a los autores Carmen Amoraga y Maxi Roldán, la meteoróloga Victoria Rosselló y al jefe de la Aemet José Ángel Núñez",
+     "published": "2026-10-31T16:15+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/YU7L6INLUFI3VCEFCZBBTMZAEE.jpg?auth=92345ef46f83feca4b1c10b2bb8b70b8397f02e7e5872514236da931104068f3"
     },
     {
-     "title": "Las 300 mujeres de la tercera edad que rompen el molde de los cubanoamericanos en Miami: “Ni todos somos republicanos, ni todos trumpistas”",
-     "link": "https://elpais.com/us/2026-10-31/las-300-mujeres-de-la-tercera-edad-que-rompen-el-molde-de-los-cubanoamericanos-en-miami-ni-todos-somos-republicanos-ni-todos-trumpistas.html",
-     "summary": "El grupo aboga por preservar la democracia de Estados Unidos para sus hijos y nietos. “La perdimos en Cuba y no queremos que se pierda acá”, dicen",
-     "published": "2026-10-31T09:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/NNNKKWWGQJFOHM7BR3TLWLEWRU.jpg?auth=db78a0c73a331fbb83943bb058e150f95a2112c7c79373e6af59579498311482"
+     "title": "Flávio Bolsonaro asegura desde Estados Unidos que volverá a ser candidato a la Presidencia de Brasil",
+     "link": "https://elpais.com/america/2026-10-31/flavio-bolsonaro-asegura-desde-estados-unidos-que-volvera-a-ser-candidato-a-la-presidencia-de-brasil.html",
+     "summary": "El político ultraderechista mantiene su relato de persecución política mientras la derecha brasileña intenta cerrar el capítulo",
+     "published": "2026-10-31T16:12+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/BWVZ4JA4YZDBRJ5CR2I23YSM6U.jpg?auth=f35f4dd4905db051196408f5df3c183578858e3205003d34e13204354a47cfa1"
     }
    ]
   },
@@ -849,60 +864,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "¡Más madera que (quizá) es la guerra!",
-     "link": "https://www.lavanguardia.com/local/barcelona/20261031/11672771/mas-madera-quizas-guerra.html",
-     "summary": "Las compras en el centro se adelantan a la mañana mientras los escaparates se siguen cubriendo de madera para protegerse del posible vandalismo",
-     "published": "2026-10-31T11:26+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/31/6ae5cc58dba85.jpeg"
+     "title": "La manifestación del segundo aniversario de la dana reitera la exigencia de juzgar a Mazón",
+     "link": "https://www.lavanguardia.com/local/valencia/20261031/11672947/manifestacion-segundo-aniversario-dana-reitera-exigencia-juzgar-mazon.html",
+     "summary": "Tras la marcha celebrada en València, las víctimas declaran que “la gestión de la dana Adam demostró que se podían haber tomado medidas preventivas que habrían salvado la mayoría de las vidas en 2024”",
+     "published": "2026-10-31T18:10+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/31/6ae628b1bbeeb.r_d.3000-2000-748.jpeg"
     },
     {
-     "title": "Nueve menores arrestados en Palma en la noche del viernes en disturbios tras la convocatoria de Blocus",
-     "link": "https://www.lavanguardia.com/sucesos/20261031/11672811/nueve-menores-arrestados-palma-noche-viernes-disturbios-convocatoria-blocus.html",
-     "summary": "Levantadas 40 actas por infracciones administrativas y 200 personas identificadas, en su mayoría muy jóvenes",
-     "published": "2026-10-31T11:13+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/31/6ae5915a06aa6.jpeg"
+     "title": "Binance repone el 90% de las criptomonedas robadas en el ciberataque",
+     "link": "https://www.lavanguardia.com/economia/20261031/11672942/binance-repone-90-criptomonedas-robadas-ciberataque.html",
+     "summary": "La compañía restablecerá las retiradas de fondos para sus clientes este fin de semana",
+     "published": "2026-10-31T17:48+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae47e6cb6121.r_d.2904-1777-1122.jpeg"
     },
     {
-     "title": "Pérez Llorca encabezará la delegación valenciana en la World Travel Market de Londres",
-     "link": "https://www.lavanguardia.com/local/valencia/20261031/11672808/perez-llorca-encabezara-delegacion-valenciana-world-travel-market-londres.html",
-     "summary": "El Reino Unido fue en 2025 el principal mercado emisor extranjero hacia la Comunitat Valenciana, con una cuota del 24,4 % del total de turistas internacionales y 3.029.892 visitantes",
-     "published": "2026-10-31T11:05+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/08/654bbc4d8b77d.jpeg"
+     "title": "La UE cobrará desde mañana una tasa extra de dos euros a plataformas como Shein y Temu",
+     "link": "https://www.lavanguardia.com/economia/20261031/11672936/ue-comenzara-domingo-cobrar-tasa-extra-dos-euros-plataformas-shein-temu.html",
+     "summary": "El gravamen busca reforzar los controles aduaneros ante el aumento de envíos de las plataformas chinas",
+     "published": "2026-10-31T17:42+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8734c46d669.r_d.1955-1448-0.jpeg"
     },
     {
-     "title": "Recuperar la fluidez, tener paciencia y otras claves del Barça ante el Alavés",
-     "link": "https://www.lavanguardia.com/deportes/futbol/20261031/11672296/recuperar-fluidez-paciencia-claves-barca-alaves.html",
-     "summary": "Los blaugrana deben firmar una buena puesta en escena tras las últimas dos derrotas y buscar una goleada para volver a demostrar que son el equipo más contundente de la Liga",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae4bdac00bbd.jpeg"
+     "title": "Europa bajo presión tras una ola de protestas que sacude el continente, en imágenes",
+     "link": "https://www.lavanguardia.com/fotos/20261031/11672927/europa-presion-ola-protestas-sacude-continente-imagenes.html",
+     "summary": "Europa convulsa tras una intensa ola de protestas y manifestaciones masivas que sacude el continente para denunciar la desigualdad creciente, el severo encarecimiento de la vida y los recortes sociales",
+     "published": "2026-10-31T17:29+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/31/6ae61c574342d.jpeg"
     },
     {
-     "title": "Renueva tu televisor sin renunciar a las pulgadas: las ofertas más destacadas de Hisense para tu salón",
-     "link": "https://www.lavanguardia.com/comprar/tecnologia/20261031/11671040/renueva-televisor-renunciar-pulgadas-ofertas-mas-destacadas-hisense-salon-mkt-hise.html",
-     "summary": "Estos televisores Hisense destacan por tener pantallas de hasta 85 pulgadas de gran calidad y un sonido inigualable",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae32bac19e17.jpeg"
+     "title": "La supermodelo Lara Stone revela que sufre cáncer de mama",
+     "link": "https://www.lavanguardia.com/gente/20261031/11672930/supermodelo-lara-stone-revela-sufre-cancer-mama.html",
+     "summary": "La maniquí asegura que el diagnóstico ha supuesto para ella un “gran shock”",
+     "published": "2026-10-31T17:27+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2013/10/16/5f9bf80742a7f.jpeg"
     },
     {
-     "title": "El impulsor de Blocus España y otro detenido pasan este sábado a disposición judicial",
-     "link": "https://www.lavanguardia.com/local/valencia/20261031/11672793/impulsor-blocus-espana-detenido-pasan-sabado-disposicion-judicial.html",
-     "summary": "El considerado como “fundador e impulsor” del grupo fue detenido este viernes en la localidad valenciana de Picanya (Valencia)",
-     "published": "2026-10-31T10:44+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae484666de59.jpeg"
+     "title": "Los Mossos detienen a una cuarta persona por organizar los saqueos de Blocus en Barcelona",
+     "link": "https://www.lavanguardia.com/local/catalunya/20261031/11672920/mossos-detienen-cuarto-implicado-saqueos-blocus-barcelona.html",
+     "summary": "El arrestado habría desempeñado un papel de instigador y dinamizador del grupo que protagonizó los robos",
+     "published": "2026-10-31T16:44+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6addb9e39df82.r_d.670-552-3507.jpeg"
     },
     {
-     "title": "Fallece la compositora Marisa Manchado en el accidente de tren de Urda",
-     "link": "https://www.lavanguardia.com/cultura/20261031/11672781/muere-marisa-manchado-accidente-ferroviario.html",
-     "summary": "La artista, Premio Nacional de la Música, tenía 70 años",
-     "published": "2026-10-31T10:30+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/02/66fc74b60cdd6.r_d.1064-471-0.jpeg"
+     "title": "Macklemore finaliza su gira a favor de Palestina con Javier Bardem, Susan Sarandon y Greta Thunberg",
+     "link": "https://www.lavanguardia.com/gente/20261031/11672913/macklemore-finaliza-gira-favor-palestina-javier-bardem-susan-sarandon-greta-thunberg.html",
+     "summary": "El rapero congrega a más de 12.000 personas en el OVO Arena Wembley de Londres",
+     "published": "2026-10-31T16:42+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/31/6ae61197e5520.r_d.761-772-3207.jpeg"
     },
     {
-     "title": "Los buñuelos triunfan el Día de Todos Los Santos en Madrid",
-     "link": "https://www.lavanguardia.com/local/madrid/20261031/11672782/bunuelos-triunfan-dia-todos-santos-madrid.html",
-     "summary": "Se consumen más de 300.000 kilos de buñuelos de viento este puente en la comunidad",
-     "published": "2026-10-31T10:25+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/06/68e39f06ae935.jpeg"
+     "title": "Presencia policial y comercios cerrados en el centro de València por la amenaza de disturbios",
+     "link": "https://www.lavanguardia.com/local/valencia/20261031/11672916/presencia-policial-comercios-cerrados-centro-valencia-amenaza-disturbios.html",
+     "summary": "El dispositivo de seguridad, activo desde ayer, permanecerá hasta primeras horas del domingo en prevención de altercados y saqueos que habían sido promovidos en redes sociales por los responsables de Blocus",
+     "published": "2026-10-31T16:32+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae4b62f81122.jpeg"
     }
    ]
   },
@@ -914,60 +929,60 @@
    "url": "https://www.eldiario.es/rss/",
    "items": [
     {
-     "title": "Descubren en Pompeya un armario con objetos personales que llevaban casi 2.000 años sepultados por el Vesubio",
-     "link": "https://www.eldiario.es/spin/descubren-pompeya-armario-objetos-personales-llevaban-2-000-anos-sepultados-vesubio-pm_1_13628858.html",
-     "summary": "Los arqueólogos han encontrado monedas, utensilios de maquillaje y amuletos infantiles en una vivienda de la antigua ciudad romana, destruida por la erupción del año 79 Encuentran una flauta de hace 2.800 años en Troya…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://static.eldiario.es/clip/e1ddb5fb-43bf-4bdb-9beb-739879630a3f_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Cientos de personas marchan en Bilbao para exigir la libertad de los dos acusados de terrorismo",
+     "link": "https://www.eldiario.es/euskadi/cientos-personas-marchan-bilbao-exigir-libertad-acusados-terrorismo_1_13629654.html",
+     "summary": "Han denunciado un \"montaje policial\" y un intento de \"criminalizar\" a los encarcelados A prisión a los dos acusados de terrorismo por tener planos de \"zulos\" de ETA y planes para \"actos violentos\" Cientos de personas se…",
+     "published": "2026-10-31T18:44+00:00",
+     "image": "https://static.eldiario.es/clip/26ef8c6b-4f66-4ab9-817f-38008fac6968_16-9-discover-aspect-ratio_default_0_x1108y870.jpg"
     },
     {
-     "title": "El relato de tres policías que iban en los trenes de Urda: \"Son imágenes que no se olvidan\"",
-     "link": "https://www.eldiario.es/castilla-la-mancha/relato-tres-policias-iban-trenes-urda-son-imagenes-no-olvidan_1_13629094.html",
-     "summary": "El Cuerpo destaca en redes sociales la ayuda que prestaron los agentes a los heridos: \"Ser policía también es esto\" Las vidas que segó la tragedia de Urda Tres días después del accidente ferroviario en Urda, Toledo, ya…",
-     "published": "2026-10-31T11:45+00:00",
-     "image": "https://static.eldiario.es/clip/1263b915-4f13-4188-90ba-6b0f181583cd_16-9-discover-aspect-ratio_default_0_x1014y686.jpg"
+     "title": "Los organizadores de la acampada de Sol anuncian la disolución de la protesta para preparar la huelga general",
+     "link": "https://www.eldiario.es/madrid/organizadores-acampada-sol-anuncian-disolucion-protesta-preparar-huelga-general_1_13629653.html",
+     "summary": "\"Desde Acampada 26S, comenzamos la llamada mudanza a los barrios para transmutar en un movimiento social y de clase trabajadora\", explican en un comunicado. Por el momento, el ritmo de retirada de las tiendas es lento y…",
+     "published": "2026-10-31T18:34+00:00",
+     "image": "https://static.eldiario.es/clip/0aeab683-a4bd-41a6-a0d8-14e8b813e280_16-9-discover-aspect-ratio_default_0_x1594y1692.jpg"
     },
     {
-     "title": "El presunto impulsor de Blocus España y otro detenido en Valencia pasan este sábado a disposición judicial",
-     "link": "https://www.eldiario.es/comunitat-valenciana/presunto-impulsor-blocus-espana-detenido-valencia-pasan-sabado-disposicion-judicial_1_13629097.html",
-     "summary": "La Policía Nacional y la Guardia Civil han detenido en los últimos días a cinco personas relacionadas con las convocatorias para provocar disturbios, saqueos y pillaje este sábado en València València prepara un…",
-     "published": "2026-10-31T11:16+00:00",
-     "image": "https://static.eldiario.es/clip/88debef2-2673-4446-a590-072ad249e267_16-9-discover-aspect-ratio_default_0_x1022y437.jpg"
+     "title": "El Consejo Consultivo pide a la Junta más recursos para hacer accesible el texto del presupuesto de 2027 a la ciudadanía",
+     "link": "https://www.eldiario.es/andalucia/consejo-consultivo-pide-junta-recursos-accesible-texto-presupuesto-2027-ciudadania_1_13628867.html",
+     "summary": "El órgano pide también una revisión gramatical y recursos para que se explique con total transparencia las operaciones económicas, como los ingresos y gastos de las partidas de las consejerías, o apéndices con…",
+     "published": "2026-10-31T18:13+00:00",
+     "image": "https://static.eldiario.es/clip/eb14c421-9d1d-4a17-bac5-be2f698b9a3a_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Irán informa de la explosión de otro petrolero \"infractor\" por una mina en Ormuz, el sexto en las 24 últimas horas",
-     "link": "https://www.eldiario.es/internacional/iran-informa-explosion-petrolero-infractor-mina-ormuz-sexto-24-ultimas-horas_1_13629046.html",
-     "summary": "En las últimas tres semanas, Teherán ha detallado al menos 26 incidentes con buques, al menos 20 de ellos por minas navales, y ha afirmado que mantiene bajo su control el estratégico paso marítimo Opinión - El terror de…",
-     "published": "2026-10-31T10:48+00:00",
-     "image": "https://static.eldiario.es/clip/435bedde-ced8-4a15-828f-f213ab2dee52_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "París desafía bajo las máscaras de Halloween el veto legal a taparse la cara en protestas",
+     "link": "https://www.eldiario.es/internacional/paris-desafia-mascaras-halloween-veto-legal-taparse-cara-protestas_1_13629558.html",
+     "summary": "La protesta engloba el descontento de varios sectores y se celebra por tercer sábado consecutivo bajo un amplio despliegue de seguridad El Gobierno francés anuncia medidas para aplacar las protestas educativas, pero los…",
+     "published": "2026-10-31T17:40+00:00",
+     "image": "https://static.eldiario.es/clip/fac5ead9-b08f-4d71-ab8f-9b2cb9a67142_16-9-discover-aspect-ratio_default_0_x1173y448.jpg"
     },
     {
-     "title": "Los curiosos nombres de todos estos pueblos acaban con \"de Arriba\" o \"de Abajo\"",
-     "link": "https://www.eldiario.es/spin/curiosos-nombres-pueblos-acaban-abajo-pm_1_13627688.html",
-     "summary": "Zamora, León, Asturias, Salamanca, La Rioja, Palencia, Burgos o Madrid albergan varios de los muchos ejemplos de estos curiosos topónimos ¿Por qué hay varios pueblos en Cádiz cuyos nombres acaban con “de la Frontera”?…",
-     "published": "2026-10-31T10:42+00:00",
-     "image": "https://static.eldiario.es/clip/b40b2911-7558-4845-b742-ef4bbbbc9480_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Cientos de personas se manifiestan en Titulcia, Madrid, contra la construcción de una macroincineradora de residuos",
+     "link": "https://www.eldiario.es/madrid/cientos-personas-manifiestan-titulcia-madrid-incineradora-residuos_1_13629516.html",
+     "summary": "La macroplanta, promovida por la multinacional PreZero, tendrá capacidad para quemar 300.000 toneladas anuales de desechos Alianza Verde rechaza la incineradora de Titulcia, que quemará 300.000 toneladas anuales de…",
+     "published": "2026-10-31T16:57+00:00",
+     "image": "https://static.eldiario.es/clip/da9a1f1d-dbf1-41ab-b5b9-0b9af0c480ca_16-9-discover-aspect-ratio_default_0_x713y415.jpg"
     },
     {
-     "title": "Lo quemaron vivo y nació una leyenda de venganza contra el rey y el Papa: el terrible final del último gran maestre templario en 1314",
-     "link": "https://www.eldiario.es/spin/quemaron-vivo-nacio-leyenda-venganza-rey-papa-terrible-final-ultimo-gran-maestre-templario-1314-pm_1_13628447.html",
-     "summary": "Orden del Temple - Los templarios protegieron peregrinos y prestaron dinero a reyes, pero su riqueza acabó enfrentándolos a la monarquía francesa y alimentó una leyenda de maldiciones Tras la huella de los templarios en…",
-     "published": "2026-10-31T10:36+00:00",
-     "image": "https://static.eldiario.es/clip/97f4ea04-7cb7-4b5b-9333-0d5f1c08e6ae_16-9-discover-aspect-ratio_default_0_x563y210.jpg"
+     "title": "Última hora sobre las convocatorias de Blocus, en directo: más de 450 identificados en Barcelona por los Mossos",
+     "link": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html",
+     "summary": "Las principales ciudades se blindan frente a Blocus. Las convocatorias para cometer disturbios, saqueos o violencia durante este fin de semana, especialmente durante la noche del 31 de octubre, Halloween, se repiten por…",
+     "published": "2026-10-31T16:54+00:00",
+     "image": "https://static.eldiario.es/clip/9b2b30b7-6f7e-4ef2-ad60-c59b698f5281_16-9-discover-aspect-ratio_default_0_x382y323.jpg"
     },
     {
-     "title": "Vandalizan de nuevo el banco arcoíris de la Fuente Torán, en Teruel: “Llamar a estas cosas delito de odio no es exagerar”",
-     "link": "https://www.eldiario.es/aragon/sociedad/vandalizan-nuevo-banco-arcoiris-fuente-toran-teruel-llamar-cosas-delito-odio-no-exagerar_1_13628962.html",
-     "summary": "Es al menos el quinto ataque contra los bancos LGTBIQ+ de la ciudad desde hace dos años Por Ana Benavente - Este banco está ocupado El banco arcoíris de la Fuente Torán, en Teruel, ha vuelto a aparecer vandalizado, y el…",
-     "published": "2026-10-31T10:30+00:00",
-     "image": "https://static.eldiario.es/clip/99f01f79-5e6b-4406-9de9-0b4c0376ec35_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Otoño en el parque natural más fascinante de Europa: una ruta entre lagos, cascadas y bosques teñidos de dorado",
+     "link": "https://www.eldiario.es/viajes/otono-parque-natural-fascinante-europa-ruta-lagos-cascadas-bosques-tenidos-dorado-pm_1_13629515.html",
+     "summary": "Otro de los atractivos Parque Natural Plitvice son también sus cuevas, que se encuentran a través de una red, que se vincula a fuentes y prados, por donde también habitan animales de especies protegidas como osos…",
+     "published": "2026-10-31T16:49+00:00",
+     "image": "https://static.eldiario.es/clip/0832bb6e-8769-4629-a360-347ec1166bdc_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "\"Ven aquí y dispárame\": la noche en la que las consignas, el caos y las persecuciones racistas tomaron el centro de Palma",
-     "link": "https://www.eldiario.es/illes-balears/sociedad/ven-disparame-noche-consignas-caos-persecuciones-racistas-tomaron-centro-palma_1_13628848.html",
-     "summary": "La Policía identificó a al menos seis adolescentes que se dirigían a la protesta convocada por Blocus y llevaban en sus mochilas líquido corrosivo y una pistola simulada. La aparición de simpatizantes de Núcleo Nacional…",
-     "published": "2026-10-31T10:20+00:00",
-     "image": "https://static.eldiario.es/clip/d978f0aa-82fe-4ca4-9e65-531441a1fa36_16-9-discover-aspect-ratio_default_0_x303y608.jpg"
+     "title": "Un guardia civil cuenta el rescate de Almudena, la sevillana que viajaba en el Iryo de Urda: \"Fue la única que salió con vida\"",
+     "link": "https://www.eldiario.es/andalucia/guardia-civil-cuenta-rescate-almudena-sevillana-viajaba-iryo-urda-unica-salio-vida_1_13629494.html",
+     "summary": "El agente dio con ella gracias a que escuchó su grito dentro del convoy y, tras una hora, lograron sacar su cuerpo para trasladarla al hospital más cercano. La víctima de la colisión en Toledo se encuentra recuperándose…",
+     "published": "2026-10-31T16:47+00:00",
+     "image": "https://static.eldiario.es/clip/c13af89c-dd5c-41ec-affc-5ecaa7417e0d_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -979,59 +994,59 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
+     "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+     "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+     "summary": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+     "published": "2026-10-31T19:11+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg"
+    },
+    {
      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
      "summary": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-     "published": "2026-10-31T12:26+00:00",
+     "published": "2026-10-31T18:15+00:00",
      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+     "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+     "summary": "After years of legal wrangling, judges backed by the current government suspended the chief justice, as a feud escalated with the right-wing party that last held power.",
+     "published": "2026-10-31T18:06+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+     "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+     "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+     "published": "2026-10-31T17:56+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
+     "link": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+     "summary": "Countries renewed their promises to protect wildlife at U.N. talks in Armenia, but how to cover the costs remains a question.",
+     "published": "2026-10-31T17:40+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg"
     },
     {
      "title": "Here is the latest.",
      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
      "summary": "Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response.",
-     "published": "2026-10-31T12:10+00:00",
+     "published": "2026-10-31T16:26+00:00",
      "image": ""
     },
     {
-     "title": "Why Are There Protests in France?",
-     "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-     "summary": "For a third consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
-     "published": "2026-10-31T11:48+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog",
-     "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-     "summary": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial.",
-     "published": "2026-10-31T11:42+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-spain-crash-politics-1-fwzt/31int-spain-crash-politics-1-fwzt-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "75 Years On, the National Ballet of Canada ‘Remains the Icon’",
-     "link": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
-     "summary": "The dance company started on a shoestring and went on to become internationally acclaimed.",
-     "published": "2026-10-31T10:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Stage Fright",
-     "link": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
-     "summary": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.",
-     "published": "2026-10-31T09:58+00:00",
-     "image": ""
-    },
-    {
-     "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
-     "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
-     "summary": "The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.",
-     "published": "2026-10-31T09:19+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg"
+     "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
+     "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+     "summary": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.",
+     "published": "2026-10-31T15:24+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/30vid-Oleshky-new/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg"
     },
     {
      "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
      "summary": "As arson, looting and destruction overwhelmed Rue Beaurepaire, some residents pleaded with rioters to stop. Others hid out of fear. Many dread a repeat.",
-     "published": "2026-10-31T09:05+00:00",
+     "published": "2026-10-31T14:32+00:00",
      "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg"
     }
    ]
@@ -1043,6 +1058,13 @@
    "region": "americas",
    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
    "items": [
+    {
+     "title": "Cascade of court rulings rebuffs Trump administration's election efforts",
+     "link": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
+     "summary": "Federal judges have repeatedly rejected the Trump administration's efforts to wrest control over state voting processes and intimidate state and local elections officials.",
+     "published": "2026-10-31T18:10+00:00",
+     "image": "https://ca-times.brightspotcdn.com/dims4/default/a990467/2147483647/strip/false/crop/3456x2303+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2Ff5%2F9c3989534cfcaff951f016cb1d26%2F1576563-me-early-vote-center-riv-co-9-gmf.jpg"
+    },
     {
      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
@@ -1091,13 +1113,6 @@
      "summary": "With polls showing most Americans unhappy with the economy, President Trump is offering a portrait of national prosperity that many voters may not recognize.",
      "published": "2026-10-29T10:00+00:00",
      "image": ""
-    },
-    {
-     "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-     "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
-     "summary": "Campaigns supporting and opposing the billionaire tax proposal are paying social media influencers, some with millions of followers, to post videos to inform and sway voters.",
-     "published": "2026-10-29T10:00+00:00",
-     "image": "https://ca-times.brightspotcdn.com/dims4/default/9f8213d/2147483647/strip/false/crop/7361x4910+0+0/resize/1500x1001!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F21%2F80c600a04506b3447740d47d2b4a%2F1542631-pol-bernie-sanders-wiltern-jja-0009.jpg"
     }
    ]
   },
@@ -1109,60 +1124,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "Brentford vs. Nottingham Forest - en vivo, Premier League: siga el minuto a minuto del partido de Daniel Muñoz",
-     "link": "https://www.infobae.com/colombia/deportes/2026/10/31/brentford-vs-nottingham-forest-en-vivo-premier-league-siga-el-minuto-a-minuto-del-partido-de-daniel-munoz/",
-     "summary": "El cuadro de los \"Tricky Trees\" (Árboles Astutos) tendrá una dura visita en Londres y con el defensor de la selección Colombia en acción",
-     "published": "2026-10-31T12:25+00:00",
-     "image": "https://www.infobae.com/resizer/v2/JNVQJJAJG5E5TDOYXCN2RW5ISY.JPG?auth=6eff27dd77a03c7f710959f18b18d7f780a2c74a3d8b8e4c07a9a2ab26fc9f12&smart=true&width=2300&height=1658"
+     "title": "Jessica Newton se despidió del Miss Grand Perú y reveló que envió un audio a Luciana Fuster tras conocer su nuevo cargo como directora",
+     "link": "https://www.infobae.com/peru/2026/10/31/jessica-newton-se-despidio-de-miss-grand-peru-y-revelo-que-envio-un-audio-a-luciana-fuster-tras-conocer-su-nuevo-cargo-como-directora/",
+     "summary": "La exdirectora del Miss Grand Perú explicó que esperó el anuncio oficial de la nueva gestión antes de pronunciarse y recordó los 11 años que estuvo al frente de la organización nacional",
+     "published": "2026-10-31T19:13+00:00",
+     "image": "https://www.infobae.com/resizer/v2/UJWSKM2ZW5BHBLQN2BMDLF4FEE.jpg?auth=fb74ac0c83a51f7964be8adc55dfb1d40bf0de20a1df546c93b4d629035609d9&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Última hora del accidente de trenes en Toledo, en directo | Las unidades caninas trabajan “palmo a palmo” mientras empieza el levantamiento de los vagones",
-     "link": "https://www.infobae.com/espana/2026/10/31/ultima-hora-del-accidente-de-trenes-en-toledo-en-directo-aumenta-la-presion-sobre-oscar-puente-mientras-continua-la-busqueda-de-restos-biologicos-en-urda/",
-     "summary": "PP y Vox piden la dimisión de Óscar Puente, pero también el Frente Amplio, principal aliado del PSOE en las elecciones generales",
-     "published": "2026-10-31T12:24+00:00",
-     "image": "https://www.infobae.com/resizer/v2/B64AYR3FJFERXONT4FCKO6RU4Q.jpg?auth=1119195c4abe6b4838b5410d5fbc11cfb27dd7cdc1bb348d924225e1ad6bf6dc&smart=true&width=5040&height=3360"
+     "title": "Adulto mayor muere en IMSS de Baja California por falta de recursos: lo internaron sin avisar a familiares y 9 días después falleció",
+     "link": "https://www.infobae.com/mexico/2026/10/31/adulto-mayor-muere-en-imss-de-baja-california-por-falta-de-recursos-lo-internaron-sin-avisar-a-familiares-y-9-dias-despues-fallecio/",
+     "summary": "El hombre, que padecía enfermedades crónico-degenerativas, recibió antibióticos durante 40 días para atender una infección que al final provocó su deceso",
+     "published": "2026-10-31T19:12+00:00",
+     "image": "https://www.infobae.com/resizer/v2/5UCEAAPUFRGTHMF2FQTVNKLOY4.png?auth=9ee52c3e8d39079c50e77a8e87189b378d8d4f40eb3eb98387704ebcc0cc35e4&smart=true&width=1536&height=1024"
     },
     {
-     "title": "Universidad de Costa Rica rechaza recorte de USD 17.7 millones a universidades públicas y advierte posible acción ante la Sala IV",
-     "link": "https://www.infobae.com/costa-rica/2026/10/31/universidad-de-costa-rica-rechaza-recorte-de-usd-177-millones-a-universidades-publicas-y-advierte-posible-accion-ante-la-sala-iv/",
-     "summary": "El Consejo Universitario pidió a los diputados detener la reducción presupuestaria y advirtió que podría afectar becas, sedes regionales, investigación y otros proyectos de educación superior.",
-     "published": "2026-10-31T12:23+00:00",
-     "image": "https://www.infobae.com/resizer/v2/67MEBGWNRJGNHDJ3LIKHS2ZREM.jpg?auth=460d763bd7632c2aec6ffd602d742379b844d7c0a98834ba2d52664af2d2d538&smart=true&width=899&height=600"
+     "title": "Sentenciaron a viuda negra de Mexicali: Nereida mató a su esposo y fingió su desparición en BC",
+     "link": "https://www.infobae.com/mexico/2026/10/31/sentenciaron-a-viuda-negra-de-mexicali-nereida-mato-a-su-esposo-y-fingio-su-desparicion-en-bc/",
+     "summary": "En 2024 la mujer llamó a un amigo y se subió a su auto, su esposo Félix Armando Hernández Ulloa la siguió pero ella hizo una parada para asesinarlo a balazos y luego esconder su cuerpo",
+     "published": "2026-10-31T19:11+00:00",
+     "image": "https://www.infobae.com/resizer/v2/RQBLYNIX2RED7GPQNOMWS7IJEY.jpg?auth=59a372365b2527ee8cdc4f9fbaa25b11ec48e377250a75bb770d505e480c154d&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Denuncian despido de más de 50 trabajadores de Radio y Televisión Mexiquense: acusan nepotismo y acoso laboral",
-     "link": "https://www.infobae.com/mexico/2026/10/31/denuncian-despido-de-mas-de-50-trabajadores-de-radio-y-television-mexiquense-acusan-nepotismo-y-acoso-laboral/",
-     "summary": "Excolaboradores del Sistema Mexiquense de Medios Públicos señalaron presuntas irregularidades durante la actual administración de Carlos Brito",
-     "published": "2026-10-31T12:22+00:00",
-     "image": "https://www.infobae.com/resizer/v2/CCS5XHEYQVGS5DKKYQS64E4TXM.jpg?auth=7ea527689ab4bef168ed22a5e2fda18e96e99c128739875ccb6c2b390eea6134&smart=true&width=1920&height=1080"
+     "title": "Checo Pérez no salió a la FP3: por qué el piloto de Cadillac se perdió la última práctica libre en México",
+     "link": "https://www.infobae.com/mexico/2026/10/31/checo-perez-no-salio-a-la-fp3-por-que-el-piloto-de-cadillac-se-perdio-la-ultima-practica-libre-en-mexico/",
+     "summary": "El tapatío no giró en el Autódromo Hermanos Rodríguez y su escudería explica el motivo rumbo a la clasificación de la Fórmula 1",
+     "published": "2026-10-31T19:11+00:00",
+     "image": "https://www.infobae.com/resizer/v2/AAL6ZD3ZQJAHJEMPG5XZTNIF4I.JPG?auth=fb259713e4764373349d75d5a2c86e46a6a2d9b35b52c533545d713818051957&smart=true&width=5894&height=3766"
     },
     {
-     "title": "Exfuncionario de Ecopetrol denunció presiones en su contra por no seguir instrucciones de eliminar pruebas sobre contratos de familiar de Verónica Alcocer",
-     "link": "https://www.infobae.com/colombia/2026/10/31/exfuncionario-de-ecopetrol-denuncio-presiones-en-su-contra-por-no-seguir-instrucciones-de-eliminar-pruebas-sobre-contratos-de-familiar-de-veronica-alcocer/",
-     "summary": "Kevin Jair Beltrán Rojas, que laboraba en Cenit, relató que sufrió un desplazamiento forzado junto con su familia, tras haberse negado a cumplir las directrices",
-     "published": "2026-10-31T12:22+00:00",
-     "image": "https://www.infobae.com/resizer/v2/IUPK2WRLURCJFGT5UDYIBWUQOI.jpg?auth=3e18e1d6828cf1133514d344563d3a08cbb1ebe8579f35892f8b3ac04cc05d82&smart=true&width=4000&height=2715"
+     "title": "Canelo Álvarez vs Christian Mbilli EN VIVO: inicia la pelea del Divino Espinoza contra Ricardo Blandón",
+     "link": "https://www.infobae.com/mexico/deportes/2026/10/31/canelo-alvarez-vs-christian-mbilli-en-vivo-sigue-minuto-a-minuto-la-pela-por-el-titulo-mundial/",
+     "summary": "El mexicano vuelve al ring tras más de un año de inactividad con la meta de volver a ser campeón del mundo",
+     "published": "2026-10-31T19:10+00:00",
+     "image": "https://www.infobae.com/resizer/v2/Z3CUIUFQSJE5PNCTFR76ZWKD6Q.jpg?auth=68120e381bdcd7137959115da4e83de36604356c5c77bee28b3f1a6926296db0&smart=true&width=1920&height=1080"
     },
     {
-     "title": "El cementerio de Los Ilustres en San Salvador que se convierte en museo a cielo abierto con recorridos nocturnos",
-     "link": "https://www.infobae.com/el-salvador/2026/10/30/el-cementerio-de-los-ilustres-en-san-salvador-que-se-convierte-en-museo-a-cielo-abierto-con-recorridos-nocturnos/",
-     "summary": "Mausoleos de mármol italiano, esculturas y criptas históricas aguardan a quienes se adentran después del anochecer en este camposanto centenario que guarda presidentes, músicos y científicos salvadoreños",
-     "published": "2026-10-31T12:20+00:00",
-     "image": "https://www.infobae.com/resizer/v2/WW72JIJMVRBNPHMIXXIBMFZS5M.jpg?auth=6e99f99124ea24ad863a1044715fdd9526651bf8cfff213606c881f91fc5af96&smart=true&width=1440&height=960"
+     "title": "Narcoviolencia en Sinaloa: Marina envió otros mil 600 elementos tras hallazgo de dos cabezas humanas",
+     "link": "https://www.infobae.com/mexico/2026/10/31/narcoviolencia-en-sinaloa-marina-envio-otros-mil-600-elementos-tras-hallazgo-de-dos-cabezas-humanas/",
+     "summary": "Los asesinatos no paran en plena pugna por el control del estado tras la ruptura interna del Cártel de Sinaloa",
+     "published": "2026-10-31T19:10+00:00",
+     "image": "https://www.infobae.com/resizer/v2/ZVJERM4VXNGD5K56FQX34IPZCQ.jpg?auth=8536d1e2d91bd8df26697a14835d7bb6e0b17dc64dbf7cb9228a8ac5507961cc&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Nicaragua exportó más de 50,000 ejemplares de fauna exótica hacia Asia, Europa y Norteamérica",
-     "link": "https://www.infobae.com/nicaragua/2026/10/31/nicaragua-exporto-mas-de-50000-ejemplares-de-fauna-exotica-hacia-asia-europa-y-norteamerica/",
-     "summary": "La venta legal de más de cincuenta mil especímenes criados en cautiverio generó ingresos millonarios para este territorio centroamericano, que abastece a compradores en Asia, Europa y Norteamérica con anfibios y…",
-     "published": "2026-10-31T12:19+00:00",
-     "image": "https://www.infobae.com/resizer/v2/FFOGBRQPDNG2FC2XNXDAJWF4T4.jpg?auth=1a3a1cc1d3d04234aa6fdc34f9ffc4d2e35a1e9d40ed52bb8e449b0a2e639934&smart=true&width=1039&height=693"
+     "title": "Jennifer Pedraza recordó cuando el presidente Abelardo de La Espriella se refirió a su propuesta de reducir el IVA: “Al 8%”",
+     "link": "https://www.infobae.com/colombia/2026/10/31/jennifer-pedraza-recordo-cuando-el-presidente-abelardo-de-la-espriella-se-refirio-a-su-propuesta-de-reducir-el-iva-al-8/",
+     "summary": "La senadora se unió al periodista Steven Liévano, que hizo una recopilación de declaraciones del jefe de Estado y el vicepresidente José Manuel Restrepo",
+     "published": "2026-10-31T19:10+00:00",
+     "image": "https://www.infobae.com/resizer/v2/NPOZOVWDQJDEVMKOKP6DZJZCDU.png?auth=8396a56f81e1f25e255d4f81449247b92b15086e783444bec6524ef8190db0dd&smart=true&width=1890&height=1063"
     },
     {
-     "title": "Honduras registra ocho casos de chikungunya y alerta por transmisión comunitaria cerca de Nicaragua",
-     "link": "https://www.infobae.com/honduras/2026/10/31/honduras-registra-ocho-casos-de-chikungunya-y-alerta-por-transmision-comunitaria-cerca-de-nicaragua/",
-     "summary": "La Secretaría de Salud confirmó contagios en Tegucigalpa, Atlántida, Olancho y El Paraíso; las autoridades mantienen vigilancia en una comunidad fronteriza donde se detectó circulación del virus.",
-     "published": "2026-10-31T12:19+00:00",
-     "image": "https://www.infobae.com/resizer/v2/VHX2NAA7HBET5M37DNP3GFVWRI.jpg?auth=b0576eceb2300b9d4743035d21bb50077ff5442f9a351f6f390eb2d914aaafa5&smart=true&width=640&height=400"
+     "title": "Emma Coronel le preguntó a la IA si era mala persona tras describirle su pasado legal en vivo con streamer",
+     "link": "https://www.infobae.com/mexico/2026/10/31/emma-coronel-le-pregunto-a-la-ia-si-era-mala-persona-tras-describirle-sus-cargos-en-vivo-con-streamer/",
+     "summary": "La esposa del narco sentenciado en EEUU, Joaquín “El Chapo” Guzmán, se sorprendió de la descripción que se hizo de su vida",
+     "published": "2026-10-31T19:08+00:00",
+     "image": "https://www.infobae.com/resizer/v2/LUXVZBU6FRCORHPCSNXW3F35VQ.jpg?auth=10accb78b4336fd0f592e415982ec08f20e915a2ceaea7964d57c3a3379f728c&smart=true&width=1920&height=1080"
     }
    ]
   },
@@ -1174,59 +1189,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Ator demitido pela Marvel afirma que vai se candidatar à presidência dos EUA",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/ator-demitido-pela-marvel-afirma-que-vai-se-candidatar-a-presidencia-dos-eua.shtml",
-     "summary": "Intérprete de James Rhodes no filme \"Homem de Ferro\", de 2008, Terrence Howard quer se candidatar à presidência dos Estados Unidos . Leia mais (10/31/2026 - 09h18)",
-     "published": "2026-10-31T12:18+00:00",
+     "title": "Governo recebe em três dias 4.300 denúncias de assédio eleitoral no trabalho",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-recebe-em-tres-dias-4300-denuncias-de-assedio-eleitoral-no-trabalho.shtml",
+     "summary": "O governo federal recebeu 4.300 denúncias de assédio eleitoral no trabalho em apenas três dias de funcionamento do canal criado para registros de ocorrências do tipo. O dado foi divulgado pelo Ministério do Trabalho e…",
+     "published": "2026-10-31T19:06+00:00",
      "image": ""
     },
     {
-     "title": "Advogada de preso no caso Master critica STF, vê erros de processo e fala em anulação",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/advogada-de-preso-no-caso-master-critica-stf-ve-erros-de-processo-e-fala-em-anulacao.shtml",
-     "summary": "A advogada Dora Cavalcanti, que representa um dos presos na Operação Compliance Zero, que investiga fraudes cometidas no Banco Master , tem cobrado que o STF (Supremo Tribunal Federal) cumpra os prazos para reanalisar a…",
-     "published": "2026-10-31T12:00+00:00",
+     "title": "Globo terá programa especial evangélico com Aline Barros e Thalles Roberto",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-tera-programa-especial-evangelico-com-aline-barros-e-thalles-roberto.shtml",
+     "summary": "A Globo vai produzir um programa especial de fim de ano destinado aos evangélicos. Chamada de \"Fé na Cena\", a atração vai mostrar quatro apresentações de artistas do mundo gospel. Leia mais (10/31/2026 - 16h00)",
+     "published": "2026-10-31T19:00+00:00",
      "image": ""
     },
     {
-     "title": "Votos antecipados batem recorde nos EUA, com mais de 49 milhões depositados a três dias das eleições",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/votos-antecipados-batem-recorde-nos-eua-com-mais-de-49-milhoes-depositados-a-tres-dias-das-eleicoes.shtml",
-     "summary": "A participação antecipada neste ciclo eleitoral dos Estados Unidos bateu um recorde. Mais de 49 milhões de americanos já votaram, seja pessoalmente ou pelo correio , de acordo com o Laboratório Eleitoral da Universidade…",
-     "published": "2026-10-31T11:55+00:00",
+     "title": "Petróleo segue perto de níveis recordes apesar da retomada das exportações do Golfo",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-segue-perto-de-niveis-recordes-apesar-da-retomada-das-exportacoes-do-golfo.shtml",
+     "summary": "O enigma do mercado global de petróleo se aprofunda oito meses após o início da guerra com o Irã . Desde o começo de setembro, as exportações do Oriente Médio aumentaram. Leia mais (10/31/2026 - 16h00)",
+     "published": "2026-10-31T19:00+00:00",
      "image": ""
     },
     {
-     "title": "Craque Neto pede desculpas aos fãs do BTS após ser cancelado; entenda",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/10/craque-neto-pede-desculpas-aos-fas-do-bts-apos-ser-cancelado-entenda.shtml",
-     "summary": "O apresentador Neto, conhecido como Craque Neto , sentiu na pele a força do fã-clube do BTS e recuou. Dois dias depois de fazer duras críticas ao grupo sul-coreano, o ex-ídolo do Corinthians pediu desculpas ao vivo no…",
-     "published": "2026-10-31T11:35+00:00",
+     "title": "Mortes: Culta e discreta, foi professora e grande conselheira da família",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-culta-e-discreta-foi-professora-e-grande-conselheira-da-familia.shtml",
+     "summary": "Os alunos tinham certeza de que dona Mieko era boazinha demais para perceber quem colava nas provas. O erro deles foi dizer isso em voz alta. Quando ouviu, Mieko citou o nome de cada um dos infratores e recolheu as…",
+     "published": "2026-10-31T19:00+00:00",
      "image": ""
     },
     {
-     "title": "Presidente da Polônia convoca reuniões após crise no Tribunal Constitucional e acusação de golpe",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/presidente-da-polonia-convoca-reunioes-apos-crise-no-tribunal-constitucional-e-acusacao-de-golpe.shtml",
-     "summary": "O presidente da Polônia , Karol Nawrocki , convocou neste sábado (31) reuniões de crise com representantes dos partidos políticos após um confronto em torno do Tribunal Constitucional , que opõe o governo centrista à…",
-     "published": "2026-10-31T11:07+00:00",
+     "title": "Países se comprometem a acelerar proteção da natureza para atingir metas de 2030",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/paises-se-comprometem-a-acelerar-protecao-da-natureza-para-atingir-metas-de-2030.shtml",
+     "summary": "Após duas semanas de negociações intensas, chegou ao fim neste sábado (31) a cúpula da ONU sobre biodiversidade. Com um dia de atraso, negociadores de 182 países e governos chegaram a um acordo para acelerar a…",
+     "published": "2026-10-31T18:57+00:00",
      "image": ""
     },
     {
-     "title": "China destoa de outros países e vê ações caírem apesar do boom da IA",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/china-destoa-de-outros-paises-e-ve-acoes-cairem-apesar-do-boom-da-ia.shtml",
-     "summary": "Segundo a Moonshot AI, uma das principais empresas de inteligência artificial de Pequim, \"O que realmente importa está além do alcance da visão humana\". Leia mais (10/31/2026 - 08h00)",
-     "published": "2026-10-31T11:00+00:00",
+     "title": "É seguro usar colírio nos olhos todos os dias? Oftalmologistas explicam",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/e-seguro-usar-colirio-nos-olhos-todos-os-dias-oftalmologistas-explicam.shtml",
+     "summary": "Usar um colírio vendido sem receita várias vezes ao dia para aliviar a secura e a coceira nos olhos é seguro? Leia mais (10/31/2026 - 15h30)",
+     "published": "2026-10-31T18:30+00:00",
      "image": ""
     },
     {
-     "title": "Há uma soldada dentro de mim por causa da forma como fui criada, diz Zoe Saldaña ao F5",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/ha-uma-soldada-dentro-de-mim-por-causa-da-forma-como-fui-criada-diz-zoe-saldana-ao-f5.shtml",
-     "summary": "Zoe Saldaña , 48, não é de se acomodar com o sucesso alcançado ou de viver de conquistas antigas. Logo após ganhar o Oscar de atriz coadjuvante por \" Emilia Pérez \", no ano passado, ela voltou ao trabalho achando que…",
-     "published": "2026-10-31T11:00+00:00",
+     "title": "'Quero abrir caminhos', diz paraense coroada Miss Universe Trans Brasil 2026",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/10/quero-abrir-caminhos-diz-paraense-coroada-miss-universe-trans-brasil-2026.shtml",
+     "summary": "\"Quero que minha história mostre que podemos ir além das expectativas que colocam sobre nós e construir um futuro com dignidade, liberdade e oportunidades. Quero abrir caminhos.\" Leia mais (10/31/2026 - 15h30)",
+     "published": "2026-10-31T18:30+00:00",
      "image": ""
     },
     {
-     "title": "Casa do Zezinho realiza gala beneficente com show de Chico César",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/10/casa-do-zezinho-realiza-gala-beneficente-com-show-de-chico-cesar.shtml",
-     "summary": "A Casa do Zezinho , ONG que atende crianças e jovens em situação de vulnerabilidade social no Capão Redondo , na zona sul de São Paulo, promove no dia 14 de novembro um evento beneficente. O Zezinho Gala será realizado…",
-     "published": "2026-10-31T11:00+00:00",
+     "title": "Fim da escala 6x1 pode elevar informalidade no trabalho, mas sem hecatombe, dizem especialistas",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/fim-da-escala-6x1-pode-elevar-informalidade-no-trabalho-mas-sem-hecatombe-dizem-especialistas.shtml",
+     "summary": "O fim da escala 6x1 pode provocar um aumento marginal da informalidade , sobretudo nas relações de trabalho de pequenas empresas, mas não uma hecatombe no mercado de trabalho , avaliam especialistas ouvidos pela Folha …",
+     "published": "2026-10-31T18:00+00:00",
      "image": ""
     }
    ]
@@ -1239,60 +1254,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
-     "link": "https://g1.globo.com/mundo/noticia/2026/10/31/ataque-armado-california.ghtml",
-     "summary": "Um ataque a tiros em uma loja de artigos de Halloween no norte da Califórnia deixou um morto e seis feridos na sexta-feira (30), informou a polícia, que ainda não identificou os responsáveis. O incidente ocorreu pouco…",
-     "published": "2026-10-31T12:11+00:00",
-     "image": ""
+     "title": "Poste cai em carro após acidente que interditou rua em São José dos Campos",
+     "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/poste-cai-em-carro-apos-acidente-que-interditou-rua-em-sao-jose-dos-campos.ghtml",
+     "summary": "Poste tomba em cima de carro após acidente que interditou rua no interior de SP Um poste de energia elétrica caiu sobre um carro após um acidente que interditou uma rua em São José dos Campos, na manhã deste sábado…",
+     "published": "2026-10-31T19:06+00:00",
+     "image": "https://s2-g1.glbimg.com/e6smGeSMkFVCMOD3-8-3TiF0u74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/prEx3GSRiqGzd4g9b4DQ/whatsapp-image-2026-10-31-at-15.58.32.jpeg"
     },
     {
-     "title": "Fuvest 2027: mais de 2 mil candidatos fazem prova neste domingo em Mogi das Cruzes",
-     "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/31/fuvest-2027-mais-de-2-mil-candidatos-fazem-prova-neste-domingo-em-mogi-das-cruzes.ghtml",
-     "summary": "Primeira fase da Fuvest ocorre neste domingo (1º) Arquivo Pessoal/Gustavo Souza Assis Mais de 2 mil candidatos são esperados em Mogi das Cruzes para a primeira fase da Fuvest 2027, aplicada neste domingo (1º). Segundo a…",
-     "published": "2026-10-31T12:10+00:00",
-     "image": "https://s2-g1.glbimg.com/SrzmkMcCIRLXZSaiZi5d7jBA9mg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/8/GxvnfuTuWzSRYRsHd3Gw/whatsapp-image-2023-11-12-at-12.29.55.jpeg"
+     "title": "Vídeo: sucuri-amarela é flagrada rastejando nas proximidades de hotel no Pantanal de MT",
+     "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/31/video-sucuri-amarela-e-flagrada-rastejando-nas-proximidades-de-hotel-no-pantanal-de-mt.ghtml",
+     "summary": "Sucuri-amarela rastejando em hotel de Porto Jofre, no Pantanal (MT) Uma sucuri-amarela foi vista rastejando nas proximidades de um hotel tradicional na região de Porto Jofre, no Pantanal mato-grossense. O registro foi…",
+     "published": "2026-10-31T19:01+00:00",
+     "image": "https://s2-g1.glbimg.com/9pmw2lXZYECX_RZKBBvu5W20Nao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/V/kNGObfSoyBGwMBrTJOhg/sucuri-amarela-gif.gif"
     },
     {
-     "title": "Neoenergia Coelba abre 81 vagas gratuitas para Escola de Eletricistas na Bahia",
-     "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/31/vagas-gratuitas-bahia.ghtml",
-     "summary": "",
-     "published": "2026-10-31T12:09+00:00",
-     "image": "https://s2-g1.glbimg.com/LJO5DKHQ5DH5rgSY-_lBkEWlCT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/tyMySwQ7ScDnOTk5hQIA/img-20260307-wa0148-scaled.avif"
+     "title": "Novos protestos reúnem mais de 300 mil na França e terminam em confrontos com a polícia em Paris",
+     "link": "https://g1.globo.com/mundo/noticia/2026/10/31/novos-protestos-reunem-milhares-na-franca-e-terminam-em-confrontos-com-a-policia-em-paris.ghtml",
+     "summary": "Um manifestante usa um fogo de artifício durante uma manifestação organizada por sindicatos como parte de protestos nacionais convocados pelo movimento dos \"Coletes Amarelos\", com a participação de estudantes franceses…",
+     "published": "2026-10-31T18:59+00:00",
+     "image": "https://s2-g1.glbimg.com/iwNQ2bH767yi7mZ6DFHGvtcvCaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/u/973jGBT9ii9Etd3f4a7A/2026-10-31t181608z-960186430-rc2geoam4u9p-rtrmadp-3-france-protest.jpg"
     },
     {
-     "title": "Supermaratona para o Enem 2026: g1 transmite aulas gratuitas ao vivo",
-     "link": "https://g1.globo.com/go/goias/ao-vivo/supermaratona-para-o-enem-2026.ghtml",
-     "summary": "",
-     "published": "2026-10-31T12:01+00:00",
-     "image": "https://s2-g1.glbimg.com/8V1_4ju-xqMiSpDfFTvkg_hcDT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/KVZZJZRFy8gYAPecgmWA/g1-foto-5-.png"
+     "title": "Homem é preso por tráfico de drogas durante operação da PM no litoral de SP",
+     "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/31/homem-e-preso-por-trafico-de-drogas-durante-operacao-da-pm-no-litoral-de-sp.ghtml",
+     "summary": "Homem foi preso durante operação policial em Praia Grande, SP. Divulgação/Polícia Militar Um homem foi preso por tráfico de drogas durante a Operação Impacto Força Total em Praia Grande, no litoral de São Paulo. Segundo…",
+     "published": "2026-10-31T18:50+00:00",
+     "image": "https://s2-g1.glbimg.com/fEOtljn91c0I4ZxuOgXi4CScR7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/Mk3GlHTOGphNwWBOacNw/prisao-pg.jpg"
     },
     {
-     "title": "Mandando Bem no Enem: professora explica gêneros textuais e seus usos sociais",
-     "link": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nacional/mandando-bem-no-enem/noticia/2026/10/31/mandando-bem-no-enem-professora-explica-generos-textuais-e-seus-usos-sociais.ghtml",
-     "summary": "Finalidade, público e contexto de circulação ajudam a compreender os sentidos de um texto. Imagem gerada por Inteligência Artificial. Compreender a finalidade de um texto, o público a que se dirige e os recursos usados…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://s2-g1.glbimg.com/g684LCU7TEFJ-JDPbCNkJUYdFM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/v/5dT2W8TBixcOU0n0ev2Q/linguagens.png"
+     "title": "Chilli Beans entra para lista de empresas que recorreram à recuperação em 2026; veja os casos",
+     "link": "https://g1.globo.com/economia/negocios/noticia/2026/10/31/chilli-beans-entra-para-lista-de-empresas-que-recorreram-a-recuperacao-em-2026-veja-os-casos.ghtml",
+     "summary": "Chilli beans Divulgação Neste sábado (31), a rede brasileira de óculos e relógios Chilli Beans entrou com um pedido de recuperação extrajudicial para renegociar cerca de R$ 340 milhões em dívidas bancárias. A empresa é…",
+     "published": "2026-10-31T18:47+00:00",
+     "image": "https://s2-g1.glbimg.com/2qi6bYrGW36zosFQxXwI0NsduS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/nDUW4MQ5yCK3wdH5uJ7Q/073e85f9-b878-4f4c-a9cd-024c4a056a43.png"
     },
     {
-     "title": "7 vinhos brancos para você descobrir o melhor da Itália",
-     "link": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/10/31/7-vinhos-brancos-para-voce-descobrir-o-melhor-da-italia.ghtml",
-     "summary": "Famosa pelos vinhos tintos como Amarone, Barolo, Brunello e Chianti, a Itália possui também uma riquíssima variedade de uvas brancas que merecem ser descobertas pelos apaixonados da bebida. Ao lado das castas…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://s2-g1.glbimg.com/lYiF6PV9JVzIA3QewM1LZgzO2_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Q/vcDPkfSBmlsrJm8y0dzg/capa-vesevo-falanghina-1400px.jpg"
+     "title": "Mais de 1,2 mil policiais militares farão segurança e patrulhamento na Expoferr 2026",
+     "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/31/mais-de-12-mil-policiais-militares-farao-seguranca-e-patrulhamento-na-expoferr-2026.ghtml",
+     "summary": "Efetivo de PMs por dia na Expoferr será de mais de 250 policiais Secom-RR/Divulgação/Arquivo A Polícia Militar de Roraima anunciou o emprego de mais de 1,2 mil agentes na segurança da 45ª Exposição-Feira Agropecuária de…",
+     "published": "2026-10-31T18:45+00:00",
+     "image": "https://s2-g1.glbimg.com/SLMllbZWimhNh40zaTeQq-H--yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/a/EHa9a1Ty6K7aWRAd0gVg/pm.jpeg"
     },
     {
-     "title": "A história da culinária italiana se revela em ingredientes e receitas",
-     "link": "https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/10/31/a-historia-da-culinaria-italiana-se-revela-em-ingredientes-e-receitas.ghtml",
-     "summary": "Um prato de massa com molho de tomate e manjericão, um risoto cremoso acompanhado de um bom vinho ou uma pizza de massa leve compartilhada com amigos. A gastronomia italiana tem essa capacidade de reunir ingredientes…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://s2-g1.glbimg.com/YGvvCK9_0fNdszNrC9EGAt5Q7Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/g/pES4tDRneUHjWgby1JaQ/foto-destaque-italo.jpg"
+     "title": "Frete de ônibus por R$ 16,5 mil para transportar eleitores a município levou à cassação de prefeito e vice no Piauí",
+     "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/31/frete-de-onibus-cassacao-prefeito-e-vice-piaui.ghtml",
+     "summary": "Tribunal Regional Eleitoral do Piauí (TRE-PI), no Centro de Teresina Andrê Nascimento/ g1 Piauí Um ônibus fretado por aproximadamente R$ 16,5 mil levou 23 eleitores do Distrito Federal para Sebastião Barros, no Sul do…",
+     "published": "2026-10-31T18:36+00:00",
+     "image": "https://s2-g1.glbimg.com/iFNtbflHYSY5Qq9tzV-2sqbWmTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/E/w/ZA56rHTg2gkbs4TlDDdw/whatsapp-image-2022-08-15-at-10.35.55.jpeg"
     },
     {
-     "title": "Para maratonar no Dia das Bruxas: veja produções amapaenses de suspense e terror gratuitas",
-     "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/31/para-maratonar-no-dia-das-bruxas-veja-producoes-amapaenses-de-suspense-e-terror-gratuitas.ghtml",
-     "summary": "Cena do filme amapaense \"Açaí\" Reprodução O cinema de gênero independente no Amapá vem conquistando espaço ao transformar cenários locais, paranoias urbanas e dilemas psicológicos em narrativas de tensão. Para comemorar…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://s2-g1.glbimg.com/joFABZSVTga_ng6HpHhuGvBg0CQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/a/c6fIBXTL2TAjBADlpHpQ/aleixo-g1-17-.jpg"
+     "title": "Mulher é intubada em estado grave após moto ser atingida por carro em Boa Vista",
+     "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/31/mulher-e-intubada-em-estado-grave-apos-moto-ser-atingida-por-carro-em-boa-vista.ghtml",
+     "summary": "Vítimas foram levadas ao pronto socorro do Hospital Geral de Roraima. João Gabriel Leitão/g1 RR/Arquivo Uma mulher de 37 anos foi intubada em estado grave depois que a moto em que estava foi atingida por um carro, na…",
+     "published": "2026-10-31T18:28+00:00",
+     "image": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
     }
    ]
   },
@@ -1304,59 +1319,59 @@
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
     {
+     "title": "Protestos da geração Z chegam à Alemanha, com fantasia e desalento",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/protestos-da-geracao-z-chegam-a-alemanha-com-fantasia-e-desalento.shtml",
+     "summary": "Com fantasias de Halloween e muito desalento, os protestos da geração Z chegaram à Alemanha neste sábado (31). Manifestações foram registradas em mais de 30 cidades, com a participação de dezenas de milhares de pessoas…",
+     "published": "2026-10-31T19:13+00:00",
+     "image": ""
+    },
+    {
+     "title": "Quase meio milhão de pessoas protestam na França neste sábado, segundo organizadores",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml",
+     "summary": "Quase 500 mil pessoas participaram de manifestações neste sábado (31) em toda a França , incluindo 200 mil em Paris , segundo uma coalizão de organizações juvenis e sindicatos que representam estudantes do ensino médio…",
+     "published": "2026-10-31T17:37+00:00",
+     "image": ""
+    },
+    {
+     "title": "Premiê britânico diz estar aberto a pedido formal de desculpas pela escravidão",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/premie-britanico-diz-estar-aberto-a-pedido-formal-de-desculpas-pela-escravidao.shtml",
+     "summary": "O primeiro-ministro do Reino Unido , Andy Burnham , afirmou na sexta-feira (30) estar aberto a que seu governo peça desculpas formalmente pela participação histórica do país no tráfico de pessoas escravizadas, uma…",
+     "published": "2026-10-31T16:02+00:00",
+     "image": ""
+    },
+    {
+     "title": "Perto do Brasil, Colômbia recebe militares americanos para suposto treinamento",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/10/perto-do-brasil-colombia-recebe-militares-americanos-para-suposto-treinamento.shtml",
+     "summary": "Os Estados Unidos e a Colômbia mantêm uma estreita aliança militar . Desde o Plano Colômbia, Washington financia, equipa e treina forças de segurança colombianas. Mas a chegada de centenas de militares americanos…",
+     "published": "2026-10-31T15:52+00:00",
+     "image": ""
+    },
+    {
+     "title": "Governo Trump investiga suposta fraude no Alasca por candidatos com nomes iguais",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-investiga-suposta-fraude-no-alasca-por-candidatos-rivais-com-nomes-iguais.shtml",
+     "summary": "O governo do presidente Donald Trump intensificou as investigações criminais e civis sobre as acusações de que os democratas teriam conspirado para recrutar um candidato com intuito fraudulento em uma disputa crucial…",
+     "published": "2026-10-31T15:06+00:00",
+     "image": ""
+    },
+    {
+     "title": "Como Miami se tornou refúgio de políticos conservadores da América Latina",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/como-miami-se-tornou-refugio-de-politicos-conservadores-da-america-latina.shtml",
+     "summary": "Miami ainda era, em 1937, um refúgio de inverno reservado a magnatas americanos quando o ex-ditador cubano Gerardo Machado se estabeleceu por lá. Em 1933, o chamado \" Mussolini dos Trópicos\" fugira às pressas de Havana…",
+     "published": "2026-10-31T14:43+00:00",
+     "image": ""
+    },
+    {
+     "title": "A história de como uma sobrevivente de violência sexual do século 15 buscou justiça",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/a-historia-de-como-uma-sobrevivente-de-violencia-sexual-do-seculo-15-buscou-justica.shtml",
+     "summary": "Jehanne era praticamente desconhecida na cidade francesa de Dijon durante o inverno de 1472, quando foi vítima de um ato de violência atroz. Leia mais (10/31/2026 - 11h08)",
+     "published": "2026-10-31T14:08+00:00",
+     "image": ""
+    },
+    {
      "title": "Votos antecipados batem recorde nos EUA, com mais de 49 milhões depositados a três dias das eleições",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/votos-antecipados-batem-recorde-nos-eua-com-mais-de-49-milhoes-depositados-a-tres-dias-das-eleicoes.shtml",
      "summary": "A participação antecipada neste ciclo eleitoral dos Estados Unidos bateu um recorde. Mais de 49 milhões de americanos já votaram, seja pessoalmente ou pelo correio , de acordo com o Laboratório Eleitoral da Universidade…",
      "published": "2026-10-31T11:55+00:00",
-     "image": ""
-    },
-    {
-     "title": "Presidente da Polônia convoca reuniões após crise no Tribunal Constitucional e acusação de golpe",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/presidente-da-polonia-convoca-reunioes-apos-crise-no-tribunal-constitucional-e-acusacao-de-golpe.shtml",
-     "summary": "O presidente da Polônia , Karol Nawrocki , convocou neste sábado (31) reuniões de crise com representantes dos partidos políticos após um confronto em torno do Tribunal Constitucional , que opõe o governo centrista à…",
-     "published": "2026-10-31T11:07+00:00",
-     "image": ""
-    },
-    {
-     "title": "Chineses acusados de espionagem são condenados à prisão nos Estados Unidos",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/chineses-acusados-de-espionagem-sao-condenados-a-prisao-nos-estados-unidos.shtml",
-     "summary": "Dois cidadãos chineses foram condenados a 30 meses de prisão em regime fechado, seguidos de três anos de liberdade supervisionada, acusados de terem sido recrutados pela China para espionar os Estados Unidos . Leia mais…",
-     "published": "2026-10-31T08:45+00:00",
-     "image": ""
-    },
-    {
-     "title": "Bilionário venezuelano consegue indulto nos EUA após contratar ex-advogada de Trump",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/bilionario-venezuelano-consegue-indulto-nos-eua-apos-contratar-ex-advogada-de-trump.shtml",
-     "summary": "Julio Herrera Velutini queria muito um indulto. Leia mais (10/31/2026 - 04h00)",
-     "published": "2026-10-31T07:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "França reforça segurança para novos protestos no Halloween e teme ação de mascarados",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml",
-     "summary": "O governo da França mobilizou 70 mil militares para este sábado (31), quando estão previstos novos protestos em massa contra o aumento do custo de vida. As autoridades consideram as manifestações de alto risco diante da…",
-     "published": "2026-10-31T02:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Crime, saúde e imigração são temas mais buscados antes das midterms nos EUA",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/crime-saude-e-imigracao-sao-temas-mais-buscados-antes-das-midterms-nos-eua.shtml",
-     "summary": "As midterms , eleições legislativas de meio de mandato dos Estados Unidos , marcadas para 3 de novembro, movimentam o interesse dos americanos por temas como segurança pública , saúde e imigração. Na última semana…",
-     "published": "2026-10-31T02:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Risada de Mbappé é novo alvo de método de Pequim para silenciar críticas externas",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/10/risada-de-mbappe-e-novo-alvo-de-metodo-de-pequim-para-silenciar-criticas-externas.shtml",
-     "summary": "Kylian Mbappé passou a semana tentando apagar um incêndio que começou com uma risada. Num vídeo de bastidores gravado meses atrás para um programa francês e divulgado nesta semana, o atacante do Real Madrid comentava um…",
-     "published": "2026-10-31T02:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Mauro Vieira e Marco Rubio evitam tratar de fuga de Flávio Bolsonaro em reunião pré-G20",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mauro-vieira-e-marco-rubio-evitam-tratar-de-fuga-de-flavio-bolsonaro-em-reuniao-pre-g20.shtml",
-     "summary": "O ministro das Relações Exteriores, Mauro Vieira , e o secretário de Estado americano, Marco Rubio , conversaram brevemente nesta sexta-feira (30), em Atlanta, nos Estados Unidos , mas não trataram de eleições ou da…",
-     "published": "2026-10-30T23:50+00:00",
      "image": ""
     }
    ]
@@ -1434,60 +1449,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "US midterms 2026: Judge blocks Trump admin from threatening election workers over voter data demands",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-judge-blocks-trump-admin-from-threatening-election-workers-over-voter-data-demands/articleshow/135399848.cms",
+     "title": "Dog stranded for 20 days between cliff and raging river rescued in Nepal",
+     "link": "https://timesofindia.indiatimes.com/world/south-asia/dog-stranded-for-20-days-between-cliff-and-raging-river-rescued-in-nepal/articleshow/135410621.cms",
      "summary": "",
-     "published": "2026-10-31T12:05+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135400486,imgsize-1199349.cms"
+     "published": "2026-10-31T19:06+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135410619,imgsize-94402.cms"
     },
     {
-     "title": "Man Turns 600-Sq-Ft Apartment Plant Business Into Million-Dollar Venture in Six Years",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-los-angeles-man-lost-his-office-job-in-2020-and-began-selling-plants-from-a-600-sq-ft-apartment-six-years-later-his-family-business-has-sold-over-100000-plants-in-2026-and-now-brings-in-millions-in-annual-sales/articleshow/135363978.cms",
-     "summary": "Brandon Hurst began his journey into plant selling in 2020 as a side project to boost his income. What started as a small venture has blossomed into a thriving family enterprise, with annual sales surpassing 100,000…",
-     "published": "2026-10-31T11:31+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135364159,imgsize-175893.cms"
+     "title": "Can you still vote today? When does early voting in midterms end in US?",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/can-you-still-vote-today-when-does-early-voting-in-midterms-end-in-us/articleshow/135410105.cms",
+     "summary": "",
+     "published": "2026-10-31T18:49+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135410267,imgsize-63204.cms"
     },
     {
-     "title": "Buyers' promise to save Melbourne family home moves longtime owners to tears",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1982-a-couple-came-from-lebanon-to-australia-and-later-raised-four-children-in-a-melbourne-home-when-it-sold-for-a960000-in-october-2026-the-buyers-promise-not-to-demolish-it-moved-them-to-tears/articleshow/135357515.cms",
-     "summary": "In a heartfelt farewell, a Melbourne couple bid adieu to their beloved Maidstone home, a cherished sanctuary for over four decades after immigrating from Lebanon in 1982. Reassured by the buyers' intention to cherish…",
-     "published": "2026-10-31T11:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135357705,imgsize-1360568.cms"
+     "title": "Rare 1928 Bentley worth seven figures found abandoned in British barn, awaiting authentication",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-british-explorer-filming-an-abandoned-barn-found-a-rare-1928-bentley-4-5-litre-sports-tourer-one-of-148-four-seat-vanden-plas-examples-it-could-be-worth-seven-figures-but-its-identity-remains-unverified/articleshow/135377911.cms",
+     "summary": "In a fascinating discovery, urban explorer Colin Smith found a 1928 Bentley 4.5 Litre Sports Tourer buried under layers of dust in an old barn. The car, featuring its untouched Vanden Plas bodywork, represents a…",
+     "published": "2026-10-31T18:39+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135377964,imgsize-1067650.cms"
     },
     {
-     "title": "In 2014, the 5.5-carat Ocean Dream sold for about $8.5 million; in May 2026 the same blue-green diamond, the largest of its kind known, sold at Christie’s Geneva for $17.3 million, roughly double",
-     "link": "https://timesofindia.indiatimes.com/world/us/in-2014-the-5-5-carat-ocean-dream-sold-for-about-8-5-million-in-may-2026-the-same-blue-green-diamond-the-largest-of-its-kind-known-sold-at-christies-geneva-for-17-3-million-roughly-double/articleshow/135357854.cms",
-     "summary": "Ocean Dream, a unique blue-green diamond weighing 5.50 carats, was auctioned at Christie's Geneva for $17.3 million. This diamond, initially sold in 2014 for approximately $8.5 million, experienced a significant…",
-     "published": "2026-10-31T11:29+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135359542,imgsize-914884.cms"
+     "title": "US charity director diverted $50,000 donation linked to Curry couple's TV appearance",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-youth-boxing-charitys-executive-director-diverted-a-50000-donation-linked-to-stephen-curry-and-ayesha-currys-appearance-on-ellens-show-into-his-personal-account/articleshow/135387740.cms",
+     "summary": "",
+     "published": "2026-10-31T18:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135387885,imgsize-874588.cms"
     },
     {
-     "title": "Persson Lists Beverly Hills Mansion: asks $70 million again; ultra-luxury LA market cools",
-     "link": "https://timesofindia.indiatimes.com/real-estate/news/minecraft-creator-markus-persson-paid-70-million-for-a-22300-sq-ft-beverly-hills-mansion-in-2014-12-years-later-he-has-listed-it-for-exactly-the-same-price-complete-with-a-private-nightclub-and-a-200000-candy-room/articleshow/135289571.cms",
-     "summary": "Markus Persson, the mastermind behind Minecraft, is putting his lavish Beverly Hills mansion on the market for $70 million. This expansive property boasts eight bedrooms and 15 bathrooms, along with one-of-a-kind…",
-     "published": "2026-10-31T11:29+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135289585,imgsize-1151102.cms"
+     "title": "Philadelphia professor arrested for blocking delivery robots, says she would do it again because she believes she has more rights than a robot",
+     "link": "https://timesofindia.indiatimes.com/world/us/philadelphia-professor-arrested-for-blocking-delivery-robots-says-she-would-do-it-again-because-she-believes-she-has-more-rights-than-a-robot/articleshow/135407173.cms",
+     "summary": "",
+     "published": "2026-10-31T16:59+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135407319,imgsize-36476.cms"
     },
     {
-     "title": "UK PM rejects slavery reparations despite Caribbean demands, open to formal apology",
-     "link": "https://timesofindia.indiatimes.com/world/uk/uk-pm-rejects-slavery-reparations-despite-caribbean-demands-open-to-formal-apology/articleshow/135397627.cms",
-     "summary": "The transatlantic slave trade lasted from the 15th to the 19th century, during which millions of Africans were captured, transported and sold into slavery by European traders. According to the Transatlantic Slave Trade…",
-     "published": "2026-10-31T11:14+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135398723,imgsize-45086.cms"
+     "title": "California restaurant wins $60,391 over Masters catering bill; court upholds just $1,950 in extra fees",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-california-restaurant-catered-meals-for-a-golfers-family-at-the-masters-without-agreeing-on-a-price-then-sent-a-74960-bill-after-a-60391-jury-award-appeals-judges-upheld-just-1950-in-extra-fees/articleshow/135391758.cms",
+     "summary": "A legal battle erupted between a California restaurant and the family of a golfer regarding a surprise catering bill. The eatery served meals during the prestigious Masters tournament without prior discussion of costs…",
+     "published": "2026-10-31T16:34+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135391913,imgsize-1714149.cms"
     },
     {
-     "title": "Georgia woman wins $975,000 after falling at Walmart, but appeals court overturns verdict",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-shopper-won-975000-over-a-fall-at-walmart-in-2020-but-her-lawyer-compared-pain-damages-with-an-experts-8000-daily-fee-on-october-29-an-appeals-court-overturned-the-verdict-and-ordered-a-new-trial/articleshow/135355727.cms",
-     "summary": "A Georgia woman who won $975,000 after a fall at a Walmart store in 2020 will face a new trial after an appeals court overturned the verdict on October 29. The court found that her lawyer had improperly compared…",
-     "published": "2026-10-31T10:41+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135356635,imgsize-28892.cms"
+     "title": "NASA-funded study reveals 4.1-billion-year-old history of pink Martian rock found in Sahara",
+     "link": "https://timesofindia.indiatimes.com/science/space/in-2022-an-800-gram-pink-rock-was-found-in-the-sahara-desert-nasa-funded-researchers-have-now-confirmed-it-came-from-mars-more-than-4-1-billion-years-ago-and-preserves-signs-of-the-planets-ancient-water/articleshow/135396990.cms",
+     "summary": "Discovered in the vast Sahara Desert, the meteorite Teghaza 001 is over four billion years old and is confirmed to be a Martian rock via isotopic studies. This intriguing specimen reveals a volcanic history intertwined…",
+     "published": "2026-10-31T16:34+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135397162,imgsize-741262.cms"
     },
     {
-     "title": "First Phase Restoration: Basilica’s $7.7m repairs halt leaks; visitors face limited hours",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-117-year-old-north-carolina-basilica-battled-leaks-and-storm-damage-then-underwent-a-7-7-million-first-phase-of-restoration-it-reopened-daily-to-visitors-while-the-full-preservation-effort-could-top-30-million/articleshow/135289667.cms",
-     "summary": "The historic basilica in Asheville, North Carolina, recently marked the successful completion of its first restoration phase, costing $7.7 million. This essential initiative concentrated on addressing water damage and…",
-     "published": "2026-10-31T10:41+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135289693,imgsize-2074646.cms"
+     "title": "She left behind her dream of a career in law to build a life in a Nepalese village",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/she-left-behind-her-dream-of-a-career-in-law-to-build-a-life-in-a-nepalese-village-but-at-25-her-300-a-month-lifestyle-has-helped-her-buy-a-170000-home-in-yorkshire/articleshow/135400099.cms",
+     "summary": "Madeleine Jaye purchased a £170,000 property in Yorkshire while maintaining a lifestyle between Britain and Nepal. Following her father's death, she reevaluated career goals and embraced a simpler life. Living in a…",
+     "published": "2026-10-31T16:33+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135400099,imgsize-122606.cms"
     }
    ]
   },
@@ -1499,60 +1514,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "UK PM Burnham ‘open’ to slavery apology, but not reparations",
-     "link": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations",
-     "summary": "Prime Minister Andy Burnham said on Saturday he was “open” to the UK issuing a formal apology for its role in the transatlantic slave trade, but ruled out financial reparations. The Labour leader made the remarks days…",
-     "published": "2026-10-31T12:06+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/57e96498-7819-4451-be8c-d5f1a8cfeb17_19812a48.jpg?itok=41Cw9leS&v=1793448391"
+     "title": "Clashes break out at France’s Halloween protests, as hundreds of thousands take to streets",
+     "link": "https://www.scmp.com/news/world/europe/article/3372854/clashes-break-out-frances-halloween-protests-hundreds-thousands-take-streets",
+     "summary": "Police fired tear gas and clashed with protesters in Paris and elsewhere on Saturday as hundreds of thousands marched across France against soaring living costs and police violence, with some demonstrators dressed as…",
+     "published": "2026-10-31T18:23+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/9aafe63c-c2f1-4524-babf-b11a350a1300_6425ea8d.jpg?itok=7uK6Otoc&v=1793471001"
     },
     {
-     "title": "Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan?",
-     "link": "https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan",
-     "summary": "America’s push for 2027 combat readiness in the Indo-Pacific is raising questions over whether a year that US military officials linked to a possible People’s Liberation Army attack on Taiwan has instead become a…",
-     "published": "2026-10-31T12:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/1de4dba1-748f-4bc4-9c00-04c48635c13e_4b02cf65.jpg?itok=66jmCb1T&v=1793438879"
+     "title": "German police fire water cannon during tense ‘Gen Z’ protests",
+     "link": "https://www.scmp.com/news/world/europe/article/3372853/german-police-fire-water-cannon-during-tense-gen-z-protests",
+     "summary": "German police fired water cannon to disperse firework-hurling protesters on Saturday and were also pelted with other projectiles, as tensions rose at the end of massive youth-led protests. In Berlin, Frankfurt, Cologne…",
+     "published": "2026-10-31T17:35+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/6a3b1723-23d3-4502-af94-04f2d3ac05a0_74287cac.jpg?itok=Q9BLRpm7&v=1793468108"
     },
     {
-     "title": "200 nations at Cop17 commit to biodiversity goals amid missed opportunities",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3372839/200-nations-cop17-commit-biodiversity-goals-amid-missed-opportunities",
-     "summary": "Nearly 200 nations have struck hard-fought agreements at a UN biodiversity summit, but the outcome was accompanied by disappointment over missed opportunities to address humanity’s destructive toll on nature. Delegates…",
-     "published": "2026-10-31T11:16+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/c6d4d7f3-1890-44f3-a8bb-037d1cdcb355_b2f88b9c.jpg?itok=oafzXRrO&v=1793445377"
+     "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+     "summary": "US Secretary of State Marco Rubio said on Saturday that the Quadrilateral Security Dialogue, or the Quad, was not an “anti-China” coalition, as the grouping’s top diplomats finalised preparations for the leaders’ summit…",
+     "published": "2026-10-31T16:17+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/1ff7404d-f98f-4730-b782-f6055db459cb_21620cf4.jpg?itok=AsVPrEJi&v=1793463426"
     },
     {
-     "title": "With ‘Kissinger moment’ over, US and China urged to foster new ‘bridge builders’",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
-     "summary": "Beijing and Washington have been urged to foster a new generation of talent to bridge gaps between the countries and strengthen people-to-people exchanges amid growing frictions and concerns about a lack of China…",
-     "published": "2026-10-31T11:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/93d1fc52-1105-4009-8f7e-75d3515037ff_f81f133a.jpg?itok=OUw2DO0Z&v=1793434392"
+     "title": "Hong Kong man falls from luxury housing complex, striking domestic helper below",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3372850/hong-kong-man-falls-luxury-housing-complex-striking-domestic-helper-below",
+     "summary": "A Hong Kong man believed to have accidentally fallen from a height struck a domestic helper on the podium of a luxury housing estate in West Kowloon on Saturday, with the pair sent to hospital. Police said they received…",
+     "published": "2026-10-31T15:28+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/40488079-f401-440c-ae20-8e8c29752f99_3f22f46b.jpg?itok=17rUU0Ti&v=1793460373"
     },
     {
-     "title": "China places former Sinopec and CNOOC boss Fu Chengyu, 75, under corruption probe",
-     "link": "https://www.scmp.com/news/china/politics/article/3372837/china-places-former-sinopec-cnooc-boss-fu-chengyu-75-under-corruption-probe",
-     "summary": "Fu Chengyu, the former chairman of leading oil giants Sinopec and China National Offshore Oil Corporation (CNOOC), is under investigation for corruption by the country’s top watchdogs. The Communist Party’s Central…",
-     "published": "2026-10-31T10:48+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/1e0f2a9c-aa6c-4a40-bf84-1e8601fd4893_aa1bf5a9.jpg?itok=8VikGmAw&v=1793443395"
+     "title": "DR Congo Ebola deaths top 5,000, cases recorded in other African nations",
+     "link": "https://www.scmp.com/news/world/africa/article/3372849/dr-congo-ebola-deaths-top-5000-cases-recorded-other-african-nations",
+     "summary": "Deaths in the Democratic Republic of Congo’s (DRC’s) Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest…",
+     "published": "2026-10-31T15:14+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/bd06d53c-7372-49f2-ae37-dd1bde5327a5_c12c3c70.jpg?itok=_K3PStaB&v=1793459684"
     },
     {
-     "title": "Halloween revellers told to avoid Lan Kwai Fong as crowds pack streets",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3372835/bars-expect-50-jump-sales-final-night-hong-kongs-halloween-month",
-     "summary": "Hong Kong’s inaugural “Halloween Month” has been a boon for businesses, with bar and restaurant operators in Lan Kwai Fong expecting big sales on Saturday, but by 7.30pm police were urging revellers to celebrate…",
-     "published": "2026-10-31T10:30+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/596ea9b8-0e04-49fb-82d9-de7b6ed2f181_97b03269.jpg?itok=4_p17CHx&v=1793449290"
+     "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
+     "link": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+     "summary": "A leading Hong Kong telecommunications carrier has confirmed that an order requiring it to justify its operation in the United States has been ceased, after the company reportedly agreed to wind down its business under…",
+     "published": "2026-10-31T14:39+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/f10589d2-df03-42b7-a091-5bac4e1104b3_2ffe3316.jpg?itok=S3-0I0Dz&v=1793456795"
     },
     {
-     "title": "Hong Kong may raise GDP forecast as growth poised for 5-year high: Paul Chan",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
-     "summary": "Hong Kong’s economic growth this year could be the city’s strongest in five years, with potential for further upward revisions after the full-year forecast was previously raised to a range of 3.5 to 4.5 per cent, the…",
-     "published": "2026-10-31T10:20+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/6e9e7be0-b1cd-4ac1-bc48-bfd398bc91f4_13cab58b.jpg?itok=FYSkY4IN&v=1793440647"
+     "title": "Iran’s supreme leader warns US, Israel against war",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+     "summary": "Iran’s supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic’s foes of a possible…",
+     "published": "2026-10-31T14:16+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/9d83694f-57fd-466d-aa2d-31ce14f66a1e_848d1b03.jpg?itok=T8285_Wu&v=1793456180"
     },
     {
-     "title": "Africa suffering in ‘strongmen’ era, says governance watchdog",
-     "link": "https://www.scmp.com/news/world/africa/article/3372832/africa-suffering-strongmen-era-says-governance-watchdog",
-     "summary": "Democracy and rights are declining in Africa as leaders take their cues from the rise of strongmen in other parts of the world, the head of a governance monitor told AFP. Mo Ibrahim, 80, is a Sudanese-British…",
-     "published": "2026-10-31T10:06+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/b23e9f67-a00c-4356-836d-aaf43a41a0a4_69dd949d.jpg?itok=b8DSmcOQ&v=1793441181"
+     "title": "China narrows the path to elite official training scheme for citizens graduating overseas",
+     "link": "https://www.scmp.com/news/china/politics/article/3372827/china-narrows-path-elite-official-training-scheme-citizens-graduating-overseas",
+     "summary": "China is further narrowing access to a key government recruitment programme for overseas-educated graduates, limiting their pathways into the country’s civil service and party-state system. More than a dozen…",
+     "published": "2026-10-31T14:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/c44fa692-2118-43c7-9575-eb103c59c93b_04fba6a7.jpg?itok=MgznL7UA&v=1793437995"
     }
    ]
   },
@@ -1564,60 +1579,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Canada expecting to seal EU 'associate member' deal by June",
-     "link": "https://www.abc.net.au/news/2026-10-31/canada-eyeing-eu-associate-membership-by-june/107332384",
-     "summary": "Canadian Prime Minister Mark Carney says he expects to conclude negotiations on the unprecedented deal by June.",
-     "published": "2026-10-31T12:05+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/a24348cd9e1692e26a64240206a166db?impolicy=wcms_crop_resize&cropH=2178&cropW=3872&xPos=0&yPos=0&width=862&height=485"
+     "title": "Show must go on for Melbourne theatre company catfished over ticket sales",
+     "link": "https://www.abc.net.au/news/2026-11-01/upstage-theatre-company-ticket-scam/107297404",
+     "summary": "A suburban theatre company has been left with a half-empty theatre after being catfished by someone claiming to represent a Melbourne church.",
+     "published": "2026-10-31T18:30+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/6ddf7f7f8d84c5a05244fb2101952a73?impolicy=wcms_crop_resize&cropH=783&cropW=1392&xPos=78&yPos=148&width=862&height=485"
     },
     {
-     "title": "Bodycam video shows ICE agent's car swerving toward man in Texas",
-     "link": "https://www.abc.net.au/news/2026-10-31/ice-officer-charged-over-striking-man-with-car/107332326",
-     "summary": "CCTV and body camera video shows the agent making sharp moves towards the man with his SUV as the man runs away.",
-     "published": "2026-10-31T10:04+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/314881ed5542038bcd10311a134ef0a2?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "ABC Wordage quiz: Let's splash some cash",
+     "link": "https://www.abc.net.au/news/2026-11-01/wordage-quiz-cash-money/107292050",
+     "summary": "Your challenge today is to sort words and phrases for money according to how old they are. Time to make it rain.",
+     "published": "2026-10-31T18:30+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/e690e25dd3cb5023a8b4acede8cc6dd3?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Locals protest against proposed AI data centre in Adelaide Hills",
-     "link": "https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222",
-     "summary": "Community rallies against the potential AI data centre have drawn support from opposition parties, with locals saying they will use all legal means to stop an application.",
-     "published": "2026-10-31T08:31+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/55df31a9f1d426938f6ee8240202dc21?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "The government knows it has a problem, does it have a clear path forward?",
+     "link": "https://www.abc.net.au/news/2026-11-01/interest-rate-myefo-albanese-armstrong-analysis-economy/107327460",
+     "summary": "The prime minister has ridden out plenty of political turbulence before, but now economic headwinds are being compounded by growing frustration within his own ranks.",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/61b52894586ef25f9f54db9651b62404?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Melbourne Cup 2026: Field, barrier draw, form guide and betting",
-     "link": "https://www.abc.net.au/news/2026-10-31/melbourne-cup-2026-field-horses-form-guide-and-betting/107158416",
-     "summary": "The leading chances for the great race have enjoyed mixed fortunes at the barrier draw this evening. Explore our interactive form guide to all the horses et to line up in the 166th Melbourne Cup.",
-     "published": "2026-10-31T07:42+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/a9ff9ba505bd1efbfb05fe99e971d311?impolicy=wcms_crop_resize&cropH=405&cropW=720&xPos=0&yPos=162&width=862&height=485"
+     "title": "Banks sitting on billions in savers' money as interest rates rise",
+     "link": "https://www.abc.net.au/news/2026-11-01/rba-interest-hike-impact-on-high-interest-savings-accounts/107197290",
+     "summary": "Four interest rate hikes have added hundreds of dollars to mortgages each month, but the story is different for savings accounts.",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/f04bd28c255f00834c9f0f43d9cd3bc1?impolicy=wcms_crop_resize&cropH=611&cropW=1086&xPos=0&yPos=79&width=862&height=485"
     },
     {
-     "title": "Roos make AFLW history with three straight minor premierships",
-     "link": "https://www.abc.net.au/news/2026-10-31/north-melbourne-seals-aflw-minor-premiership/107332290",
-     "summary": "Jasmine Garner has spearheaded North Melbourne to a third consecutive AFLW minor premiership in a rousing 68-point victory over Richmond.",
-     "published": "2026-10-31T07:40+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/af3ca511f71eff45084b991477e20ab0?impolicy=wcms_crop_resize&cropH=1853&cropW=3294&xPos=0&yPos=172&width=862&height=485"
+     "title": "Olivia wasn't expected to live more than a few days, now she's a movie star",
+     "link": "https://www.abc.net.au/news/2026-11-01/olivia-hargroder-dancer-actor-down-syndrome-film-boss-cat/107308932",
+     "summary": "Actor Olivia Hargroder was given just days to live, but her mother never gave up on her. Born with Down syndrome and a potentially fatal heart condition, the 27-year-old is dancing her way to stardom",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/6b4645e89c5447f5502a8318c5e64e66?impolicy=wcms_crop_resize&cropH=1547&cropW=2750&xPos=622&yPos=9&width=862&height=485"
     },
     {
-     "title": "Live: Warner decries 'deplorable' Australian batting as series slips away",
-     "link": "https://www.abc.net.au/news/2026-10-31/test-cricket-live-updates-south-africa-vs-australia/107282350",
-     "summary": "Australia falls in a heap on day five of the third Test in Cape Town, on the brink of losing the series after starting the day chasing 288 runs to win it. Follow live.",
-     "published": "2026-10-31T07:39+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/b7cbbe6526e7f1c922db4f0c87876e5b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=175&width=862&height=485"
+     "title": "Ex-detective says triple murderer one of the worst people he has ever dealt with",
+     "link": "https://www.abc.net.au/news/2026-11-01/bogie-triple-murderer-darryl-young-cattle-theft/107315714",
+     "summary": "Darryl Young stole cattle for decades before he shot dead three people and wounded another at Bogie, his former neighbours say.",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/ef3899abbfb6fb9312bdbad7a2724ce5?impolicy=wcms_crop_resize&cropH=301&cropW=536&xPos=70&yPos=29&width=862&height=485"
     },
     {
-     "title": "Kangaroos pile on the points in World Cup thrashing of Cook Islands",
-     "link": "https://www.abc.net.au/news/2026-10-31/rugby-league-world-cup-live-kangaroos-vs-cook-islands/107332224",
-     "summary": "The Kangaroos go undefeated through the group stage of the Rugby League World Cup as they close out the Pool A action with a 66-6 win over Cook Islands in Townsville.",
-     "published": "2026-10-31T07:36+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/5a1968e43dc45a7feed139a855dcff86?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=116&width=862&height=485"
+     "title": "Cyclone forecast tips quieter season for Australia",
+     "link": "https://www.abc.net.au/news/2026-11-01/bom-australia-cyclone-season-predicted-quiet/107329238",
+     "summary": "Modelling shows that Australia's cyclone season, which runs from November 1 to April 30, could be one of the quietest on record.",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/b3a07db183369d1e0b05bbe027add28a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Joanna Wietrzyk wins first HYROX race after incontinence controversy",
-     "link": "https://www.abc.net.au/news/2026-10-31/joanna-wietrzyk-wins-first-race-back-after-incontinence-incident/107332052",
-     "summary": "The Melbourne athlete, who faced widespread criticism after competing despite suffering diarrhoea during a race in Beijing, makes a triumphant return to the circuit.",
-     "published": "2026-10-31T07:11+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/bea003081afee505bdb0cfcc1ce7dd49?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=280&width=862&height=485"
+     "title": "World Cup player sidelined by gang war gets second chance",
+     "link": "https://www.abc.net.au/news/2026-11-01/lebanon-rugby-world-cup-mohamed-alameddine/107325484",
+     "summary": "Mohamed Alameddine may not have played a game for the Eels this year, but tonight he has a final chance to run out for the Cedars at the World Cup.",
+     "published": "2026-10-31T18:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/431c70933b061a5baddee211c8b14dc6?impolicy=wcms_crop_resize&cropH=474&cropW=843&xPos=0&yPos=96&width=862&height=485"
     }
    ]
   },
@@ -1629,59 +1644,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Aston Villa to sue ex-Liverpool star Carragher over ‘unacceptable insults’",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/aston-villa-jamie-carragher-legal-action-sue-premier-league-football?traffic_source=rss",
-     "summary": "Aston Villa chairman accuses ex-Liverpool defender Jamie Carragher of insulting the club, with legal action threatened.",
-     "published": "2026-10-31T12:14+00:00",
+     "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+     "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+     "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+     "published": "2026-10-31T18:50+00:00",
      "image": ""
     },
     {
-     "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-     "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
-     "summary": "Iran’s supreme leader says Tehran’s potential response will not be restricted by geography.",
-     "published": "2026-10-31T12:13+00:00",
+     "title": "London police arrest 48 as hundreds protest Palestine Action ban",
+     "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+     "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+     "published": "2026-10-31T18:48+00:00",
      "image": ""
     },
     {
-     "title": "UN closes Somalia mission, ending three decades of political engagement",
-     "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
-     "summary": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support.",
-     "published": "2026-10-31T11:37+00:00",
+     "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+     "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+     "published": "2026-10-31T18:32+00:00",
      "image": ""
     },
     {
-     "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
-     "link": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
-     "summary": "As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse.",
-     "published": "2026-10-31T11:30+00:00",
+     "title": "Tension and clashes as hundreds of thousands protest again in France",
+     "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+     "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+     "published": "2026-10-31T18:28+00:00",
      "image": ""
     },
     {
-     "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
-     "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
-     "summary": "Poland’s centrist government says it is restoring judicial independence after years of far-right political interference.",
-     "published": "2026-10-31T11:27+00:00",
+     "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
+     "link": "https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+     "summary": "Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland.",
+     "published": "2026-10-31T17:51+00:00",
      "image": ""
     },
     {
-     "title": "Thousands protest across Italy over living costs and military spending",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
-     "summary": "Thousands have protested across Italy against rising living costs and increased military spending.",
-     "published": "2026-10-31T11:07+00:00",
+     "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+     "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+     "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+     "published": "2026-10-31T17:49+00:00",
      "image": ""
     },
     {
-     "title": "UFC champion Islam Makhachev says his next fight will be ‘one of last’",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss",
-     "summary": "Makhachev, one of the best fighters in UFC history, wants to face the winner of next year's Prates vs Morales fight.",
-     "published": "2026-10-31T11:02+00:00",
+     "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+     "summary": "",
+     "published": "2026-10-31T17:38+00:00",
      "image": ""
     },
     {
-     "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
-     "summary": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus's Gomel.",
-     "published": "2026-10-31T10:53+00:00",
+     "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
+     "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+     "summary": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL.",
+     "published": "2026-10-31T17:32+00:00",
      "image": ""
     }
    ]
@@ -1704,13 +1719,6 @@
      "title": "South Africa: African Horse Sickness Confirmed in Western Cape's Cederberg",
      "link": "https://allafrica.com/stories/202610300543.html",
      "summary": "[SAnews.gov.za] The Department of Agriculture has confirmed a case of African horse sickness (AHS) in a single horse on a property in the Cederberg Local Municipality in the Western Cape, prompting movement restrictions…",
-     "published": "2026-10-30T16:13+00:00",
-     "image": ""
-    },
-    {
-     "title": "Africa: South Africa, Netherlands Strengthen Water Management",
-     "link": "https://allafrica.com/stories/202610300542.html",
-     "summary": "[SAnews.gov.za] South Africa and the Netherlands have reaffirmed their commitment to strengthening water management in South Africa with the signing of a Declaration of Intent to advance the Blue Deal partnership into…",
      "published": "2026-10-30T16:13+00:00",
      "image": ""
     },
@@ -1746,6 +1754,13 @@
      "title": "Nigeria: Gunmen Kill Four in Plateau Community Despite Curfew",
      "link": "https://allafrica.com/stories/202610300528.html",
      "summary": "[Premium Times] The attackers reportedly stormed the community at about 8 p.m. and opened fire on residents, despite the curfew imposed in parts of the state to contain insecurity.",
+     "published": "2026-10-30T16:03+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
+     "link": "https://allafrica.com/stories/202610300527.html",
+     "summary": "[Addis Standard] Addis Abeba -- US Customs and Border Protection (CBP) has released shipments of solar cells manufactured at a Japanese company's facility in Ethiopia following a review of its supply chain…",
      "published": "2026-10-30T16:03+00:00",
      "image": ""
     }
