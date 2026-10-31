@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:20+00:00",
+ "updated": "2026-10-31T05:22+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -59,7 +59,7 @@
   },
   {
    "topic": "Trump",
-   "sources": 8,
+   "sources": 7,
    "examples": [
     {
      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
@@ -85,7 +85,7 @@
   },
   {
    "topic": "China",
-   "sources": 5,
+   "sources": 6,
    "examples": [
     {
      "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
@@ -98,14 +98,14 @@
      "source": "The New York Times"
     },
     {
+     "title": "Ministros de Exteriores de China e Islandia acuerdan reforzar cooperación en el Ártico",
+     "link": "https://www.infobae.com/america/agencias/2026/10/31/ministros-de-exteriores-de-china-e-islandia-acuerdan-reforzar-cooperacion-en-el-artico/",
+     "source": "Infobae"
+    },
+    {
      "title": "Scientists covered part of a Chinese glacier with fabric to slow melting",
      "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-covered-part-of-a-chinese-glacier-with-fabric-to-slow-melting-ice-loss-fell-by-27-initially-but-the-effect-weakened/articleshow/135215667.cms",
      "source": "Times of India"
-    },
-    {
-     "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
-     "link": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals",
-     "source": "South China Morning Post"
     }
    ]
   },
@@ -136,6 +136,32 @@
    ]
   },
   {
+   "topic": "Coreia",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "source": "NPR"
+    },
+    {
+     "title": "EEUU, Corea del Sur y Japón reafirmaron su compromiso con la desnuclearización completa del régimen norcoreano",
+     "link": "https://www.infobae.com/america/mundo/2026/10/31/eeuu-corea-del-sur-y-japon-acordaron-alcanzar-la-desnuclearizacion-completa-del-regimen-norcoreano/",
+     "source": "Infobae"
+    },
+    {
+     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "link": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
+     "source": "The Japan Times"
+    },
+    {
+     "title": "Kim Jong-un urges drone expansion as North Korea showcases new unmanned tech",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3372809/kim-jong-un-urges-drone-expansion-north-korea-showcases-new-unmanned-tech",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
    "topic": "Europa",
    "sources": 4,
    "examples": [
@@ -162,131 +188,27 @@
    ]
   },
   {
-   "topic": "Halloween",
+   "topic": "Poland",
    "sources": 4,
    "examples": [
     {
-     "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-     "source": "France 24"
-    },
-    {
-     "title": "La ruta del miedo: 25 tours para Halloween 2026 y los favoritos de los argentinos",
-     "link": "https://www.infobae.com/tendencias/2026/10/31/la-ruta-del-miedo-25-tours-para-halloween-2026-y-los-favoritos-de-los-argentinos/",
-     "source": "Infobae"
-    },
-    {
-     "title": "França reforça segurança para novos protestos no Halloween e teme ação de mascarados",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml",
-     "source": "Folha de S.Paulo"
-    },
-    {
-     "title": "França reforça segurança para novos protestos no Halloween e teme ação de mascarados",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Korea",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "title": "Police deployed during stand-off over control of top Poland court",
+     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-     "source": "NPR"
-    },
-    {
-     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
-     "link": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
-     "source": "The Japan Times"
-    },
-    {
-     "title": "Kim Jong-un urges drone expansion as North Korea showcases new unmanned tech",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3372809/kim-jong-un-urges-drone-expansion-north-korea-showcases-new-unmanned-tech",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "North",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-     "source": "NPR"
-    },
-    {
-     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
-     "link": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
-     "source": "The Japan Times"
-    },
-    {
-     "title": "Kim Jong-un urges drone expansion as North Korea showcases new unmanned tech",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3372809/kim-jong-un-urges-drone-expansion-north-korea-showcases-new-unmanned-tech",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Patriot",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
-     "link": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+     "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+     "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
      "source": "The Guardian"
     },
     {
-     "title": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania-por-us-21-bilhoes.shtml",
-     "source": "Folha — Mundo"
-    },
-    {
-     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "Ucrânia",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
-     "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+     "title": "Poland: Protesters clash with police over sacked court chief",
+     "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania-por-us-21-bilhoes.shtml",
-     "source": "Folha — Mundo"
-    },
-    {
-     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+     "title": "Poland’s president joins protest amid constitutional crisis at top court",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ]
@@ -330,6 +252,69 @@
      "title": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'",
      "link": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
      "source": "ABC News"
+    }
+   ]
+  },
+  {
+   "topic": "Brasil",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+     "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+     "source": "Euronews"
+    },
+    {
+     "title": "Pussycat Dolls faz show nostálgico no Brasil e traz escola de samba ao palco",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/pussycat-dolls-faz-show-para-publico-nostalgico-e-traz-ao-palco-escola-de-samba.shtml",
+     "source": "Folha de S.Paulo"
+    },
+    {
+     "title": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'",
+     "link": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
+     "source": "ABC News"
+    }
+   ]
+  },
+  {
+   "topic": "Gazeta",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
+     "link": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
+     "source": "France 24"
+    },
+    {
+     "title": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
+     "link": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
+     "source": "Euronews"
+    },
+    {
+     "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "Hormuz",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
+     "link": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
+     "link": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
+     "source": "Euronews"
+    },
+    {
+     "title": "Iran says four tankers on fire after striking mines in Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ]
   }
@@ -1059,6 +1044,27 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
+     "title": "Resultados de la Lotería de Risaralda 31 de octubre: estos fueron los números ganadores del último sorteo",
+     "link": "https://www.infobae.com/colombia/2026/10/31/resultados-de-la-loteria-de-risaralda-31-de-octubre-estos-fueron-los-numeros-ganadores-del-ultimo-sorteo/",
+     "summary": "Más allá de la suerte, cada boleto adquirido representa una contribución directa a proyectos comunitarios",
+     "published": "2026-10-31T05:16+00:00",
+     "image": "https://www.infobae.com/resizer/v2/TEYMHEE7HJASJO53AHIR35VGHU.jpg?auth=5ad9846350ad9a2547862f0b2d9019ac4fc5671d8cdf86410bcc4f4382452534&smart=true&width=1920&height=1080"
+    },
+    {
+     "title": "Ministros de Exteriores de China e Islandia acuerdan reforzar cooperación en el Ártico",
+     "link": "https://www.infobae.com/america/agencias/2026/10/31/ministros-de-exteriores-de-china-e-islandia-acuerdan-reforzar-cooperacion-en-el-artico/",
+     "summary": "Pekín, 31 oct (EFE).- El ministro de Asuntos de Exteriores de China, Wang Yi, y su homóloga de Islandia, Thorgerdur Katrin Gunnarsdottir, mantuvieron un encuentro este viernes en Pekín en el que acordaron \"explorar el…",
+     "published": "2026-10-31T05:15+00:00",
+     "image": ""
+    },
+    {
+     "title": "La española Lucía anota su décimo tanto en la goleada del Monterrey sobre Pumas",
+     "link": "https://www.infobae.com/espana/agencias/2026/10/31/la-espanola-lucia-anota-su-decimo-tanto-en-la-goleada-del-monterrey-sobre-pumas/",
+     "summary": "Monterrey (México), 30 oct (EFE).- La española Lucía García convirtió este viernes su décimo gol en el torneo Apertura del fútbol femenino de México, para convertirse en una de las figuras del Monterrey en la…",
+     "published": "2026-10-31T05:15+00:00",
+     "image": ""
+    },
+    {
      "title": "EEUU, Corea del Sur y Japón reafirmaron su compromiso con la desnuclearización completa del régimen norcoreano",
      "link": "https://www.infobae.com/america/mundo/2026/10/31/eeuu-corea-del-sur-y-japon-acordaron-alcanzar-la-desnuclearizacion-completa-del-regimen-norcoreano/",
      "summary": "El secretario de Estado estadounidense, Marco Rubio, el canciller surcoreano, Cho Hyun, y el diplomático japonés, Toshimitsu Motegi, acordaron impulsar la “aplicación plena” de las sanciones que incluyen la prohibición…",
@@ -1080,20 +1086,6 @@
      "image": "https://www.infobae.com/resizer/v2/PIHXWQK4WRFFLGFHI22HYFLPUU.jpg?auth=be53540b6dee5645b980f2d22882257309a1d91ae214cbaab34ee1bb9e767628&smart=true&width=828&height=544"
     },
     {
-     "title": "Enrique Rottenberg, el argentino que se reinventó en Israel y Cuba: a los 78 años estrenó un filme y tiene un nuevo sueño",
-     "link": "https://www.infobae.com/teleshow/2026/10/31/enrique-rottenberg-el-argentino-que-se-reinvento-en-israel-y-cuba-a-los-78-anos-estreno-un-filme-y-tiene-un-nuevo-sueno/",
-     "summary": "Tío del productor Carlos Rottemberg, presento su nueva película y trabaja en la creación de un espacio dedicado al arte contemporáneo que abrirá sus puertas en 2027",
-     "published": "2026-10-31T05:00+00:00",
-     "image": "https://www.infobae.com/resizer/v2/Z7GYQPAWEBGJHDMT65QIB2NXFE.jpg?auth=f73682435e26439b067cca39168067ef170e47746ec6978697d3f72f7f00a1e4&smart=true&width=1440&height=810"
-    },
-    {
-     "title": "Sandra Bullock y Nicole Kidman redefinen el pelo largo después de los 50: los tratamientos médicos para mantenerlo fuerte y saludable",
-     "link": "https://www.infobae.com/salud/2026/10/31/sandra-bullock-y-nicole-kidman-redefinen-el-pelo-largo-despues-de-los-50-los-tratamientos-medicos-para-mantenerlo-fuerte-y-saludable/",
-     "summary": "Las actrices reflejan un cambio en los modelos de belleza y edad. Qué hábitos ayudan a conservar la densidad, reducir la fragilidad y recuperar el brillo, de acuerdo a los expertos",
-     "published": "2026-10-31T05:00+00:00",
-     "image": "https://www.infobae.com/resizer/v2/EDDOVLL7CBEMZGUXE773F6AW3Y.JPG?auth=97c78188c758fcaf96e8517e45b7941f3978b0a632f2b90bcce57f1df94429a8&smart=true&width=5500&height=3667"
-    },
-    {
      "title": "La ruta del miedo: 25 tours para Halloween 2026 y los favoritos de los argentinos",
      "link": "https://www.infobae.com/tendencias/2026/10/31/la-ruta-del-miedo-25-tours-para-halloween-2026-y-los-favoritos-de-los-argentinos/",
      "summary": "De Jack el Destripador a las historias nocturnas de Roma, un ranking reunió propuestas en español por distintas ciudades, con relatos de crímenes, fantasmas y mitos locales para este 31 de octubre",
@@ -1106,13 +1098,6 @@
      "summary": "Desde rascacielos y templos japoneses hasta puentes suizos y costas australianas, una recorrida por urbes con propuestas culturales y paisajes diversos seleccionadas por un ranking internacional",
      "published": "2026-10-31T05:00+00:00",
      "image": "https://www.infobae.com/resizer/v2/4TN7FXAWJBG5DGIPOSXMMO2AXM.png?auth=c0cff59ce753bf92671d89f07d0fbe4322aeb71abb9a72f7aef3e5eac0b78411&smart=true&width=2752&height=1536"
-    },
-    {
-     "title": "De dirigir ‘La masacre de Flores’ a retratar a la familia Tinelli y a Wanda Nara en la pantalla: los desafíos de Augusto Tejada",
-     "link": "https://www.infobae.com/teleshow/2026/10/31/de-dirigir-la-masacre-de-flores-a-retratar-a-la-familia-tinelli-y-a-wanda-nara-en-la-pantalla-los-desafios-de-augusto-tejada/",
-     "summary": "A los 42 años, el realizador repasó su carrera audiovisual, el trabajo con Juan José Campanella y las claves de sus nuevas producciones",
-     "published": "2026-10-31T05:00+00:00",
-     "image": "https://www.infobae.com/resizer/v2/RPYYC6DRHJBDFBUOY7XMDWCKRY.jpg?auth=86691456609e1b3166ee56525a10a44d885eb23d4313120d65336d35437ff1ba&smart=true&width=1280&height=720"
     }
    ]
   },
@@ -1579,27 +1564,6 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Mohammed Deif, rare footage and October 7 documents",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
-     "summary": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
-     "published": "2026-10-31T05:07+00:00",
-     "image": ""
-    },
-    {
-     "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
-     "summary": "Speaking at a campaign rally, Donald Trump told voters to send Michigan’s Abdul El-Sayed ‘back to where he came from’.",
-     "published": "2026-10-31T05:07+00:00",
-     "image": ""
-    },
-    {
-     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-     "summary": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
-     "published": "2026-10-31T04:51+00:00",
-     "image": ""
-    },
-    {
      "title": "US jails two Chinese nationals for spying",
      "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
      "summary": "Liren Lai and Yuance Chen admitted to facilitating 'dead drop' cash payments worth at least $30,000 to people in the US.",
@@ -1632,6 +1596,27 @@
      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
      "summary": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines.",
      "published": "2026-10-31T02:51+00:00",
+     "image": ""
+    },
+    {
+     "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+     "summary": "Hundreds have been evacuated from Russia-occupied Oleshky under a localised ceasefire brokered by Melania Trump.",
+     "published": "2026-10-31T02:44+00:00",
+     "image": ""
+    },
+    {
+     "title": "Poland’s president joins protest amid constitutional crisis at top court",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+     "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+     "published": "2026-10-31T02:24+00:00",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo becomes first pontiff to vote in US general election",
+     "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+     "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+     "published": "2026-10-31T01:31+00:00",
      "image": ""
     }
    ]
@@ -1708,7 +1693,7 @@
    "error": "TimeoutError: The read operation timed out"
   },
   {
-   "name": "The Times of Israel",
+   "name": "Arab News",
    "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  ]
