@@ -145,9 +145,14 @@ def parse_feed(raw: bytes) -> list[dict]:
 
 
 def fetch_source(src: dict) -> tuple[dict, list[dict], str | None]:
+    errors = (urllib.error.URLError, TimeoutError, ET.ParseError, ValueError, OSError)
     try:
-        items = parse_feed(download(src["url"]))
-    except (urllib.error.URLError, TimeoutError, ET.ParseError, ValueError, OSError) as exc:
+        try:
+            raw = download(src["url"])
+        except (urllib.error.URLError, TimeoutError, OSError):
+            raw = download(src["url"], timeout=40)  # segunda tentativa, com mais paciência
+        items = parse_feed(raw)
+    except errors as exc:
         return src, [], f"{type(exc).__name__}: {exc}"
     # Ordena pelas mais recentes e remove repetidas
     seen, unique = set(), []
@@ -199,6 +204,9 @@ ALIASES = {
     "mexico": "México", "méxico": "México", "venezuela": "Venezuela", "argentina": "Argentina",
     "nato": "OTAN", "otan": "OTAN", "un": None, "onu": "ONU",
     "catalunya": "Catalunha", "cataluña": "Catalunha", "catalonia": "Catalunha",
+    "korea": "Coreia", "korean": "Coreia", "corea": "Coreia", "coreia": "Coreia", "corée": "Coreia",
+    "north": None, "south": None, "norte": None, "sul": None, "sur": None,
+    "halloween": None,
 }
 
 

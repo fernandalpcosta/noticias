@@ -37,6 +37,6 @@
 
     { "name": "Al Jazeera",        "country": "Catar",        "lang": "en", "region": "mena",     "url": "https://www.aljazeera.com/xml/rss/all.xml" },
     { "name": "AllAfrica",         "country": "África",       "lang": "en", "region": "mena",     "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf" },
-    { "name": "The Times of Israel","country": "Israel",      "lang": "en", "region": "mena",     "url": "https://www.timesofisrael.com/feed/" }
+    { "name": "Arab News",         "country": "Arábia Saudita","lang": "en", "region": "mena",    "url": "https://www.arabnews.com/cat/2/rss.xml" }
   ]
 }
