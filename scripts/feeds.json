@@ -1,0 +1,42 @@
+{
+  "regions": [
+    { "id": "mundo",   "label": "Mundo" },
+    { "id": "europa",  "label": "Europa" },
+    { "id": "espanha", "label": "Espanha" },
+    { "id": "americas","label": "Américas" },
+    { "id": "brasil",  "label": "Brasil" },
+    { "id": "asia",    "label": "Ásia e Pacífico" },
+    { "id": "mena",    "label": "Oriente Médio e África" }
+  ],
+  "sources": [
+    { "name": "BBC News",          "country": "Reino Unido",  "lang": "en", "region": "mundo",    "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "The Guardian",      "country": "Reino Unido",  "lang": "en", "region": "mundo",    "url": "https://www.theguardian.com/world/rss" },
+    { "name": "NPR",               "country": "EUA",          "lang": "en", "region": "mundo",    "url": "https://feeds.npr.org/1004/rss.xml" },
+
+    { "name": "Deutsche Welle",    "country": "Alemanha",     "lang": "en", "region": "europa",   "url": "https://rss.dw.com/rdf/rss-en-all" },
+    { "name": "France 24",         "country": "França",       "lang": "en", "region": "europa",   "url": "https://www.france24.com/en/rss" },
+    { "name": "Le Monde",          "country": "França",       "lang": "fr", "region": "europa",   "url": "https://www.lemonde.fr/international/rss_full.xml" },
+    { "name": "Euronews",          "country": "Europa",       "lang": "en", "region": "europa",   "url": "https://www.euronews.com/rss?level=theme&name=news" },
+
+    { "name": "El País",           "country": "Espanha",      "lang": "es", "region": "espanha",  "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" },
+    { "name": "La Vanguardia",     "country": "Espanha",      "lang": "es", "region": "espanha",  "url": "https://www.lavanguardia.com/rss/home.xml" },
+    { "name": "elDiario.es",       "country": "Espanha",      "lang": "es", "region": "espanha",  "url": "https://www.eldiario.es/rss/" },
+
+    { "name": "The New York Times","country": "EUA",          "lang": "en", "region": "americas", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" },
+    { "name": "CBC News",          "country": "Canadá",       "lang": "en", "region": "americas", "url": "https://www.cbc.ca/webfeed/rss/rss-world" },
+    { "name": "Infobae",           "country": "Argentina",    "lang": "es", "region": "americas", "url": "https://www.infobae.com/arc/outboundfeeds/rss/" },
+
+    { "name": "Folha de S.Paulo",  "country": "Brasil",       "lang": "pt", "region": "brasil",   "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" },
+    { "name": "g1",                "country": "Brasil",       "lang": "pt", "region": "brasil",   "url": "https://g1.globo.com/rss/g1/" },
+    { "name": "Folha — Mundo",     "country": "Brasil",       "lang": "pt", "region": "brasil",   "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml" },
+
+    { "name": "The Japan Times",   "country": "Japão",        "lang": "en", "region": "asia",     "url": "https://www.japantimes.co.jp/feed/" },
+    { "name": "Times of India",    "country": "Índia",        "lang": "en", "region": "asia",     "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" },
+    { "name": "South China Morning Post", "country": "Hong Kong", "lang": "en", "region": "asia", "url": "https://www.scmp.com/rss/91/feed" },
+    { "name": "ABC News",          "country": "Austrália",    "lang": "en", "region": "asia",     "url": "https://www.abc.net.au/news/feed/51120/rss.xml" },
+
+    { "name": "Al Jazeera",        "country": "Catar",        "lang": "en", "region": "mena",     "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "name": "AllAfrica",         "country": "África",       "lang": "en", "region": "mena",     "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf" },
+    { "name": "The Times of Israel","country": "Israel",      "lang": "en", "region": "mena",     "url": "https://www.timesofisrael.com/feed/" }
+  ]
+}

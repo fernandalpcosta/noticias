@@ -1,0 +1,47 @@
+name: Atualizar manchetes
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # a cada 3 horas
+  workflow_dispatch:          # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-manchetes
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar manchetes dos jornais
+        env:
+          # Opcional: crie o secret ANTHROPIC_API_KEY para ganhar o "Resumo do dia"
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: Salvar nova edição
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Edição de $(date -u +'%d/%m %H:%M') UTC"
+            git pull --rebase origin main
+            git push
+          fi
