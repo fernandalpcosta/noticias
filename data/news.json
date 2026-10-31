@@ -59,7 +59,7 @@
   },
   {
    "topic": "Trump",
-   "sources": 7,
+   "sources": 8,
    "examples": [
     {
      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
@@ -188,7 +188,33 @@
    ]
   },
   {
-   "topic": "Poland",
+   "topic": "Patriot",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "US approves sale of 500 Patriot missiles to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+     "link": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+     "source": "The Guardian"
+    },
+    {
+     "title": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania-por-us-21-bilhoes.shtml",
+     "source": "Folha — Mundo"
+    },
+    {
+     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "Polônia",
    "sources": 4,
    "examples": [
     {
@@ -197,18 +223,44 @@
      "source": "BBC News"
     },
     {
-     "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-     "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-     "source": "The Guardian"
-    },
-    {
      "title": "Poland: Protesters clash with police over sacked court chief",
      "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Poland’s president joins protest amid constitutional crisis at top court",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+     "title": "La suspensión del presidente del Tribunal Contitucional de Polonia desata una crisis institucional",
+     "link": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
+     "source": "El País"
+    },
+    {
+     "title": "Direita acusa governo da Polônia de golpe após suspensão do presidente do Tribunal Constitucional",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/direita-acusa-governo-da-polonia-de-golpe-apos-suspensao-do-presidente-do-tribunal-constitucional.shtml",
+     "source": "Folha — Mundo"
+    }
+   ]
+  },
+  {
+   "topic": "Ucrânia",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "US approves sale of 500 Patriot missiles to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
+     "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania-por-us-21-bilhoes.shtml",
+     "source": "Folha — Mundo"
+    },
+    {
+     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ]
@@ -273,48 +325,6 @@
      "title": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'",
      "link": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
      "source": "ABC News"
-    }
-   ]
-  },
-  {
-   "topic": "Gazeta",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
-     "link": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
-     "source": "France 24"
-    },
-    {
-     "title": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
-     "link": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
-     "source": "Euronews"
-    },
-    {
-     "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "Hormuz",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
-     "link": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
-     "link": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-     "source": "Euronews"
-    },
-    {
-     "title": "Iran says four tankers on fire after striking mines in Hormuz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
-     "source": "Al Jazeera"
     }
    ]
   }
@@ -1037,6 +1047,71 @@
    ]
   },
   {
+   "name": "Los Angeles Times",
+   "country": "EUA",
+   "lang": "en",
+   "region": "americas",
+   "url": "https://www.latimes.com/world-nation/rss2.0.xml",
+   "items": [
+    {
+     "title": "99 Ranch Market to close two California locations",
+     "link": "https://www.latimes.com/business/story/2026-10-30/99-ranch-market-to-close-two-california-locations",
+     "summary": "Tawa Inc., which is also fighting a federal discrimination suit, will close two 99 Ranch Market locations.",
+     "published": "2026-10-30T20:47+00:00",
+     "image": "https://ca-times.brightspotcdn.com/dims4/default/1c873da/2147483647/strip/false/crop/3712x2475+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2F2f%2F008a1490403497709eb777f486c5%2Fla-photos-1staff-813476-fo-0802-99-ranch-mrt-18.jpg"
+    },
+    {
+     "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
+     "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
+     "summary": "Ordinary citizens across the country are participating in grassroots efforts to guard against possible election interference by the Trump administration.",
+     "published": "2026-10-30T10:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "California, feds continue election war after courts rebuke challenge to 20,000 ballots",
+     "link": "https://www.latimes.com/politics/story/2026-10-29/california-feds-continue-election-war-after-courts-rebuke-challenge-to-20-000-ballots",
+     "summary": "Federal prosecutors issued criminal grand jury subpoenas to three L.A. County election officials, demanding they appear in court the day after the election.",
+     "published": "2026-10-29T19:53+00:00",
+     "image": "https://ca-times.brightspotcdn.com/dims4/default/a90dd10/2147483647/strip/false/crop/3503x2336+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fa0%2F200f5b1842a993c4207741c8ba59%2F1574822-me-early-vote-center-lac-0011-rb.jpg"
+    },
+    {
+     "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
+     "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
+     "summary": "With polls showing most Americans unhappy with the economy, President Trump is offering a portrait of national prosperity that many voters may not recognize.",
+     "published": "2026-10-29T10:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+     "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+     "summary": "Campaigns supporting and opposing the billionaire tax proposal are paying social media influencers, some with millions of followers, to post videos to inform and sway voters.",
+     "published": "2026-10-29T10:00+00:00",
+     "image": "https://ca-times.brightspotcdn.com/dims4/default/9f8213d/2147483647/strip/false/crop/7361x4910+0+0/resize/1500x1001!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F21%2F80c600a04506b3447740d47d2b4a%2F1542631-pol-bernie-sanders-wiltern-jja-0009.jpg"
+    },
+    {
+     "title": "As missiles hit Saudi Arabia, residents insist life goes on — and the show does too",
+     "link": "https://www.latimes.com/world-nation/story/2026-10-28/as-missiles-hit-saudi-arabia-residents-insist-life-goes-on",
+     "summary": "The U.S.-Israeli war on Iran and conflict with the Iran-backed Houthis of Yemen have unsettled Saudi Arabia, a kingdom unused to conflicts playing out on home turf.",
+     "published": "2026-10-28T10:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Paris braces for more unrest as riots reshape the city's streets",
+     "link": "https://www.latimes.com/world-nation/story/2026-10-28/paris-braces-for-more-unrest-as-riots-reshape-citys-streets",
+     "summary": "As Paris merchants board up shops and arm themselves with pepper spray, the city remains suspended between deep social unrest and ordinary daily life.",
+     "published": "2026-10-28T10:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Commentary: Agitating for attention, Trump and Bill Maher get into it, again",
+     "link": "https://www.latimes.com/entertainment-arts/story/2026-10-28/agitating-for-attention-trump-bill-maher-go-at-it-again",
+     "summary": "Bill Maher has railed on Trump only half as much as his late-night peers, leaning into various MAGA grievances about the \"woke\" left and forging a fair-weather friendship with the second-term president.",
+     "published": "2026-10-28T10:00+00:00",
+     "image": ""
+    }
+   ]
+  },
+  {
    "name": "Infobae",
    "country": "Argentina",
    "lang": "es",
@@ -1499,6 +1574,13 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
+     "title": "Three arrested after allegedly stolen car driven wildly across Brisbane",
+     "link": "https://www.abc.net.au/news/2026-10-31/queensland-armed-robbery-arrest/107332030",
+     "summary": "Police helicopter video has captured three people driving an allegedly stolen car across Brisbane.",
+     "published": "2026-10-31T05:16+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/5850b1278b5ac4863b4658a65c7350bc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+    },
+    {
      "title": "Criticism of One Nation cartoon of ex-Victorian premier Jacinta Allan",
      "link": "https://www.abc.net.au/news/2026-10-31/one-nation-cartoon-david-farley-staffing/107331900",
      "summary": "A new One Nation cartoon has depicted former Victorian premier Jacinta Allan as a witch, earning a rebuke from deputy premier Gabrielle Williams, who described it as misogynistic.",
@@ -1546,13 +1628,6 @@
      "summary": "A dolphin that washed ashore on South Australia's Fleurieu Peninsula tests positive for bird flu.",
      "published": "2026-10-31T02:39+00:00",
      "image": "https://live-production.wcms.abc-cdn.net.au/a27c32abdecaacc1f458b7e34669b7a8?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
-    },
-    {
-     "title": "RFDS pilots continue risky highway landings as Nullarbor airstrip sits unsealed",
-     "link": "https://www.abc.net.au/news/2026-10-31/eucla-airstrip-awaiting-upgrades-rfds-challenges/107318480",
-     "summary": "Pilots for the Royal Flying Doctor Service will continue to stage risky landings on the Eyre Highway, with no indication of when the sealing of the Eucla Airstrip is set to begin.",
-     "published": "2026-10-31T02:34+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/5d103d630b53ea20d8a44fde6e8a05c9?impolicy=wcms_crop_resize&cropH=537&cropW=955&xPos=131&yPos=428&width=862&height=485"
     }
    ]
   },
@@ -1563,6 +1638,13 @@
    "region": "mena",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
+    {
+     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+     "summary": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
+     "published": "2026-10-31T04:51+00:00",
+     "image": ""
+    },
     {
      "title": "US jails two Chinese nationals for spying",
      "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
@@ -1610,13 +1692,6 @@
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
      "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
      "published": "2026-10-31T02:24+00:00",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo becomes first pontiff to vote in US general election",
-     "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-     "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
-     "published": "2026-10-31T01:31+00:00",
      "image": ""
     }
    ]
@@ -1689,12 +1764,8 @@
  ],
  "failed": [
   {
-   "name": "CBC News",
-   "error": "TimeoutError: The read operation timed out"
-  },
-  {
-   "name": "Arab News",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "name": "Middle East Eye",
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   }
  ]
 }
