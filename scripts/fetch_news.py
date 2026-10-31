@@ -206,7 +206,8 @@ ALIASES = {
     "catalunya": "Catalunha", "cataluña": "Catalunha", "catalonia": "Catalunha",
     "korea": "Coreia", "korean": "Coreia", "corea": "Coreia", "coreia": "Coreia", "corée": "Coreia",
     "north": None, "south": None, "norte": None, "sul": None, "sur": None,
-    "halloween": None,
+    "halloween": None, "gazeta": None,
+    "poland": "Polônia", "polish": "Polônia", "polonia": "Polônia", "pologne": "Polônia",
 }
 
 
