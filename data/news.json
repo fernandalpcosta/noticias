@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:07+00:00",
+ "updated": "2026-11-07T05:57+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -33,16 +33,16 @@
  "trending": [
   {
    "topic": "Trump",
-   "sources": 12,
+   "sources": 17,
    "examples": [
     {
-     "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-     "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
      "source": "The Guardian"
     },
     {
@@ -58,69 +58,17 @@
    ]
   },
   {
-   "topic": "Miller",
-   "sources": 10,
-   "examples": [
-    {
-     "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Stephen Miller named by Trump as new White House chief of staff",
-     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-     "source": "France 24"
-    },
-    {
-     "title": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
-     "source": "Le Monde"
-    }
-   ]
-  },
-  {
-   "topic": "Stephen",
-   "sources": 10,
-   "examples": [
-    {
-     "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Stephen Miller named by Trump as new White House chief of staff",
-     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-     "source": "France 24"
-    },
-    {
-     "title": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
-     "source": "Le Monde"
-    }
-   ]
-  },
-  {
    "topic": "EUA",
-   "sources": 7,
+   "sources": 8,
    "examples": [
     {
-     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
      "source": "The Guardian"
     },
     {
-     "title": "Tankers carrying Russian diesel to the US change course",
-     "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
+     "title": "US asks China to uphold Busan trade deal commitments",
+     "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
@@ -129,102 +77,24 @@
      "source": "France 24"
     },
     {
-     "title": "Ações dos EUA ensaiam recuperação tímida após derrocada de US$ 3,2 tri por temores com a IA",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/acoes-dos-eua-ensaiam-recuperacao-timida-apos-derrocada-de-us-32-tri-por-temores-com-a-ia.shtml",
-     "source": "Folha de S.Paulo"
+     "title": "Trump anuncia la reforma del Centro Espacial Kennedy de la NASA y asegura que EEUU volverá a la Luna en dos años",
+     "link": "https://www.infobae.com/america/agencias/2026/11/07/trump-anuncia-la-reforma-del-centro-espacial-kennedy-de-la-nasa-y-asegura-que-eeuu-volvera-a-la-luna-en-dos-anos/",
+     "source": "Infobae"
     }
    ]
   },
   {
-   "topic": "Markle",
+   "topic": "Miller",
    "sources": 7,
    "examples": [
     {
-     "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Meghan Markle's father arrested in US over child sex abuse material",
-     "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Meghan Markle's father arrested over child sex abuse images",
-     "link": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession",
-     "source": "Euronews"
-    },
-    {
-     "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-     "link": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
-     "source": "El País"
-    }
-   ]
-  },
-  {
-   "topic": "Meghan",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Meghan Markle's father arrested in US over child sex abuse material",
-     "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Meghan Markle's father arrested over child sex abuse images",
-     "link": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession",
-     "source": "Euronews"
-    },
-    {
-     "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-     "link": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
-     "source": "El País"
-    }
-   ]
-  },
-  {
-   "topic": "America",
-   "sources": 6,
-   "examples": [
-    {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "source": "NPR"
-    },
-    {
-     "title": "Pope Leo arrives in Uruguay at start of South America tour",
-     "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
-     "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
-     "source": "France 24"
-    },
-    {
-     "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-     "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-     "source": "The New York Times"
-    }
-   ]
-  },
-  {
-   "topic": "House",
-   "sources": 6,
-   "examples": [
-    {
-     "title": "Four midterms takeaways for 2028 White House race",
-     "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+     "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "source": "The Guardian"
     },
     {
@@ -233,61 +103,61 @@
      "source": "Deutsche Welle"
     },
     {
-     "title": "'An extinction-level event': How the GOP's midterm collapse upends 2028 race for White House",
-     "link": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
-     "source": "Los Angeles Times"
+     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+     "source": "France 24"
     }
    ]
   },
   {
-   "topic": "Pope",
-   "sources": 6,
+   "topic": "Stephen",
+   "sources": 7,
    "examples": [
     {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "source": "NPR"
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
-     "title": "Pope Leo arrives in Uruguay at start of South America tour",
-     "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
+     "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Stephen Miller named by Trump as new White House chief of staff",
+     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
-     "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
+     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
      "source": "France 24"
+    }
+   ]
+  },
+  {
+   "topic": "Paraguay",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
-     "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-     "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+     "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
      "source": "The New York Times"
-    }
-   ]
-  },
-  {
-   "topic": "Uruguay",
-   "sources": 6,
-   "examples": [
-    {
-     "title": "Pope Leo arrives in Uruguay at start of South America tour",
-     "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
-     "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
-     "source": "France 24"
-    },
-    {
-     "title": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "La visita del Papa León XIV en Uruguay, en vivo | El Papa pide que la IA potencie al trabajador y no lo reduzca a una “pieza prescindible”",
-     "link": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
-     "source": "El País"
     }
    ]
   },
@@ -311,35 +181,165 @@
      "source": "France 24"
     },
     {
-     "title": "Bosques de cuento en Europa: siete escapadas exprés para disfrutar del otoño",
-     "link": "https://www.eldiario.es/viajes/bosques-cuento-europa-siete-escapadas-expres-disfrutar-otono_1_13636994.html",
-     "source": "elDiario.es"
+     "title": "Branko Milanovic: “Esta derrota de Trump no tendrá gran impacto en la política hacia Asia o hacia Europa”",
+     "link": "https://elpais.com/economia/2026-11-07/branko-milanovic-esta-derrota-de-trump-no-tendra-gran-impacto-en-la-politica-hacia-asia-o-hacia-europa.html",
+     "source": "El País"
     }
    ]
   },
   {
-   "topic": "Paraguay",
+   "topic": "President",
    "sources": 5,
    "examples": [
     {
-     "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-     "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
+     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Santiago Peña, destituido por el Congreso como presidente de Paraguay",
-     "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
-     "source": "El País"
-    },
-    {
-     "title": "Peña no acude al Senado de Paraguay y delega la defensa de su 'impeachment' en sus abogados",
-     "link": "https://www.lavanguardia.com/internacional/20261106/11678312/pena-acude-senado-paraguay-delega-defensa-impeachment-abogados.html",
-     "source": "La Vanguardia"
-    },
-    {
-     "title": "Paraguay’s President Removed Over Financial Crisis",
+     "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
      "source": "The New York Times"
+    },
+    {
+     "title": "President Herzog faces key choice as Israel struggles to form government",
+     "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "China",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "US asks China to uphold Busan trade deal commitments",
+     "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "China protege da IA só o emprego que consegue enxergar",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/china-protege-da-ia-so-o-emprego-que-consegue-enxergar.shtml",
+     "source": "Folha — Mundo"
+    },
+    {
+     "title": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang",
+     "link": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/",
+     "source": "The Japan Times"
+    },
+    {
+     "title": "China to narrow scope of contentious detention and surveillance measure",
+     "link": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
+   "topic": "House",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Stephen Miller named by Trump as new White House chief of staff",
+     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "'An extinction-level event': How the GOP's midterm collapse upends 2028 race for White House",
+     "link": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
+     "source": "Los Angeles Times"
+    },
+    {
+     "title": "'Voices in head said to kill Trump': Man with firearms and ammunition arrested near White House",
+     "link": "https://timesofindia.indiatimes.com/world/us/voices-in-head-said-to-kill-president-man-with-firearms-and-ammunition-arrested-near-white-house/articleshow/135623981.cms",
+     "source": "Times of India"
+    }
+   ]
+  },
+  {
+   "topic": "Irã",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
+     "link": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
+     "source": "Euronews"
+    },
+    {
+     "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
+     "source": "South China Morning Post"
+    },
+    {
+     "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+     "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "Santiago",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "EN VIVO | Crisis en Paraguay: Santiago Peña fue trasladado de urgencia al Regimiento Escolta Presidencial tras los incidentes frente a su domicilio",
+     "link": "https://www.infobae.com/america/america-latina/2026/11/06/crisis-politica-en-paraguay-en-vivo/",
+     "source": "Infobae"
+    },
+    {
+     "title": "Após impeachment, Santiago Peña é preso em sua casa no Paraguai",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-impeachment-ministerio-publico-do-paraguai-ordena-detencao-imediata-de-ex-presidente.shtml",
+     "source": "Folha — Mundo"
+    }
+   ]
+  },
+  {
+   "topic": "White",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Stephen Miller named by Trump as new White House chief of staff",
+     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "'An extinction-level event': How the GOP's midterm collapse upends 2028 race for White House",
+     "link": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
+     "source": "Los Angeles Times"
+    },
+    {
+     "title": "'Voices in head said to kill Trump': Man with firearms and ammunition arrested near White House",
+     "link": "https://timesofindia.indiatimes.com/world/us/voices-in-head-said-to-kill-president-man-with-firearms-and-ammunition-arrested-near-white-house/articleshow/135623981.cms",
+     "source": "Times of India"
     }
    ]
   }
@@ -353,6 +353,41 @@
    "region": "mundo",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
+    {
+     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "published": "2026-11-07T03:25+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+    },
+    {
+     "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+     "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+     "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+     "published": "2026-11-07T01:27+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "The young Somali woman changing how the world sees Mogadishu",
+     "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+     "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+     "published": "2026-11-07T01:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
+    },
+    {
+     "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+     "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+     "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+     "published": "2026-11-06T23:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg"
+    },
+    {
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+     "published": "2026-11-06T23:24+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
+    },
     {
      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
@@ -373,41 +408,6 @@
      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
      "published": "2026-11-06T17:44+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"
-    },
-    {
-     "title": "Nigerian court rules opposition candidate cannot stand in elections",
-     "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-     "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-     "published": "2026-11-06T17:35+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-     "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-     "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-     "published": "2026-11-06T16:51+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Four midterms takeaways for 2028 White House race",
-     "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-     "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-     "published": "2026-11-06T16:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
-    },
-    {
-     "title": "Two dead after bus crashes in France, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-     "published": "2026-11-06T15:33+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"
-    },
-    {
-     "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-     "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-     "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-     "published": "2026-11-06T15:30+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
     }
    ]
   },
@@ -419,60 +419,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+     "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+     "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+     "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/ab150660e1c0941c2982524b3f3d02283867ef5d/350_0_2943_2354/master/2943.jpg?width=140&quality=85&auto=format&fit=max&s=947cd67326b78e5e24874e61dd562574"
+    },
+    {
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "summary": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated Donald Trump has said the US military on Friday carried out a new…",
+     "published": "2026-11-07T03:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=140&quality=85&auto=format&fit=max&s=43a5ac1a97cd0bf0f1ee113a55feaeea"
+    },
+    {
+     "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration…",
-     "published": "2026-11-06T22:41+00:00",
+     "summary": "This live blog is now closed. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He…",
+     "published": "2026-11-07T03:02+00:00",
      "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=06c8c454d7b539adc847dede55eb8ea3"
     },
     {
-     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
-     "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team US politics live – latest updates Donald Trump on Friday said Susie Wiles, the first woman to serve as…",
-     "published": "2026-11-06T22:35+00:00",
-     "image": "https://i.guim.co.uk/img/media/d6499e3f63dde18f7bb2a51b347e1ff441c629ef/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ae10a4994ead9e50469741ef037db895"
-    },
-    {
-     "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-     "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in…",
-     "published": "2026-11-06T22:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=140&quality=85&auto=format&fit=max&s=b510b9fca776a25502f9105ee07a92c2"
-    },
-    {
-     "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-     "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape Cornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s…",
-     "published": "2026-11-06T21:46+00:00",
-     "image": "https://i.guim.co.uk/img/media/208f3baf785c851de0a8a0bd9d5f082eb25a9b62/958_607_3485_2788/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=cb0077fdc88415cf8710d12e60d16d21"
-    },
-    {
-     "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-     "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms…",
-     "published": "2026-11-06T21:23+00:00",
-     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
-    },
-    {
-     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-     "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and…",
-     "published": "2026-11-06T21:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=ea760337f8b9936ab96b5415c0bb868d"
-    },
-    {
-     "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
-     "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter…",
-     "published": "2026-11-06T21:14+00:00",
-     "image": "https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=39df1482a09503c4a3875897aa378d36"
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house…",
+     "published": "2026-11-07T01:55+00:00",
+     "image": "https://i.guim.co.uk/img/media/3279bdc7ce3e00c2cbd356e73e342e1cba40051e/294_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=53fe013eafe5b6ddce4601a63f181f9a"
     },
     {
      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
      "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
      "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect…",
-     "published": "2026-11-06T20:06+00:00",
+     "published": "2026-11-07T01:38+00:00",
      "image": "https://i.guim.co.uk/img/media/52d5fedf0fefd80dc9f1af8b5afda07122a03309/884_0_4420_3536/master/4420.jpg?width=140&quality=85&auto=format&fit=max&s=7dc71eba919edf74946965211237db2e"
+    },
+    {
+     "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+     "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care On Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military…",
+     "published": "2026-11-07T01:04+00:00",
+     "image": "https://i.guim.co.uk/img/media/4c335dc7c5ebfe5400f0bc48dcf393c6617cea91/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ab9e00c284b6f2941a801e39068a3e9a"
+    },
+    {
+     "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+     "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated…",
+     "published": "2026-11-07T00:58+00:00",
+     "image": "https://i.guim.co.uk/img/media/02e0d857f88e103dd152dec11497256886fd7736/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5332afb735430603b0c8bfc9d8ff407f"
+    },
+    {
+     "title": "Man in custody after being found in vehicle near White House with guns",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+     "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump The US secret service said a suspect has been taken into custody and charged after officers found him…",
+     "published": "2026-11-07T00:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/30a42bd193109c7cf7e2854cf733ff3179bf6e89/436_0_4356_3485/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=11a25acc70a5aedd71f8e747816f1066"
     }
    ]
   },
@@ -549,6 +549,27 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
     {
+     "title": "US asks China to uphold Busan trade deal commitments",
+     "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+     "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
+     "published": "2026-11-07T04:44+00:00",
+     "image": ""
+    },
+    {
+     "title": "Cornell faculty declares 'no confidence' in university leadership",
+     "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
+     "summary": "The university leadership has faced intense criticism for its handling of sexual crimes on campus since a former student filed a lawsuit saying she was drugged and raped at a fraternity house in October 2024.",
+     "published": "2026-11-07T03:14+00:00",
+     "image": ""
+    },
+    {
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+     "summary": "Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are frozen, with public pension and health care funds also tied up.",
+     "published": "2026-11-06T23:23+00:00",
+     "image": ""
+    },
+    {
      "title": "Pope Leo arrives in Uruguay at start of South America tour",
      "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
      "summary": "Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary, comes just weeks after his lung cancer surgery.",
@@ -581,27 +602,6 @@
      "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-rdf",
      "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area they should focus on.",
      "published": "2026-11-06T19:16+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ilse Aigner tipped by party allies as next German president",
-     "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf",
-     "summary": "German media reports suggest that Bavarian politician Ilse Aigner's chances of becoming the next president are on the up. Long favored by her Bavarian CSU, now it seems Christian Democrats nationwide plan to back her.",
-     "published": "2026-11-06T18:48+00:00",
-     "image": ""
-    },
-    {
-     "title": "Meghan Markle's father arrested in US over child sex abuse material",
-     "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf",
-     "summary": "US federal agents arrested Thomas Markle in Florida. The Duchess of Sussex and television actress Meghan Markle, who is estranged from her father, said she was \"deeply distressed\" by the charges.",
-     "published": "2026-11-06T18:43+00:00",
-     "image": ""
-    },
-    {
-     "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
-     "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
-     "summary": "Iran is stepping up attacks on shipping in the Persian Gulf and Strait of Hormuz. A Greek-owned tanker believed to have been struck with a missile, and Iran said two other vessels were on fire.",
-     "published": "2026-11-06T17:47+00:00",
      "image": ""
     }
    ]
@@ -679,60 +679,60 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
-     "title": "Vague de démissions au ministère de la justice américain",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/vague-de-demissions-au-ministere-de-la-justice-americain_6807868_3210.html",
-     "summary": "Plusieurs hauts responsables quittent leurs fonctions, dont la ministre adjointe de la justice chargée des droits civiques.",
-     "published": "2026-11-06T22:43+00:00",
-     "image": "https://img.lemde.fr/2026/10/25/387/0/4948/2474/644/322/60/0/1cf3e6e_ftp-1-6g43bk8wwu41-2026-10-25t170257z-1517238053-rc2stnad1acc-rtrmadp-3-usa-election-alaska.JPG"
+     "title": "EN DIRECT, guerre en Ukraine : au moins trois blessés à Kiev, dont un enfant, dans des frappes de missiles balistiques",
+     "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-au-moins-trois-blesses-a-kiev-dont-un-enfant-dans-des-frappes-de-missiles-balistiques_6803934_3210.html",
+     "summary": "Dans la soirée de vendredi, Volodymyr Zelensky avait averti que, selon les renseignements ukrainiens, la Russie préparait une nouvelle attaque contre les infrastructures énergétiques, les ponts sur le Dniepr et des…",
+     "published": "2026-11-07T05:06+00:00",
+     "image": "https://img.lemde.fr/2026/11/07/126/0/5874/2937/644/322/60/0/e78caa2_ftp-1-6dzxjkx7qvdp-2026-11-07t042258z-744927510-rc2oioad7fji-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
     },
     {
-     "title": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
-     "summary": "Le souverain pontife, opéré en octobre d’un cancer du poumon, a déclaré être « plutôt en bonne forme » dans l’avion qui le menait vendredi à Montevideo, capitale de l’Uruguay et première étape de sa tournée. Dans son…",
-     "published": "2026-11-06T22:02+00:00",
-     "image": "https://img.lemde.fr/2026/11/06/448/0/5384/2692/644/322/60/0/02ffeb4_ftp-1-9aanz4krd9nu-afp-d6py47n.jpg"
+     "title": "Midterms 2026 : les démocrates lancés à l’assaut du budget du Pentagone et de la guerre contre l’Iran",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html",
+     "summary": "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates. Très opposés au conflit avec la République islamique, ces derniers dénoncent l’inflation du…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://img.lemde.fr/2025/05/20/85/0/5274/2637/644/322/60/0/5ca857d_ftp-import-images-1-kpwc567tpojj-2025-05-20t202932z-135958535-rc2wleambh35-rtrmadp-3-usa-trump-defense.JPG"
     },
     {
-     "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-     "summary": "Les menaces, qui se sont révélées infondées, ont été adressées vendredi à plusieurs médias irlandais ainsi qu’à plusieurs vols commerciaux entre des pays européens. Le flou demeure sur l’origine et les intentions…",
-     "published": "2026-11-06T20:03+00:00",
-     "image": "https://img.lemde.fr/2026/11/06/1035/0/5489/2744/644/322/60/0/5e3b6aa_ftp-1-ygm9kgjmqpsl-2026-11-06t123852z-121061962-rc2cioannund-rtrmadp-3-europe-security-ireland.JPG"
+     "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+     "link": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+     "summary": "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ? Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une…",
+     "published": "2026-11-07T04:55+00:00",
+     "image": "https://img.lemde.fr/2026/11/06/740/0/2433/1216/644/322/60/0/202c0b3_upload-1-khu4se4ac0wv-neoliberalisme.jpg"
     },
     {
-     "title": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
-     "summary": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
-     "published": "2026-11-06T19:41+00:00",
-     "image": "https://img.lemde.fr/2026/10/08/123/0/5335/2667/644/322/60/0/1bc5b58_ftp-1-nttyamowsqdu-3d027ddec2834d7481b4c485f5fc7afa-0-6bcc1ed19a69460b867679d5e9ce59ee.jpg"
+     "title": "Derrière le piratage de Binance, le savoir-faire redoutable des hackeurs nord-coréens",
+     "link": "https://www.lemonde.fr/pixels/article/2026/11/07/derriere-le-piratage-de-binance-le-savoir-faire-redoutable-des-hackeurs-nord-coreens_6808134_4408996.html",
+     "summary": "Depuis plus de dix ans, le régime de Pyongyang finance son programme balistique et nucléaire à coup de « cybercasses ». Les pirates nord-coréens ont fait de l’industrie des cryptomonnaies leur cible principale, avec…",
+     "published": "2026-11-07T04:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/05/250/0/3000/1500/644/322/60/0/d30a0b0_upload-1-jx4pttyclhbi-papier-coree-nord.jpg"
     },
     {
-     "title": "Allemagne : Ilse Aigner, conservatrice bavaroise, pourrait devenir la première femme présidente de la République fédérale",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/allemagne-ilse-aigner-conservatrice-bavaroise-pourrait-devenir-la-premiere-femme-presidente-de-la-republique-federale_6807858_3210.html",
-     "summary": "Le nom de la candidate retenue par la CDU du chancelier Friedrich Merz pour succéder au social-démocrate Frank-Walter Steinmeier a été éventé, vendredi, par plusieurs médias allemands. Participeront à l’élection, le 30…",
-     "published": "2026-11-06T19:30+00:00",
-     "image": "https://img.lemde.fr/2026/10/23/13/0/5807/2903/644/322/60/0/7c0b355_ftp-1-zxas2036bq7i-2026-10-23t141048z-171228088-rc219oa0h2zr-rtrmadp-3-germany-politics-csu.JPG"
+     "title": "Stephen Miller, l’idéologue réactionnaire de la Maison Blanche, devient le nouveau chef de l’administration Trump",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/stephen-miller-l-ideologue-reactionnaire-de-la-maison-blanche-devient-le-nouveau-chef-de-l-administration-trump_6808135_3210.html",
+     "summary": "Fervent défenseur du suprémacisme blanc et de théories conspirationnistes, le fidèle conseiller de Donald Trump remplace Susie Wiles, une promotion en forme de fuite en avant après la déroute des républicains lors des…",
+     "published": "2026-11-07T04:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/06/103/0/4493/2246/644/322/60/0/9abe4c2_ftp-1-6kj6y5lsflbt-faa97e2856594eca80b978a8db0f531e-0-e197ade4177340fc90117aad381e4c49.jpg"
     },
     {
-     "title": "Yémen : des dizaines de morts dans une attaque sur un marché, les houthistes et les forces gouvernementales s’accusent mutuellement",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/yemen-des-dizaines-de-morts-dans-une-attaque-sur-un-marche-les-houthistes-et-les-forces-gouvernementales-s-accusent-mutuellement_6807855_3210.html",
-     "summary": "Les bombardements ont eu lieu dans le gouvernorat de Taëz, dans l’ouest du pays, dont la ville éponyme est encerclée depuis des semaines par les houthistes, qui contrôlent également la capitale, Sanaa.",
-     "published": "2026-11-06T18:50+00:00",
-     "image": "https://img.lemde.fr/2026/11/03/167/0/2499/1249/644/322/60/0/0417e64_ftp-1-699oycw4pynn-afp-d69h7kg.jpg"
+     "title": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
+     "summary": "Ces informations peuvent concerner « [les] installations, [les] équipements et le personnel associé », a précisé le commandement militaire américain pour le Moyen-Orient.",
+     "published": "2026-11-07T02:13+00:00",
+     "image": "https://img.lemde.fr/2026/07/22/181/0/1607/803/644/322/60/0/86cdfd1_upload-1-d80uwlvwf74r-000-b8v399e.jpg"
     },
     {
-     "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-     "summary": "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre.",
-     "published": "2026-11-06T18:10+00:00",
-     "image": "https://img.lemde.fr/2026/11/06/91/0/5851/2925/644/322/60/0/19a5875_upload-1-obbkyekykaut-063-2284068176.jpg"
+     "title": "Les houthistes délivrent des autorisations par email aux navires pour traverser la mer Rouge",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/les-houthistes-delivrent-des-autorisations-par-email-aux-navires-pour-traverser-la-mer-rouge_6808034_3210.html",
+     "summary": "Le « Wall Street Journal » reproduit des courriels des combattants yéménites pro-iraniens répondant à des messages qui leur demandent une autorisation de passage en toute sécurité.",
+     "published": "2026-11-07T01:29+00:00",
+     "image": "https://img.lemde.fr/2026/07/24/500/0/6000/3000/644/322/60/0/d16d89a_ftp-1-02jvr5yiprod-5698795-01-06.jpg"
     },
     {
-     "title": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les autorités",
-     "link": "https://www.lemonde.fr/international/article/2026/11/06/au-pakistan-un-couple-d-avocats-defenseurs-des-sans-voix-persecute-par-les-autorites_6807851_3210.html",
-     "summary": "Engagés dans la défense des minorités ethniques, des journalistes poursuivis pour diffamation et des personnes accusées de blasphème, Imaan Mazari et son époux, Hadi Ali Chattha, ont été condamnés, le 29 octobre, à une…",
-     "published": "2026-11-06T18:09+00:00",
-     "image": "https://img.lemde.fr/2026/11/06/0/0/3992/1996/644/322/60/0/5e184c0_upload-1-pwpwpmlnp6mr-000-93fq9nq.jpg"
+     "title": "Midterms 2026 : la ville de Houston limite sa coopération avec l’ICE après la victoire démocrate",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/la-ville-de-houston-limite-sa-cooperation-avec-l-ice-apres-la-victoire-democrate-aux-midterms_6808001_3210.html",
+     "summary": "Afin de « réduire les craintes et les angoisses », le maire démocrate de la ville, John Whitmire, a déclaré que les forces de l’ordre locales ne contacteraient la controversée police de l’immigration que lorsqu’une…",
+     "published": "2026-11-07T01:08+00:00",
+     "image": "https://img.lemde.fr/2026/11/06/1143/0/6853/3426/644/322/60/0/ab7ce8f_ftp-1-r7lmzrcyeujl-905c34c0c1df44198a2a46ee84632658-0-bb7975cda4994a7a80e89cc64ff199a2.jpg"
     }
    ]
   },
@@ -809,60 +809,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "La visita del Papa León XIV en Uruguay, en vivo | El Papa pide que la IA potencie al trabajador y no lo reduzca a una “pieza prescindible”",
-     "link": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
-     "summary": "El Pontífice inicia su gira sudamericana por Uruguay, Argentina y Perú, que se extenderá hasta el 17 de noviembre",
-     "published": "2026-11-06T22:36+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/FP2ARUKKQNAYVFN75UBW6QOS5Y.jpg?auth=7e2f64093faf9132d91e7448649cf57d94eb05c4905caef0f2013295b4e2bfb9"
+     "title": "Esta red de secado es la solución para que los jerséis no pierdan su forma tras cada lavado",
+     "link": "https://elpais.com/escaparate/estilo-de-vida/red-de-secado-para-jerseis.html",
+     "summary": "Con correas para fijarla en el tendedero y fabricada con una malla fina, tiene una estructura abovedada que favorece el secado de estas prendas sin deformarlas",
+     "published": "2026-11-07T05:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/YNZ52G4YJVDJRJUYEH6ZD2HPNA.png?auth=f3637dd0cfe947fa8a6375ae161d26c19e30172714b85a88606ad628dbde5d7e"
     },
     {
-     "title": "Santiago Peña, destituido por el Congreso como presidente de Paraguay",
-     "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
-     "summary": "El Senado aprueba con los votos de todos los legisladores del oficialismo la muerte política del mandatario, alcanzado por un escándalo financiero",
-     "published": "2026-11-06T22:35+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/JIBMPDMXQ5J4HCLSR36EAH3YBE.jpg?auth=265edb499e564606469dc0fd957c12974e70268f30c0a098068d6e3910043c3b"
+     "title": "20 productos por menos de 25 euros que usarás mucho más de lo que imaginas",
+     "link": "https://elpais.com/escaparate/tecnologia/gadgets-utiles-por-menos-de-25-euros.html",
+     "summary": "Ahorra en ‘gadgets’ top ventas que te solventarán el día a día en distintos ámbitos: linternas de bolsillo, cargadores planos, regletas de enchufes... y muchos más",
+     "published": "2026-11-07T05:30+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/PXCI2B36UJHHTCO7EAVUAYRYBU.png?auth=4a7ddc8e5f0ad255c209cdf47bb0a8b4d22cd791c9c142702898a4e811fa01b7"
     },
     {
-     "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-     "link": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
-     "summary": "Agentes federales han irrumpido en la residencia de ancianos en la que reside Thomas Markle, después de encontrar material pornográfico con menores en dos trasteros de Los Ángeles que tenía alquilados. Markle podría…",
-     "published": "2026-11-06T22:25+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/L3NDOYWHDJE2DA5HLKDFY6OPCM.jpg?auth=fcd34bee6aa3009ad51bc5620dc79b1ff2a029de14338e6fb34b3280af8e2c03"
+     "title": "Accesorios que hacen más cómodo teletrabajar desde el sofá",
+     "link": "https://elpais.com/escaparate/estilo-de-vida/accesorios-para-teletrabajar.html",
+     "summary": "Mesas para el portátil, cojines ergonómicos, reposapiés y hasta mantas eléctricas: una selección de complementos para montar un rincón de trabajo en casa",
+     "published": "2026-11-07T05:15+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/CEUWK5T37RG2HMIJ7AO7CEI5JI.png?auth=b6a3663ea9f0384a79d06490003b61e41880ab48148ab5048e4f0bc3715ba67c"
     },
     {
-     "title": "Alcaraz pone a París en pie y premia a Jódar, ya maestro",
-     "link": "https://elpais.com/deportes/tenis/2026-11-06/alcaraz-pone-a-paris-en-pie-y-premia-a-jodar-ya-maestro.html",
-     "summary": "El murciano salva dos bolas de partido ante Fritz (6-7(10), 7-5 y 6-3) y accede a las semifinales. Su triunfo y el de Shelton clasifican al madrileño para la cita de Turín",
-     "published": "2026-11-06T22:14+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/2AIYV4BCWJLHRBKJUUF7BWFEJI.jpg?auth=c9a5a3e52bcfc2b631501776c44e79b2c74e374d5dda90f4519539546944f53f"
+     "title": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
+     "link": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+     "summary": "Las peticiones afectan a unos dos millones de empleados, pero la Seguridad Social incumple sus propios plazos y no ha resuelto ni las que sí han pactado sindicatos y empresarios",
+     "published": "2026-11-07T04:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/LI33YERTXVHI5LI43RNI3HSEG4.jpg?auth=1b49a7e42df55ac1e588547ad2b603a12d987f09820a84a50c1531db9ff9f174"
     },
     {
-     "title": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
-     "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
-     "summary": "El selectivo español sortea la tormenta tecnológica y sube un 3,8% en cinco jornadas. El ‘brent’ cae un 16,4%, el mayor descenso desde la pandemia",
-     "published": "2026-11-06T21:07+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/UF4LNKLCEZEHPEXRIG63PYZM2E.png?auth=3f2737f4bdfe9ea3ccd935d3e1ee130edb0be509ed7a15bbbeccc9e3db22def3"
+     "title": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+     "link": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+     "summary": "La mayor parte del impacto en la recaudación se concentra en IRPF, tributación inmobiliaria y sucesiones y donaciones",
+     "published": "2026-11-07T04:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/JJVBKPHZCFFX5AYXYNSR2JHSLE.jpg?auth=58b33ee3f7a61c0450a2ac1b9c26208e3beb1ad3ec72ce50cb5bcdc4b249e83c"
     },
     {
-     "title": "El Consejo de Estado da vía libre al decreto de los centros de datos y podrá aprobarse antes del 29-N",
-     "link": "https://elpais.com/economia/2026-11-06/el-consejo-de-estado-da-via-libre-al-decreto-de-los-centros-de-datos-y-podra-aprobarse-antes-del-29-n.html",
-     "summary": "El órgano consultivo frena la ofensiva judicial y reglamentaria de energéticas y tecnológicas al respaldar por unanimidad la competencia estatal, el rango normativo y la tramitación de urgencia",
-     "published": "2026-11-06T20:31+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/GLFWQVTCROYZYASWX5DMOIU6GM.jpg?auth=b8000523138897a4087d6a7b1e5f7177636416f113f004cc38d0c56a0e6f4e38"
+     "title": "Branko Milanovic: “Esta derrota de Trump no tendrá gran impacto en la política hacia Asia o hacia Europa”",
+     "link": "https://elpais.com/economia/2026-11-07/branko-milanovic-esta-derrota-de-trump-no-tendra-gran-impacto-en-la-politica-hacia-asia-o-hacia-europa.html",
+     "summary": "El economista serbioestadounidense advierte del nacimiento de una nueva élite de alta formación, que combina altos ingresos por trabajo y capital",
+     "published": "2026-11-07T04:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/UBA2RAMA2ZBQRNU5EZS3GOZQPI.jpg?auth=f4b50f2979047af4305b1ab910ed52a7210d1088159edb7ff3fa3d8f5f02d752"
     },
     {
-     "title": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
-     "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
-     "summary": "El mitin de Valencia, más contenido que los anteriores y sin bailes, empieza con un minuto de silencio por las víctimas de Urda. El presidente reivindica “la ejemplaridad” por la dimisión de Puente en un acto que supera…",
-     "published": "2026-11-06T20:27+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/4IHO4XN6XJAFZFRGLWRDOXZLGA.JPG?auth=f58128d4f5f30af0d4222a463020cd6ba707d5d6b380eff9a07bccd0dfa095a4"
+     "title": "Fulgor, desplomes y ruinas en la IA",
+     "link": "https://elpais.com/economia/2026-11-07/fulgor-desplomes-y-ruinas-en-la-ia.html",
+     "summary": "La caída de una compañía encierra el peligro de arrastrar a otras del sector, con riesgo de propagación global",
+     "published": "2026-11-07T04:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/TPSRNCVPJJEWLBSQATQ22Z4HW4.jpg?auth=7641d268df5353f346171a6256aa57d24693b7c1aebf31db4b7d807e1a20fc00"
     },
     {
-     "title": "Emotivo homenaje a Jesús de Miguel en el Sevilla-Alavés (0-0)",
-     "link": "https://elpais.com/deportes/futbol/2026-11-06/emotivo-homenaje-a-jesus-de-miguel-en-el-sevilla-alaves.html",
-     "summary": "El Sánchez Pizjuán abre una jornada en recuerdo del tristemente fallecido delantero del Tenerife; el choque acaba con empate sin goles en un gris partido, donde Sivera le detuvo un penalti a Vargas",
-     "published": "2026-11-06T20:26+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/V6EMFPRK7NLULPUR3NTGLVNCG4.jpg?auth=4047eb66e6df35ae5039db4a059e240be7eafc5eec94accce9508b0d254c0f6e"
+     "title": "Asesinados en Guatemala un diputado y tres oficiales en un ataque armado",
+     "link": "https://elpais.com/america/2026-11-07/asesinado-en-guatemala-un-diputado-y-tres-oficiales-en-un-ataque-armado.html",
+     "summary": "Las víctimas del ataque son el diputado Julio Portillo, dos policías y uno de los guardaespaldas del legislador",
+     "published": "2026-11-07T04:42+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/7YDRCH3FXRIZHCVZXQTKNXJY6A.jpg?auth=eb069e4c8bb9a40ebafc526664f0c6a0129b0f8c56f692fe871ac5b7392ae3f8"
     }
    ]
   },
@@ -874,60 +874,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "Alcaraz tumba a Fritz y de paso, rescata a Jódar",
-     "link": "https://www.lavanguardia.com/deportes/tenis/20261106/11678390/alcaraz-tumba-fritz-paso-rescata-jodar.html",
-     "summary": "El murciano se planta en la semifinal del último Masters 1.000 del año (6-7(10), 7-5 y 6-3) y abre la puerta a Jódar, que jugará las Nitto ATP Finals",
-     "published": "2026-11-06T21:56+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aee4bcdf32fc.r_d.2657-1771-844.jpeg"
+     "title": "Pinganillos y otros problemas de España",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11678336/pinganillos-otros-grandes-problemas-espana.html",
+     "summary": "Un alumno de Bilbao que intentaba hacer trampas para aprobar el examen teórico del carnet de conducir, recibiendo las respuestas a través de un pinganillo, fue pillado in fraganti por los vigilantes. El muchacho, para…",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee2f4bc5677.jpeg"
     },
     {
-     "title": "Primer homenaje a Jesús de Miguel en el Sevilla-Alavés",
-     "link": "https://www.lavanguardia.com/deportes/20261106/11678378/primer-homenaje-jesus-miguel-sevilla-alaves.html",
-     "summary": "Luis de la Fuente se sumó al luto al ofrecer su convocatoria y entiende que se juegue la jornada",
-     "published": "2026-11-06T20:24+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aee37bf9756c.r_d.1703-939-1332.jpeg"
+     "title": "No es un país para irónicos",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11678137/pais-ironicos.html",
+     "summary": "Se jubila El Gran Wyoming, con lo que perdemos a un maestro de la sátira",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/26/692721a560fb2.jpeg"
     },
     {
-     "title": "Laura Gallego, Joan-Lluís Lluís, Fernando Navarro, Ramon Mas y Victoria Álvarez, premios del Festival 42",
-     "link": "https://www.lavanguardia.com/cultura/20261106/11678337/laura-gallego-joan-lluis-lluis-fernando-navarro-ramon-victoria-alvarez-premios-festival-42.html",
-     "summary": "Ivan Belzunce y Carlos Di Urarte han recibido los galardones al autor revelación, y Claire North y Tananarive Due, a las mejores traducciones",
-     "published": "2026-11-06T20:07+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee41cea3333.jpeg"
+     "title": "La guerra derrotó a Trump",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11677694/guerra-derroto-trump.html",
+     "summary": "Ha soplado un viento de regeneración moral ante la corrupción y el nepotismo",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aed9672bd955.jpeg"
     },
     {
-     "title": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
-     "link": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
-     "summary": "El presidente reanuda su precampaña en València para contrastar la gestión de la dana de Mazón con la “responsabilidad política” del exministro de Transportes al renunciar tras los siniestros ferroviarios",
-     "published": "2026-11-06T20:02+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee3176ee8f4.jpeg"
+     "title": "Formentor es nuestro Ostende",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11678127/formentor-nuestro-ostende.html",
+     "summary": "A los premiados en Formentor les une la ética insobornable de la forma",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae788e50b731.r_d.4055-2536-0.jpeg"
     },
     {
-     "title": "Trump nombra al extremista Stephen Miller como nuevo jefe de Gabinete'",
-     "link": "https://www.lavanguardia.com/internacional/20261106/11678324/trump-nombra-extremista-stephen-miller-nuevo-jefe-gabinete-primera-rotacion-midterms.html",
-     "summary": "El presidente degrada a Susie Wiles, que había ocupado el cargo desde su primer día en la Casa Blanca, e indica con este cambio que no pretende moderarse en el final de su mandato",
-     "published": "2026-11-06T19:08+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/07/695e55ff775d9.r_d.3898-2043-0.jpeg"
+     "title": "El individuo y el sistema",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11677735/individuo-sistema.html",
+     "summary": "Lo lógico sería reconocer el error en el control de los trenes y que se minimice el riesgo de este tipo de fallos",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aed9d7c266c8.jpeg"
     },
     {
-     "title": "¿Ha crecido el gasto en mantenimiento de la alta velocidad tanto como dice el Gobierno?",
-     "link": "https://www.lavanguardia.com/vida/verificacion/20261106/11678319/crecido-gasto-mantenimiento-alta-velocidad-tanto-dice-gobierno.html",
-     "summary": "Puente defiende un aumento del 70% desde la llegada de Sánchez a la Moncloa, pero la inflación y el gran incremento de pasajeros matizan el dato",
-     "published": "2026-11-06T19:08+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee21b2c8b3e.jpeg"
+     "title": "¿La culpa es del poder?",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11678274/culpa.html",
+     "summary": "En las tertulias políticas basta con deshumanizar el adversario y la rabia del “¡y tú más!”",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/04/23/5fa3cd37ef670.jpeg"
     },
     {
-     "title": "Peña no acude al Senado de Paraguay y delega la defensa de su 'impeachment' en sus abogados",
-     "link": "https://www.lavanguardia.com/internacional/20261106/11678312/pena-acude-senado-paraguay-delega-defensa-impeachment-abogados.html",
-     "summary": "La renuncia no fue aceptada por el Congreso, que tiene la potestad de rechazarla, lo que permite avanzar el proceso de destitución dentro de la Constitución",
-     "published": "2026-11-06T19:02+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee2301bc060.jpeg"
+     "title": "La derrota del dinero",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11677695/derrota-dinero.html",
+     "summary": "¿Pueden surgir y prosperar ideas nuevas, radicales, proyectos que no resulten atractivos para ningún millonario?",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aed9b91a7874.jpeg"
     },
     {
-     "title": "La directiva de Laporta incorpora a Joaquim Forn como nuevo ejecutivo de confianza",
-     "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261106/11678299/directiva-laporta-incorpora-joaquim-forn-nuevo-ejecutivo-confianza.html",
-     "summary": "Forn fue uno de los políticos encarcelados tras el proceso independentista en Catalunya",
-     "published": "2026-11-06T18:57+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aee22c911424.r_d.2104-1136-0.jpeg"
+     "title": "Graznido de pato lejano",
+     "link": "https://www.lavanguardia.com/opinion/20261107/11677802/graznido-pato-lejano.html",
+     "summary": "Sube o baja la escalera y, en un descuido imperdonable, no tiene nada a lo que enchufarse",
+     "published": "2026-11-06T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aedab9384cb9.jpeg"
     }
    ]
   },
@@ -939,60 +939,60 @@
    "url": "https://www.eldiario.es/rss/",
    "items": [
     {
-     "title": "Bosques de cuento en Europa: siete escapadas exprés para disfrutar del otoño",
-     "link": "https://www.eldiario.es/viajes/bosques-cuento-europa-siete-escapadas-expres-disfrutar-otono_1_13636994.html",
-     "summary": "De Austria a Croacia, pasando por Francia o Alemania, recorremos siete bosques cercanos y variados para vivir una escapada otoñal entre tonos amarillos, ocres y rojizos Más de 200 puestos para disfrutar del mercadillo…",
+     "title": "El tiempo en España este fin de semana: la borrasca Bruna trae lluvias intensas, viento y temporal marítimo",
+     "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-borrasca-bruna-trae-lluvias-intensas-viento-temporal-maritimo-pm_1_13644900.html",
+     "summary": "El domingo se esperan precipitaciones fuertes y persistentes en Andalucía occidental, Extremadura, Galicia y el Sistema Central, mientras que Canarias podría registrar acumulados muy importantes y tormentas Dónde es…",
+     "published": "2026-11-07T05:01+00:00",
+     "image": "https://static.eldiario.es/clip/cbc03cd0-7751-4dea-9441-d41dddc7d4c1_16-9-discover-aspect-ratio_default_0_x1028y363.jpg"
+    },
+    {
+     "title": "El tiempo en Madrid este fin de semana: repunte de temperaturas el sábado y cielos cubiertos el domingo",
+     "link": "https://www.eldiario.es/madrid/somos/tiempo-madrid-semana-repunte-temperaturas-sabado-cielos-cubiertos-domingo-pm_1_13645148.html",
+     "summary": "El sábado podrían registrarse precipitaciones débiles, sobre todo en la Sierra, y el domingo no se descartan algunos chubascos dispersos en el oeste de la región Todos los profesores de la educación pública de Madrid…",
+     "published": "2026-11-07T05:01+00:00",
+     "image": "https://static.eldiario.es/clip/ecbba1f4-1473-4da2-9de2-a4acc1fd0623_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Sánchez reinicia la campaña con la \"ejemplaridad\" de Puente como antítesis de la política de PP y Vox",
+     "link": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
+     "summary": "La estrategia electoral muta por la tragedia ferroviaria y el PSOE intenta buscar en la salida del ministro una épica que aplaque el derrotismo y movilice a los votantes de izquierdas desencantados La dimisión de Puente…",
      "published": "2026-11-06T21:22+00:00",
-     "image": "https://static.eldiario.es/clip/bcdf8b0b-f903-4196-ae3f-89a1defcc1d6_16-9-discover-aspect-ratio_default_0.jpg"
+     "image": "https://static.eldiario.es/clip/b03c88bf-6188-405d-89ea-52f1337e4a0b_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Sánchez: \"La ejemplaridad que ha ejercido Óscar Puente jamás la practican PP y Vox”",
-     "link": "https://www.eldiario.es/politica/sanchez-ejemplaridad-ejercido-oscar-puente-practican-pp-vox_1_13645643.html",
-     "summary": "El presidente retoma la agenda de campaña con un mitin en Valencia en el que llama a la movilización de la izquierda como en Estados Unidos o Brasil La Policía detiene a 14 miembros de Núcleo Nacional por asociación…",
-     "published": "2026-11-06T19:53+00:00",
-     "image": "https://static.eldiario.es/clip/ebb058ab-5000-4d5a-a5cb-cd374e00d30d_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Nada que añadir, señorías",
+     "link": "https://www.eldiario.es/opinion/zona-critica/anadir-senorias_129_13645328.html",
+     "summary": "Hay que recordar las catástrofes ocurridas bajo el PP. No solo cada vez que el partido tenga el cinismo de exigir dimisiones a otros. Sino cuando pretenda vender la burra de que encarna la “experiencia, gestión y…",
+     "published": "2026-11-06T21:22+00:00",
+     "image": "https://static.eldiario.es/clip/63b4261f-84a4-4fbb-8a62-08f27f3a328f_16-9-discover-aspect-ratio_default_0_x3467y1380.jpg"
     },
     {
-     "title": "Trump fulmina a su jefa de Gabinete, Susie Wiles, tras la debacle de las 'midterms' y asciende al ultra Stephen Miller",
-     "link": "https://www.eldiario.es/internacional/trump-fulmina-jefa-gabinete-debacle-midterms-asciende-ultra-stephen-miller_1_13645625.html",
-     "summary": "El presidente de EEUU da los primeros pasos tras la debacle electoral y sitúa como mano derecha al ideólogo de la represión migratoria y de la línea política más dura en la Casa Blanca Primeras consecuencias. El…",
-     "published": "2026-11-06T18:59+00:00",
-     "image": "https://static.eldiario.es/clip/7250674d-8d05-44af-a03e-3532d4adf37f_16-9-discover-aspect-ratio_default_1132964.jpg"
+     "title": "El caso de las joyas de Zapatero se debilita después de que el juez corrija a la Fiscalía y descarte la malversación",
+     "link": "https://www.eldiario.es/politica/caso-joyas-zapatero-debilita-despues-juez-corrija-fiscalia-descarte-malversacion_1_13645613.html",
+     "summary": "La investigación debe acreditar que las joyas se tallaron después de mayo de 2021 para que el delito fiscal no haya prescrito, mientras que la acusación por contrabando reside en la mera sospecha de que el expresidente…",
+     "published": "2026-11-06T21:22+00:00",
+     "image": "https://static.eldiario.es/clip/81fe445f-f44d-469c-9647-6893e7dbc9a8_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Cuerpo y los sindicatos ferroviarios se emplazan a cerrar “con urgencia” medidas para reforzar la seguridad de los trenes",
-     "link": "https://www.eldiario.es/economia/cuerpo-sindicatos-ferroviarios-emplazan-cerrar-urgencia-medidas-reforzar-seguridad-trenes_1_13645423.html",
-     "summary": "El sindicato de maquinistas Semaf ve difícil llegar a un acuerdo antes de los paros previstos para el 10 de noviembre, mientras se mantienen en el aire los del día 12 CCOO extiende a Iryo y Ouigo las huelgas de Adif y…",
-     "published": "2026-11-06T18:01+00:00",
-     "image": "https://static.eldiario.es/clip/dcd93a29-9eca-4511-a8ec-54430c825807_16-9-discover-aspect-ratio_default_0_x1089y317.jpg"
+     "title": "Alberto Durán, el todopoderoso abogado del PP en horas bajas señalado por Koldo",
+     "link": "https://www.eldiario.es/politica/alberto-duran-todopoderoso-abogado-pp-horas-bajas-senalado-koldo_1_13644732.html",
+     "summary": "Su pérdida de influencia dentro del partido se produjo el pasado verano y se hizo público unas semanas antes de que el exasesor de Ábalos le haya señalado como la persona que le ofreció dinero para declarar contra el…",
+     "published": "2026-11-06T21:22+00:00",
+     "image": "https://static.eldiario.es/clip/499afd34-197d-4254-8640-a8f7ab9e3292_16-9-discover-aspect-ratio_default_0_x3163y840.jpg"
     },
     {
-     "title": "Muere el cineasta chileno Sebastián Lelio, ganador de un Oscar por 'Una mujer fantástica'",
-     "link": "https://www.eldiario.es/cultura/cine/muere-cineasta-chileno-sebastian-lelio-ganador-oscar-mujer-fantastica_1_13645413.html",
-     "summary": "El director tenía 52 años y su cuerpo ha sido hallado en su casa de Santiago Hemeroteca - Sebastián Lelio confía en el poder de la ficción para acabar con los fanatismos en 'The wonder' El reconocido cineasta chileno…",
-     "published": "2026-11-06T17:40+00:00",
-     "image": "https://static.eldiario.es/clip/def0368f-1eb5-4c67-95f7-77d50527fc70_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Ignacio González, visto para sentencia: las claves del primer juicio por corrupción del delfín de Esperanza Aguirre",
+     "link": "https://www.eldiario.es/politica/ignacio-gonzalez-visto-sentencia-claves-primer-juicio-corrupcion-delfin-esperanza-aguirre_1_13644929.html",
+     "summary": "Anticorrupción insiste en que familiares del expresidente madrileño se embolsaron 294.000 euros de dinero público \"a cambio de hacer nada\" con los contratos del Canal, mientras su defensa sostiene que no hay rastro de…",
+     "published": "2026-11-06T21:22+00:00",
+     "image": "https://static.eldiario.es/clip/e9cd1f0d-df28-4324-bb55-9091296a4f17_16-9-discover-aspect-ratio_default_1155169.jpg"
     },
     {
-     "title": "Tabaco, whisky y 12.000 calorías: así forjó Big Show su personaje de gigante en WWE",
-     "link": "https://www.eldiario.es/spin/tabaco-whisky-12-000-calorias-forjo-big-show-personaje-gigante-wwe-pm_1_13643725.html",
-     "summary": "En su paso por 'High Performance Podcast', el exluchador de WWE explica cómo sus excesos, las lesiones y una etapa de depresión le llevaron a cambiar de vida y alejarse temporalmente del ring “Con menos músculo todo…",
-     "published": "2026-11-06T17:30+00:00",
-     "image": "https://static.eldiario.es/clip/2df1fbe8-3308-4dc6-a956-3bf83d590685_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "La F1 llega a Brasil con el podio de marcas abierto",
-     "link": "https://www.eldiario.es/motor/competicion-y-estilo/f1-llega-brasil-podio-marcas-abierto_1_13645221.html",
-     "summary": "La competición llega al GP de Brasil que se disputa en el prometedor circuito de Interlagos con el Mundial de pilotos resuelto pero con el podio de marcas todavía por decidir. Lo analiza el Podcast Técnica Fórmula 1 F1…",
-     "published": "2026-11-06T17:27+00:00",
-     "image": "https://static.eldiario.es/clip/71ced5a8-57dd-481c-9a5c-2b2835f87403_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Okdiario amenaza con demandar a elDiario.es por la información sobre sus pagos a la abogada de Koldo García",
-     "link": "https://www.eldiario.es/politica/okdiario-amenaza-demandar-eldiario-informacion-pagos-abogada-koldo-garcia_1_13644826.html",
-     "summary": "El digital que dirige Eduardo Inda exige rectificar la información de este medio sobre los 242.000 euros que abonó mientras pide a su abogada que cambie, un año después, el concepto de las facturas ¿Por qué pagó…",
-     "published": "2026-11-06T16:40+00:00",
-     "image": "https://static.eldiario.es/clip/88932d42-a031-49df-9335-0de60a9ef9c8_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Cómo se organiza la huelga del 11N: del desahucio de Maricarmen a parar un país por la vivienda",
+     "link": "https://www.eldiario.es/economia/organiza-huelga-11n-desahucio-maricarmen-parar-pais-vivienda_1_13639701.html",
+     "summary": "Una agenda frenética de asambleas, de barrio y de trabajadores, impulsan la llama de indignación por la vivienda para vaciar los centros de trabajo, con sindicatos e Inquilinas unidos de manera inédita Alicia del Río…",
+     "published": "2026-11-06T21:22+00:00",
+     "image": "https://static.eldiario.es/clip/68ee7be2-c297-4f2c-9e94-e253dad3d1bc_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -1004,17 +1004,31 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
+     "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+     "summary": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.",
+     "published": "2026-11-07T05:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+     "summary": "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday.",
+     "published": "2026-11-07T05:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-photo-wmgh/07int-france-protest-photo-wmgh-mediumSquareAt3X.jpg"
+    },
+    {
      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
      "summary": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
-     "published": "2026-11-06T23:05+00:00",
+     "published": "2026-11-07T02:14+00:00",
      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Paraguay’s President Removed Over Financial Crisis",
+     "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-     "summary": "Millions lost access to their savings, and the nation’s president was impeached and removed from office Friday after a major bank with close ties to his administration went under.",
-     "published": "2026-11-06T22:55+00:00",
+     "summary": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+     "published": "2026-11-07T01:29+00:00",
      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg"
     },
     {
@@ -1044,20 +1058,6 @@
      "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
      "published": "2026-11-06T20:07+00:00",
      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-     "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-     "summary": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
-     "published": "2026-11-06T19:24+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
-     "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
-     "summary": "In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting was fueled by years of anti-immigrant sentiment.",
-     "published": "2026-11-06T19:19+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -1083,16 +1083,16 @@
      "image": ""
     },
     {
-     "title": "'An extinction-level event': How the GOP's midterm collapse upends 2028 race for White House",
-     "link": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
-     "summary": "Democratic upsets in this year's midterms could reshape the electoral map, and the fight for the White House in 2028.",
+     "title": "Trump vows to fight on as clock ticks on permanent daylight saving time bill",
+     "link": "https://www.latimes.com/california/story/2026-11-06/trump-vows-to-fight-for-year-round-daylight-saving-time",
+     "summary": "Trump has vowed to 'keep fighting' for permanent daylight saving time. A bill to accomplish that passed the House this summer but has stalled in the Senate with weeks left before recess.",
      "published": "2026-11-06T11:00+00:00",
      "image": ""
     },
     {
-     "title": "Trump vows to fight on as clock ticks on permanent daylight saving time bill",
-     "link": "https://www.latimes.com/california/story/2026-11-06/trump-vows-to-fight-for-year-round-daylight-saving-time",
-     "summary": "Trump has vowed to 'keep fighting' for permanent daylight saving time. A bill to accomplish that passed the House this summer but has stalled in the Senate with weeks left before recess.",
+     "title": "'An extinction-level event': How the GOP's midterm collapse upends 2028 race for White House",
+     "link": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
+     "summary": "Democratic upsets in this year's midterms could reshape the electoral map, and the fight for the White House in 2028.",
      "published": "2026-11-06T11:00+00:00",
      "image": ""
     },
@@ -1134,60 +1134,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "La Fiscalía de Paraguay ordenó el arresto del destituido presidente Santiago Peña",
-     "link": "https://www.infobae.com/america/america-latina/2026/11/06/la-fiscalia-de-paraguay-ordeno-el-arresto-del-destituido-presidente-santiago-pena/",
-     "summary": "La disposición fue dictada por los fiscales de Delitos Económicos y Anticorrupción Elena Fiore, Christian Benítez y Silvia González Véster, junto con la agente de la Unidad Especializada en Delitos Informáticos y Lavado…",
-     "published": "2026-11-06T23:03+00:00",
-     "image": "https://www.infobae.com/resizer/v2/7VORVKFNFJEPNH7A7JS3K7JHJM?auth=fe2c077388d511c88c847ce77c89c803cf431e393abdc4817b4643e220b8953f&smart=true&width=3386&height=1905"
+     "title": "El ex presidente del Banco Central de Paraguay se entregó a la Policía tras el escándalo de Ueno Bank",
+     "link": "https://www.infobae.com/america/america-latina/2026/11/07/el-ex-presidente-del-banco-central-de-paraguay-se-entrego-ante-la-justicia-tras-el-escandalo-de-ueno-bank/",
+     "summary": "La presentación de Carlos Carvallo ocurrió el viernes por la noche en el Departamento de Investigaciones de la Policía Nacional de Asunción, después de que el Ministerio Público dispusiera su captura dentro de la…",
+     "published": "2026-11-07T05:49+00:00",
+     "image": "https://www.infobae.com/resizer/v2/HOBUJBLYWNCUXC4DWW5WTWQV7E.jpg?auth=d703ea152ec6f9b4d0ac5e8f2e19cf6a78b588a506012089ef6631c06691193d&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Independiente vence a Riestra y avanza a los octavos del Torneo Clausura, mientras que San Lorenzo pierde y queda eliminado",
-     "link": "https://www.infobae.com/deportes/2026/11/06/independiente-san-lorenzo-platense-y-union-buscan-su-lugar-en-los-playoffs-del-torneo-clausura-todo-lo-que-hay-que-saber/",
-     "summary": "El Rojo se enfrenta a Riestra y el Ciclón choca ante Platense. Además, Unión se mide al clasificado Vélez",
-     "published": "2026-11-06T23:03+00:00",
-     "image": "https://www.infobae.com/resizer/v2/SGEDCUCIIJEGTFLJ7QQWPGYRLA.JPG?auth=18511e9632f2abb5f2329d351ec24e604c7a29ef6286c30848e1db0e814acde9&smart=true&width=4091&height=2301"
+     "title": "EN VIVO | Crisis en Paraguay: Santiago Peña fue trasladado de urgencia al Regimiento Escolta Presidencial tras los incidentes frente a su domicilio",
+     "link": "https://www.infobae.com/america/america-latina/2026/11/06/crisis-politica-en-paraguay-en-vivo/",
+     "summary": "Tres camionetas salieron de la residencia del ex presidente de Paraguay durante un operativo desplegado en medio de tensiones en las inmediaciones. La medida respondió a las versiones sobre la posible presencia de…",
+     "published": "2026-11-07T05:48+00:00",
+     "image": "https://www.infobae.com/resizer/v2/YRAB3DUXJRHNRGREBHXWVKSAGA.jfif?auth=2c6aac087a384ea5b3edbae67ad09b85d29beef64b3652a65a1df51fe2888b4f&smart=true&width=1600&height=1066"
     },
     {
-     "title": "Japón dona 2 millones de dólares para apoyar a los afectados por el terremoto en Colombia",
-     "link": "https://www.infobae.com/america/agencias/2026/11/06/japon-dona-2-millones-de-dolares-para-apoyar-a-los-afectados-por-el-terremoto-en-colombia/",
-     "summary": "Bogotá, 6 nov (EFE).- El Gobierno de Japón donó dos millones de dólares a Colombia para apoyar la atención y la recuperación de las comunidades afectadas por el terremoto de magnitud 7,4 que devastó al centro-oeste del…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": ""
+     "title": "El vino mendocino de 125 años que llegará a la misa del papa León XIV en Córdoba: una historia de fe, educación y solidaridad",
+     "link": "https://www.infobae.com/sociedad/2026/11/07/el-vino-mendocino-de-125-anos-que-llegara-a-la-misa-del-papa-leon-xiv-en-cordoba-una-historia-de-fe-educacion-y-solidaridad/",
+     "summary": "Elaborado desde 1901 en la Obra de Don Bosco, en Rodeo del Medio, el vino licoroso une tradición vitivinícola, formación de jóvenes y una misión solidaria que ahora tendrá un momento especial en Córdoba",
+     "published": "2026-11-07T05:46+00:00",
+     "image": "https://www.infobae.com/resizer/v2/BNTJPB6PMNDBZNTURLQVDV3VCU.jpg?auth=6b30c13a5f2420e6542aaafba918234fa3957a23d7c014f78b2bbcc0aff36976&smart=true&width=1920&height=1080"
     },
     {
-     "title": "La Justicia de Paraguay ordena detener a Santiago Peña tras su destitución",
-     "link": "https://www.infobae.com/america/agencias/2026/11/06/la-justicia-de-paraguay-ordena-detener-a-santiago-pena-tras-su-destitucion/",
-     "summary": "Asunción, 6 nov (EFE).- La Fiscalía de Paraguay ordenó este viernes la detención del expresidente Santiago Peña por \"lesión de confianza\" y solo minutos después de que el Senado lo removiera del cargo y lo dejara sin…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": ""
+     "title": "Un Papa apasionado por los autos, por la música y el día que lo dieron por muerto: las facetas desconocidas de León XIV",
+     "link": "https://www.infobae.com/sociedad/2026/11/07/un-papa-apasionado-por-los-autos-por-la-musica-y-el-dia-que-lo-dieron-por-muerto-las-facetas-desconocidas-de-leon-xiv/",
+     "summary": "En 2025, pocos meses después de que Robert Francis Prevost se convirtiera en León XIV, y luego de recibir un pedido que no se esperaba por parte de una editorial que conocía su vínculo con él, el biblista Armando Lovera…",
+     "published": "2026-11-07T05:46+00:00",
+     "image": "https://www.infobae.com/resizer/v2/4YAWW3ELPBEMDJQ2DAMCI5JZDM.png?auth=12c77ef839dfcc0f6b2d5f93d64cd530e81c8e91b29519d9c41a4119a7a23df7&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Pedro Alliana jura como nuevo presidente de Paraguay tras destitución de Santiago Peña",
-     "link": "https://www.infobae.com/america/agencias/2026/11/06/pedro-alliana-jura-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena/",
-     "summary": "Asunción, 6 nov (EFE).- Pedro Alliana, hasta hoy vicepresidente, juró este viernes ante el Congreso como el nuevo gobernante de Paraguay poco después de la destitución, en un juicio político, de Santiago Peña, en medio…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": ""
+     "title": "Takaichi aprueba un plan de emergencia para frenar los ciberataques sufridos contra empresas e instituciones",
+     "link": "https://www.infobae.com/america/agencias/2026/11/07/takaichi-aprueba-un-plan-de-emergencia-para-frenar-los-ciberataques-sufridos-contra-empresas-e-instituciones/",
+     "summary": "El Gobierno de Japón ha aprobado este viernes un paquete de medidas de emergencia para frenar la reciente oleada de ciberataques y filtraciones de datos masivos que ha golpeado a empresas e instituciones estatales del…",
+     "published": "2026-11-07T05:45+00:00",
+     "image": "https://www.infobae.com/resizer/v2/VONYBTDXIJFURBBXDTRKXN2NZU.jpg?auth=d0a8acc1efac0bc956d16122b7422cbaa44569a28f09693f544bac30a4ee3c1d&smart=true&width=1920&height=1281"
     },
     {
-     "title": "Sorteo Superior 2903: Resultados viernes 6 de noviembre del 2026 de la Lotería Nacional",
-     "link": "https://www.infobae.com/mexico/2026/11/06/sorteo-superior-2903-resultados-viernes-6-de-noviembre-del-2026-de-la-loteria-nacional/",
-     "summary": "El plazo para cobrar el premio es de 60 días a partir de la fecha en que se anuncian los resultados para quienes hayan adquirido uno de los cachitos ganadores",
-     "published": "2026-11-06T23:01+00:00",
-     "image": "https://www.infobae.com/resizer/v2/K7PN2X4ODBAEXKARXHAT4HCVNU.png?auth=b618fce327513643268d98d498e0941a92a66ea041e1e7d210a09e464122b3e5&smart=true&width=518&height=303"
+     "title": "Trump anuncia la reforma del Centro Espacial Kennedy de la NASA y asegura que EEUU volverá a la Luna en dos años",
+     "link": "https://www.infobae.com/america/agencias/2026/11/07/trump-anuncia-la-reforma-del-centro-espacial-kennedy-de-la-nasa-y-asegura-que-eeuu-volvera-a-la-luna-en-dos-anos/",
+     "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este viernes la renovación del Salón Aeronáutico del Centro Espacial Kennedy de la NASA y ha prometido que Estados Unidos \"devolverá\" a sus astronautas a la…",
+     "published": "2026-11-07T05:45+00:00",
+     "image": "https://www.infobae.com/resizer/v2/R5IBAJYV2VAFHCMZTMWU4F4EAE.jpg?auth=5a89d5ff1f43d504a66d3f3327a944a32d75a31ee903bdf3d0cde957da000cac&smart=true&width=1920&height=1280"
     },
     {
-     "title": "Capturan en Colombia a dos ciudadanos rusos por tráfico de cocaína a Estados Unidos",
-     "link": "https://www.infobae.com/america/agencias/2026/11/06/capturan-en-colombia-a-dos-ciudadanos-rusos-por-trafico-de-cocaina-a-estados-unidos/",
-     "summary": "Bogotá, 6 nov (EFE).- Dos ciudadanos rusos conocidos con los alias de Oleg y Vito, señalados de integrar una organización criminal dedicada al envío de cocaína hacia Estados Unidos y Europa mediante rutas marítimas…",
-     "published": "2026-11-06T23:00+00:00",
-     "image": ""
+     "title": "Silicon Misiones, el hub tecnológico que apuesta a la economía del conocimiento como motor de desarrollo",
+     "link": "https://www.infobae.com/def/2026/11/07/silicon-misiones-el-hub-tecnologico-que-apuesta-a-la-economia-del-conocimiento-como-motor-de-desarrollo/",
+     "summary": "Con más de 80 empresas socias, este polo de innovación tecnológica combina espacios de trabajo, formación, networking y rondas de negocios en una moderna sede ubicada a metros del aeropuerto de Posadas",
+     "published": "2026-11-07T05:45+00:00",
+     "image": "https://www.infobae.com/resizer/v2/VGFUSWUBZRAABJOKZKSV5PKCDI.jpg?auth=278b49757bd1607e966cc4293bbe54878b7bbac4ab69841058eef597af89c9a9&smart=true&width=1920&height=1080"
     },
     {
-     "title": "El Everton abre la jornada 10 con remontada al Coventry City",
-     "link": "https://www.infobae.com/america/agencias/2026/11/06/el-everton-abre-la-jornada-10-con-remontada-al-coventry-city/",
-     "summary": "El Everton FC ha ganado este viernes en casa por 3-1 al Coventry City en el partido inaugural de la jornada 10 en la Premier League, remontada incluida de los 'toffees' gracias a un doblete de Thierno Barry y a otro gol…",
-     "published": "2026-11-06T23:00+00:00",
-     "image": "https://www.infobae.com/resizer/v2/SIU47CAVHNF2VGBVIDRCKQTQFA.jpg?auth=05d65b71bcc9f07e139487db3c547c8be2504474e54c2bb91cea88521ee4a2a3&smart=true&width=1920&height=1246"
+     "title": "El Pentágono recurre a Elon Musk para liderar la mayor revolución bélica desde la bomba atómica",
+     "link": "https://www.infobae.com/def/2026/11/07/el-pentagono-recurre-a-elon-musk-para-liderar-la-mayor-revolucion-belica-desde-la-bomba-atomica/",
+     "summary": "Frente a la desventaja en la producción masiva de drones económicos y el temor a un choque de alta intensidad en el Indopacífico, Washington reestructura sus Fuerzas Armadas mediante un comando unificado, alianzas con…",
+     "published": "2026-11-07T05:44+00:00",
+     "image": "https://www.infobae.com/resizer/v2/LFQDPVYPAZFWJF4XJHSNOEIINU.jpg?auth=c2f4142ef4a7ec71312ee4bc5f80ac82765c975d724cf0e6b526d95fcf7b5a38&smart=true&width=1920&height=1080"
     }
    ]
   },
@@ -1199,59 +1199,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Ações dos EUA ensaiam recuperação tímida após derrocada de US$ 3,2 tri por temores com a IA",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/acoes-dos-eua-ensaiam-recuperacao-timida-apos-derrocada-de-us-32-tri-por-temores-com-a-ia.shtml",
-     "summary": "As ações de Wall Street se estabilizaram nesta sexta-feira (6), um dia após a vitória dos democratas nas eleições de meio de mandato dos Estados Unidos desencadear uma debandada dos papéis ligados à inteligência…",
-     "published": "2026-11-06T22:50+00:00",
+     "title": "'Payo' Cubas é vaiado e retirado de ato no centro de Assunção, no Paraguai",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/payo-cubas-e-vaiado-e-retirado-de-ato-no-centro-de-assuncao-no-paraguai.shtml",
+     "summary": "Paraguayo \"Payo\" Cubas, ex-candidato à Presidência do Paraguai , foi recebido com vaias e protestos por um grupo de jovens ao se aproximar de uma manifestação nas imediações do Congresso Nacional, no centro de Assunção…",
+     "published": "2026-11-07T05:43+00:00",
      "image": ""
     },
     {
-     "title": "Tony Bellotto é internado e não participa de congresso sobre câncer no Rio",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/tony-bellotto-e-internado-e-nao-participa-de-congresso-sobre-cancer-no-rio.shtml",
-     "summary": "O músico e escritor Tony Bellotto , 66, teve uma intercorrência clínica e está internado no Rio de Janeiro . Com isso, ele não participou da aula magna que daria no congresso da Sboc (Sociedade Brasileira de Oncologia…",
-     "published": "2026-11-06T22:42+00:00",
+     "title": "'Autobiografia do Vermelho' demonstra por que Anne Carson ganhou o Nobel",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/autobiografia-do-vermelho-demonstra-por-que-anne-carson-ganhou-o-nobel.shtml",
+     "summary": "\"Autobiografia do Vermelho\" não é bem uma autobiografia. É um romance em versos e uma das razões pelas quais sua autora, Anne Carson , se tornou a mais nova vencedora do Nobel de Literatura . O livro parte de um mito…",
+     "published": "2026-11-07T04:00+00:00",
      "image": ""
     },
     {
-     "title": "Richarlison e Amanda Araújo revelam sexo e nome do segundo bebê",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/richarlison-e-amanda-araujo-revelam-sexo-e-nome-do-segundo-bebe.shtml",
-     "summary": "Cinco dias depois de anunciarem que estão à espera do segundo filho , Richarlison e Amanda Araújo revelaram nesta sexta-feira (6) que o novo integrante da família será uma menina, que receberá o nome de Aurora. O casal…",
-     "published": "2026-11-06T22:37+00:00",
+     "title": "A Fazenda 18: Romance de Ana Bruna Avila e Lucas Bissoli provoca racha entre aliados e ameaça grupo",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-romance-de-ana-bruna-avila-e-lucas-bissoli-provoca-racha-entre-aliados-e-ameaca-grupo.shtml",
+     "summary": "O romance entre Ana Bruna Avila e Lucas Bissoli está causando um racha entre os aliados da influenciadora em A Fazenda 18 ( Record ). Depois que os dois se beijaram na madrugada desta sexta-feira (6), Tina Calamba…",
+     "published": "2026-11-07T03:32+00:00",
      "image": ""
     },
     {
-     "title": "Paranaense Marcella Kozinski embarca para Porto Rico para disputar o Miss Universo 2026",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/11/paranaense-marcella-kozinski-embarca-para-porto-rico-para-disputar-o-miss-universo-2026.shtml",
-     "summary": "A modelo paranaense Marcella Kozinski, 26, embarca nesta sexta-feira (6) rumo a Porto Rico , onde representará o Brasil no Miss Universo 2026. A despedida no Aeroporto Internacional de Guarulhos , na Grande São Paulo …",
-     "published": "2026-11-06T22:28+00:00",
+     "title": "A Fazenda 18: Giovanna Gold perde dinheiro em golpe e pede ajuda aos seguidores",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-giovanna-gold-perde-dinheiro-em-golpe-e-pede-ajuda-aos-seguidores.shtml",
+     "summary": "Giovanna Gold , 62, usou as redes sociais nesta sexta-feira (6) para contar que foi vítima de um golpe financeiro após deixar A Fazenda 18 ( Record ). A atriz afirmou que perdeu todo o dinheiro que tinha na conta…",
+     "published": "2026-11-07T02:07+00:00",
      "image": ""
     },
     {
-     "title": "Prédio de quatro andares desaba no Brás, na região central de São Paulo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/predio-de-quatro-andares-desaba-no-bras-na-regiao-central-de-sao-paulo.shtml",
-     "summary": "Um prédio de quatro andares desabou no início da noite desta sexta-feira (6) na rua Maria Joaquina 192, no bairro comercial do Brás, na região central de São Paulo . Leia mais (11/06/2026 - 19h23)",
-     "published": "2026-11-06T22:23+00:00",
+     "title": "Líder de seita acusado da morte de 190 crianças é condenado a 200 anos de prisão no Quênia",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lider-de-seita-acusado-da-morte-de-190-criancas-e-condenado-a-200-anos-de-prisao-no-quenia.shtml",
+     "summary": "Um tribunal do Quênia condenou nesta sexta-feira (6) Paul Mackenzie, líder de uma seita, a 200 anos de prisão pelo assassinato de 190 crianças que morreram de fome por ordem dele e foram enterradas em uma floresta. Elas…",
+     "published": "2026-11-07T02:03+00:00",
      "image": ""
     },
     {
-     "title": "Cadernos inéditos de Karl Marx vão sair em livro no próximo ano pela Ubu",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/11/cadernos-ineditos-de-karl-marx-vao-sair-em-livro-no-proximo-ano-pela-ubu.shtml",
-     "summary": "Um material ainda inédito produzido pelo alemão Karl Marx vai sair em um livro caprichado da Ubu no próximo ano, pouco tempo depois de a editora se tornar uma nova queridinha entre os marxistas com sua reedição dos três…",
-     "published": "2026-11-06T22:22+00:00",
+     "title": "Não há solução mágica para a segurança, mas dados são um caminho, diz procurador",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/11/nao-ha-solucao-magica-para-a-seguranca-mas-dados-sao-um-caminho-diz-procurador.shtml",
+     "summary": "O Brasil já soma mais de 1.200 ADPFs (Arguição de Descumprimento do Preceito Fundamental). Esse recurso jurídico, via STF (Supremo Tribunal Federal) ganha vida, em geral, quando não há outro meio eficaz para sanar uma…",
+     "published": "2026-11-07T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Alunos de medicina compartilham ofensas e ameaças contra eleitores de Lula em grupos após eleição",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alunos-de-medicina-compartilham-ofensas-e-ameacas-contra-eleitores-de-lula-em-grupos-apos-eleicao.shtml",
-     "summary": "Alunos de medicina da Faculdade São Leopoldo Mandic, em Campinas (SP), afirmam ter sido alvo de ofensas e intimidações em grupos de WhatsApp de estudantes depois da vitória do presidente Lula (PT) sobre o senador Flávio…",
-     "published": "2026-11-06T22:10+00:00",
+     "title": "Classe trabalhadora branca, base de Trump, distancia-se do presidente",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/classe-trabalhadora-branca-base-de-trump-distancia-se-do-presidente.shtml",
+     "summary": "As recentes eleições de meio de mandato nos Estados Unidos revelaram uma fragmentação na base mais fiel do presidente Donald Trump , a classe trabalhadora branca americana e os homens brancos jovens sem ensino superior…",
+     "published": "2026-11-07T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Morre Nilton Travesso, diretor pioneiro da televisão brasileira, aos 92 anos",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-nilton-travesso-um-dos-grandes-diretores-brasileiros-aos-92-anos.shtml",
-     "summary": "Nilton Travesso, um dos principais diretores e produtores da televisão brasileira, morreu nesta sexta-feira (6), aos 92 anos. Ele estava internado desde o início da semana no Hospital Sírio-Libanês, tratando um quadro…",
-     "published": "2026-11-06T22:03+00:00",
+     "title": "Agricultura familiar precisa de apoio que vá além do discurso",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/agricultura-familiar-precisa-de-apoio-que-va-alem-do-discurso.shtml",
+     "summary": "A agricultura familiar é valorizada pela sociedade brasileira por sua importância para a produção de alimentos e para a redução da pobreza. Entretanto, esse reconhecimento contrasta com o acesso limitado dos…",
+     "published": "2026-11-07T02:00+00:00",
      "image": ""
     }
    ]
@@ -1264,60 +1264,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Polícia investiga tentativa de reativar banco extinto há mais de 60 anos para aplicar golpe bilionário",
-     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/06/policia-investiga-tentativa-de-reativar-banco-extinto-ha-mais-de-60-anos-para-aplicar-golpe-bilionario.ghtml",
-     "summary": "Grupo criminoso que reativou banco extinto há 60 anos para obter vantagens financeiras, segundo Polícia Oito pessoas foram indiciadas por suspeita de participar de um esquema criminoso que tentou reativar um banco…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": "https://s2-g1.glbimg.com/xG2qhEvfgutTphesKwCBAjuwsks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/m/SqxxaeSmqS1IK88IKOww/imagem-cortada-52-.jpg"
+     "title": "Homem venezuelano é preso perto da Casa Branca após dizer que iria matar Trump",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/07/homem-preso-eua-matar-trump.ghtml",
+     "summary": "Ronny Yordrix Guanipa Chrinos, suspeito preso pelo Serviço Secreto dos EUA nos arredores da Casa Branca Divulgação / Departamento de Segurança Interna dos EUA O Serviço Secreto dos Estados Unidos (EUA) prendeu no…",
+     "published": "2026-11-07T05:04+00:00",
+     "image": "https://s2-g1.glbimg.com/RE6RJCR_iQieAK2b0zZk-gwLg-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/S/y0w27MQnygJtKTy5FSiA/montagem-highlight-right-1280x720px.jpg"
     },
     {
-     "title": "Adolescente de 14 anos ataca colega com tesouradas no pescoço dentro de escola no Paraná e é apreendida",
-     "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/06/adolescente-de-14-anos-ataca-colega.ghtml",
-     "summary": "Tesoura escolar foi usada durante ataque PCPR Uma adolescente de 14 anos foi apreendida após atacar uma colega da mesma idade com tesouradas no pescoço, dentro de uma sala de aula do Colégio Estadual Cívico-Militar…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": "https://s2-g1.glbimg.com/YcV2oBMBAxE3mUhf0G3Tp9oOulg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/VpiVAnRrutepPOrqf4DA/g1-pr-2026-11-06t191803.399.jpg"
+     "title": "Afeto usado para manipular: como golpistas controlam vítimas e pedem dinheiro no estelionato sentimental",
+     "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/07/afeto-usado-para-manipular-como-golpistas-controlam-vitimas-e-pedem-dinheiro-no-estelionato-sentimental.ghtml",
+     "summary": "Como golpistas controlam vítimas e pedem dinheiro no estelionato sentimental Pelo menos cinco mulheres procuraram a polícia para denunciar Fernando Vasco Fernandes, de 38 anos, de Sertãozinho (SP), por suspeita de…",
+     "published": "2026-11-07T05:03+00:00",
+     "image": "https://s2-g1.glbimg.com/DEZlEoVXItIwAUelBbpn1AY91E8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/3CPd2YTjA6eYSvSBFZbg/fernando-vasco-fernandes.jpg"
     },
     {
-     "title": "Polícia Civil encontra corpo de empresário do ES em Cabo Frio, RJ, após simulação de sequestro",
-     "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/06/policia-civil-encontra-corpo-de-empresario-do-es-em-cabo-frio-rj-apos-simulacao-de-sequestro.ghtml",
-     "summary": "Polícia acha corpo de empresário que estava desaparecido em Cabo Frio A Polícia Civil encontrou o corpo de um empresário do Espírito Santo enterrado em uma cova rasa no bairro Unamar, em Cabo Frio, na Região dos Lagos…",
-     "published": "2026-11-06T23:00+00:00",
-     "image": ""
+     "title": "Tornado F4 que matou 6 pessoas e devastou cidade do Paraná com ventos de até 418 km/h completa um ano: 'Memórias difíceis'",
+     "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/07/tornado-f4-que-matou-6-pessoas-e-devastou-cidade-do-parana-com-ventos-de-ate-418-kmh-completa-um-ano-memorias-dificeis.ghtml",
+     "summary": "Moradores de Rio Bonito do Iguaçu contam como vivem após tornado \"Para mim, foram dois sentimentos muito diferentes: o primeiro, de agradecer a Deus pela vida; de a gente olhar e estar todo mundo vivo, ninguém…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/98O6qTZUedY-jH4l0fqkPOKpNgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/T/yQxhHcQF2bz2y49MSl9g/midia-de-distribuicao-g1-69-.jpg"
     },
     {
-     "title": "PF prende suspeito de integrar esquema de falsificação de documentos em Tabatinga, no Amazonas",
-     "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/06/pf-prende-suspeito-de-integrar-esquema-de-falsificacao-de-documentos-em-tabatinga-no-amazonas.ghtml",
-     "summary": "Prisão foi realizada no âmbito da Operação Papel Fantasma, da Polícia Federal. Divulgação/PF Um homem, que não teve a identidade divulgada, foi preso preventivamente nesta sexta-feira (6), em Tabatinga, no interior do…",
-     "published": "2026-11-06T22:58+00:00",
-     "image": "https://s2-g1.glbimg.com/Ng77PdsNiT_8qKeQjvvUj49c170=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/POL7aRTIyE21IdPZ5A2Q/operacao-papel-fantasma.jpeg"
+     "title": "Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo",
+     "link": "https://g1.globo.com/ciencia/noticia/2026/11/07/mercurio-contaminou-mais-sitios-arqueologicos-maias-do-que-se-imaginava-diz-estudo.ghtml",
+     "summary": "Turistas escalam pirâmide maia de Nohoch Mul no sítio arqueológico de Coba. REUTERS/Victor Gerardo Ruiz Garcia Para os antigos maias, o cinábrio — um mineral de cor vermelha vibrante — tinha um profundo significado…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/OXX3xOvlOL7Zjl3VAPPnd5DX1WM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/l/m3Q4SIQAOgWUvK8BeU6g/2026-11-06t135852z-1-lynxnpema51cb-rtroptp-4-science-maya.jpg"
     },
     {
-     "title": "Cerimônia no Theatro da Paz marca entrega do título de Patrimônio Mundial da Unesco",
-     "link": "https://g1.globo.com/pa/para/noticia/2026/11/06/cerimonia-no-theatro-da-paz-marca-entrega-do-titulo-de-patrimonio-mundial-da-unesco.ghtml",
-     "summary": "Theatro da Paz recebe o título oficial de Patrimônio Mundial da Unesco O Theatro da Paz, em Belém, recebe oficialmente nesta sexta-feira (6) o título de Patrimônio Mundial da Organização das Nações Unidas para a…",
-     "published": "2026-11-06T22:57+00:00",
-     "image": "https://s2-g1.glbimg.com/K11CScHbC5RmCezzAQZInrJX4xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/B/xO1dd2RLO8Z3UatbtlkQ/8.webp"
+     "title": "Funcionária relata demissão por ir ao banheiro sem autorização após esperar por 1h30 em rede atacadista, diz Justiça",
+     "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/07/funcionaria-relata-demissao-por-ir-ao-banheiro-sem-autorizacao-apos-esperar-por-1h30-em-rede-atacadista-diz-justica.ghtml",
+     "summary": "Rede Assaí Atacadista Divulgação Uma funcionária da rede Assaí Atacadista em Piracicaba (SP) relatou ter sido demitida por ir ao banheiro sem autorização após esperar durante 1h30 sem receber uma permissão. A empresa…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/f1U3ivXHXukXMYqPUUoL3GmNOrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/acoqRnTsigiHgwf4FkaA/assai.jpg"
     },
     {
-     "title": "Vidros de estações de ônibus são retirados após atos recorrentes de vandalismo em Teresina",
-     "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/06/vidros-estacoes-onibus-teresina-retirados-vandalismo.ghtml",
-     "summary": "Parada depredada na av. Duque de Caxias, em Teresina Eduarda Barradas (G1) A Superintendência Municipal de Transportes e Trânsito (Strans) começou a retirar as portas de vidro das estações de ônibus de Teresina devido…",
-     "published": "2026-11-06T22:55+00:00",
-     "image": "https://s2-g1.glbimg.com/UtMhZXxEtbU7Gas5fhWWbcYx1UE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/E/FpdBULSNGra4e4TvEMrQ/edicao-imagens-g1-89-.jpg"
+     "title": "Reeleita, Celina Leão terá desafio de reativar fomento à cultura, fortalecer FAC e bibliotecas no DF",
+     "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/07/reeleita-celina-leao-tera-desafio-de-reativar-fomento-a-cultura-fortalecer-fac-e-bibliotecas-no-df.ghtml",
+     "summary": "Verbas da Cultura estão bloqueadas pelo GDF A relação do governo do Distrito Federal com o setor cultural, em 2026, foi marcada até aqui por uma sequência de críticas e problemas graves de subfinanciamento, adiamentos e…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/cTam8cOS_1GAv2teUYx1tpok6Cc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/z/xaycylTKuyA6dO2klKWw/celina-leao-2-.jpeg"
     },
     {
-     "title": "Câmeras de segurança captam passagem de tornado por Maringá; assista",
-     "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/06/cameras-de-seguranca-captam-passagem-de-tornado-por-maringa-assista.ghtml",
-     "summary": "Imagens mostram passagem de tornado por Maringá Três minutos separaram o início da chuva e a passagem do tornado por Maringá, no Norte do Paraná, na madrugada da última segunda-feira (2). Imagens divulgadas pela…",
-     "published": "2026-11-06T22:55+00:00",
-     "image": "https://s2-g1.glbimg.com/v4B_5KPVNf0Z5lZJHfFmdvqfquQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/0YHTMKTTyBQvOzAhtIww/design-sem-nome-54-.jpg"
+     "title": "Ex-executiva troca carreira de 20 anos para fazer queijos e fatura R$ 500 mil por ano",
+     "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/07/ex-executiva-troca-carreira-de-20-anos-para-fazer-queijos-e-fatura-r-500-mil-por-ano.ghtml",
+     "summary": "Queijaria na represa transforma degustação em negócio de sucesso Durante duas décadas, Martina Sgarbi trabalhou com números. Formada em contabilidade, construiu carreira como executiva financeira de uma rede de lojas e…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/YHwk2zlDqhPjBEUEQMwpJu9_wS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Z/6DZTD8QRmN2QGACp45gg/captura-de-tela-2026-11-06-184412.png"
     },
     {
-     "title": "Comunidade quilombola no interior do Amapá sofre com fumaça de incêndio florestal",
-     "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/06/comunidade-quilombola-no-interior-do-amapa-sofre-com-fumaca-de-incendio-florestal.ghtml",
-     "summary": "",
-     "published": "2026-11-06T22:54+00:00",
-     "image": "https://s2-g1.glbimg.com/ZIOY_83T_Rb3aZbis-8eNy7i4fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/DQE4voT2erJH35tzPQqQ/olagem.jpg"
+     "title": "Caminhonete perde freios e invade casa em Búzios: 'Foi um susto muito grande'",
+     "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/07/caminhonete-perde-freios-e-invade-casa-em-buzios-foi-um-susto-muito-grande.ghtml",
+     "summary": "Caminhonete sem freio invade casa em Búzios Uma caminhonete que transportava materiais de construção atravessou o muro de uma residência na manhã desta sexta-feira (6), no bairro José Gonçalves, em Armação dos Búzios…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://s2-g1.glbimg.com/OBxRMwYh_p518G6iGvhJdzqkFB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/dAox5xT0CDL9sGVrltwQ/carro-buzios-2-.png"
     }
    ]
   },
@@ -1329,9 +1329,51 @@
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
     {
-     "title": "Após impeachment, Ministério Público do Paraguai ordena detenção imediata de ex-presidente",
+     "title": "'Payo' Cubas é vaiado e retirado de ato no centro de Assunção, no Paraguai",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/payo-cubas-e-vaiado-e-retirado-de-ato-no-centro-de-assuncao-no-paraguai.shtml",
+     "summary": "Paraguayo \"Payo\" Cubas, ex-candidato à Presidência do Paraguai , foi recebido com vaias e protestos por um grupo de jovens ao se aproximar de uma manifestação nas imediações do Congresso Nacional, no centro de Assunção…",
+     "published": "2026-11-07T05:43+00:00",
+     "image": ""
+    },
+    {
+     "title": "Líder de seita acusado da morte de 190 crianças é condenado a 200 anos de prisão no Quênia",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lider-de-seita-acusado-da-morte-de-190-criancas-e-condenado-a-200-anos-de-prisao-no-quenia.shtml",
+     "summary": "Um tribunal do Quênia condenou nesta sexta-feira (6) Paul Mackenzie, líder de uma seita, a 200 anos de prisão pelo assassinato de 190 crianças que morreram de fome por ordem dele e foram enterradas em uma floresta. Elas…",
+     "published": "2026-11-07T02:03+00:00",
+     "image": ""
+    },
+    {
+     "title": "Classe trabalhadora branca, base de Trump, distancia-se do presidente",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/classe-trabalhadora-branca-base-de-trump-distancia-se-do-presidente.shtml",
+     "summary": "As recentes eleições de meio de mandato nos Estados Unidos revelaram uma fragmentação na base mais fiel do presidente Donald Trump , a classe trabalhadora branca americana e os homens brancos jovens sem ensino superior…",
+     "published": "2026-11-07T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "China protege da IA só o emprego que consegue enxergar",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/china-protege-da-ia-so-o-emprego-que-consegue-enxergar.shtml",
+     "summary": "Dona de um dos dois maiores aplicativos de entrega de comida da China , a Meituan lançou na segunda-feira (2) a versão final do LongCat-2.5, um modelo de inteligência artificial feito para tocar sozinho tarefas longas…",
+     "published": "2026-11-07T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Lula deseja êxito a Pedro Alliana, novo presidente do Paraguai após queda de Peña",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-deseja-exito-a-pedro-alliana-novo-presidente-do-paraguai-apos-queda-de-pena.shtml",
+     "summary": "O presidente Luiz Inácio Lula da Silva (PT) desejou \"pleno êxito\" ao novo presidente do Paraguai , Pedro Alliana, empossado nesta sexta-feira (6) logo após a conclusão do processo de impeachment contra Santiago Peña …",
+     "published": "2026-11-07T01:49+00:00",
+     "image": ""
+    },
+    {
+     "title": "Trump assina ordem que busca impedir sucessores de reformarem Salão Oval",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-assina-ordem-que-busca-impedir-sucessores-de-reformarem-salao-oval.shtml",
+     "summary": "O presidente dos Estados Unidos , Donald Trump , assinou na quinta-feira (5) uma proclamação que busca designar como monumentos nacionais o Salão Oval e a adjacente Sala do Gabinete, mantendo o foco em seus projetos de…",
+     "published": "2026-11-07T01:48+00:00",
+     "image": ""
+    },
+    {
+     "title": "Após impeachment, Santiago Peña é preso em sua casa no Paraguai",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-impeachment-ministerio-publico-do-paraguai-ordena-detencao-imediata-de-ex-presidente.shtml",
-     "summary": "O Ministério Público do Paraguai ordenou nesta sexta-feira (6) a prisão do ex-presidente Santiago Peña horas depois da aprovação do impeachment que o removeu do cargo. Leia mais (11/06/2026 - 20h04)",
+     "summary": "O ex-presidente do Paraguai foi preso nesta sexta-feira (6), horas depois da aprovação do impeachment no Congresso que o removeu do cargo . De acordo com a imprensa paraguaia, que mostrou imagens de presença policial em…",
      "published": "2026-11-06T23:04+00:00",
      "image": ""
     },
@@ -1340,48 +1382,6 @@
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/nas-ruas-de-assuncao-encontrar-um-apoiador-de-santiago-pena-e-tarefa-dificil.shtml",
      "summary": "Foi mais fácil encontrar uma loja de açaí em diferentes bairros da capital do Paraguai do que entrevistar um apoiador do agora ex-presidente Santiago Peña na semana em que o estouro do escândalo do Ueno Bank colocou o…",
      "published": "2026-11-06T22:03+00:00",
-     "image": ""
-    },
-    {
-     "title": "Senado do Paraguai aprova impeachment de Santiago Peña após escândalo, e vice assume",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/senado-do-paraguai-aprova-impeachment-de-santiago-pena-apos-escandalo-financeiro.shtml",
-     "summary": "O Senado do Paraguai aprovou por unanimidade o impeachment do presidente Santiago Peña , nesta sexta-feira (6), ao fim de um processo tenso, marcado por embates e protestos às portas do Congresso . Após a votação, Peña…",
-     "published": "2026-11-06T21:56+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ex-senador Jay Rockefeller, que transformou sistema de saúde nos EUA, morre aos 89",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ex-senador-jay-rockefeller-que-transformou-sistema-de-saude-nos-eua-morre-aos-89.shtml",
-     "summary": "John D. Jay Rockefeller 4º, herdeiro de uma das famílias mais ricas e influentes dos Estados Unidos que dedicou três décadas de sua carreira no Senado à ampliação do acesso à saúde para a população mais pobre, morreu…",
-     "published": "2026-11-06T21:50+00:00",
-     "image": ""
-    },
-    {
-     "title": "Peña publica mensagem de despedida: 'Que Deus abençoe o Paraguai'",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pena-publica-mensagem-de-despedida-que-deus-abencoe-o-paraguai.shtml",
-     "summary": "O presidente do Paraguai , Santiago Peña , publicou na tarde desta sexta-feira (6) uma mensagem de despedida em suas redes sociais, sem esclarecer se ainda está no país e sem mencionar o processo de impeachment que…",
-     "published": "2026-11-06T21:44+00:00",
-     "image": ""
-    },
-    {
-     "title": "Entenda a cronologia do impeachment do presidente do Paraguai, Santiago Peña",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/entenda-a-cronologia-do-impeachment-do-presidente-do-paraguai-santiago-pena.shtml",
-     "summary": "O caso Ueno Bank no Paraguai provocou um terremoto político no país sul-americano nesta semana, levando à abertura de um processo de impeachment contra o agora ex-presidente conservador Santiago Peña , destituído nesta…",
-     "published": "2026-11-06T21:37+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ex-diretor do Banco Central e ministro da Fazenda, Santiago Peña era visto como futuro do Partido Colorado",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ex-diretor-do-banco-central-e-ministro-da-fazenda-santiago-pena-era-visto-como-futuro-do-partido-colorado.shtml",
-     "summary": "O ex-presidente do Paraguai , Santiago Peña , de 47 anos, era visto como o futuro do Partido Colorado antes de ser forçado a renunciar por seu envolvimento com o escândalo do Ueno Bank. O banco digital, onde quase…",
-     "published": "2026-11-06T21:20+00:00",
-     "image": ""
-    },
-    {
-     "title": "María Corina visita familiares de presos políticos em temida prisão de Caracas",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/maria-corina-visita-familiares-de-presos-politicos-em-temida-prisao-de-caracas.shtml",
-     "summary": "María Corina Machado , líder opositora na Venezuela e vencedora do Nobel da Paz, visitou nesta sexta-feira (6) familiares de presos políticos que acampam há mais de 300 dias em frente a uma temida prisão nos arredores…",
-     "published": "2026-11-06T20:37+00:00",
      "image": ""
     }
    ]
@@ -1394,60 +1394,60 @@
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
     {
-     "title": "As Japan gets a Disney cruise, smaller vessels chart their own course",
-     "link": "https://www.japantimes.co.jp/life/2026/11/07/travel/cruises-japan-disney-domestic-mitsui-nyk/",
-     "summary": "Amid a boom in massive, international cruise ships, domestically operated voyages tend toward more intimate journeys.",
-     "published": "2026-11-06T23:00+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572190.jpg"
+     "title": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
+     "link": "https://www.japantimes.co.jp/news/2026/11/07/japan/politics/japan-contribution-icc-us-sanctions/",
+     "summary": "If the sanctions are fully implemented as early as April next year, the ICC could be cut off from dollar-based settlements.",
+     "published": "2026-11-07T04:27+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572854.jpg"
     },
     {
-     "title": "Magnitude 6.1 quake hits off Tokyo, but no tsunami alert issued",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/tokyo-shallow-quake/",
-     "summary": "The shallow quake hit at 7:39 pm in the sea off the coast of the country's Kanto region, the Japan Meteorological Agency said on its website.",
-     "published": "2026-11-06T12:28+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572826.jpg"
+     "title": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder",
+     "link": "https://www.japantimes.co.jp/news/2026/11/07/japan/crime-legal/us-japan-okinawa-crime/",
+     "summary": "Among the recurrence prevention measures, which were agreed upon by both sides, are lectures on Okinawa's culture and history.",
+     "published": "2026-11-07T03:24+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572856.jpg"
     },
     {
-     "title": "‘Quiet crisis’: Government expert panel convenes to tackle population decline",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/society/declining-birthrate-expert-panel/",
-     "summary": "The panel discussed how to reverse the declining birthrate trend, how to build sustainable local communities and how to cope with labor shortages.",
-     "published": "2026-11-06T11:58+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572825.jpg"
+     "title": "Japan picks 28 priority items for ¥370 trillion in investments",
+     "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
+     "summary": "The priority items, which were picked from 62 products and technologies, include semiconductors and artificial intelligence.",
+     "published": "2026-11-07T03:24+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572855.jpg"
     },
     {
-     "title": "Takaichi administration announces emergency cyberdefense package",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
-     "summary": "New measures focus on strengthening private-public cooperation and building expert teams.",
-     "published": "2026-11-06T09:20+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572753.jpg"
+     "title": "BOJ’s Ueda says unclear how long 2% inflation rate will remain",
+     "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/boj-ueda-2-inflation-rate/",
+     "summary": "Gov. Kazuo Ueda indicated an awareness that the goal had been reached hasn't yet become embedded among the broader Japanese public.",
+     "published": "2026-11-07T03:23+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572853.jpg"
     },
     {
-     "title": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
-     "summary": "Malaysian King Sultan Ibrahim granted Najib a conditional pardon in September.",
-     "published": "2026-11-06T08:49+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572784.jpg"
+     "title": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang",
+     "link": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/",
+     "summary": "Alice Huang, a Chinese executive who developed a relationship with Nvidia's leader, is believed to be an asset of the Ministry of State Security.",
+     "published": "2026-11-07T02:42+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572852.jpg"
     },
     {
-     "title": "Russell Brand guilty of rape and three sexual assaults",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/russell-brand-guilty/",
-     "summary": "The comedian also faces a further accusation of raping two more women, including a 16-year-old, and could face further criminal charges.",
-     "published": "2026-11-06T08:48+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572705.jpg"
+     "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+     "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+     "summary": "Presidents Donald Trump and Xi ​Jinping are expected to meet at two different summits, one in China and one in the U.S.",
+     "published": "2026-11-07T02:16+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572840.jpg"
     },
     {
-     "title": "Chubu Electric given business improvement order over data scandal",
-     "link": "https://www.japantimes.co.jp/business/2026/11/06/companies/chubu-electric-business-improvement-order/",
-     "summary": "The industry ministry called on the firm to eliminate the insular nature of its highly specialized nuclear power division.",
-     "published": "2026-11-06T08:44+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572776.jpg"
+     "title": "Japan and China shifting toward selective economic dependence",
+     "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/china-japan-selective-economic-dependence/",
+     "summary": "One year into an ongoing political row, the neighbors are continuing to look for new opportunities while cutting risks.",
+     "published": "2026-11-07T01:24+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572849.jpg"
     },
     {
-     "title": "Okinawa Policy Council meeting held for first time in 13 years",
-     "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/okinawa-policy-council-meeting/",
-     "summary": "The meeting was arranged in response to a request Okinawa Gov. Genta Koja made after winning the prefecture's gubernatorial election in September.",
-     "published": "2026-11-06T08:38+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572760.jpg"
+     "title": "Crisis-hit Paraguay impeaches president, replaces him with VP",
+     "link": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+     "summary": "Pedro Alliana became president of Paraguay on Friday following the impeachment of his predecessor over a massive banking crisis.",
+     "published": "2026-11-07T01:23+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572846.jpg"
     }
    ]
   },
@@ -1459,60 +1459,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "California condo parking dispute ends after decade; court rejects $292,544 legal fee claim",
-     "link": "https://timesofindia.indiatimes.com/world/us/california-condo-neighbours-fought-for-nearly-a-decade-over-a-single-garage-parking-space-the-winner-secured-legal-ownership-but-a-court-rejected-its-demand-to-recover-292544-in-lawyers-fees/articleshow/135540348.cms",
-     "summary": "In a contentious parking dispute in Orange County, condominium owners WCST Enterprises and Berit Ling faced off in court. Ultimately, the court ruled in favor of WCST, affirming its claim to garage space 38G-a. However…",
-     "published": "2026-11-06T22:29+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135540477,imgsize-142265.cms"
+     "title": "Als Nursing Hospital Opens: 14-year ALS drive builds specialised facility; 350,000 donors fund care",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/cha-eunwoo-donated-10-million-won-to-a-south-korean-als-charity-campaign-in-2023-two-years-later-a-23-9-billion-won-hospital-with-76-beds-opened-after-a-collective-fundraising-effort-backed-by-350000-donors/articleshow/135591788.cms",
+     "summary": "In March 2025, the Seungil Hope Nursing Hospital in Yongin welcomed its first ALS patients, marking a 14-year journey led by dedicated advocates Park Seung-il and Sean. This landmark facility, developed with the…",
+     "published": "2026-11-07T05:29+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135591802,imgsize-1080691.cms"
     },
     {
-     "title": "125-year-old Idaho ranch gets permanent protection",
-     "link": "https://timesofindia.indiatimes.com/world/us/in-1901-james-atchley-homesteaded-land-in-idahos-teton-valley-125-years-later-his-descendants-have-permanently-protected-1686-acres-of-their-potato-ranch-which-sits-on-a-mule-deer-migration-route-from-wyoming/articleshow/135564456.cms",
-     "summary": "A conservation easement has been established on the Flying A Ranch in Idaho to protect the land. This easement allows the Atchley family to continue their farming operations while preventing future development. The…",
-     "published": "2026-11-06T22:26+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135564554,imgsize-295492.cms"
+     "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+     "summary": "In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins…",
+     "published": "2026-11-07T04:17+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms"
     },
     {
-     "title": "New research rules out the theory of Stonehenge Altar Stone's Northeast Scottish Origin",
-     "link": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
-     "summary": "Researchers continue to explore the origins of the Altar Stone at Stonehenge, which weighs approximately six tonnes. Recent studies suggested a possible origin from northeast Scotland, but findings have complicated this…",
-     "published": "2026-11-06T21:28+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135612324,imgsize-1493967.cms"
+     "title": "France deploys 70,000 security personnel ahead of fresh nationwide protests",
+     "link": "https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms",
+     "summary": "French trade unions and student groups are organizing a day of protests against rising living costs. The Yellow Vests movement plans a separate rally in central Paris, despite an official ban on gatherings. Nationwide…",
+     "published": "2026-11-07T02:56+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135624988,imgsize-160694.cms"
     },
     {
-     "title": "Brisbane Library House Auction: former private library cleared for sale; rebuild interest grows",
-     "link": "https://timesofindia.indiatimes.com/real-estate/news/a-three-bedroom-brisbane-house-once-filled-with-thousands-of-books-became-home-to-pigeons-wasps-and-snakes-after-its-owner-entered-care-the-cleared-405-square-metre-property-is-now-heading-to-auction/articleshow/135557460.cms",
-     "summary": "After years of neglect, a three-bedroom home in Wynnum, Brisbane, has undergone a remarkable transformation. This property, once filled with a vast collection of books and memorabilia, required extensive teamwork to…",
-     "published": "2026-11-06T21:22+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135557477,imgsize-1305923.cms"
+     "title": "US offers $20 million reward for information on Iran's nuclear programme",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-offers-20-million-reward-for-information-on-irans-nuclear-programme/articleshow/135624328.cms",
+     "summary": "The United States has announced a reward of up to $20 million for information regarding Iran's nuclear program. This reward aims to gather details about facilities, equipment, and personnel involved with the program…",
+     "published": "2026-11-07T01:57+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135624369,imgsize-57328.cms"
     },
     {
-     "title": "Louisiana woman fights uncle over mother's estate for 13 years; court revives part of lawsuit",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-woman-alleged-her-uncle-sold-interests-in-nearly-300-acres-from-her-mothers-estate-to-himself-23-years-after-her-mothers-death-an-appeals-court-revived-part-of-her-lawsuit-but-vacated-a-10000-award/articleshow/135575388.cms",
-     "summary": "A Louisiana woman accused her uncle of transferring interests in nearly 300 acres of her late mother's estate to himself and businesses linked to him. More than 23 years after her mother's death, an appeals court…",
-     "published": "2026-11-06T20:28+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135575851,imgsize-135418.cms"
+     "title": "US-China trade talks to continue as Washington presses Beijing to honour Busan deal",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/us-china-agree-to-continue-trade-talks-as-washington-presses-beijing-to-fulfil-busan-deal-commitments/articleshow/135624178.cms",
+     "summary": "China and the US are engaged in ongoing dialogues to foster stable trade relations, with emphasis on prior commitments. US officials expressed concern regarding China's adherence to agreements related to rare earth…",
+     "published": "2026-11-07T01:53+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135624351,imgsize-77852.cms"
     },
     {
-     "title": "For more than 60 years, visitors walked through a cave in Spain; now 280 motifs identified",
-     "link": "https://timesofindia.indiatimes.com/science/archaeology/for-more-than-60-years-visitors-walked-through-a-cave-in-spain-without-noticing-hundreds-of-ice-age-engravings-archaeologists-have-now-identified-280-motifs-making-it-one-of-mediterranean-iberias-largest-art-sites/articleshow/135595063.cms",
-     "summary": "A remarkable archaeological find at Cova de la Font Major has revealed 280 Palaeolithic engravings, showcasing diverse motifs of animals and geometric shapes. This challenges the previously held notion that cave art was…",
-     "published": "2026-11-06T20:26+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135595063,imgsize-249294.cms"
+     "title": "'Voices in head said to kill Trump': Man with firearms and ammunition arrested near White House",
+     "link": "https://timesofindia.indiatimes.com/world/us/voices-in-head-said-to-kill-president-man-with-firearms-and-ammunition-arrested-near-white-house/articleshow/135623981.cms",
+     "summary": "The Secret Service took Ronny Yordrix Guanipa Chrinos into custody after he exhibited alarming conduct in his vehicle. When confronted by officers, he insisted that he heard voices commanding him to execute President…",
+     "published": "2026-11-07T01:11+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135624021,imgsize-1106642.cms"
     },
     {
-     "title": "Twenty black grouse were moved from the North Pennines to the North York Moors in 2024",
-     "link": "https://timesofindia.indiatimes.com/science/wildlife/twenty-black-grouse-were-moved-from-the-north-pennines-to-the-north-york-moors-in-2024-the-next-breeding-season-produced-12-chicks-likely-the-areas-first-successful-breeding-in-nearly-200-years/articleshow/135607907.cms",
-     "summary": "In a remarkable conservation achievement, black grouse have successfully hatched chicks in North York Moors after a long absence of 200 years. In 2024, 20 black grouse were moved from North Pennines as part of a…",
-     "published": "2026-11-06T20:23+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135607907,imgsize-74312.cms"
-    },
-    {
-     "title": "‘Mad Men’ star John Slattery joins Ocean Conservancy campaign to protect oceans",
-     "link": "https://timesofindia.indiatimes.com/world/us/mad-men-star-john-slattery-joins-ocean-conservancy-campaign-to-protect-oceans-bringing-hollywood-voice-to-global-conservation-effort/articleshow/135613646.cms",
+     "title": "Texas appeals court upholds $619K judgment against beverage company co-owner",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-texas-beverage-company-borrowed-2-million-in-2021-and-its-co-owner-signed-a-limited-500000-personal-guaranty-after-a-default-an-appeals-court-upheld-a-619419-50-judgment-including-interest-on-oct-30/articleshow/135540236.cms",
      "summary": "",
-     "published": "2026-11-06T20:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135613798,imgsize-71965.cms"
+     "published": "2026-11-07T00:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135540271,imgsize-519292.cms"
+    },
+    {
+     "title": "'Dallas' star Victoria Principal, 76, now rescues animals on her ranch; shares miniature horse Halo's recovery",
+     "link": "https://timesofindia.indiatimes.com/world/us/dallas-star-victoria-principal-stepped-away-from-hollywood-and-now-spends-her-time-caring-for-rescued-animals-on-a-ranch-at-76-she-has-shared-the-recovery-of-a-miniature-horse-named-halo-with-fans/articleshow/135566848.cms",
+     "summary": "Former actress Victoria Principal has found her true calling in animal rehabilitation, dedicating her life to caring for rescued creatures at her ranch. One notable resident is Halo, a miniature horse currently healing…",
+     "published": "2026-11-07T00:25+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135567144,imgsize-97152.cms"
     }
    ]
   },
@@ -1524,60 +1524,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "Cornell faculty vote no-confidence in leadership after gang rape case",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3373621/cornell-faculty-vote-no-confidence-leadership-after-gang-rape-case",
-     "summary": "Faculty members at Cornell University on Friday passed a no-confidence resolution against the elite college’s leadership over its handling of an alleged gang rape that has sparked outcry in the US. The vote is not…",
-     "published": "2026-11-06T23:06+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/fbe8e90a-1474-4f75-9761-2525290d89ae_95738b2d.jpg?itok=ar-1Lm39&v=1794006367"
+     "title": "Hong Kong paediatrician urges parents to vaccinate children as temperatures fall",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall",
+     "summary": "A Hong Kong paediatric expert has called on parents to arrange influenza vaccinations for their children ahead of cooler temperatures next week, warning of a double whammy of overlapping summer and winter flu seasons…",
+     "published": "2026-11-07T05:33+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/71025650-c349-4373-9fc5-ba19b480723b_a8c9152f.jpg?itok=cHpH0ri1&v=1794029505"
     },
     {
-     "title": "Ted Lieu seeks Congress leadership post, aiming to break another glass ceiling",
-     "link": "https://www.scmp.com/news/us/us-elections/article/3373620/ted-lieu-seeks-congress-leadership-post-aiming-break-another-glass-ceiling",
-     "summary": "California Democratic Congressman Ted Lieu is seeking to become the next chairman of the House Democratic Caucus, one of the top leadership jobs in the US Congress, and potentially making history again as the…",
-     "published": "2026-11-06T23:01+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/ba0ee39d-76b1-4167-a329-38a59a80471f_136b9a66.jpg?itok=S3vgPsQe&v=1794006104"
+     "title": "‘There could be anarchy’: Bangladesh’s garment sector unrest threatens economic disaster",
+     "link": "https://www.scmp.com/week-asia/economics/article/3373569/there-could-be-anarchy-bangladeshs-garment-unrest-threatens-economic-disaster",
+     "summary": "Garment workers in Bangladesh, the world’s second-largest clothing exporter after China, are demanding that their wages more than double – and their protests have brought a halt to production in factories supplying…",
+     "published": "2026-11-07T05:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/0b823ad3-b9a0-4a53-a2ac-9c32ec503c3e_0b9bcb8d.jpg?itok=0JTFkY7g&v=1793961177"
     },
     {
-     "title": "Will the US midterm ‘blue tsunami’ erode China’s faith in Trump and Xi’s relationship?",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3373574/will-us-midterm-blue-tsunami-erode-chinas-faith-trump-and-xis-relationship",
-     "summary": "China may start looking for ways to make its deals with the United States less dependent on the personal relationship between presidents Xi Jinping and Donald Trump after the midterm elections left the US leader in a…",
-     "published": "2026-11-06T22:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/8331f057-788f-45e6-b998-9525d39f18b2_1356656b.jpg?itok=YUwk3Qsa&v=1793962063"
+     "title": "Test of trust for Hong Kong’s new housing checks unit after Wang Fuk Court blaze",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3373606/test-trust-hong-kongs-new-housing-checks-unit-after-wang-fuk-court-blaze",
+     "summary": "For former Wang Fuk Court resident Dorz Cheung, seeing will be believing when it comes to reforms initiated after the deadly inferno in Hong Kong’s Tai Po district. The 34-year-old questioned whether the new oversight…",
+     "published": "2026-11-07T04:25+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/f5faacbd-257c-474c-b661-b9a81200ac19_6f28f544.jpg?itok=3a0w1E9O&v=1794025542"
     },
     {
-     "title": "Can China champion the Global South without speaking for it?",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3373154/can-china-champion-global-south-without-speaking-it",
-     "summary": "Travelling through South America earlier this year, I was repeatedly reminded of China’s growing importance. At Ezeiza International Airport in Buenos Aires, I spotted the logo of the Industrial and Commercial Bank of…",
-     "published": "2026-11-06T21:30+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/5a1ca581-277c-4766-83b6-98e79e16b36f_e15f67e3.jpg?itok=TOnEL1Xk&v=1793935344"
+     "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
+     "summary": "US President Donald Trump said the American military on Friday carried out new limited strikes on Iran, targeting an Iranian air defence system. Iranian state media reported the sound of two explosions in the Suza area…",
+     "published": "2026-11-07T04:25+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/0933f6ae-bad4-4d0a-bbb9-4bcccb1f7a43_4e35d704.jpg?itok=UjPjNRif&v=1794025548"
     },
     {
-     "title": "California’s first Asian lieutenant governor traces roots to esteemed family in China",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3373619/californias-first-asian-lieutenant-governor-has-ties-esteemed-chinese-military-family",
-     "summary": "Amid a national Democratic wave in the midterm elections, a California Democrat has made history as the first Asian-American elected to the state’s second-highest executive office, with roots tracing back to a prominent…",
-     "published": "2026-11-06T21:02+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/d12701ad-1298-48fd-8b9d-e5ac9bf03c60_c6fc4647.jpg?itok=s3irXCeO&v=1794006179"
+     "title": "China to narrow scope of contentious detention and surveillance measure",
+     "link": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure",
+     "summary": "Chinese lawmakers are proposing to restrict a contentious form of detention and police surveillance measure, among other changes to the country’s Criminal Procedure Law. Known as residential surveillance at a designated…",
+     "published": "2026-11-07T04:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/67069218-de60-4fba-9455-8b80b8fe3230_13c8c013.jpg?itok=EqVwR3w1&v=1793955609"
     },
     {
-     "title": "Pope Leo in Uruguay to kick off South America tour just weeks after lung surgery",
-     "link": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery",
-     "summary": "Pope Leo began an emotionally charged tour of South America on Friday, returning to a continent that helped shape his priesthood just three weeks after undergoing lung cancer surgery. The 71-year-old head of the…",
-     "published": "2026-11-06T20:30+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/5afc8f23-2e58-407e-a84e-ac66e1ff442b_4aa6afe1.jpg?itok=xIeFtOUz&v=1793997006"
+     "title": "US regulator investigates tumour risk in children given Novartis gene therapy",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3373631/us-regulator-investigates-tumour-risk-children-given-novartis-gene-therapy",
+     "summary": "The US ⁠Food and Drug Administration said ⁠on Friday it was investigating a ⁠risk of neoplasia, or tumour formation including malignancy, associated with Novartis’ gene therapy Zolgensma. The Swiss drug maker earlier in…",
+     "published": "2026-11-07T03:35+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/8f1557d3-c632-41d0-9c30-84ce4bd4afc6_a5fb303c.jpg?itok=pz8H-5fu&v=1794022517"
     },
     {
-     "title": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
-     "link": "https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses",
-     "summary": "US President Donald Trump said on Friday that Stephen Miller would replace Susie Wiles as White House chief of staff, elevating a long-time loyalist and architect of his immigration crackdown days after Republicans lost…",
-     "published": "2026-11-06T19:23+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/f03dc024-fc75-48e9-a7ea-a4be1303b875_5db687f2.jpg?itok=_3a6k9gV&v=1793999993"
+     "title": "Domestic helper arrested after allegedly spitting into 4-year-old girl’s food",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373630/domestic-helper-arrested-after-allegedly-spitting-4-year-old-girls-food",
+     "summary": "A foreign domestic helper in Hong Kong has been arrested on suspicion of ill-treating a child after she allegedly spat into the food of a girl under her care, according to police. The mother of the four-year-old girl…",
+     "published": "2026-11-07T03:25+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/dc6850b5-b110-4885-800c-18c3495f1dfb_b10a567c.jpg?itok=3-mxozJf&v=1794021855"
     },
     {
-     "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
-     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
-     "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a video call with Chinese Vice-Premier He Lifeng on Friday, as both sides moved to finalise preparations for President Donald Trump’s…",
-     "published": "2026-11-06T18:34+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/78eb5b10-430b-4c12-a731-df7aae51de4d_df6b9090.jpg?itok=uwBbl4fV&v=1794004899"
+     "title": "How North Korea turns child prodigies into crypto thieves",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3373627/how-north-korea-turns-child-prodigies-crypto-thieves",
+     "summary": "North Korea rewards ⁠its top hackers, tasked with heists like the Binance crypto hack that netted a cool US$6.3 ⁠billion, with perks such as spacious apartments in the capital and huge hard currency awards in return for…",
+     "published": "2026-11-07T03:01+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/7421ddc8-21de-4899-a775-43a76c52c925_afd6934e.jpg?itok=6XJ3t4eM&v=1794020386"
     }
    ]
   },
@@ -1589,60 +1589,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Call for funding for 'lifesaving' community music programs",
-     "link": "https://www.abc.net.au/news/2026-11-07/call-for-funding-to-support-community-music-programs/107259628",
-     "summary": "Experts say music helps young people find mental wellbeing. But community music program organisers say they need more funding to bring people together.",
-     "published": "2026-11-06T22:57+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/8e48335a5799078cf11d20441c31b293?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485"
+     "title": "Live: Rugby League World Cup semifinal weekend begins in Newcastle",
+     "link": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014",
+     "summary": "A spot in the Rugby League World Cup final is on the line as the first semis in the men's and women's tournaments are held in Newcastle. Follow live.",
+     "published": "2026-11-07T05:45+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/1b89e7e4b6babf6735fb324174189e2e?impolicy=wcms_crop_resize&cropH=2340&cropW=4160&xPos=0&yPos=217&width=862&height=485"
     },
     {
-     "title": "Tradies down tools to save man's life with makeshift tourniquet",
-     "link": "https://www.abc.net.au/news/2026-11-07/tradesmen-down-tools-to-save-life-of-93yo-gracemere-man/107347170",
-     "summary": "After 93-year-old Ian fell at home and cut an artery, his wife ran to the street calling for help. Josh and Gary downed tools and stepped in.",
-     "published": "2026-11-06T22:52+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/b8e5ebd30e36c4fc2c140f09279d111f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=311&width=862&height=485"
+     "title": "Supercars, SUVs take to Perth suburb to support teen assault victim",
+     "link": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208",
+     "summary": "More than 100 cars and motorbikes took part in the \"community cruise\" in Ellenbrook, north-east of Perth, to show support for a 13-year-old boy who was allegedly bashed and threatened with a knife in the area by a group…",
+     "published": "2026-11-07T05:38+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/01cfa9d2b02d97955d26d8823ecbfe54?impolicy=wcms_crop_resize&cropH=3483&cropW=6192&xPos=0&yPos=323&width=862&height=485"
     },
     {
-     "title": "Stricter regulation on the cards for controversial combat sports",
-     "link": "https://www.abc.net.au/news/2026-11-07/collision-running-bare-knuckle-boxing-parliament-inquiry/107310954",
-     "summary": "Bare-knuckle boxing, collision running and competitive slapping are the subject of a NSW parliamentary inquiry, as organisers of the controversial sports say they are prepared to collaborate on regulation to be able to…",
-     "published": "2026-11-06T22:44+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/0a5f307bee058e86364ff89e0f0ca537?impolicy=wcms_crop_resize&cropH=761&cropW=1354&xPos=114&yPos=110&width=862&height=485"
+     "title": "Demons storm home against Cats to claim AFLW prelim berth",
+     "link": "https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468",
+     "summary": "Melbourne comes from the clouds to beat Geelong in a thrilling AFLW elimination final, earning a week off and a preliminary final spot.",
+     "published": "2026-11-07T05:21+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/41eb77e1acfe0bd1f4640984566e11da?impolicy=wcms_crop_resize&cropH=2087&cropW=3711&xPos=0&yPos=147&width=862&height=485"
     },
     {
-     "title": "Victoria's Liberals unveil plan designed to end tobacco wars",
-     "link": "https://www.abc.net.au/news/2026-11-07/victorian-liberals-unveil-plan-designed-to-end-tobacco-wars/107358958",
-     "summary": "The Victorian opposition, led by Jess Wilson, is promising to extend the period shops can be shut down if they are found selling illegal tobacco.",
-     "published": "2026-11-06T22:25+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/27ae9bbbe6212080a50bfc51da51e71c?impolicy=wcms_crop_resize&cropH=484&cropW=860&xPos=10&yPos=6&width=862&height=485"
+     "title": "Tasmanian nurses rally following 'disappointing' government pay offer",
+     "link": "https://www.abc.net.au/news/2026-11-07/tasmania-nurses-rally-over-offer-pay-conditions/107359318",
+     "summary": "Nurses and midwives have stepped up a pay dispute with the Tasmanian government, walking off the job at two southern hospitals.",
+     "published": "2026-11-07T05:14+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/49ca90f3bc5a582d1665fab3df471a00?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=70&width=862&height=485"
     },
     {
-     "title": "Three charged over alleged interference with a corpse",
-     "link": "https://www.abc.net.au/news/2026-11-07/three-charged-allegedly-interfering-with-corpse-funeral-home/107358964",
-     "summary": "Two men and a woman are due to appear in court today after a man allegedly interfered with a corpse at a Logan funeral home.",
-     "published": "2026-11-06T22:15+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/4cf05fe584b4ec0e1bbf9f18e5deed77?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485"
+     "title": "US senator with Australian ties now a presidential frontrunner",
+     "link": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
+     "summary": "The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.",
+     "published": "2026-11-07T05:08+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/11562e1127447a354e498573dea70b15?impolicy=wcms_crop_resize&cropH=540&cropW=960&xPos=0&yPos=103&width=862&height=485"
     },
     {
-     "title": "Aussie's heroic Paris Masters run ends at the hands of rising French star",
-     "link": "https://www.abc.net.au/news/2026-11-07/paris-masters-rinky-hijikata-loses-to-rising-french-star/107358980",
-     "summary": "After downing Novak Djokovic earlier in the week, Australia's Rinky Hijikata's heroic Paris Masters run finally comes to an end.",
-     "published": "2026-11-06T22:15+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/31d91cdb81d221d7a62c2f8a76e0597e?impolicy=wcms_crop_resize&cropH=2531&cropW=4500&xPos=0&yPos=0&width=862&height=485"
+     "title": "Home battery subsidy scheme lauded despite government's search for cuts",
+     "link": "https://www.abc.net.au/news/2026-11-07/environment-minister-murray-watt-home-battery-subsidy-scheme/107359436",
+     "summary": "Environment Minister Murray Watt praises the home battery subsidy scheme as “phenomenally successful” despite the prime minister declining to rule out means-testing the $7.2b program.",
+     "published": "2026-11-07T05:08+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/7f4ac2a2f64e586c6fc8e503e351c347?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485"
     },
     {
-     "title": "'No confidence' vote against Cornell leadership after alleged gang rape",
-     "link": "https://www.abc.net.au/news/2026-11-07/cornell-university-seven-no-confidence-faculty/107358914",
-     "summary": "The symbolic gesture reflects a deep discontent on the New York campus in the wake of a former student's lawsuit saying she was gang raped at a fraternity party in 2024.",
-     "published": "2026-11-06T21:24+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/cbf9b3486c42c69b99032c56c1792905?impolicy=wcms_crop_resize&cropH=2531&cropW=4500&xPos=0&yPos=469&width=862&height=485"
+     "title": "Lehmann says 'everyone' was ball tampering globally, denies Khawaja's sandpaper claims",
+     "link": "https://www.abc.net.au/news/2026-11-07/darren-lehmann-usman-khawaja-sandpaper-ball-tampering/107359274",
+     "summary": "Darren Lehmann rejects Usman Khawaja's claims the entire Australian camp knew about the 2018 sandpaper plot, but says \"everyone\" was ball tampering up until that day.",
+     "published": "2026-11-07T03:49+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/f2432cb4af1642e9c966987ddf85bfb7?impolicy=wcms_crop_resize&cropH=1051&cropW=1869&xPos=0&yPos=88&width=862&height=485"
     },
     {
-     "title": "For third time, volunteers find missing person after police pause search",
-     "link": "https://www.abc.net.au/news/2026-11-07/michael-vrankovic-found-by-volunteers-not-tas-police/107356570",
-     "summary": "For the third time this year, it appears a person missing in Tasmania has been found not by police, but by a team of volunteers.",
-     "published": "2026-11-06T21:11+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/834bd0581140de25c21b7f6365493be4?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=105&width=862&height=485"
+     "title": "US offers $29m reward for details on Iran's nuclear program",
+     "link": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
+     "summary": "A US State Department program, Rewards for Justice, \"is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program\".",
+     "published": "2026-11-07T03:27+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/fa9a17192449fc463e08335df364bab8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=377&width=862&height=485"
     }
    ]
   },
@@ -1654,59 +1654,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "US urges China to honour Busan trade deal commitments",
-     "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-     "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
-     "published": "2026-11-06T23:00+00:00",
+     "title": "President Herzog faces key choice as Israel struggles to form government",
+     "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+     "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
+     "published": "2026-11-07T05:16+00:00",
      "image": ""
     },
     {
-     "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-     "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
-     "published": "2026-11-06T21:37+00:00",
+     "title": "Russia launches missile attack on Kyiv, injuring residents",
+     "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+     "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
+     "published": "2026-11-07T05:11+00:00",
      "image": ""
     },
     {
-     "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-     "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
-     "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
-     "published": "2026-11-06T21:22+00:00",
+     "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+     "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+     "summary": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
+     "published": "2026-11-07T05:02+00:00",
      "image": ""
     },
     {
-     "title": "Protesters break into Microsoft data centre site in Amsterdam",
-     "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-     "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-     "published": "2026-11-06T21:04+00:00",
+     "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+     "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+     "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
+     "published": "2026-11-07T04:50+00:00",
      "image": ""
     },
     {
-     "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-     "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
-     "published": "2026-11-06T20:48+00:00",
+     "title": "Los Angeles reacts to historic mayoral election",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+     "summary": "",
+     "published": "2026-11-07T04:14+00:00",
      "image": ""
     },
     {
-     "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-     "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-     "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-     "published": "2026-11-06T20:28+00:00",
+     "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+     "summary": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera’s Step Vaessen reports.",
+     "published": "2026-11-07T04:08+00:00",
      "image": ""
     },
     {
-     "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
-     "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
-     "published": "2026-11-06T20:27+00:00",
+     "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+     "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+     "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+     "published": "2026-11-07T03:53+00:00",
      "image": ""
     },
     {
-     "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
-     "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-     "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
-     "published": "2026-11-06T20:22+00:00",
+     "title": "How the US midterm elections reflected resistance to data centres",
+     "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+     "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
+     "published": "2026-11-07T03:22+00:00",
      "image": ""
     }
    ]
