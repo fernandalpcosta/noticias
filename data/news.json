@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:25+00:00",
+ "updated": "2026-11-08T00:35+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -32,164 +32,112 @@
  ],
  "trending": [
   {
-   "topic": "EUA",
-   "sources": 8,
+   "topic": "Israel",
+   "sources": 13,
    "examples": [
     {
-     "title": "US offers $20m reward for information about Iran's nuclear programme",
-     "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "After victory in the midterms, what next for US Democrats?",
-     "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "source": "NPR"
+    },
+    {
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
-    },
-    {
-     "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
-     "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-     "source": "Euronews"
-    },
-    {
-     "title": "EUA acreditam que CEO da Nvidia teve relacionamento amoroso com suposta espiã chinesa",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/eua-acreditam-que-ceo-da-nvidia-teve-relacionamento-amoroso-com-suposta-espia-chinesa.shtml",
-     "source": "Folha de S.Paulo"
-    }
-   ]
-  },
-  {
-   "topic": "Polônia",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
-     "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-     "source": "France 24"
-    },
-    {
-     "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
-     "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
-     "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-     "source": "El País"
     }
    ]
   },
   {
    "topic": "Trump",
-   "sources": 6,
+   "sources": 11,
    "examples": [
     {
-     "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-     "source": "The Guardian"
+     "title": "Trump offers White House press secretary role to Dana White",
+     "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
-     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-     "source": "NPR"
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "source": "France 24"
+    },
+    {
+     "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+     "source": "Le Monde"
     },
     {
      "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
      "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
      "source": "Euronews"
-    },
-    {
-     "title": "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
-     "link": "https://www.latimes.com/politics/story/2026-11-07/trump-weighing-new-iran-strikes-faces-divided-party-ticking-clock",
-     "source": "Los Angeles Times"
     }
    ]
   },
   {
-   "topic": "Krakow",
-   "sources": 5,
+   "topic": "Eisenkot",
+   "sources": 10,
    "examples": [
     {
-     "title": "What we know about Krakow mass shooting so far",
-     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
-     "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+     "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+     "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
      "source": "France 24"
-    },
-    {
-     "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-     "source": "The New York Times"
     }
    ]
   },
   {
-   "topic": "Paraguay",
-   "sources": 5,
+   "topic": "Netanyahu",
+   "sources": 8,
    "examples": [
     {
-     "title": "Paraguay's former president charged after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
-     "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-     "source": "Euronews"
-    },
-    {
-     "title": "Gobierno de México manda un saludo al nuevo presidente de Paraguay tras la salida de Santiago Peña",
-     "link": "https://www.infobae.com/mexico/2026/11/07/gobierno-de-mexico-manda-un-saludo-al-nuevo-presidente-de-paraguay-tras-la-salida-de-santiago-pena/",
-     "source": "Infobae"
-    },
-    {
-     "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
-     "link": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
-     "source": "The Japan Times"
-    }
-   ]
-  },
-  {
-   "topic": "Pope",
-   "sources": 5,
-   "examples": [
-    {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
      "source": "NPR"
     },
     {
-     "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-     "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
-     "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+     "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+     "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
      "source": "France 24"
     },
     {
-     "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
-     "link": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
-     "source": "Euronews"
+     "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Opositor a Netanyahu tentará formar governo em Israel sem mudar impasse palestino",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml",
+     "source": "Folha de S.Paulo"
     }
    ]
   },
   {
    "topic": "França",
-   "sources": 4,
+   "sources": 6,
    "examples": [
     {
      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
@@ -197,144 +145,201 @@
      "source": "NPR"
     },
     {
-     "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-     "link": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-     "source": "France 24"
-    },
-    {
-     "title": "França mobiliza 70 mil agentes para protestos; agência denuncia agressão policial contra jornalistas",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-mobiliza-70-mil-agentes-para-protestos-agencia-denuncia-agressao-policial-contra-jornalistas.shtml",
-     "source": "Folha — Mundo"
-    },
-    {
-     "title": "Clashes in Paris after new French protests",
-     "link": "https://www.scmp.com/news/world/europe/article/3373669/clashes-paris-after-new-french-protests",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Israel",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-     "source": "NPR"
-    },
-    {
-     "title": "Arab parties hold the key as Israel struggles to form a government",
-     "link": "https://www.latimes.com/world-nation/story/2026-11-07/arab-parties-hold-key-as-israel-struggles-to-form-government",
-     "source": "Los Angeles Times"
-    },
-    {
-     "title": "Boy George se compromete con Israel y desata la euforia de sus fans con dos recitales en Tel Aviv",
-     "link": "https://www.infobae.com/cultura/2026/11/07/boy-george-se-compromete-con-israel-y-desata-la-euforia-de-sus-fans-con-dos-recitales-en-tel-aviv/",
-     "source": "Infobae"
-    },
-    {
-     "title": "Demonstration in Berlin calls for an end to arming Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "Santiago",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
-     "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-     "source": "Euronews"
-    },
-    {
-     "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
-     "link": "https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html",
-     "source": "El País"
-    },
-    {
-     "title": "Gobierno de México manda un saludo al nuevo presidente de Paraguay tras la salida de Santiago Peña",
-     "link": "https://www.infobae.com/mexico/2026/11/07/gobierno-de-mexico-manda-un-saludo-al-nuevo-presidente-de-paraguay-tras-la-salida-de-santiago-pena/",
-     "source": "Infobae"
-    },
-    {
-     "title": "Ex-presidente do Paraguai, Santiago Peña presta depoimento após ser colocado em prisão domiciliar",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ex-presidente-do-paraguai-santiago-pena-presta-depoimento-apos-ser-colocado-em-prisao-domiciliar.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Uruguay",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-     "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
+     "title": "France sees new round of Yellow Vest, student protests",
+     "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
-     "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+     "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+     "link": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
      "source": "France 24"
     },
     {
-     "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
-     "link": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
-     "source": "Euronews"
-    },
-    {
-     "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-     "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "França registra 4º sábado consecutivo de protestos; 'viva Lula', diz líder opositor",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-registra-4o-sabado-consecutivo-de-protestos-viva-lula-diz-lider-opositor.shtml",
+     "source": "Folha — Mundo"
     }
    ]
   },
   {
-   "topic": "Zealand",
-   "sources": 4,
+   "topic": "Krakow",
+   "sources": 6,
    "examples": [
     {
-     "title": "No clear winner after tight New Zealand general election",
-     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "title": "What we know so far after Krakow gun attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
-     "link": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+     "title": "Poland: Gunman kills 6 in Krakow main square",
+     "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
+     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+     "source": "France 24"
+    },
+    {
+     "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+     "link": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
      "source": "Euronews"
-    },
-    {
-     "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "New Zealand election first count ends with 2 main parties nearly deadlocked",
-     "link": "https://www.scmp.com/news/asia/australasia/article/3373657/new-zealand-election-first-count-ends-2-main-parties-nearly-deadlocked",
-     "source": "South China Morning Post"
     }
    ]
   },
   {
-   "topic": "Agulló",
-   "sources": 3,
+   "topic": "Polônia",
+   "sources": 6,
    "examples": [
     {
-     "title": "Sánchez se reúne con la familia de Guillem Agulló, joven asesinado por un neonazi, que lucha por reconocerlo como víctima del terrorismo",
-     "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-07/sanchez-se-reune-con-la-familia-de-guillem-agullo-joven-asesinado-por-un-neonazi-que-lucha-por-reconocerlo-como-victima-del-terrorismo.html",
-     "source": "El País"
+     "title": "Poland: Gunman kills 6 in Krakow main square",
+     "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
-     "title": "Sánchez se reúne con los padres de Guillem Agulló, el joven asesinado en 1993 por fascistas",
-     "link": "https://www.lavanguardia.com/local/valencia/20261107/11678791/sanchez-reune-padres-guillem-agullo-joven-antifascista-asesinado-1993-grupo-extrema-derecha-servimedia20261107.html",
-     "source": "La Vanguardia"
+     "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
+     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+     "source": "France 24"
     },
     {
-     "title": "Pedro Sánchez se compromete con la familia de Guillem Agulló a estudiar su reconocimiento como víctima del terrorismo",
-     "link": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-compromete-familia-guillem-agullo-estudiar-reconocimiento-victima-terrorismo_1_13646783.html",
+     "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+     "link": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+     "source": "Euronews"
+    }
+   ]
+  },
+  {
+   "topic": "White",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "Trump offers White House press secretary role to Dana White",
+     "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "source": "France 24"
+    },
+    {
+     "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Trump ofrece a Dana White, presidente de la UFC y exluchador profesional, la portavocía de la Casa Blanca... Y éste lo rechaza",
+     "link": "https://www.eldiario.es/internacional/dana-favor-acepta-puesto-trump-ofrece-presidente-ufc-exluchador-profesional-portavocia-casa-blanca_1_13647212.html",
      "source": "elDiario.es"
+    }
+   ]
+  },
+  {
+   "topic": "Dana",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Trump offers White House press secretary role to Dana White",
+     "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "source": "France 24"
+    },
+    {
+     "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Trump ofrece a Dana White, presidente de la UFC y exluchador profesional, la portavocía de la Casa Blanca... Y éste lo rechaza",
+     "link": "https://www.eldiario.es/internacional/dana-favor-acepta-puesto-trump-ofrece-presidente-ufc-exluchador-profesional-portavocia-casa-blanca_1_13647212.html",
+     "source": "elDiario.es"
+    }
+   ]
+  },
+  {
+   "topic": "EUA",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "US offers $20m reward for information about Iran's nuclear programme",
+     "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+     "source": "The Guardian"
+    },
+    {
+     "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+     "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+     "source": "Euronews"
+    },
+    {
+     "title": "Binance troca diretor financeiro após roubo recorde de US$ 6,3 bilhões",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-troca-diretor-financeiro-apos-roubo-recorde-de-us-63-bilhoes.shtml",
+     "source": "Folha de S.Paulo"
+    }
+   ]
+  },
+  {
+   "topic": "Gadi",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+     "link": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+     "source": "El País"
+    }
+   ]
+  },
+  {
+   "topic": "Gunman",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Poland: Gunman kills 6 in Krakow main square",
+     "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
+     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+     "source": "France 24"
+    },
+    {
+     "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Gunman ‘fascinated by far-right’ kills 6 in Krakow, Poland",
+     "link": "https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland",
+     "source": "South China Morning Post"
     }
    ]
   }
@@ -349,6 +354,20 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
+     "title": "What we know so far after Krakow gun attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+     "published": "2026-11-07T22:58+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+     "published": "2026-11-07T22:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
+    },
+    {
      "title": "Paraguay's former president charged after bank collapse",
      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
@@ -356,16 +375,9 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
     },
     {
-     "title": "What we know about Krakow mass shooting so far",
-     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-     "published": "2026-11-07T18:22+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
      "title": "US offers $20m reward for information about Iran's nuclear programme",
      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-     "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+     "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
      "published": "2026-11-07T18:14+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
     },
@@ -396,13 +408,6 @@
      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
      "published": "2026-11-07T15:56+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-     "published": "2026-11-07T15:19+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
     }
    ]
   },
@@ -414,11 +419,46 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+     "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+     "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites…",
+     "published": "2026-11-08T00:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451"
+    },
+    {
+     "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the…",
-     "published": "2026-11-07T19:02+00:00",
+     "published": "2026-11-07T22:32+00:00",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
+    {
+     "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+     "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków…",
+     "published": "2026-11-07T21:19+00:00",
+     "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9"
+    },
+    {
+     "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+     "link": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+     "summary": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement Richard Lloyd, known for his sophisticated musical style as a founding member and guitarist for the…",
+     "published": "2026-11-07T20:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/bfa67dad8286b03a693134e3e3003bd7248371b6/0_118_2391_1911/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=1396c502fafb87824f07ac1d9b382ab5"
+    },
+    {
+     "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+     "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
+     "published": "2026-11-07T20:03+00:00",
+     "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57"
+    },
+    {
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
+     "published": "2026-11-07T19:49+00:00",
+     "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47"
     },
     {
      "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
@@ -433,41 +473,6 @@
      "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign Get our daily political email , free app or daily news podcast The commitment that made Ben Carroll premier…",
      "published": "2026-11-07T19:00+00:00",
      "image": "https://i.guim.co.uk/img/media/8c639709fffda9b930d49d011734b4c7cba4ef67/294_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=f4cdd0a0f9c2b488500e29ec890f1dd9"
-    },
-    {
-     "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
-     "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-     "summary": "Reports say man fired shots from from his car in Poland’s second city before being wounded by police while trying to flee Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a…",
-     "published": "2026-11-07T17:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9"
-    },
-    {
-     "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-     "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-     "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s…",
-     "published": "2026-11-07T17:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74"
-    },
-    {
-     "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-     "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers…",
-     "published": "2026-11-07T16:41+00:00",
-     "image": "https://i.guim.co.uk/img/media/0453031071a4359ad9f3f2d5a0161318653a79a5/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ad44051a3555f0c5e5bd98dc35c5c23"
-    },
-    {
-     "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-     "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping…",
-     "published": "2026-11-07T15:15+00:00",
-     "image": "https://i.guim.co.uk/img/media/0513655571bc4088f5bb985eb507ce166bb05875/0_0_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=2d5272d0b153de2c51ded2a593e0dae8"
-    },
-    {
-     "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
-     "summary": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for…",
-     "published": "2026-11-07T15:06+00:00",
-     "image": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed"
     }
    ]
   },
@@ -478,6 +483,27 @@
    "region": "mundo",
    "url": "https://feeds.npr.org/1004/rss.xml",
    "items": [
+    {
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+     "published": "2026-11-07T22:12+00:00",
+     "image": ""
+    },
+    {
+     "title": "A correspondent finds Cuba's people struggling",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+     "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+     "published": "2026-11-07T22:12+00:00",
+     "image": ""
+    },
+    {
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+     "published": "2026-11-07T20:18+00:00",
+     "image": ""
+    },
     {
      "title": "Ousted Paraguayan president appears before prosecutors",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
@@ -512,27 +538,6 @@
      "summary": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
      "published": "2026-11-06T15:21+00:00",
      "image": ""
-    },
-    {
-     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-     "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
-     "published": "2026-11-06T14:53+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-     "summary": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
-     "published": "2026-11-06T13:56+00:00",
-     "image": ""
-    },
-    {
-     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-     "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
-     "published": "2026-11-06T12:24+00:00",
-     "image": ""
     }
    ]
   },
@@ -543,6 +548,41 @@
    "region": "europa",
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
+    {
+     "title": "Poland: Gunman kills 6 in Krakow main square",
+     "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+     "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+     "published": "2026-11-07T21:34+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ebola: Why is there still no vaccine?",
+     "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-rdf",
+     "summary": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola.",
+     "published": "2026-11-07T21:03+00:00",
+     "image": ""
+    },
+    {
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+     "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government, with tricky coalition talks expected.",
+     "published": "2026-11-07T19:56+00:00",
+     "image": ""
+    },
+    {
+     "title": "Trump offers White House press secretary role to Dana White",
+     "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+     "summary": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. White has neither formally accepted nor turned down the invitation.",
+     "published": "2026-11-07T19:46+00:00",
+     "image": ""
+    },
+    {
+     "title": "France sees new round of Yellow Vest, student protests",
+     "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+     "summary": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators.",
+     "published": "2026-11-07T19:28+00:00",
+     "image": ""
+    },
     {
      "title": "Armenia's selective prosecution: A threat to EU relations?",
      "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
@@ -563,41 +603,6 @@
      "summary": "Massive crowds have turned out for the pontiff as he celebrates the first Mass of his South America tour. A nighttime prayer vigil in Montevideo is expected to draw more than 60,000 young people.",
      "published": "2026-11-07T16:26+00:00",
      "image": ""
-    },
-    {
-     "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
-     "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
-     "summary": "At least six people were killed and fifteen injured after a shooter opened fire from a car in Krakow's main market square.",
-     "published": "2026-11-07T15:38+00:00",
-     "image": ""
-    },
-    {
-     "title": "Journalism and AI: Who owns the news?",
-     "link": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf",
-     "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
-     "published": "2026-11-07T15:14+00:00",
-     "image": ""
-    },
-    {
-     "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-     "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
-     "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
-     "published": "2026-11-07T14:38+00:00",
-     "image": ""
-    },
-    {
-     "title": "After victory in the midterms, what next for US Democrats?",
-     "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
-     "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
-     "published": "2026-11-07T14:15+00:00",
-     "image": ""
-    },
-    {
-     "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-     "link": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf",
-     "summary": "Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident. The news follows a string of bomb threats that have grounded flights across the EU.",
-     "published": "2026-11-07T14:07+00:00",
-     "image": ""
     }
    ]
   },
@@ -608,6 +613,34 @@
    "region": "europa",
    "url": "https://www.france24.com/en/rss",
    "items": [
+    {
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand of politics to White's…",
+     "published": "2026-11-07T20:45+00:00",
+     "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
+    },
+    {
+     "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+     "link": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+     "summary": "“We are facing a crisis of human civilisation. And we are going to win.” A defiant Jean-Luc Mélenchon was in fighting mood today as he presented his presidential manifesto at Le Bourget, north of Paris. It is his fourth…",
+     "published": "2026-11-07T19:58+00:00",
+     "image": "https://s.france24.com/media/display/8c2f3754-dad1-11f1-9297-1beafce15fea/w:1024/p:16x9/000-D6RH26W.jpg"
+    },
+    {
+     "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+     "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+     "summary": "",
+     "published": "2026-11-07T19:38+00:00",
+     "image": ""
+    },
+    {
+     "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+     "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+     "summary": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister…",
+     "published": "2026-11-07T19:37+00:00",
+     "image": "https://s.france24.com/media/display/b98cb8f6-dae1-11f1-8c71-1beafce15fea/w:1024/p:16x9/2026-10-27T234936Z-337143780-RC2ZBOAVPW2L-RTRMADP-3-ISRAEL-ELECTION.jpg"
+    },
     {
      "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
      "link": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
@@ -630,39 +663,11 @@
      "image": ""
     },
     {
-     "title": "At least six people killed in shooting in Polish city of Krakow, police say",
+     "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
      "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-     "summary": "A shooting in the main market square of Krakow in Poland killed at least six people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Polish citizen and that they had shot and…",
+     "summary": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen more in Krakow’s main market square on Saturday, Polish authorities said. Three more bodies were…",
      "published": "2026-11-07T15:23+00:00",
      "image": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg"
-    },
-    {
-     "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
-     "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
-     "summary": "Pope Leo XIV urged Catholics in Uruguay to build bridges of faith and fraternity on the second day of his 12-day tour of Uruguay, Argentina and Peru. The pope's three-country tour comes just three weeks after he…",
-     "published": "2026-11-07T14:59+00:00",
-     "image": "https://s.france24.com/media/display/edae6460-dab7-11f1-9ce0-bf1914cabd52/w:1024/p:16x9/2026-11-07T142220Z-1810286401-RC22JOA4XV14-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
-    },
-    {
-     "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
-     "link": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-     "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential…",
-     "published": "2026-11-07T14:44+00:00",
-     "image": "https://s.france24.com/media/display/9d39473c-dac3-11f1-81fe-695cb59fade5/w:1024/p:16x9/000-D6R93X3.jpg"
-    },
-    {
-     "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-     "link": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-     "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The…",
-     "published": "2026-11-07T13:29+00:00",
-     "image": "https://s.france24.com/media/display/c9733fde-daae-11f1-87e0-bf1914cabd52/w:1024/p:16x9/EN-20261107-130322-131958-CS.jpg"
-    },
-    {
-     "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-     "link": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
-     "summary": "Zinedine Zidane has unveiled his France squad for the upcoming Nations League clashes against Italy and Turkey. Pablo Pagis earns a surprise first call-up, while Kylian Mbappé and several other key players return from…",
-     "published": "2026-11-07T13:27+00:00",
-     "image": "https://s.france24.com/media/display/97041338-da8c-11f1-949c-1beafce15fea/w:1024/p:16x9/AP26275688279113.jpg"
     }
    ]
   },
@@ -674,6 +679,20 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
+     "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+     "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter «…",
+     "published": "2026-11-07T20:53+00:00",
+     "image": "https://img.lemde.fr/2026/11/07/0/0/3693/1846/644/322/60/0/8b6cca9_ftp-1-bf08yftherqq-6a0d8a35d88e44a4b6b49bc133975e45-0-02e93aa800534f0e8cbfde9e8b9290a6.jpg"
+    },
+    {
+     "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+     "link": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+     "summary": "L’ancien chef d’état-major israélien, aujourd’hui à la tête du parti Yashar !, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a annoncé samedi soir la présidence.",
+     "published": "2026-11-07T19:51+00:00",
+     "image": "https://img.lemde.fr/2026/10/28/586/0/3416/1708/644/322/60/0/e5462d5_ftp-1-f7onczycej9p-2026-10-28t032117z-1949345560-rc2zboakgvrk-rtrmadp-3-israel-election.JPG"
+    },
+    {
      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
      "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
      "summary": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de…",
@@ -681,11 +700,11 @@
      "image": "https://img.lemde.fr/2026/11/07/492/0/4481/2240/644/322/60/0/86edc57_ftp-1-zgpwizdyiwnr-2026-11-07t042532z-60077909-rc2oioa63stu-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
     },
     {
-     "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
+     "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
      "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-     "summary": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits a été neutralisé et blessé par balle.",
+     "summary": "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville. Deux jours de deuil national ont été…",
      "published": "2026-11-07T17:34+00:00",
-     "image": "https://img.lemde.fr/2026/11/07/388/0/4656/2328/644/322/60/0/c2dc238_ftp-1-i35pu46rtpe3-2026-11-07t152544z-807251327-up1emb716qzie-rtrmadp-3-poland-shooting.JPG"
+     "image": "https://img.lemde.fr/2026/11/07/583/0/7000/3500/644/322/60/0/097a63b_ftp-1-2etzccthi9gk-d5474e3f651a4d489e772ff15c225279-0-fcb10f5274c84653b58ed6940a166851.jpg"
     },
     {
      "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
@@ -714,20 +733,6 @@
      "summary": "Poursuivie pour apologie du terrorisme, une mère de famille, née en Allemagne et naturalisée à l’âge de 9 ans, a été déchue de sa citoyenneté danoise, malgré un acquittement en première en instance, confirmé en appel…",
      "published": "2026-11-07T14:30+00:00",
      "image": "https://img.lemde.fr/2026/11/07/720/0/8640/4320/644/322/60/0/4cb98c7_upload-1-pmbqm12oq1uy-000-9qe8l6.jpg"
-    },
-    {
-     "title": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
-     "link": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
-     "summary": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de Çogulhan est cerné par deux centrales thermiques au charbon. Les…",
-     "published": "2026-11-07T14:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/04/398/0/3543/1771/644/322/60/0/b0fdaf3_upload-1-2okv4k8hawba-000-97qb463.jpg"
-    },
-    {
-     "title": "Au Yémen, 27 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes",
-     "link": "https://www.lemonde.fr/international/article/2026/11/07/au-yemen-22-morts-apres-des-frappes-saoudiennes-dans-la-region-de-sanaa-annoncent-les-houthistes_6808280_3210.html",
-     "summary": "Après des tirs de missiles et de drones houthistes quasi quotidiens en octobre contre le royaume saoudien, les combats semblent s’intensifier ces derniers jours sur le sol yéménite, où le conflit a repris en juillet…",
-     "published": "2026-11-07T13:38+00:00",
-     "image": "https://img.lemde.fr/2026/11/07/192/0/3000/1500/644/322/60/0/eb9ae9d_ftp-1-v7t7wj9mtvz7-afp-d6qh6nt.jpg"
     }
    ]
   },
@@ -738,6 +743,27 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+     "link": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+     "summary": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
+     "published": "2026-11-07T22:10+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+     "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+     "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+     "published": "2026-11-07T21:45+00:00",
+     "image": ""
+    },
+    {
+     "title": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
+     "link": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
+     "summary": "UGC footage shows people running for cover as a deadly shooting unfolds in Kraków, Poland, leaving at least six people dead and around a dozen wounded, according to police.",
+     "published": "2026-11-07T19:15+00:00",
+     "image": ""
+    },
     {
      "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
      "link": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
@@ -772,27 +798,6 @@
      "summary": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
      "published": "2026-11-07T11:00+00:00",
      "image": ""
-    },
-    {
-     "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
-     "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-     "summary": "Ousted ex-President Santiago Peña was placed under house arrest on Friday after he was impeached over a major banking crisis.",
-     "published": "2026-11-07T10:36+00:00",
-     "image": ""
-    },
-    {
-     "title": "US Secret Service arrests man parked near White House with 'multiple guns' in vehicle",
-     "link": "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle",
-     "summary": "The suspect has been charged with multiple offences, including possession of dangerous weapons and theft, per the DHS. He is in the custody of the US Marshals Service.",
-     "published": "2026-11-07T09:22+00:00",
-     "image": ""
-    },
-    {
-     "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
-     "link": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
-     "summary": "In New Zealand, people cast a party vote as well as an electorate vote in a general election. With their electorate vote, New Zealanders vote for a candidate to represent their local electorate in parliament. They also…",
-     "published": "2026-11-07T08:33+00:00",
-     "image": ""
     }
    ]
   },
@@ -804,60 +809,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Alcaraz, implacable ante Ruud y, por primera vez, finalista en París",
-     "link": "https://elpais.com/deportes/tenis/2026-11-07/alcaraz-implacable-ante-ruud-y-por-primera-vez-finalista-en-paris.html",
-     "summary": "El murciano se impone al noruego (doble 6-4, en 1h 26m) y se enfrentará este domingo al estadounidense Shelton, al que dirigirá el próximo año Ferrero",
-     "published": "2026-11-07T18:37+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/55JWTKSBPBOORHFYRLO4BOKD3A.jpg?auth=f73590e7d9aabd7684329c41481b0f65ba98355a934c4956132ea29beab01f86"
+     "title": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC",
+     "link": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html",
+     "summary": "Según la CNN, Dana White rehúsa la oferta, pero el medio TMZ, especializado en farándula, apunta que las dos personalidades se reunirán la semana que viene para estudiar la oferta",
+     "published": "2026-11-07T22:29+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/WY5GSCRDUVJBLDBFKTR6FABTUA.jpg?auth=f5f64c074581f15f99c750c5f98481ad308f8dd04375ab3f4cb80f7da3ffbad7"
     },
     {
-     "title": "Un heroico Martín complica el alirón de Márquez, que gana la ‘sprint’ del GP de Qatar tras un polémico toque con Bezzecchi",
-     "link": "https://elpais.com/deportes/motociclismo/2026-11-07/un-heroico-martin-complica-el-aliron-de-marquez-que-gana-la-sprint-del-gp-de-qatar-tras-un-polemico-toque-con-bezzecchi.html",
-     "summary": "El piloto de Ducati necesitará repetir victoria este domingo y esperar que el de Aprilia no puntúe para capturar su octavo título de MotoGP en la noche de Lusail",
-     "published": "2026-11-07T18:25+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/KIANJR6DT5FITIRN5DJNFG56FY.jpg?auth=36225f7d6c0053c3113cd9221c299424f3e34cc7ae84c6a0eaa37ff27d38ce6c"
+     "title": "El Madrid deja Mestalla en ruinas",
+     "link": "https://elpais.com/deportes/futbol/2026-11-07/el-madrid-deja-mestalla-en-ruinas.html",
+     "summary": "El equipo de Mourinho golea a un débil Valencia impulsado por Bellingham y Güler y aprieta la Liga antes del Atlético - Barça",
+     "published": "2026-11-07T22:22+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/XJPOEWIV7VAOVDWGNFTAGF4GKI.jpg?auth=e43f101e9f9bf8c36ffab3b5c32ee67b087a6a94a8cf0a28d6af7e260bbc7c13"
     },
     {
-     "title": "El Espanyol no pasa del empate ante el Deportivo",
-     "link": "https://elpais.com/deportes/futbol/2026-11-07/el-espanyol-no-pasa-del-empate-ante-el-deportivo.html",
-     "summary": "El conjunto blanquiazul domina al equipo gallego, pero no encuentra el gol con su nuevo técnico, Eder Sarabia, en la grada por una sanción de su etapa en el Elche",
-     "published": "2026-11-07T18:16+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/DMYUW56TJJLNRMQADYUBHIIJCQ.jpg?auth=a59cbee70fbd8e7682fad2a776123a1c435e4c8b956a558b11501ddd92cbfacc"
+     "title": "Norris emerge en el aguacero del GP de Brasil",
+     "link": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html",
+     "summary": "El británico de McLaren se adjudica su cuarta ‘pole’ del curso en una sesión que la lluvia estuvo a punto de cancelar",
+     "published": "2026-11-07T22:22+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/S7LJ25AM3RNLHEGZY7M3NFPSFA.jpg?auth=6c39a55973db06db3da1c9017443274b6b71f1b2530059dd642b4188df9fbf27"
     },
     {
-     "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
+     "title": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+     "link": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+     "summary": "“Ha llegado el momento de construir un Ejecutivo de emergencia nacional”, asegura el exjefe del Estado Mayor, que obtuvo 67 de los 120 apoyos posibles, incluidos los de las dos listas árabes",
+     "published": "2026-11-07T21:21+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/3TVL2X7YQJLLHLUPFYTRN7FNBA.jpg?auth=5ac20d5524b7a75e2fa18fcd1ee75e6b4840c2eb73674ea5008fa0b5260491e2"
+    },
+    {
+     "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia",
      "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-     "summary": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 25 años",
-     "published": "2026-11-07T18:15+00:00",
+     "summary": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 24 años. Las autoridades encuentran tres cadáveres más en su domicilio",
+     "published": "2026-11-07T21:19+00:00",
      "image": "https://imagenes.elpais.com/resizer/v2/QTEB4NACUJED5LCZMA2PJG52ZY.JPG?auth=b829012e6eec67bc6630a9a4bdca475683345931a63fdf7a5b14580628fd3acc"
     },
     {
-     "title": "Sánchez se reúne con la familia de Guillem Agulló, joven asesinado por un neonazi, que lucha por reconocerlo como víctima del terrorismo",
-     "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-07/sanchez-se-reune-con-la-familia-de-guillem-agullo-joven-asesinado-por-un-neonazi-que-lucha-por-reconocerlo-como-victima-del-terrorismo.html",
-     "summary": "El presidente del Gobierno se compromete a estudiar fórmulas para reconocer al joven de 18 años, muerto en un pueblo de Castellón en 1993",
-     "published": "2026-11-07T16:23+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/LJZWYWT5EJN2JDXD2MRLWQDLZE.jpg?auth=74f11dad089f0850d45052bef567b7ce917b8aacbbccb14d79b56740f633e64a"
+     "title": "El Manchester City ahorra 50 millones a ‘Pavarotti’ Marinakis",
+     "link": "https://elpais.com/deportes/futbol/2026-11-07/el-manchester-city-ahorra-50-millones-a-pavarotti-marinakis.html",
+     "summary": "El Forest abruma (3-1) a la mejor plantilla de la Premier, su dueño evita tener que despedir e indemnizar a su entrenador, y el Arsenal se escapa a seis puntos",
+     "published": "2026-11-07T20:54+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/GYX3IKUZWRP5DCOJNBU7GFDS5Q.jpg?auth=9e0bfaf277015c8bf35899fa48e0fcb32043275669a5c102cfa0aed218e17098"
     },
     {
-     "title": "Hallado el cadáver de un bebé en el arcón frigorífico de una vivienda de Allariz (Ourense)",
-     "link": "https://elpais.com/espana/2026-11-07/la-guardia-civil-investiga-el-hallazgo-del-cadaver-de-un-bebe-en-el-arcon-frigorifico-de-una-vivienda-de-allariz-ourense.html",
-     "summary": "La Guardia Civil sospecha que el niño pudo haber muerto hace más de dos décadas. La investigación ha sido declarada secreta",
-     "published": "2026-11-07T16:16+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/XHTG3N4JJBP55DQRCB5YQH7XAQ.jpg?auth=86b1796d3660c84300a3f3776227ae613b376902fc86873e039927045a11e4fa"
+     "title": "El CD Tenerife despide a Jesús de Miguel sobre el césped: “Vino a marcar goles y conquistó corazones”",
+     "link": "https://elpais.com/deportes/2026-11-07/el-cd-tenerife-despide-a-jesus-de-miguel-sobre-el-cesped-damos-gracias-de-haberte-conocido.html",
+     "summary": "La plantilla y la directiva lloran en el estadio Heliodoro Rodríguez López el fallecimiento del delantero el martes tras su choque con el portero del Andorra",
+     "published": "2026-11-07T19:26+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/FZA6WVZN3VN3RAFZX73LZ355JA.jpg?auth=ac799f31e5c82e3d9d21d246b30eda64bb8dff6e40f5f4d7450457beabedf96f"
     },
     {
-     "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
-     "link": "https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html",
-     "summary": "Varios usuarios en redes sociales han asegurado haber recibido un correo electrónico en el que cancelaban su asistencia “por circunstancias especiales” que no se han aclarado",
-     "published": "2026-11-07T16:06+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/GG56AB4FGRCWBMGYH7LWJ7AATI.jpg?auth=9183fe596593d2ec4472067ed45b00ea172d5771a5571aeaf436d04b30651189"
-    },
-    {
-     "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
-     "link": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html",
-     "summary": "El Cabildo decreta la emergencia social para hacer frente a la gestión de la actual situación migratoria. Desembarcan cinco embarcaciones en la isla y en Lanzarote con 582 personas a bordo. El Gobierno central convoca…",
-     "published": "2026-11-07T16:00+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/JBIK27VZ4ZJXFIZ2U2KW42RD3E.jpg?auth=867f20080e8fd714c899e9b27fedd3420f5c668023404585b1feb3d5fdba61b2"
+     "title": "Una colisión múltiple en Santo Domingo, en la región de Valparaíso, deja al menos 11 muertos y 15 heridos",
+     "link": "https://elpais.com/chile/2026-11-07/una-colision-multiple-en-santo-domingo-en-la-region-de-valparaiso-deja-12-muertos-y-15-heridos.html",
+     "summary": "Un bus que trasladaba a varias familias, un camión tolva y un automóvil chocaron en la Ruta de la Fruta. Las víctimas fatales son adultos y entre los lesionados hay dos niños",
+     "published": "2026-11-07T19:23+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/XDE53IEAJFOG3EAZYGQZHWYJPQ.jpg?auth=f0122edd945aef98765aa6e65b9ace51c45b3c484ee1e2dd8a616312963b854f"
     }
    ]
   },
@@ -869,60 +874,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "La era Sarabia en el Espanyol comienza sin goles",
-     "link": "https://www.lavanguardia.com/deportes/20261107/11678815/espanyol-deportivo-sarabia-liga-rcde-stadium.html",
-     "summary": "El equipo perico firmó instantes de buen fútbol en primer partido del técnico vasco, que vio el partido desde la grada por una sanción",
-     "published": "2026-11-07T17:42+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef623321e94.jpeg"
+     "title": "¿Pato cojo o pato rabioso?",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678790/pato-cojo-pato-rabioso.html",
+     "summary": "EE.UU. seguirá abandonando a Ucrania a su suerte, más aún con Miller como jefe de gabinete",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef493ddb410.jpeg"
     },
     {
-     "title": "El litigio de Sijena encara su fase decisiva",
-     "link": "https://www.lavanguardia.com/cultura/20261107/11678810/litigio-sijena-encara-fase-decisiva.html",
-     "summary": "En diciembre, el MNAC trasladará las ‘pinturas profanas’ al monasterio oscense, mientras que la jueza mantiene la orden de vuelta de los murales para la próxima primavera",
-     "published": "2026-11-07T17:25+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/10/6ac965c33fa41.jpeg"
+     "title": "Trump como patata caliente",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678800/trump-patata-caliente.html",
+     "summary": "La ultraderecha europea intenta hacer ver que la derrota del trumpismo no va con ella",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/05/6aec3f9a77165.r_d.5259-3307-0.jpeg"
     },
     {
-     "title": "Rob Sand: el nuevo gobernador demócrata del estado de Iowa que fue modelo de Prada",
-     "link": "https://www.lavanguardia.com/gente/20261107/11678807/rob-sand-nuevo-gobernador-democrata-iowa-modelo-prada.html",
-     "summary": "Sand protagoniza el regreso de los demócratas al Gobierno estatal de Iowa tras 20 años de control republicano",
-     "published": "2026-11-07T17:07+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef4d1ec0cd2.r_d.2206-1636-1122.jpeg"
+     "title": "Balance general",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678792/balance-general.html",
+     "summary": "Estas elecciones van a ser un referéndum sobre Sánchez, sobre el presidente, y no tanto sobre su gestión",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef4aa77d17f.jpeg"
     },
     {
-     "title": "Márquez gana la Sprint y se acerca al título entre la polémica",
-     "link": "https://www.lavanguardia.com/deportes/motociclismo/20261107/11678805/marc-marquez-gana-sprint-jorge-martin-bezzechi.html",
-     "summary": "El de Cervera, que golpeó a Bezzechi, será campeón si gana la carrera de mañana y Jorge Martín no puntúa",
-     "published": "2026-11-07T17:05+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef57c6ef244.r_d.1650-1205-1516.jpeg"
+     "title": "Y ahora ¿qué?",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678382/que.html",
+     "summary": "Empieza el final de una década triste, que se inició con la primera presidencia de Trump en el 2016",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee3a76c16c6.jpeg"
     },
     {
-     "title": "El Tramvia Blau de Barcelona también se blinda ante los grafiteros",
-     "link": "https://www.lavanguardia.com/local/barcelona/20261107/11678802/tramvia-blau-barcelona-blinda-grafiteros.html",
-     "summary": "A pesar del bucólico ambiente en la avenida del Tibidabo, dos vigilantes pertrechados al estilo de Robocop están muy atentos a todo",
-     "published": "2026-11-07T16:48+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef51d13f035.r_d.534-349-0.jpeg"
+     "title": "Votos de la calle",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678786/votos-calle.html",
+     "summary": "El mito del ‘melting pot’ se ha ido pervirtiendo hasta llegar al odio actual",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef485b49161.jpeg"
     },
     {
-     "title": "Del balonazo en Turín a la llegada del papa a Montevideo, las imágenes del día",
-     "link": "https://www.lavanguardia.com/fotos/20261107/11678768/balonazo-turin-llegada-papa-montevideo-imagenes-dia.html",
-     "summary": "e Turín a Gaza, un balonazo, protestas en Teherán y París, el papa en Montevideo y arte con metralla en Líbano retratan cómo el mundo vive entre tensión y esperanza",
-     "published": "2026-11-07T16:32+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef38fdda52c.jpeg"
+     "title": "Apoyo popular a los ultrarricos",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678794/apoyo-popular-ultrarricos.html",
+     "summary": "California rechaza recaudar el 5% de la fortuna de los que más dinero tienen",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef4e0da44c7.jpeg"
     },
     {
-     "title": "Sánchez se reúne con los padres de Guillem Agulló, el joven asesinado en 1993 por fascistas",
-     "link": "https://www.lavanguardia.com/local/valencia/20261107/11678791/sanchez-reune-padres-guillem-agullo-joven-antifascista-asesinado-1993-grupo-extrema-derecha-servimedia20261107.html",
-     "summary": "El presidente del Gobierno mantuvo un encuentro en Valencia con Carme Salvador y Guillem Agulló la misma semana que han reclamado al Ejecutivo que lo reconozca como víctima del terrorismo",
-     "published": "2026-11-07T16:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef4af0b011b.jpeg"
+     "title": "Recuerdos imborrables",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678793/recuerdos-imborrables.html",
+     "summary": "Ante un accidente de tren o de tráfico vuelven los fantasmas",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef4bc0390b2.jpeg"
     },
     {
-     "title": "“Con estos alimentos podrás montar táperes en minutos”",
-     "link": "https://www.lavanguardia.com/comprar/deporte-salud/20261107/11677007/gemma-hortet-experta-nutricion-energetica-alimentos-montar-taperes-dias-cuestion-minutos-horas.html",
-     "summary": "La autora de “El poder del tupper” propone un menú de otoño para llevar al trabajo y aprovechar una misma preparación en platos distintos",
-     "published": "2026-11-07T16:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/05/6aec951a043fd.r_d.532-546-0.jpeg"
+     "title": "Huelga general",
+     "link": "https://www.lavanguardia.com/opinion/20261108/11678777/huelga-general.html",
+     "summary": "¿Qué prosperidad es esa que se ve en los datos, pero no termina de sentirse en la vida?",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/07/6aef46e2913ec.jpeg"
     }
    ]
   },
@@ -933,6 +938,41 @@
    "region": "espanha",
    "url": "https://www.eldiario.es/rss/",
    "items": [
+    {
+     "title": "Mucho más que Drácula: guía para descubrir los lugares más interesantes de Transilvania",
+     "link": "https://www.eldiario.es/viajes/dracula-guia-descubrir-lugares-interesantes-transilvania_1_13644402.html",
+     "summary": "Castillos, iglesias fortificadas, ciudades medievales, pueblos sajones y paisajes de montaña dibujan una ruta por una de las regiones con más historia y personalidad de Rumanía Seis buenas razones para viajar en otoño…",
+     "published": "2026-11-07T21:41+00:00",
+     "image": "https://static.eldiario.es/clip/2f44c681-2973-458b-8c6e-9c42f4ed59bc_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Las marcas chinas sacuden ahora el mercado de los coches de lujo",
+     "link": "https://www.eldiario.es/motor/sector_y_mercado/marcas-chinas-sacuden-ahora-mercado-coches-lujo_1_13644250.html",
+     "summary": "La nueva oleada de fabricantes de China en Europa incluye varias marcas de gama alta que ponen en apuros a Mercedes, BMW, Audi y a iconos del lujo como Rolls-Royce y Bentley La ambición china no tiene freno: las marcas…",
+     "published": "2026-11-07T21:41+00:00",
+     "image": "https://static.eldiario.es/clip/bd9756fe-d116-44f9-ad4c-df68f88f538c_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Salvamento rescata a 582 personas en seis embarcaciones precarias próximas a Canarias este sábado",
+     "link": "https://www.eldiario.es/canariasahora/migraciones/salvamento-rescata-582-personas-seis-embarcaciones-precarias-proximas-canarias-sabado_1_13647214.html",
+     "summary": "La jornada también ha estado marcada por la convocatoria el próximo martes, 10 de noviembre, de la Comisión Interministerial de Inmigración para abordar el repunte de la ruta migratoria El Gobierno de España celebrará…",
+     "published": "2026-11-07T19:53+00:00",
+     "image": "https://static.eldiario.es/clip/c52f5058-0864-486b-8abc-2d3d69ab836c_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "El presidente de Israel encarga formar gobierno al opositor Eisenkot tras recibir el apoyo de los partidos árabes",
+     "link": "https://www.eldiario.es/internacional/presidente-israel-pide-eisenkot-formar-gobierno-recibir-apoyo-partidos-arabes_1_13647220.html",
+     "summary": "La decisión del presidente israelí llega después de que 67 diputados apoyasen la candidatura de Eisenkot, incluidos los pertenecientes a los partidos árabes, en la ronda de consultas que ha mantenido el jefe de Estado…",
+     "published": "2026-11-07T19:49+00:00",
+     "image": "https://static.eldiario.es/clip/537d0d4d-08e4-4d4a-9a5e-99ea1c19bd68_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Trump ofrece a Dana White, presidente de la UFC y exluchador profesional, la portavocía de la Casa Blanca... Y éste lo rechaza",
+     "link": "https://www.eldiario.es/internacional/dana-favor-acepta-puesto-trump-ofrece-presidente-ufc-exluchador-profesional-portavocia-casa-blanca_1_13647212.html",
+     "summary": "El presidente de EEUU anuncia en Truth Social que ha ofrecido a Dana White la secretaría de Prensa de la Casa Blanca, puesto vacante desde que fue despedida a mediados de octubre Katie Zacharia tras cuatro días en el…",
+     "published": "2026-11-07T19:42+00:00",
+     "image": "https://static.eldiario.es/clip/476bb26f-4290-471b-a4d7-daf19cf082d3_16-9-discover-aspect-ratio_default_0_x3412y632.jpg"
+    },
     {
      "title": "¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas",
      "link": "https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html",
@@ -948,46 +988,11 @@
      "image": "https://static.eldiario.es/clip/9469a85f-627c-4b54-a195-75cae4774a0b_16-9-discover-aspect-ratio_default_1155240.jpg"
     },
     {
-     "title": "Al menos seis muertos y 15 heridos en un tiroteo en la ciudad polaca de Cracovia",
+     "title": "Un ultraderechista asesina a nueve personas y deja 15 heridos en un ataque terrorista en Cracovia",
      "link": "https://www.eldiario.es/internacional/cinco-muertos-docena-heridos-tiroteo-ciudad-polaca-cracovia_1_13646897.html",
-     "summary": "El tiroteo se ha producido después de que un hombre haya irrumpido con un vehículo en la plaza del mercado central de Cracovia, donde ha comenzado a disparar a los transeúntes. El tirador, que formaba parte de un cuerpo…",
+     "summary": "El tiroteo se ha producido después de que un hombre haya irrumpido con un vehículo en la plaza del mercado central de Cracovia, donde ha comenzado a disparar a los transeúntes. El tirador, de ideología ultraderechista…",
      "published": "2026-11-07T15:37+00:00",
-     "image": "https://static.eldiario.es/clip/0c5b57c8-e2ca-4073-a07f-f5456f136eac_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "50 detenidos en Barcelona, 43 de ellos empresarios, por lucrarse con la entrada de migrantes",
-     "link": "https://www.eldiario.es/catalunya/50-detenidos-barcelona-43-empresarios-lucrarse-entrada-migrantes_1_13646835.html",
-     "summary": "Los Mossos identifican una red criminal que se encargaba a tramitar contratos laborales fraudulentos con personas migradas, principalmente del Pakistán, para facilitar su llegada a España o la tramitación de la…",
-     "published": "2026-11-07T15:27+00:00",
-     "image": "https://static.eldiario.es/clip/8c3142b0-0174-4119-a5e6-79a6b86f05cf_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "La Guardia Civil investiga el hallazgo del cuerpo de un bebé en una vivienda de Allariz (Ourense)",
-     "link": "https://www.eldiario.es/galicia/guardia-civil-investiga-hallazgo-cuerpo-bebe-vivienda-allariz-ourense_1_13646818.html",
-     "summary": "Por el momento se desconoce cuánto tiempo llevaba el cadáver en el lugar donde se halló En libertad con cargos de homicidio imprudente los padres del bebé muerto en Toro, en Zamora La Guardia Civil ha abierto esta…",
-     "published": "2026-11-07T15:03+00:00",
-     "image": "https://static.eldiario.es/clip/dd29e99b-15fe-4d5a-9cd4-cea2059e5a9b_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Pedro Sánchez se compromete con la familia de Guillem Agulló a estudiar su reconocimiento como víctima del terrorismo",
-     "link": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-compromete-familia-guillem-agullo-estudiar-reconocimiento-victima-terrorismo_1_13646783.html",
-     "summary": "El presidente del Gobierno se reúne con los padres del joven antifascista asesinado en 1993, cuya petición cuenta con el respaldo de más de 200 personalidades y entidades como Covite o la Fundación Fernando Buesa La…",
-     "published": "2026-11-07T14:29+00:00",
-     "image": "https://static.eldiario.es/clip/267563f5-ad73-40e0-915b-a52b94e9e856_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Salvamento rescata cerca de Lanzarote a 133 personas en la neumática más sobrecargada de la ruta canaria",
-     "link": "https://www.eldiario.es/canariasahora/migraciones/salvamento-rescata-cerca-lanzarote-143-personas-neumatica-sobrecargada-ruta-canaria_1_13646636.html",
-     "summary": "Ha sido a partir del pasado verano cuando han empezado a llegar a las islas, por primera vez, lanchas neumáticas ocupadas por más de cien personas ''Dos personas se tiraron por la borda, no podían más'': los…",
-     "published": "2026-11-07T13:37+00:00",
-     "image": "https://static.eldiario.es/clip/975d4c64-817e-4e4e-ba86-4f4e271a2073_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "El rechazo a los centros de datos colapsa Zaragoza: \"No generan empleo, no pagan impuestos y se quedan los recursos\"",
-     "link": "https://www.eldiario.es/aragon/economia/rechazo-centros-datos-colapsa-zaragoza-no-generan-empleo-no-pagan-impuestos-quedan-recursos_1_13646599.html",
-     "summary": "La manifestación, enmarcada en la jornada europea contra estas infraestructuras electrointensivas, recorre el centro de la ciudad hasta la sede del Gobierno de Aragón para reclamar una moratoria España lidera la primera…",
-     "published": "2026-11-07T13:28+00:00",
-     "image": "https://static.eldiario.es/clip/99871d81-85c9-45ef-83a3-b10fc62f1c25_16-9-discover-aspect-ratio_default_0.jpg"
+     "image": "https://static.eldiario.es/clip/4df3fb8a-d2e6-4e52-acb9-a3cab804f2ca_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -999,6 +1004,48 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
+     "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+     "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+     "published": "2026-11-07T23:36+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+     "summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+     "published": "2026-11-07T23:03+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+     "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+     "published": "2026-11-07T22:05+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+     "summary": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+     "published": "2026-11-07T21:52+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg"
+    },
+    {
+     "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+     "summary": "The crowds were smaller on Saturday than in previous weeks’ demonstrations, but the animating sense of grievance remained.",
+     "published": "2026-11-07T21:00+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+     "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+     "summary": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
+     "published": "2026-11-07T20:17+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg"
+    },
+    {
      "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
      "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
      "summary": "Club International was once a popular music venue in Port-au-Prince. Now it’s a makeshift shelter for hundreds of Haitian families fleeing gang violence, and the club’s owner wants them out.",
@@ -1006,53 +1053,11 @@
      "image": ""
     },
     {
-     "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-     "summary": "The crowds appeared to be smaller on Saturday than they had been in previous weeks’ demonstrations, but the animating sense of grievance remained.",
-     "published": "2026-11-07T19:18+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-     "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
-     "published": "2026-11-07T19:02+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-tjqg/07int-poland-shooting-tjqg-mediumSquareAt3X.jpg"
-    },
-    {
      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
      "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
      "summary": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
      "published": "2026-11-07T18:49+00:00",
      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-     "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-     "published": "2026-11-07T18:17+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
-     "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-     "summary": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
-     "published": "2026-11-07T17:26+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-     "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
-     "published": "2026-11-07T16:39+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-     "summary": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
-     "published": "2026-11-07T13:13+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -1071,6 +1076,13 @@
      "image": "https://ca-times.brightspotcdn.com/dims4/default/9d614fb/2147483647/strip/false/crop/8064x5379+0+0/resize/1500x1001!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F7d%2Fa12cc20d457f87875aa0fd9a923d%2F1567722-me-raman-homelessness-cmh-04.jpg"
     },
     {
+     "title": "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
+     "link": "https://www.latimes.com/politics/story/2026-11-07/trump-weighing-new-iran-strikes-faces-divided-party-ticking-clock",
+     "summary": "A sudden bipartisan push to oust Defense Secretary Pete Hegseth could constrain President Trump's ability to resume the fight with Iran before Democrats take control of Congress.",
+     "published": "2026-11-07T11:00+00:00",
+     "image": ""
+    },
+    {
      "title": "Arab parties hold the key as Israel struggles to form a government",
      "link": "https://www.latimes.com/world-nation/story/2026-11-07/arab-parties-hold-key-as-israel-struggles-to-form-government",
      "summary": "Gadi Eisenkot, who leads the center-right Yashar party, appears to have the advantage in forming a coalition government in Israel that would oust long-serving Prime Minister Benjamin Netanyahu.",
@@ -1081,13 +1093,6 @@
      "title": "As Stephen Miller rises, California hopes it can blunt his force with Democratic gains",
      "link": "https://www.latimes.com/california/story/2026-11-07/stephen-miller-chief-of-staff-immigration-california",
      "summary": "President Trump's appointment of Stephen Miller — the architect of the administration's extreme crackdown on immigration — to White House chief of staff has sparked alarm among immigrant advocates and politicians in…",
-     "published": "2026-11-07T11:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
-     "link": "https://www.latimes.com/politics/story/2026-11-07/trump-weighing-new-iran-strikes-faces-divided-party-ticking-clock",
-     "summary": "A sudden bipartisan push to oust Defense Secretary Pete Hegseth could constrain President Trump's ability to resume the fight with Iran before Democrats take control of Congress.",
      "published": "2026-11-07T11:00+00:00",
      "image": ""
     },
@@ -1129,60 +1134,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "Empleado de patio taller de Transmilenio murió arrollado en Bogotá: conductor del articulado arrancó mientras desmontaba una llanta",
-     "link": "https://www.infobae.com/colombia/2026/11/07/empleado-de-patio-taller-de-transmilenio-murio-arrollado-en-bogota-conductor-del-articulado-arranco-mientras-desmontaba-una-llanta/",
-     "summary": "El suceso ocurrió en un punto operativo de la capital, sector de Modelia, en medio de una semana marcada por la violencia contra trabajadores del sistema",
-     "published": "2026-11-07T19:23+00:00",
-     "image": "https://www.infobae.com/resizer/v2/PGTW6QHYWRG45CURFD7YEWMVKM.png?auth=fc644bd68ec57d05eb637135a55c1cbea319d2c268dbdd6f16bf096ff7da89cb&smart=true&width=1890&height=1063"
+     "title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base",
+     "link": "https://www.infobae.com/america/agencias/2026/11/08/la-nasa-enviara-un-explorador-con-energia-nuclear-a-la-luna-para-alistar-la-primera-base/",
+     "summary": "Miami, 7 nov (EFE).- La NASA anunció este sábado que enviará un nuevo vehículo explorador impulsado con energía nuclear, y hecho con partes que sirvieron para artefactos similares enviados a Marte, para que prepare los…",
+     "published": "2026-11-08T00:30+00:00",
+     "image": ""
     },
     {
-     "title": "América de Cali vs. Deportivo Cali - en vivo: en el clásico vallecaucano los dos equipos se juegan el liderato de Liga BetPlay",
-     "link": "https://www.infobae.com/colombia/deportes/2026/11/07/america-de-cali-vs-deportivo-cali-en-vivo-en-el-clasico-vallecaucano-los-dos-equipos-se-juegan-el-liderato-de-liga-betplay/",
-     "summary": "América llega en el segundo puesto con 35 puntos, tras igualar 0-0 ante Millonarios. Deportivo Cali es tercero con 33 unidades y viene de vencer 2-0 a Boyacá Chicó. Ambos ya aseguraron su clasificación a los…",
-     "published": "2026-11-07T19:23+00:00",
-     "image": "https://www.infobae.com/resizer/v2/ILKZ6STTD5EUJEN52264GH7USI.jpg?auth=1108a6b5b0ad1e8edabb62ac66af9ef13dea2f9f44681833482dcad80706dc5f&smart=true&width=1600&height=1004"
+     "title": "Con un gol en el último minuto, Boca Juniors ganó 1-0 y se consagró campeón de la Tabla Anual",
+     "link": "https://www.infobae.com/deportes/2026/11/07/boca-argentinos-juniors-y-rosario-central-buscaran-el-titulo-de-la-tabla-anual-hora-y-todo-lo-que-hay-que-saber/",
+     "summary": "El Xeneize se quedó con una dramática definición gracias a un tanto de Enner Valencia a los 95 minutos. Rosario Central ganó 2-0 en el Gigante de Arroyito, pero no le alcanzó y quedó segundo. Por otro lado, Argentinos…",
+     "published": "2026-11-08T00:30+00:00",
+     "image": "https://www.infobae.com/resizer/v2/TTDI7SVMSBBZ3LWHG6XE5DLDDQ.JPG?auth=5dad50ab22a5478020c0f3701254eb5972ca5cca5b88ab518fdf4d1962da413c&smart=true&width=4880&height=2745"
     },
     {
-     "title": "Sporting Cristal vs ADT EN VIVO HOY: minuto a minuto del partido clave en Tarma por Torneo Clausura de Liga 1 2026",
-     "link": "https://www.infobae.com/peru/deportes/2026/11/07/sporting-cristal-vs-adt-en-vivo-hoy-minuto-a-minuto-partido-tarma-fecha-16-torneo-clausura-liga-1-2026-goles-resumen-resultado/",
-     "summary": "Con la reaparición de Yoshimar Yotún, los ‘cerveceros’ están obligados a sacar un triunfo para mantener la primer opción del título. Sigue las incidencias del decisivo cotejo",
-     "published": "2026-11-07T19:22+00:00",
-     "image": "https://www.infobae.com/resizer/v2/ZKEP32AL75DQVI5WNHGSN2ZLMA.jpg?auth=8081399fb25a1156d78157242a7ca0feccb9a2db63c6e12abf498cb88214956f&smart=true&width=720&height=394"
+     "title": "Instituto recibe a Newell’s en Córdoba por la fecha 16 del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/11/07/instituto-recibira-a-newells-en-cordoba-por-la-fecha-16-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+     "summary": "La Gloria y la Lepra bajan el telón del sábado en el Monumental Presidente Perón. Transmite ESPN Premium",
+     "published": "2026-11-08T00:29+00:00",
+     "image": "https://www.infobae.com/resizer/v2/LZWA7TQYRJHWLNOF2K63QF2TFE.png?auth=37893b0e8772df6abe5090026720f264ba19dc8df19d7f32da7543edb868807a&smart=true&width=2752&height=1536"
     },
     {
-     "title": "Francia volvió a las calles en una nueva jornada de violentas protestas que dejó enfrentamientos con la Policía",
-     "link": "https://www.infobae.com/america/mundo/2026/11/07/francia-volvio-a-las-calles-en-una-nueva-jornada-de-violentas-protestas-que-dejo-enfrentamientos-con-la-policia/",
-     "summary": "El Ministerio del Interior cifró en 146.000 los participantes en todo el país, mientras la intersindical estudiantil elevó el cálculo a 250.000",
-     "published": "2026-11-07T19:21+00:00",
-     "image": "https://www.infobae.com/resizer/v2/4GRRONWFVZCVPA7VF7JR5XLY5Q.JPG?auth=5b50014ec3d6b16e6540a791ed06c00bf27961e9cda41bc25a75ee4e5d70a26b&smart=true&width=5179&height=3453"
+     "title": "Crisis en Paraguay EN VIVO | El ex presidente del Banco Central comparece ante el juez de garantías",
+     "link": "https://www.infobae.com/america/america-latina/2026/11/07/crisis-politica-en-paraguay/",
+     "summary": "Carlos Carvallo se encuentra ante el juez Otazú para su audiencia de imposición de medidas, en el Palacio de Justicia de Asunción",
+     "published": "2026-11-08T00:28+00:00",
+     "image": "https://www.infobae.com/resizer/v2/HOBUJBLYWNCUXC4DWW5WTWQV7E.jpg?auth=d703ea152ec6f9b4d0ac5e8f2e19cf6a78b588a506012089ef6631c06691193d&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Gobierno de México manda un saludo al nuevo presidente de Paraguay tras la salida de Santiago Peña",
-     "link": "https://www.infobae.com/mexico/2026/11/07/gobierno-de-mexico-manda-un-saludo-al-nuevo-presidente-de-paraguay-tras-la-salida-de-santiago-pena/",
-     "summary": "El exmandatario renunció a su cargo el pasado 5 de noviembre debido a una crisis financiera y política desatada por el colapso e intervención de Ueno Bank",
-     "published": "2026-11-07T19:21+00:00",
-     "image": "https://www.infobae.com/resizer/v2/YJL6HADSZZBXNDJHY3VCMCZANM.JPG?auth=766163579586c7e8e8217038379a354381ac6e3bb63e344f35006db107f981f1&smart=true&width=2968&height=1979"
+     "title": "Cayó funcionario activo del DNI acusado de ‘hackear’ “abusivamente” sistema de inteligencia del Estado",
+     "link": "https://www.infobae.com/colombia/2026/11/08/cayo-funcionario-activo-del-dni-acusado-de-hackear-abusivamente-sistema-de-inteligencia-del-estado/",
+     "summary": "El Gaula Militar confirmó que Carlos Andrés Oyola habría estado detrás de acciones ilícitas con la Fiscalía y la UNAD “con acceso abusivo a información de procesos electorales y a inteligencia estratégica que…",
+     "published": "2026-11-08T00:28+00:00",
+     "image": "https://www.infobae.com/resizer/v2/TDIJRC4I5VCYHCCYZ6T3MTFH4Q.png?auth=e60506f901ade819f4222f7792c5a0a3357c3e8240568c04edf7058e14f58a08&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Boy George se compromete con Israel y desata la euforia de sus fans con dos recitales en Tel Aviv",
-     "link": "https://www.infobae.com/cultura/2026/11/07/boy-george-se-compromete-con-israel-y-desata-la-euforia-de-sus-fans-con-dos-recitales-en-tel-aviv/",
-     "summary": "La estrella pop británica, que recibió numerosas críticas en su país por el explícito gesto político de adhesión, cierra este sábado una mini gira con entradas agotadas y la gratitud del público",
-     "published": "2026-11-07T19:21+00:00",
-     "image": "https://www.infobae.com/resizer/v2/UOVUCFHS4ZHIPJTACQZPH73VJQ.jpg?auth=f68a43894c5afe20d9a6b4676967ee1f47d125c0b0fd064e2a29d0a6978e2c83&smart=true&width=1920&height=1280"
+     "title": "Universitario vs Rebaza Acosta EN VIVO HOY: punto a punto del partido por fecha 4 de Liga Peruana de Vóley 2026-27",
+     "link": "https://www.infobae.com/peru/deportes/2026/11/07/universitario-vs-rebaza-acosta-en-vivo-hoy-punto-a-punto-partido-fecha-4-liga-peruana-de-voley-2026-2027-resumen-resultado/",
+     "summary": "Los conjuntos que tienen a su cargo Francisco Hervás y Martín Rodríguez disputarán uno de los duelos más entretenidos de la jornada. El elenco del Callao buscará frenar el firme paso de las ’pumas’",
+     "published": "2026-11-08T00:27+00:00",
+     "image": "https://www.infobae.com/resizer/v2/SXC352MLIBH35LMV4DOAQ2CP5E.jpg?auth=21596457ba229a08363f513e720015682c89053f6f993ae25c380dc1374acc12&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Cayó banda señalada de cometer robos de celulares y equipos tecnológicos en conciertos y eventos masivos en Bogotá y otras ciudades del país",
-     "link": "https://www.infobae.com/colombia/2026/11/07/cayo-banda-senalada-de-cometer-robos-de-celulares-y-equipos-tecnologicos-en-conciertos-y-eventos-masivos-en-bogota-y-otras-ciudades-del-pais/",
-     "summary": "Las seis personas usaban falsas identidades y haciéndose pasar por funcionarios o personal logístico para acercarse a las víctimas",
-     "published": "2026-11-07T19:20+00:00",
-     "image": "https://www.infobae.com/resizer/v2/V4IWWSMT7NC5VAWHZXROHDDUJ4.png?auth=199acdfcd990385650dc01b5085aa860c28936d43d14b98e91f036d64e65adce&smart=true&width=1890&height=1063"
+     "title": "Detectan más de 33 mil artículos falsos en la Aduana de Lázaro Cárdenas: había relojes, tenis y audífonos",
+     "link": "https://www.infobae.com/mexico/2026/11/07/golpe-a-la-pirateria-aseguran-mas-de-33-mil-productos-falsificados-en-la-aduana-de-lazaro-cardenas-michoacan/",
+     "summary": "Entre los objetos localizados había relojes, audífonos, calzado deportivo y disfraces, todos apócrifos",
+     "published": "2026-11-08T00:26+00:00",
+     "image": "https://www.infobae.com/resizer/v2/ZESDV77LONGCLLKQ4JC4F7J64Q.jpg?auth=0a9b473a4e9efd6aa8220c1b2842d9800cb3f29f15288c5fd40bc8507c43709d&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Con Verstappen, Hamilton, Leclerc y Russell penalizados, Colapinto afronta la qualy en Brasil: la sesión se detuvo por lluvia",
-     "link": "https://www.infobae.com/deportes/2026/11/07/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-en-el-gran-premio-de-brasil-de-formula-1-hora-y-todo-lo-que-hay-que-saber/",
-     "summary": "Luego de un primer día positivo, el argentino debe enfocarse en la qualy que se realizará en Interlagos",
-     "published": "2026-11-07T19:17+00:00",
-     "image": "https://www.infobae.com/resizer/v2/YNVZIF3LOFBNXKX3ZALD3OWZPQ.JPG?auth=51b00473856c186416abaa38d11ca247d66db384e01bf1131632e1a7fad4c19c&smart=true&width=6000&height=4000"
+     "title": "Rosario Central festejó por error el título de la Tabla Anual y estallaron los memes en las redes sociales",
+     "link": "https://www.infobae.com/deportes/2026/11/07/rosario-central-festejo-por-error-el-titulo-de-la-tabla-anual-y-estallaron-los-memes-en-las-redes-sociales/",
+     "summary": "El Canalla fue el principal foco de los usuarios después de anticiparse a la celebración de un trofeo que se lo llevó Boca en una dramática definición",
+     "published": "2026-11-08T00:25+00:00",
+     "image": "https://www.infobae.com/resizer/v2/GKRERL4JBBGKBNDUJCV6YOCWLY.jpg?auth=785fd939d188dec6639f730e9d373e6f3e37506943391af0451ac30a9df00727&smart=true&width=1920&height=1080"
     }
    ]
   },
@@ -1194,59 +1199,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Confeiteiros paulistanos falam sobre uso de matchá, missô e kimchi em doces em festival da Folha",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/confeiteiros-paulistanos-falam-sobre-uso-de-matcha-misso-e-kimchi-em-doces-em-festival-da-folha.shtml",
-     "summary": "O Brasil está aprendendo a comer doce de outro jeito: com menos açúcar e com ingredientes tradicionais de países da Ásia. Na primeira mesa do Folha Gourmet Festival , neste sábado (7), chefs de confeitarias e padarias…",
-     "published": "2026-11-07T19:11+00:00",
+     "title": "Governadora do DF prepara limpa de indicados políticos, com MDB no alvo",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-df-prepara-limpa-de-indicados-politicos-com-mdb-no-alvo.shtml",
+     "summary": "A governadora reeleita do Distrito Federal , Celina Leão (PP), já prepara um decreto para fazer uma limpa nos cargos com indicações de partidos políticos. O principal objetivo é exonerar nomeados na gestão de Ibaneis…",
+     "published": "2026-11-08T00:00+00:00",
      "image": ""
     },
     {
-     "title": "Chuva forte interrompe treino de classificação do GP de São Paulo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/chuva-forte-interrompe-treino-de-classificacao-do-gp-de-sao-paulo.shtml",
-     "summary": "A forte chuva que atinge a capital paulista , sobretudo a região de Interlagos, interrompeu neste sábado (7) o treino que definirá o grid de largada para o GP de São Paulo , marcado para domingo (8), às 14h (de…",
-     "published": "2026-11-07T19:10+00:00",
+     "title": "Xuxa cancela participação no Teleton após fortes chuvas no Rio",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/xuxa-cancela-participacao-no-teleton-apos-fortes-chuvas-no-rio.shtml",
+     "summary": "Xuxa Meneghel , 63, cancelou sua participação no encerramento do Teleton 2026, no SBT, previsto para a noite deste sábado (7), após fortes chuvas afetarem os voos entre Rio de Janeiro e São Paulo durante a tarde. A…",
+     "published": "2026-11-07T23:54+00:00",
      "image": ""
     },
     {
-     "title": "Mortes: Primeira-dama discreta, teve um único namorado e foi mãe presente",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/mortes-primeira-dama-discreta-teve-um-unico-namorado-e-foi-mae-presente.shtml",
-     "summary": "A disputa entre os sete filhos de Lucy Marques Coube começava assim que a assadeira de doce de aveia ou das balas de café, receitas tradicionais da família , saía do forno. Os mais rápidos garantiam os melhores pedaços…",
-     "published": "2026-11-07T19:00+00:00",
+     "title": "Agentes da PF, Ibama e Funai são alvos de tiros durante ação em terra indígena",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/agentes-da-pf-ibama-e-funai-sao-alvos-de-tiros-durante-acao-em-terra-indigena.shtml",
+     "summary": "Agentes da Polícia Federal , do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) e da Funai (Fundação Nacional dos Povos Indígenas ) foram alvos de tiros nesta sexta-feira (6), durante…",
+     "published": "2026-11-07T23:53+00:00",
      "image": ""
     },
     {
-     "title": "Taís Araujo elogia Lázaro Ramos após fim de novela da Globo: 'Meu malvado favorito'",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/tais-araujo-elogia-lazaro-ramos-apos-fim-de-novela-da-globo-meu-malvado-favorito.shtml",
-     "summary": "Taís Araujo comemorou o desempenho de Lázaro Ramos como Jendal, vilão de \" A Nobreza do Amor \" (Globo). A atriz publicou uma foto ao lado do marido e elogiou a atuação na novela escrita por Duca Rachid, Júlio Fischer e…",
-     "published": "2026-11-07T18:53+00:00",
+     "title": "Opositor a Netanyahu tentará formar governo em Israel sem mudar impasse palestino",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml",
+     "summary": "Para os palestinos, é uma boa notícia que o presidente israelense, Isaac Herzog, tenha escolhido Gadi Eisenkot para tentar formar um novo governo , possivelmente substituindo o primeiro-ministro Binyamin Netanyahu …",
+     "published": "2026-11-07T23:47+00:00",
      "image": ""
     },
     {
-     "title": "Como ser feliz? Veja dicas de pesquisadores pioneiros da ciência do bem-estar",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/11/como-ser-feliz-veja-dicas-de-pesquisadores-pioneiros-da-ciencia-do-bem-estar.shtml",
-     "summary": "No início deste ano, organizamos uma reunião com algumas das figuras mais influentes da pesquisa moderna sobre felicidade para discutir o que elas haviam aprendido ao longo de seus 600 anos combinados de pesquisa e…",
-     "published": "2026-11-07T18:30+00:00",
+     "title": "Redução da maioridade penal: 'Placebo demagógico que não melhorará nossa sociedade', diz leitor",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/reducao-da-maioridade-penal-placebo-demagogico-que-nao-melhorara-nossa-sociedade-diz-leitor.shtml",
+     "summary": "É a adoção de uma proposta da extrema direita, inimiga dos direitos humanos e da racionalidade. Também é evidente a inconstitucionalidade, por violação de cláusula pétrea, por restrição a direito fundamental. É péssima…",
+     "published": "2026-11-07T23:30+00:00",
      "image": ""
     },
     {
-     "title": "Não tenho tenho medo da morte, mas também não tenho pressa, diz John Malkovich",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/nao-tenho-tenho-medo-da-morte-mas-tambem-nao-tenho-pressa-diz-john-malkovich.shtml",
-     "summary": "\"Não tenho pressa, mas também não tenho medo, não\", diz John Malkovich , 72, sobre a morte. \"Sinceramente, tive uma vida inacreditável, absurdamente boa. Tenho netas pequenas, então vou lamentar o tempo que não poderei…",
-     "published": "2026-11-07T18:30+00:00",
+     "title": "Binance troca diretor financeiro após roubo recorde de US$ 6,3 bilhões",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-troca-diretor-financeiro-apos-roubo-recorde-de-us-63-bilhoes.shtml",
+     "summary": "O diretor financeiro da Binance, Kaiser Ng, está deixando a empresa para se dedicar a outro empreendimento, informou a maior corretora de criptomoedas do mundo, dias depois de hackers terem roubado US$ 6,3 bilhões da…",
+     "published": "2026-11-07T23:21+00:00",
      "image": ""
     },
     {
-     "title": "EUA acreditam que CEO da Nvidia teve relacionamento amoroso com suposta espiã chinesa",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/eua-acreditam-que-ceo-da-nvidia-teve-relacionamento-amoroso-com-suposta-espia-chinesa.shtml",
-     "summary": "O governo dos Estados Unidos acredita que Jensen Huang, CEO da Nvidia , teve um relacionamento amoroso com uma chinesa recrutada para espionar em nome da principal agência de inteligência da China , segundo pessoas a…",
-     "published": "2026-11-07T18:23+00:00",
+     "title": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña após impeachment",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment.shtml",
+     "summary": "O ex-presidente do Paraguai Santiago Peña teve a prisão preventiva decretada neste sábado (7), após ser acusado de envolvimento em uma crise bancária que deixou milhões de correntistas sem acesso a seus depósitos e…",
+     "published": "2026-11-07T23:12+00:00",
      "image": ""
     },
     {
-     "title": "Alanis Morissette revela em podcast que se identifica como pansexual",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/alanis-morissette-revela-em-podcast-que-se-identifica-como-pansexual.shtml",
-     "summary": "Alanis Morissette afirmou ser pansexual durante um episódio do podcast americano Handsome, lançado na última terça-feira (3). Leia mais (11/07/2026 - 15h22)",
-     "published": "2026-11-07T18:22+00:00",
+     "title": "Grêmio segura o Atlético-MG em BH e vai à final da Copa do Brasil",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/gremio-segura-o-atletico-mg-em-bh-e-vai-a-final-da-copa-do-brasil.shtml",
+     "summary": "O Grêmio empatou com o Atlético-MG em 1 a 1 neste sábado (7), em Belo Horizonte, e avançou à final da Copa do Brasil. Os gols foram de Renan Lodi, para os mineiros, e Carlos Vinícius, para os gaúchos. Leia mais…",
+     "published": "2026-11-07T23:11+00:00",
      "image": ""
     }
    ]
@@ -1259,60 +1264,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Homem de 23 anos é encontrado morto com tiro na cabeça em Araruama",
-     "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/07/homem-de-23-anos-e-encontrado-morto-com-tiro-na-cabeca-em-araruama.ghtml",
-     "summary": "Homem é encontrado morto com tiro na cabeça em Araruama Divulgação Um homem foi encontrado morto com um tiro na cabeça nesta sexta-feira (6), no bairro Vila Canaã, em Araruama, na Região dos Lagos. Segundo a ocorrência…",
-     "published": "2026-11-07T19:12+00:00",
-     "image": "https://s2-g1.glbimg.com/F3JbhUpYf-CKhIfDokn1-KVfJRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/E/OtOi2YTBW66a6AwW9VXA/118-dp.jpg"
-    },
-    {
-     "title": "'Toque de recolher às 17h': medo de onças faz moradora abandonar sítio em Corumbá após nova 'visita' de felino; VÍDEO",
-     "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/07/toque-de-recolher-as-17h-medo-de-oncas-faz-moradora-abandonar-sitio-em-corumba-apos-nova-visita-de-felino-video.ghtml",
-     "summary": "Onça retorna a sítio de Corumbá, e moradora decide se mudar por medo Onça retorna a sítio de Corumbá, e moradora decide se mudar por medo As aparições de onças-pintadas continuam assustando moradores de uma propriedade…",
-     "published": "2026-11-07T19:12+00:00",
-     "image": "https://s2-g1.glbimg.com/VS5PqlbJrrsNzqa7G1FJmkJGzvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/HOXvMIQF26DCQIMLW3Bw/design-sem-nome-37-.jpg"
-    },
-    {
-     "title": "Helicóptero que caiu em Passos saiu do Aeroporto da Pampulha, em Belo Horizonte",
-     "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/07/helicoptero-que-caiu-em-passos-saiu-de-belo-horizonte.ghtml",
-     "summary": "Helicóptero cai em fazenda e deixa cinco feridos em Passos, MG O helicóptero que caiu com cinco pessoas a bordo na zona rural de Passos, no Sul de Minas, neste sábado (7), decolou no final da manhã do Aeroporto da…",
-     "published": "2026-11-07T19:12+00:00",
-     "image": "https://s2-g1.glbimg.com/-tkbQUIDF1Gxt-8EHLUlvAzyHjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/42CaSCTRawQfVT0M2jmw/aeronave-passos.jpeg"
-    },
-    {
-     "title": "Mais de 150 animais são recolhidos de rodovias no interior de SP",
-     "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/07/mais-de-150-animais-sao-recolhidos-de-rodovias-no-interior-de-sp.ghtml",
-     "summary": "Recolhimento de animais cresce 20% em rodovias da região de São Carlos (SP) Arteris Intervias O recolhimento de animais em três rodovias que passam por cidades da região de São Carlos (SP) aumentou 20,4% entre janeiro e…",
-     "published": "2026-11-07T19:10+00:00",
-     "image": "https://s2-g1.glbimg.com/x136Q7L6GuQ0q7vXH9luDfUbqDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/drbzDFRNCladAIln9xWw/img-1611-corte-site.original.webp"
-    },
-    {
-     "title": "Tráfico de drogas em Belterra: mulher é flagrada raspando pedra de crack na janela de casa",
-     "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/trafico-de-drogas-em-belterra-mulher-e-flagrada-raspando-pedra-de-crack-na-janela-de-casa.ghtml",
-     "summary": "Drogas fracionadas, dinheiro e celular são apreendidos com casal suspeito de tráfico em Belterra. Foto: Divulgação/Polícia Militar Um flagrante de tráfico de drogas em Belterra, no oeste do Pará, chamou a atenção de…",
-     "published": "2026-11-07T19:07+00:00",
-     "image": "https://s2-g1.glbimg.com/qXJdgxXCdQlA8PhOvc5oAXOvhkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/Y9d7qqRZC4nzaOEf2CZg/whatsapp-image-2026-11-07-at-16.03.50.jpeg"
-    },
-    {
-     "title": "Menino de 2 anos toma superdose de medicamento, passa mal e é resgatado de helicóptero; VÍDEO",
-     "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/07/menino-de-2-anos-toma-superdose-de-medicamento-e-e-resgatado-de-helicoptero-video.ghtml",
-     "summary": "Menino de 2 anos é socorrido após tomar dose de medicamento 36 vezes maior que a recomendada Um menino de 2 anos foi socorrido com sinais de intoxicação em Igarassu, no Grande Recife. De acordo com a Polícia Rodoviária…",
-     "published": "2026-11-07T19:06+00:00",
-     "image": "https://s2-g1.glbimg.com/kbFwzuLusPZcPT9cug9XTQXokT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/kP1BBdRhO3pylAyk0cAQ/g1-19-.jpg"
-    },
-    {
-     "title": "'Amoroso' e 'trabalhador': saiba quem era o jovem que morreu em acidente entre moto e carreta",
-     "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/07/amoroso-e-trabalhador-saiba-quem-e-o-jovem-que-morreu-em-acidente-entre-moto-e-carreta.ghtml",
-     "summary": "Motociclista morre após bater em caminhão na TO-050; motorista fugiu, diz polícia Thiago Alves de Sousa morreu após um acidente entre moto e carreta na TO-050, em Palmas. O tio, Victor Kauan, descreve o jovem como…",
-     "published": "2026-11-07T19:04+00:00",
-     "image": "https://s2-g1.glbimg.com/GhxJ1AjA4CchdxiCS6bJDeF_1_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/m/mMclPiQhuAGsHKeK55BQ/foto-e-montagem-vertical-2026-11-07t154733.170.png"
-    },
-    {
-     "title": "Rafael Fonteles anuncia permanência de Marcelo Nolleto na Secretaria de Comunicação do Piauí",
-     "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/07/rafael-secretaria-comunicacao.ghtml",
+     "title": "Novas regras de vale-refeição e alimentação ampliam operadoras aceitas em maquininhas",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/novas-regras-de-vale-refeicao-e-alimentacao-ampliam-operadoras-aceitas-em-maquininhas.ghtml",
      "summary": "",
-     "published": "2026-11-07T19:04+00:00",
-     "image": "https://s2-g1.glbimg.com/-bE_Fa35jUBNdtDifBHn2S38u6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/F/OFUx5CRs65aHenZ6VXzA/edicao-imagens-g1-15-.jpg"
+     "published": "2026-11-08T00:20+00:00",
+     "image": "https://s2-g1.glbimg.com/kXSda5kgCAwzXhHdxx4YIn7_ILg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/qqq7LTQ3yrBoJmqNjHwg/videoframe-6848065.png"
+    },
+    {
+     "title": "Papa Leão XIV condena violência contra crianças em visita a bairro pobre do Uruguai",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/07/papa-leao-xiv-condena-violencia-contra-criancas-em-visita-a-bairro-pobre-do-uruguai.ghtml",
+     "summary": "Papa Leão XIV faz segundo dia de visitar ao Uruguai O papa Leão XIV criticou, neste sábado (7), a violência contra crianças durante uma visita a Casavalle, bairro pobre de Montevidéu, capital do Uruguai. A região é…",
+     "published": "2026-11-08T00:20+00:00",
+     "image": "https://s2-g1.glbimg.com/HDtUxPJyiUKkDx04m3vTlLtIXPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/I/2RFsRrRh6gt6owDZsTHg/2026-11-07t200536z-412377629-rc28joahxo3x-rtrmadp-3-pope-latam-uruguay.jpg"
+    },
+    {
+     "title": "Frente fria traz chuva com ventos de até 70 km/h e derruba temperaturas em MS no domingo",
+     "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/07/frente-fria-traz-chuva-com-ventos-de-ate-70-kmh-e-derruba-temperaturas-em-ms-no-domingo.ghtml",
+     "summary": "Ventania e céu coberto em Dourados, neste sábado (7). Evelyn Mendonça. A previsão do tempo indica um domingo (8) chuvoso em boa parte de Mato Grosso do Sul, com rajadas de vento que podem chegar a 70 km/h, segundo a…",
+     "published": "2026-11-08T00:17+00:00",
+     "image": "https://s2-g1.glbimg.com/RGefSR8YYdtcbfIwmD2RsInLiqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/SBwjT1Rq25oddyXhZg6g/design-sem-nome-40-.jpg"
+    },
+    {
+     "title": "1° dia de Enem: 85% dos alunos da rede pública farão exame na própria escola",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/1-dia-de-enem-85percent-dos-alunos-da-rede-publica-farao-exame-na-propria-escola.ghtml",
+     "summary": "",
+     "published": "2026-11-08T00:16+00:00",
+     "image": "https://s2-g1.glbimg.com/bP5MCZ2XkPRAk2H-BpLIfzXVeHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/F/HxsAIkQwOBpz0AfGk1EA/videoframe-6634710.png"
+    },
+    {
+     "title": "Homem morre atropelado ao parar para colher ingá às margens da BR-153",
+     "link": "https://g1.globo.com/go/goias/transito/noticia/2026/11/07/homem-morre-atropelado-ao-parar-para-colher-inga-as-margens-da-br-153.ghtml",
+     "summary": "Homem morre atropelado por caminhonete de prefeitura na BR-153 Um homem, identificado como Wenderson Marinho de Araújo, de 45 anos, morreu atropelado após parar para colher ingá às margens da BR-153, próximo a Jaraguá…",
+     "published": "2026-11-08T00:13+00:00",
+     "image": "https://s2-g1.glbimg.com/TfLkACmVg1y_yB5_tOON1J_D4y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/J499cxQAOYxO0SnKsAZQ/copia-de-copia-de-padrao-foto-g1-goias-89-.jpg"
+    },
+    {
+     "title": "Trump convida presidente do UFC para o cargo de porta-voz da Casa Branca",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/trump-convida-presidente-do-ufc-para-o-cargo-de-porta-voz-da-casa-branca.ghtml",
+     "summary": "",
+     "published": "2026-11-08T00:13+00:00",
+     "image": "https://s2-g1.glbimg.com/la_k4gxzdSLBGkGp9TPlSDrf9jU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/9/MKqIuBRaiStXXvy6pLYw/videoframe-6436200.png"
+    },
+    {
+     "title": "Israel: Líder da oposição tem chance de formar governo e substituir Netanyahu",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/israel-lider-da-oposicao-tem-chance-de-formar-governo-e-substituir-netanyahu.ghtml",
+     "summary": "",
+     "published": "2026-11-08T00:12+00:00",
+     "image": "https://s2-g1.glbimg.com/Q_i1jOrEqdILO95tIyYQDlAiUu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/7/dvfst6TTiuL2lxxTmvPA/videoframe-6369721.png"
+    },
+    {
+     "title": "Ataque russo deixa mortos e cidades sem energia na Ucrânia",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/ataque-russo-deixa-mortos-e-cidades-sem-energia-na-ucrania.ghtml",
+     "summary": "",
+     "published": "2026-11-08T00:09+00:00",
+     "image": "https://s2-g1.glbimg.com/xgREm2B1e-RK7wtIpb6wC5WvxjE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/Aw7074S828Ty7e0w7tvQ/videoframe-6283006.png"
     }
    ]
   },
@@ -1323,6 +1328,41 @@
    "region": "brasil",
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
+    {
+     "title": "Opositor a Netanyahu tentará formar governo em Israel sem mudar impasse palestino",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml",
+     "summary": "Para os palestinos, é uma boa notícia que o presidente israelense, Isaac Herzog, tenha escolhido Gadi Eisenkot para tentar formar um novo governo , possivelmente substituindo o primeiro-ministro Binyamin Netanyahu …",
+     "published": "2026-11-07T23:47+00:00",
+     "image": ""
+    },
+    {
+     "title": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña após impeachment",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment.shtml",
+     "summary": "O ex-presidente do Paraguai Santiago Peña teve a prisão preventiva decretada neste sábado (7), após ser acusado de envolvimento em uma crise bancária que deixou milhões de correntistas sem acesso a seus depósitos e…",
+     "published": "2026-11-07T23:12+00:00",
+     "image": ""
+    },
+    {
+     "title": "Presidente de Israel indica opositor para formar novo governo e pode acabar com era Netanyahu",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/presidente-de-israel-escolhe-gadi-eisenkot-rival-de-netanyahu-para-tentar-formar-governo.shtml",
+     "summary": "A era de Binyamin Netanyahu no poder de Israel pode chegar ao fim nas próximas semanas. O presidente do país, Isaac Herzog , indicou Gadi Eisenkot, principal rival político do atual premiê, para tentar formar um novo…",
+     "published": "2026-11-07T20:41+00:00",
+     "image": ""
+    },
+    {
+     "title": "Bronca, suspeitas e polêmicas familiares precederam queda de Santiago Peña no Paraguai",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/bronca-suspeitas-e-polemicas-familiares-precederam-queda-de-santiago-pena-no-paraguai.shtml",
+     "summary": "Inconformado com a possibilidade de Santiago Peña permanecer detido em uma de suas residências , localizada em um bairro de classe média alta próximo ao Jardim Botânico de Assunção, um grupo de estudantes, aposentados e…",
+     "published": "2026-11-07T20:35+00:00",
+     "image": ""
+    },
+    {
+     "title": "França registra 4º sábado consecutivo de protestos; 'viva Lula', diz líder opositor",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-registra-4o-sabado-consecutivo-de-protestos-viva-lula-diz-lider-opositor.shtml",
+     "summary": "Dezenas de milhares de pessoas protestaram pelo quarto sábado consecutivo na França , onde o governo convocou reuniões para a próxima semana com sindicatos, representantes patronais e estudantes, a fim de discutir as…",
+     "published": "2026-11-07T20:18+00:00",
+     "image": ""
+    },
     {
      "title": "Duas trombas-d'água se formam diante de rochedos de Capri, na Itália; veja vídeo",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/duas-trombas-dagua-se-formam-diante-de-rochedos-de-capri-na-italia-veja-video.shtml",
@@ -1343,41 +1383,6 @@
      "summary": "A Ucrânia acusou a Rússia de ter feito um ataque massivo contra sua infraestrutura energética, neste sábado (7), o que provocou cortes de energia em cinco regiões num momento em que o país se prepara para mais um…",
      "published": "2026-11-07T16:50+00:00",
      "image": ""
-    },
-    {
-     "title": "Democratas poderão fiscalizar, mas não frear agenda de Trump na América Latina",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/11/democratas-poderao-fiscalizar-mas-nao-frear-agenda-de-trump-na-america-latina.shtml",
-     "summary": "Donald Trump sofreu uma derrota de grandes proporções nas eleições legislativas americanas. Os democratas conquistaram o controle da Câmara e do Senado, avançaram sobre redutos históricos dos republicanos e impuseram ao…",
-     "published": "2026-11-07T16:45+00:00",
-     "image": ""
-    },
-    {
-     "title": "Homem mata a tiros 6 pessoas e fere outras 15 na principal praça de Cracóvia, na Polônia",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/homem-mata-a-tiros-ao-menos-5-e-fere-10-pessoas-na-principal-praca-de-cracovia-na-polonia.shtml",
-     "summary": "Um homem armado matou seis pessoas e feriu outras 15, neste sábado (7), na principal praça da cidade de Cracóvia, no sul da Polônia, informaram autoridades. O suspeito, um polonês de 24 anos, foi baleado e preso após um…",
-     "published": "2026-11-07T16:36+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ex-presidente do Paraguai, Santiago Peña presta depoimento após ser colocado em prisão domiciliar",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ex-presidente-do-paraguai-santiago-pena-presta-depoimento-apos-ser-colocado-em-prisao-domiciliar.shtml",
-     "summary": "O presidente destituído do Paraguai Santiago Peña deixou o batalhão militar em Assunção onde passou a noite detido e foi prestar depoimento no Ministério Público, no centro da capital. Ele saiu da instalação militar por…",
-     "published": "2026-11-07T15:42+00:00",
-     "image": ""
-    },
-    {
-     "title": "Papa pede que América do Sul supere divisões entre seus países em missa histórica no Uruguai",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-reune-milhares-de-fieis-em-1a-missa-no-uruguai.shtml",
-     "summary": "O papa Leão 14 reuniu milhares de fiéis neste sábado (7) em Paysandú, cidade uruguaia próxima à fronteira com a Argentina, na celebração da primeira missa de sua viagem pela América Latina . O pontífice desembarcou no…",
-     "published": "2026-11-07T14:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "França mobiliza 70 mil agentes para protestos; agência denuncia agressão policial contra jornalistas",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-mobiliza-70-mil-agentes-para-protestos-agencia-denuncia-agressao-policial-contra-jornalistas.shtml",
-     "summary": "O governo francês anunciou nesta sexta-feira (6) a mobilização de 70 mil policiais e forças de segurança em todo o país para conter possíveis distúrbios durante uma nova jornada de protestos marcada para sábado (7)…",
-     "published": "2026-11-07T07:00+00:00",
-     "image": ""
     }
    ]
   },
@@ -1388,6 +1393,20 @@
    "region": "asia",
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
+    {
+     "title": "A toast to Naohiko Noguchi, sake’s first living national treasure",
+     "link": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/naohiko-noguchi-living-national-treasure-sake-japan/",
+     "summary": "Known as the \"god of sake brewing,\" Noguchi will become the first master brewer recognized as a \"ningen kokuhō.\"",
+     "published": "2026-11-07T23:05+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/571975.jpg"
+    },
+    {
+     "title": "A curry palette for all your ‘hidden flavors’",
+     "link": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/curry-roux-cube-recipe-kakushi-aji-hidden-flavor/",
+     "summary": "\"Kakushi aji\" is the Japanese culinary term for ingredients you might not overtly taste, but without them the entire recipe suffers.",
+     "published": "2026-11-07T23:00+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/571963.jpg"
+    },
     {
      "title": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
      "link": "https://www.japantimes.co.jp/news/2026/11/07/japan/politics/japan-contribution-icc-us-sanctions/",
@@ -1429,20 +1448,6 @@
      "summary": "Presidents Donald Trump and Xi ​Jinping are expected to meet at two different summits, one in China and one in the U.S.",
      "published": "2026-11-07T02:16+00:00",
      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572840.jpg"
-    },
-    {
-     "title": "Japan and China shifting toward selective economic dependence",
-     "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/china-japan-selective-economic-dependence/",
-     "summary": "One year into an ongoing political row, the neighbors are continuing to look for new opportunities while cutting risks.",
-     "published": "2026-11-07T01:24+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572849.jpg"
-    },
-    {
-     "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
-     "link": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
-     "summary": "Pedro Alliana became president of Paraguay on Friday following the impeachment of his predecessor over a massive banking crisis.",
-     "published": "2026-11-07T01:23+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572846.jpg"
     }
    ]
   },
@@ -1454,60 +1459,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "Houston mayor says 'elections matter', won't help ICE as Democrats sweep Texas: 'I do this to begin a healing process'",
-     "link": "https://timesofindia.indiatimes.com/world/us/houston-mayor-says-elections-matter-wont-help-ice-as-democrats-sweep-texas-i-do-this-to-begin-a-healing-process/articleshow/135644019.cms",
+     "title": "Scientists find first Martian garnet in meteorite, but its origin remains unclear",
+     "link": "https://timesofindia.indiatimes.com/science/space/scientists-identify-a-completely-new-type-of-rock-in-a-martian-meteorite-and-find-garnet-on-mars-for-the-first-time-but-its-planetary-origin-remains-unconfirmed/articleshow/135454065.cms",
      "summary": "",
-     "published": "2026-11-07T18:35+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135644187,imgsize-51170.cms"
+     "published": "2026-11-08T00:28+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135454159,imgsize-603793.cms"
     },
     {
-     "title": "Jelly Roll backs a 14-acre Nashville youth campus at his former juvenile centre",
-     "link": "https://timesofindia.indiatimes.com/world/us/jelly-roll-returned-to-the-juvenile-centre-in-nashville-where-he-spent-his-teenage-years-he-is-supporting-an-initiative-to-build-a-14-acre-youth-campus-on-the-site/articleshow/135538856.cms",
+     "title": "Four of six endangered snakes survive Australia's artificial rock experiment",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/scientists-release-six-captive-bred-endangered-snakes-into-the-australian-wild-four-survive-a-world-first-conservation-experiment-using-artificial-rocks-to-give-the-reptiles-a-second-chance/articleshow/135649081.cms",
      "summary": "",
-     "published": "2026-11-07T18:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135538978,imgsize-86354.cms"
+     "published": "2026-11-08T00:26+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135649096,imgsize-893879.cms"
     },
     {
-     "title": "Texas lawyer's seven-case fee dispute revived after appeals court questions firms' evidence",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-texas-lawyer-lost-his-licence-in-2018-and-later-sued-other-law-firms-for-fees-from-seven-client-cases-a-november-5-appeals-court-reopened-the-dispute-finding-insufficient-evidence-to-support-the-firms-defence/articleshow/135596668.cms",
-     "summary": "R Kent Livesay, a former Texas attorney, is involved in a legal dispute regarding unpaid fees from several cases. After his disbarment, Livesay sought compensation from law firms for referrals made while licensed. The…",
-     "published": "2026-11-07T18:29+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135596855,imgsize-1369626.cms"
+     "title": "Goldie Hawn's MindUP helps 7 million children manage stress across 48 countries",
+     "link": "https://timesofindia.indiatimes.com/world/us/in-2003-goldie-hawn-started-a-programme-to-help-children-manage-stress-and-understand-emotions-23-years-later-mindup-reports-reaching-more-than-7-million-children-across-48-countries-through-brain-based-lessons/articleshow/135601345.cms",
+     "summary": "Goldie Hawn established the Goldie Hawn Foundation in 2003 to support emotional awareness among children. MindUP, developed in collaboration with experts, integrates neuroscience and mindfulness into education. The…",
+     "published": "2026-11-08T00:19+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135601700,imgsize-2129680.cms"
     },
     {
-     "title": "Sofía Vergara joins St. Jude’s 2026 Thanks and Giving campaign",
-     "link": "https://timesofindia.indiatimes.com/world/us/sofa-vergara-returns-for-the-october-2026-launch-of-the-st-jude-thanks-and-giving-campaign-having-supported-it-for-15-years-the-hospital-says-its-research-has-helped-increase-the-us-childhood-cancer-survival-rate-from-20-to-more-than-80/articleshow/135598177.cms",
-     "summary": "Sofía Vergara, along with other celebrities, is participating in the St. Jude Thanks and Giving campaign this year. The campaign aims to raise funds and awareness for childhood cancer and other illnesses affecting…",
-     "published": "2026-11-07T18:27+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135598466,imgsize-196719.cms"
-    },
-    {
-     "title": "She became Uganda's first wildlife veterinarian: Meet Dr. Gladys Kalema-Zikusoka",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/she-became-ugandas-first-wildlife-veterinarian-and-dedicated-her-career-to-saving-mountain-gorillas-dr-gladys-kalema-zikusoka-built-a-model-that-protects-wildlife-while-supporting-local-communities/articleshow/135616125.cms",
-     "summary": "Dr. Gladys Kalema-Zikusoka dedicates her efforts to conserving mountain gorillas in Uganda by engaging local communities and addressing health concerns. Through her organization, Conservation Through Public Health, she…",
-     "published": "2026-11-07T18:24+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135627945,imgsize-113913.cms"
-    },
-    {
-     "title": "First Muslim US senator-elect Abdul El-Sayed launches ‘Habibi PAC’ after railing against money in politics",
-     "link": "https://timesofindia.indiatimes.com/world/us/first-muslim-us-senator-elect-abdul-el-sayed-launches-habibi-pac-after-railing-against-money-in-politics/articleshow/135643015.cms",
+     "title": "Man went from wheelchair to 285 kg deadlift after a devastating car crash",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-stolen-car-left-him-with-devastating-leg-injuries-at-18-and-he-spent-six-months-in-a-wheelchair-decades-later-he-deadlifted-285-kg-and-became-a-world-record-powerlifter/articleshow/135576332.cms",
      "summary": "",
-     "published": "2026-11-07T17:33+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135643513,imgsize-641175.cms"
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135576627,imgsize-117615.cms"
     },
     {
-     "title": "Justin Trudeau gets new role at Oxford University; will join Blavatnik School of Government as a fellow",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/justin-trudeau-gets-new-role-at-oxford-university-will-join-blavatnik-school-of-government-as-a-fellow/articleshow/135640495.cms",
+     "title": "'Child with cancer' stopped trick-or-treaters: What neighbourhood children did next left a mother overwhelmed",
+     "link": "https://timesofindia.indiatimes.com/world/us/child-with-cancer-stopped-trick-or-treaters-what-neighbourhood-children-did-next-left-a-mother-overwhelmed/articleshow/135636760.cms",
+     "summary": "Zoe, a brave three-year-old girl, had to miss Halloween in 2020 due to her fight against cancer. To ensure she felt the spirit of the holiday, children from her neighborhood generously laid out candy on her doorstep…",
+     "published": "2026-11-07T23:18+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135636977,imgsize-1287679.cms"
+    },
+    {
+     "title": "Former Las Vegas politician convicted over $70,000 police memorial fraud",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-former-las-vegas-politician-raised-more-than-70000-to-build-a-memorial-for-a-slain-police-officer-prosecutors-said-she-used-the-donations-for-rent-and-her-daughters-wedding/articleshow/135538285.cms",
      "summary": "",
-     "published": "2026-11-07T17:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135643331,imgsize-48646.cms"
+     "published": "2026-11-07T22:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135538421,imgsize-1455451.cms"
     },
     {
-     "title": "Syria rules out troop deployment to Yemen, says military ties with Saudi could expand",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/syria-rules-out-troop-deployment-to-yemen-says-military-ties-with-saudi-arabia-could-expand/articleshow/135643192.cms",
-     "summary": "Syria has clarified that it will not deploy troops to Yemen despite previous reports suggesting otherwise. A diplomatic source stated that military cooperation with Saudi Arabia is anticipated to deepen in the future…",
-     "published": "2026-11-07T17:29+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135643315,imgsize-248296.cms"
+     "title": "Justice And Equality Fund: Emma Watson-backed drive aids 46,100; report urges sustained support",
+     "link": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms",
+     "summary": "Emma Watson's active involvement with the Justice and Equality Fund has significantly bolstered initiatives combating sexual harassment across the UK. The fund has empowered over 20,000 professionals and donated almost…",
+     "published": "2026-11-07T22:22+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135578287,imgsize-1301026.cms"
+    },
+    {
+     "title": "A 1953 Leonora Carrington painting bought from a Mexico City gallery the year it was made has stayed with one family for more than 70 years; now authenticated, Fil d’Or goes up for auction on November 10",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-1953-leonora-carrington-painting-bought-from-a-mexico-city-gallery-the-year-it-was-made-has-stayed-with-one-family-for-more-than-70-years-now-authenticated-fil-dor-goes-up-for-auction-on-november-10/articleshow/135636224.cms",
+     "summary": "Fil d'Or is a unique artwork by Leonora Carrington with a fascinating backstory. It was purchased way back in 1953 and remained treasured by a single family for many years. This painting showcases a cool technique known…",
+     "published": "2026-11-07T22:15+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135636529,imgsize-1471815.cms"
     }
    ]
   },
@@ -1519,6 +1524,41 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
+     "title": "In Malaysia, a shadow trade in DIY weight-loss jabs takes hold",
+     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373570/malaysia-shadow-trade-diy-weight-loss-jabs-takes-hold",
+     "summary": "When her prescription for Mounjaro became too expensive, Bey* did what a growing number of Malaysians are doing: she found a cheaper vial online. The 34-year-old from Kuala Lumpur started on the weight-loss drug about a…",
+     "published": "2026-11-08T00:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/3c311d6d-02e3-4490-ba8d-94c624ba76fd_0c0e2dca.jpg?itok=KntogBs1&v=1793961206"
+    },
+    {
+     "title": "Want to fly to the moon? Nasa is looking for new astronauts for the Artemis programme",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3373673/want-fly-moon-nasa-looking-new-astronauts-artemis-programme",
+     "summary": "Want to fly to the moon and help build a permanent lunar base? Nasa is accepting applications for a new astronaut class that will help grow the Artemis programme. Officials announced the news on Saturday during a…",
+     "published": "2026-11-07T23:53+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/68d02546-39cf-40a1-9f42-fed4770e56a3_e63826c3.jpg?itok=b_NwQgUs&v=1794095603"
+    },
+    {
+     "title": "In China’s fierce race for success, mental health struggles are starting earlier",
+     "link": "https://www.scmp.com/news/china/politics/article/3373644/chinas-fierce-race-success-mental-health-struggles-are-starting-earlier",
+     "summary": "Moon Chen stared down at her textbook, struggling to make sense of the words on the page. The 15-year-old felt a suffocating weight press into her chest, while her heart fluttered erratically. Chen’s mother rushed her…",
+     "published": "2026-11-07T22:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/d91a54e9-84f7-4ecd-af84-17fbe74fcac2_e2dfe717.jpg?itok=yeuFuJLG&v=1794038228"
+    },
+    {
+     "title": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu",
+     "summary": "Israeli President Isaac Herzog said on Saturday night that he was giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on October 27. Eisenkot, a former…",
+     "published": "2026-11-07T20:05+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/a0d7e78c-aa50-482b-93fa-902d48d8dad2_aaeb8167.jpg?itok=We4XsTYo&v=1794081911"
+    },
+    {
+     "title": "Trump asks UFC chief Dana White to be his new press secretary: ‘please take the job’",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job",
+     "summary": "US President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White, an announcement unconventional even for the norm-busting leader and one that…",
+     "published": "2026-11-07T19:44+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/d1a61402-b9ba-4c5c-b7b3-3e68be906927_bba6a128.jpg?itok=db0-K4Tf&v=1794080644"
+    },
+    {
      "title": "Clashes in Paris after new French protests",
      "link": "https://www.scmp.com/news/world/europe/article/3373669/clashes-paris-after-new-french-protests",
      "summary": "Thousands of people protested across France on Saturday in a new show of anger against the government with clashes erupting between police and some protesters in Paris despite a lower turnout than in previous weeks. The…",
@@ -1526,9 +1566,9 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/c16a6879-ae61-405d-aa6e-c4db712f9236_273d125f.jpg?itok=bPV5rUVG&v=1794074734"
     },
     {
-     "title": "6 killed in shooting in tourist heart of Krakow, Poland",
+     "title": "Gunman ‘fascinated by far-right’ kills 6 in Krakow, Poland",
      "link": "https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland",
-     "summary": "Poland’s police said on Saturday that six people had been killed and a dozen wounded after a gunman opened fire in the landmark historic centre of its second city of Krakow. The man – a Polish citizen – drove a car onto…",
+     "summary": "Six people were killed and at least 15 wounded on Saturday when a gunman opened fire in the landmark historic centre of Poland’s second city of Krakow, in the country’s deadliest shooting in decades. Three bodies – of…",
      "published": "2026-11-07T16:33+00:00",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/aa6e78c8-145c-4425-b5b5-c64158e11f73_8918fb3c.jpg?itok=MuKrwArq&v=1794075344"
     },
@@ -1538,41 +1578,6 @@
      "summary": "Hong Kong firefighters have rescued a 67-year-old woman from a flat in Tin Shui Wai after a blaze broke out, prompting about 100 people to flee. A preliminary investigation suggested aromatherapy items ignited objects…",
      "published": "2026-11-07T15:12+00:00",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/f0080e4b-d112-4f08-af26-0116ef031033_0636d3bd.jpg?itok=JCUcfb5K&v=1794064277"
-    },
-    {
-     "title": "Guatemalan lawmaker, 3 police officers killed in armed attack",
-     "link": "https://www.scmp.com/news/world/americas/article/3373663/guatemalan-lawmaker-3-police-officers-killed-armed-attack",
-     "summary": "A Guatemalan ⁠lawmaker and three ⁠police officers were ⁠killed in an armed attack in the eastern department of Zacapa, President Bernardo Arevalo said, condemning the violence and ordering security forces to ‌help…",
-     "published": "2026-11-07T15:01+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/e9239e04-e1c4-4520-afc6-a445d218503d_99ed2a8b.jpg?itok=pp0T3mJT&v=1794063694"
-    },
-    {
-     "title": "History repeats in Shenzhen? China hosts another lame-duck US president",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president",
-     "summary": "A decade after hosting a politically hobbled Barack Obama at a Group of 20 (G20) summit in Hangzhou, China is preparing to welcome another “lame-duck” US president for a multilateral gathering: Donald Trump. Following…",
-     "published": "2026-11-07T14:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/0586b7e7-9071-447b-9b39-89f5405b80f9_027bd518.jpg?itok=AvF7eOGq&v=1794054302"
-    },
-    {
-     "title": "Tarmo Peltokoski begins HK Phil tenure with Mahler’s monumental Symphony No 8",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3373659/tarmo-peltokoski-begins-hk-phil-tenure-mahlers-monumental-symphony-no-8",
-     "summary": "Gustav Mahler’s rarely performed Symphony No 8, a work requiring such a large orchestra and choir it is known as “Symphony of a Thousand”, finally received its Hong Kong Philharmonic Orchestra premiere on Saturday…",
-     "published": "2026-11-07T13:31+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/ed127ccf-e135-4a16-b209-e26849222443_5b779e51.jpg?itok=8N8jPWj-&v=1794058061"
-    },
-    {
-     "title": "China vows ‘zero tolerance’ for election meddling ahead of 21st party congress",
-     "link": "https://www.scmp.com/news/china/politics/article/3373658/chinas-communist-party-vows-zero-tolerance-election-meddling-ahead-key-congress",
-     "summary": "China’s ruling Communist Party has warned of “zero tolerance” for bribery and other attempts at election interference as delegate selection begins for next year’s national congress, which is expected to feature a major…",
-     "published": "2026-11-07T13:23+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/0f42b560-6546-4092-a4f8-6917cff2e87d_c8af9c68.jpg?itok=3-lQzrym&v=1794057639"
-    },
-    {
-     "title": "New Zealand election first count ends with 2 main parties nearly deadlocked",
-     "link": "https://www.scmp.com/news/asia/australasia/article/3373657/new-zealand-election-first-count-ends-2-main-parties-nearly-deadlocked",
-     "summary": "New Zealand’s ruling centre-right National Party and main opposition Labour were nearly deadlocked in the popular vote after initial counting in the nationwide general election on Saturday. Results from the Electoral…",
-     "published": "2026-11-07T13:12+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/87dfa34c-c379-4bd9-a7cf-e9786f0b3b9f_0ce4c857.jpg?itok=JC_XJ2bM&v=1794057142"
     }
    ]
   },
@@ -1584,60 +1589,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "For queer people, community sport can be life-saving",
-     "link": "https://www.abc.net.au/news/2026-11-08/melbourne-rovers-stuart-bonner-life-saving-football/107260068",
-     "summary": "For many gay men, sport has been a place of isolation but queer sporting clubs are now giving them a sense of belonging.",
-     "published": "2026-11-07T18:55+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/68c646432cf77d44ca5e1dac889e9fee?impolicy=wcms_crop_resize&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485"
+     "title": "Serial rapist banned from return to scene of his crimes",
+     "link": "https://www.abc.net.au/news/2026-11-08/serial-paedophile-dennis-mckenna-banned-katanning/107351448",
+     "summary": "In what is believed to be a legal first, child rapist Dennis McKenna will be banned from returning to Katanning as one of the stringent conditions underpinning his looming release from prison.",
+     "published": "2026-11-08T00:04+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/b8e8fb0b9d3211ab18aadad0aa5823fa?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Prisons psychiatrist says NSW Corrections failing mentally ill inmates",
-     "link": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
-     "summary": "After an ABC investigation revealed systemic failures in the care of prisoners with mental illness, a leading forensic psychiatrist says Corrections NSW should play no role in managing mental health.",
-     "published": "2026-11-07T18:53+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/3c630386fc08656e2202517ff0979056?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485"
+     "title": "Extraordinary scenes as fog descends on 'farcical' FA Cup tie",
+     "link": "https://www.abc.net.au/news/2026-11-08/notts-county-altrincham-fa-cup-penalties-fog/107360612",
+     "summary": "Notts County earned a penalty shootout victory over non-league side Altrincham, but even among those present at Moss Lane, few saw it as fog made a mockery of the conclusion.",
+     "published": "2026-11-07T23:57+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/6f58bd1dae2139d48d39a7cb3ea41913?impolicy=wcms_crop_resize&cropH=812&cropW=1443&xPos=294&yPos=85&width=862&height=485"
     },
     {
-     "title": "Race to tame inflation more tricky that one that stops the nation",
-     "link": "https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058",
-     "summary": "All eyes were on the Melbourne Cup on Tuesday but they will quickly turn to bank balances as the latest interest rate rise sets in.",
-     "published": "2026-11-07T18:52+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/734f093614d97f6fbc6a35b2d1f93a76?impolicy=wcms_crop_resize&cropH=1361&cropW=2420&xPos=0&yPos=227&width=862&height=485"
+     "title": "Spectacular cave site 'neglected' after five years closed to tourists",
+     "link": "https://www.abc.net.au/news/2026-11-08/princess-margaret-rose-cave/107348986",
+     "summary": "Princess Margaret Rose Cave has been a popular tourist destination for generations, but the public hasn't been inside since 2021. Millions are being spent on upgrades, but the site's reopening has been repeatedly…",
+     "published": "2026-11-07T23:42+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/0d8b7ecd2e70bd7b17d96e9c72cb7970?impolicy=wcms_crop_resize&cropH=2489&cropW=4425&xPos=183&yPos=103&width=862&height=485"
     },
     {
-     "title": "There is no other store like David Jones and this might be the reason why",
-     "link": "https://www.abc.net.au/news/2026-11-08/david-jones-the-death-of-the-department-store/107346298",
-     "summary": "David Jones has survived two world wars, the invention of the car and the discounting boom. As luxury perfumes wafted through the stores that inspired its houndstooth trademark, did it lose the service that made it like…",
-     "published": "2026-11-07T18:49+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/4b608cd9f1e12216a5a63bde6096f191?impolicy=wcms_crop_resize&cropH=821&cropW=1460&xPos=0&yPos=72&width=862&height=485"
+     "title": "Calls for more funding as Victorian JP numbers dwindle",
+     "link": "https://www.abc.net.au/news/2026-11-08/justice-of-the-peace-government-victoria/107345360",
+     "summary": "They are essential for verifying important documents, yet Victoria has 76,000 fewer justice of the peace volunteers than Queensland. Now there are calls for more funding to boost numbers.",
+     "published": "2026-11-07T23:32+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/3a69dd91134f8beaf504ec66887557ef?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "A single fraud charge led us to a black market operating in plain sight",
-     "link": "https://www.abc.net.au/news/2026-11-08/inside-thriving-black-market-trading-demerit-points-for-cash/107320430",
-     "summary": "Black markets usually operate in the shadows, but a single fraud charge exposed one thriving in plain sight. Welcome to the world of demerit point trading.",
-     "published": "2026-11-07T18:38+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/2c9c8e8ab4c5c86150cdf5c2f527b310?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Search continues for teenager missing in Victoria's east",
+     "link": "https://www.abc.net.au/news/2026-11-08/missing-teenager-william-camping-walhalla-east/107360636",
+     "summary": "William, 17, has not been seen since Friday when he was on a camping trip with another teenager.",
+     "published": "2026-11-07T23:30+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/c3b805cb128723d0b9972e7a695e6e89?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=125&width=862&height=485"
     },
     {
-     "title": "When it comes to data centres, politics is getting very local",
-     "link": "https://www.abc.net.au/news/2026-11-08/data-centres-australia-community-objection/107356606",
-     "summary": "Governments all over the world are keen to cash in on the AI boom, but voters here are not yet convinced that whatever Australia gets out of hosting the infrastructure will be worth the cost.",
-     "published": "2026-11-07T18:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/135ae630220d0495b394553aef5d2306?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=169&width=862&height=485"
+     "title": "Riding school to close after teaching thousands of students over 50 years",
+     "link": "https://www.abc.net.au/news/2026-11-08/ranchlands-riding-school-closes-after-50-years/107247194",
+     "summary": "After five decades teaching thousands of north Queenslanders to ride horses, Jenny and Lew Haines are closing the Ranchlands Equestrian Centre and retiring.",
+     "published": "2026-11-07T23:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/1e9caf8d61f6a79c0a395a4e4dbb8624?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=1&width=862&height=485"
     },
     {
-     "title": "Has the curtain come down on the age of Trump?",
-     "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-election-end-of-trump-democrats-republicans-gop/107354404",
-     "summary": "Americans exposed the limits of Donald Trump's electoral power and weakened his grip on the Republican Party. But the Democratic landslide in the midterm elections does not spell the end of MAGA nor guarantee a lasting…",
-     "published": "2026-11-07T17:45+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/fbb014fb76dbf37caa8d069c1990ed1e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=145&width=862&height=485"
+     "title": "'I'm going to marry that guy': Meeting the love of your life at school pick-up",
+     "link": "https://www.abc.net.au/news/2026-11-08/meeting-the-love-of-your-life-at-school-pick-up/107347082",
+     "summary": "Casey Beros was collecting the child of a family she was nannying for when teacher Ryan Gowland popped his head in her car window. They have been inseparable since.",
+     "published": "2026-11-07T23:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/b4e492bdcc88943bd65ef329d6f7bee2?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=525&width=862&height=485"
     },
     {
-     "title": "ABC Wordage quiz: It's time to get to work",
-     "link": "https://www.abc.net.au/news/2026-11-08/abc-wordage-quiz-work/107328912",
-     "summary": "There's no time for a smoko or to have a bludge. Today's Wordage quiz will require some hard yakka.",
-     "published": "2026-11-07T17:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/f9ff819e3afdffcb6d2edb30244be0e7?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=1&width=862&height=485"
+     "title": "Socceroos wary of Jordan friendly due to security threats",
+     "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
+     "summary": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
+     "published": "2026-11-07T22:39+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/44f62afe85c56fbab9b4b98cd9e3e482?impolicy=wcms_crop_resize&cropH=2537&cropW=4510&xPos=0&yPos=393&width=862&height=485"
     }
    ]
   },
@@ -1649,59 +1654,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-     "summary": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
-     "published": "2026-11-07T19:10+00:00",
+     "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+     "published": "2026-11-07T23:45+00:00",
      "image": ""
     },
     {
-     "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-     "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-     "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
-     "published": "2026-11-07T19:06+00:00",
+     "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+     "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+     "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+     "published": "2026-11-07T22:21+00:00",
      "image": ""
     },
     {
-     "title": "Demonstration in Berlin calls for an end to arming Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+     "title": "Police clash with protesters as anti-government rallies sweep France",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+     "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+     "published": "2026-11-07T21:24+00:00",
+     "image": ""
+    },
+    {
+     "title": "Mélenchon promises action against Israeli annexation if elected President",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
      "summary": "",
-     "published": "2026-11-07T19:04+00:00",
+     "published": "2026-11-07T20:53+00:00",
      "image": ""
     },
     {
-     "title": "Houston mayor orders police to limit cooperation with ICE",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-     "summary": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city’s previous approach.",
-     "published": "2026-11-07T18:55+00:00",
+     "title": "Who is behind Europe’s suspected hybrid attacks?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+     "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+     "published": "2026-11-07T20:48+00:00",
      "image": ""
     },
     {
-     "title": "Paraguay’s ousted president charged over banking scandal",
-     "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-     "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
-     "published": "2026-11-07T18:35+00:00",
+     "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+     "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+     "published": "2026-11-07T20:44+00:00",
      "image": ""
     },
     {
-     "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-     "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-     "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
-     "published": "2026-11-07T18:00+00:00",
+     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+     "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+     "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
+     "published": "2026-11-07T20:26+00:00",
      "image": ""
     },
     {
-     "title": "Houthis report 25 killed in Yemen strikes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-     "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-     "published": "2026-11-07T17:39+00:00",
-     "image": ""
-    },
-    {
-     "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-     "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-     "published": "2026-11-07T17:16+00:00",
+     "title": "More than 140,000 rally as new protests against rising costs sweep France",
+     "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+     "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
+     "published": "2026-11-07T20:12+00:00",
      "image": ""
     }
    ]
@@ -1728,45 +1733,45 @@
      "image": ""
     },
     {
-     "title": "South Africa: The Honeybadger's Revenge - Former Minister Dion George's Nuclear War Over SA's Captive Lions",
-     "link": "https://allafrica.com/stories/202611060653.html",
-     "summary": "[Daily Maverick] The former South African environment minister is prepared to back international economic pressure against his own country to shut down the 'disgusting' captive lion industry.",
-     "published": "2026-11-06T20:51+00:00",
+     "title": "Somalia: Court Says President Term Extension Unlawful",
+     "link": "https://allafrica.com/stories/202611060647.html",
+     "summary": "[Daily Trust] Somalia's Supreme Court ruled on Thursday that the extension of the president's term by one year, which sparked violent clashes with the opposition, was \"unlawful\".",
+     "published": "2026-11-06T18:49+00:00",
      "image": ""
     },
     {
-     "title": "South Africa: Resident Evil - A Horror Video Game Adaptation With a Wicked Sense of Humour",
-     "link": "https://allafrica.com/stories/202611060654.html",
-     "summary": "[Daily Maverick] While it's probably too far removed from its source material narratively to please hardcore fans who want to see their favourite Resident Evil characters and storylines on the big screen, Zach Cregger's…",
-     "published": "2026-11-06T20:51+00:00",
+     "title": "Zimbabwe: Manhunt for Chitungwiza Man Accused of Killing Mother",
+     "link": "https://allafrica.com/stories/202611060407.html",
+     "summary": "[263Chat] Police have launched a manhunt for a 44-year-old man accused of killing his 72-year-old mother with a hammer following a domestic dispute in Chitungwiza.",
+     "published": "2026-11-06T13:13+00:00",
      "image": ""
     },
     {
-     "title": "Ghana/Liberia: Black Challenge Edge Liberia 1-0 in Final World Cup Friendly",
-     "link": "https://allafrica.com/stories/202611060652.html",
-     "summary": "[Ghanaian Times] Substitute Yahaya Yussif scored the only goal of the game as the national amputee football team, the Black Challenge, defeated their Liberian counterparts 1-0 in an international friendly at the La…",
-     "published": "2026-11-06T20:45+00:00",
+     "title": "Nigeria: Troops Rescue 16 Kidnapping Victims, Recover Two Rifles, Three Bombs, 33 Bikes",
+     "link": "https://allafrica.com/stories/202611060363.html",
+     "summary": "[Premium Times] The Army said troops ambushed suspected terrorists along a route in Kontagora LGA, recovering weapons, explosives and cash.",
+     "published": "2026-11-06T12:55+00:00",
      "image": ""
     },
     {
-     "title": "Ghana: W Sports Int'l Donates Sports Equipment to Legon Presec",
-     "link": "https://allafrica.com/stories/202611060651.html",
-     "summary": "[Ghanaian Times] W Sports International last Thursday donated sports kits to the Presbyterian Boys' Senior High School (PRESEC), Legon, under its sports sponsorship programme.",
-     "published": "2026-11-06T20:45+00:00",
+     "title": "Nigeria: Tinubu to Commission Multi-Billion Naira Projects in Akwa Ibom",
+     "link": "https://allafrica.com/stories/202611060362.html",
+     "summary": "[Premium Times] Despite repeated budgetary allocations running into billions of naira for eight projects scheduled for inauguration, the Akwa Ibom government has not publicly disclosed their contract sums or procurement…",
+     "published": "2026-11-06T12:55+00:00",
      "image": ""
     },
     {
-     "title": "Ghana: Black Rock Belongs to Nungua - Mankralo",
-     "link": "https://allafrica.com/stories/202611060650.html",
-     "summary": "[Ghanaian Times] The Office of the Nungua Mankralo has rebuffed claims by the Tema and Sanshie clans that the location of Angmu T3 (The Meridian Rock) falls under their authority.",
-     "published": "2026-11-06T20:45+00:00",
+     "title": "Kenya: Paul Mackenzie Sentenced to 200 Years in Prison Over Shakahola Deaths",
+     "link": "https://allafrica.com/stories/202611060352.html",
+     "summary": "[Capital FM] Mombasa -- Controversial preacher Paul Mackenzie has been sentenced to a total of 200 years in prison after Justice Diana Kavedza handed down a 100-year term for the murder of children and another 100 years…",
+     "published": "2026-11-06T12:49+00:00",
      "image": ""
     },
     {
-     "title": "Ghana: Stanbic Bank Supports Weep Not Child Foundation",
-     "link": "https://allafrica.com/stories/202611060649.html",
-     "summary": "[Ghanaian Times] The Internal Control Unit of Stanbic Bank Ghana has supported the Weep Not Child Foundation at Ahwerease-Darmang, near Nsawam, with equipment and financial assistance to improve the foundation's…",
-     "published": "2026-11-06T20:45+00:00",
+     "title": "Kenya: Kenya Cult Leader Paul Mackenzie Sentenced to 200 Years",
+     "link": "https://allafrica.com/stories/202611060339.html",
+     "summary": "[DW] A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
+     "published": "2026-11-06T12:46+00:00",
      "image": ""
     }
    ]
