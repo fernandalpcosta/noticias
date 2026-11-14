@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:40+00:00",
+ "updated": "2026-11-14T01:26+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -32,23 +32,101 @@
  ],
  "trending": [
   {
-   "topic": "Microsoft",
-   "sources": 8,
+   "topic": "EUA",
+   "sources": 11,
    "examples": [
     {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "title": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian"
     },
     {
-     "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
-     "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+     "title": "FAA issues US national ground stop on all flights",
+     "link": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
+     "link": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+     "source": "France 24"
+    },
+    {
+     "title": "EEUU suspende todos los vuelos por \"circunstancias extraordinarias y motivos de seguridad\"",
+     "link": "https://www.eldiario.es/internacional/eeuu-ordena-suspension-vuelos-escala-nacional-circunstancias-extraordinarias-motivos-seguridad_1_13663423.html",
+     "source": "elDiario.es"
+    }
+   ]
+  },
+  {
+   "topic": "Trump",
+   "sources": 7,
+   "examples": [
+    {
+     "title": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "source": "NPR"
+    },
+    {
+     "title": "El Tribunal Supremo accede a revisar la orden de Trump para prohibir el acceso al asilo en la frontera sur",
+     "link": "https://elpais.com/us/migracion/2026-11-13/el-tribunal-supremo-accede-a-revisar-la-orden-de-trump-para-prohibir-el-acceso-al-asilo-en-la-frontera-sur.html",
      "source": "El País"
+    },
+    {
+     "title": "Supreme Court agrees to rule on Trump's asylum ban at the southern border",
+     "link": "https://www.latimes.com/politics/story/2026-11-13/supreme-court-agrees-to-rule-on-trumps-asylum-ban-at-southern-border",
+     "source": "Los Angeles Times"
+    }
+   ]
+  },
+  {
+   "topic": "China",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
+     "link": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "What we know about China's military exercises around Taiwan",
+     "link": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+     "source": "France 24"
+    },
+    {
+     "title": "Trump, Xi e Putin vão se reunir na China na próxima quinta (19), diz Casa Branca",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-vao-se-reunir-na-china-na-proxima-quinta-19-diz-casa-branca.shtml",
+     "source": "Folha de S.Paulo"
+    },
+    {
+     "title": "Trump, Xi e Putin vão se reunir na China na próxima quinta (19), diz Casa Branca",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-vao-se-reunir-na-china-na-proxima-quinta-19-diz-casa-branca.shtml",
+     "source": "Folha — Mundo"
+    }
+   ]
+  },
+  {
+   "topic": "Microsoft",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+     "source": "The Guardian"
+    },
+    {
+     "title": "La caída global de Microsoft",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683814/caida-global-microsoft.html",
+     "source": "La Vanguardia"
     },
     {
      "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -58,8 +136,112 @@
    ]
   },
   {
+   "topic": "Ucrânia",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+     "source": "NPR"
+    },
+    {
+     "title": "Ukraine updates: EU to send united front to potential peace talks",
+     "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "France among five major powers to represent EU in Ukraine talks",
+     "link": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+     "source": "France 24"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne, le Royaume-Uni, l’Italie et la Pologne représenteront les Européens lors des prochains pourparlers sur l’Ukraine",
+     "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-france-l-allemagne-le-royaume-uni-l-italie-et-la-pologne-representeront-les-europeens-lors-des-prochains-pourparlers-sur-l-ukraine_6808609_3210.html",
+     "source": "Le Monde"
+    }
+   ]
+  },
+  {
+   "topic": "Europa",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
+     "source": "France 24"
+    },
+    {
+     "title": "More live news, more conversations, more Europe: Euronews reinvents itself for its new season",
+     "link": "https://www.euronews.com/2026/11/13/more-live-news-more-conversations-more-europe-euronews-reinvents-itself-for-its-new-season",
+     "source": "Euronews"
+    },
+    {
+     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+     "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/alemanha-franca-italia-polonia-e-reino-unido-vao-representar-a-europa-nas-proximas-negociacoes-de-paz-entre-ucrania-e-russia.ghtml",
+     "source": "g1"
+    }
+   ]
+  },
+  {
+   "topic": "Huang",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Resumão diário do JN: EUA suspendem todas as decolagens no país após problemas na comunicação com aviões; Jensen Huang é intimado a depor em comissão do Congresso dos EUA",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/resumao-diario-do-jn-eua-suspendem-todos-os-voos-no-pais-apos-problemas-na-comunicacao-com-avioes-jensen-huang-e-intimado-a-depor-em-comissao-do-congresso-dos-eua.ghtml",
+     "source": "g1"
+    },
+    {
+     "title": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say",
+     "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-arm-ceo-haas-huang/",
+     "source": "The Japan Times"
+    },
+    {
+     "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
+   "topic": "Reino Unido",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "David Walliams: UK police launch sex offense probe into comedian",
+     "link": "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "UK: Christmas at Kew 2026 unveils spectacular light trail in London",
+     "link": "https://www.euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",
+     "source": "Euronews"
+    },
+    {
+     "title": "UK woman’s £500,000 inheritance battle after boyfriend claims secret marriage",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-woman-died-of-breast-cancer-at-46-leaving-her-500000-estate-to-her-teenage-daughter-her-boyfriend-later-claimed-a-secret-cyprus-marriage-and-produced-a-will-that-the-high-court-found-to-be-forged/articleshow/135799419.cms",
+     "source": "Times of India"
+    },
+    {
+     "title": "US Air Force responds to suspected drone activity over UK airbase",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
    "topic": "Rússia",
-   "sources": 8,
+   "sources": 5,
    "examples": [
     {
      "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
@@ -67,113 +249,30 @@
      "source": "NPR"
     },
     {
-     "title": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-     "link": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne",
-     "link": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html",
-     "source": "Le Monde"
-    },
-    {
      "title": "Russia sends major business delegation to Kabul for business talks with the Taliban",
      "link": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
      "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "EUA",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-     "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
     },
     {
-     "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian"
+     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+     "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+     "source": "The New York Times"
     },
     {
-     "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
-     "link": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "BN Business apresenta startup brasileira que usa IA para antecipar notícias",
-     "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/bn-business-backstage-negocios-negocios-e-conexoes/noticia/2026/11/13/bn-business-apresenta-startup-brasileira-que-usa-ia-para-antecipar-noticias.ghtml",
+     "title": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/alemanha-franca-italia-polonia-e-reino-unido-vao-representar-a-europa-nas-proximas-negociacoes-de-paz-entre-ucrania-e-russia.ghtml",
      "source": "g1"
     }
    ]
   },
   {
-   "topic": "Nvidia",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
-     "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-     "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-     "source": "NPR"
-    },
-    {
-     "title": "Las últimas horas de Jensen Huang en Nvidia: “Soy un pedazo de mierda”",
-     "link": "https://elpais.com/us/2026-11-13/las-ultimas-horas-de-jensen-huang-en-nvidia-soy-un-pedazo-de-mierda.html",
-     "source": "El País"
-    }
-   ]
-  },
-  {
-   "topic": "Trump",
-   "sources": 6,
-   "examples": [
-    {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
-     "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-     "source": "The Guardian"
-    },
-    {
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "source": "NPR"
-    },
-    {
-     "title": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne",
-     "link": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html",
-     "source": "Le Monde"
-    }
-   ]
-  },
-  {
    "topic": "Irã",
-   "sources": 5,
+   "sources": 4,
    "examples": [
     {
      "title": "What's Trump's strategy now with Iran? To keep things as they are",
      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
      "source": "NPR"
-    },
-    {
-     "title": "Iran targeted US radar system in Bahrain",
-     "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
     },
     {
      "title": "Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
@@ -184,147 +283,63 @@
      "title": "Trump pulls Vance from Iran talks, saying 'we don't need a deal'",
      "link": "https://www.latimes.com/politics/story/2026-11-12/trump-pulls-vance-from-iran-talks-saying-we-dont-need-deal",
      "source": "Los Angeles Times"
+    },
+    {
+     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ]
   },
   {
-   "topic": "Ucrânia",
-   "sources": 5,
+   "topic": "Nvidia",
+   "sources": 4,
    "examples": [
     {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+     "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
      "source": "NPR"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne, le Royaume-Uni, l’Italie et la Pologne représenteront les Européens lors des prochains pourparlers sur l’Ukraine",
-     "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-france-l-allemagne-le-royaume-uni-l-italie-et-la-pologne-representeront-les-europeens-lors-des-prochains-pourparlers-sur-l-ukraine_6808609_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "La UE acuerda que sus instituciones y los países del E5 se sienten a negociar con Rusia por la paz en Ucrania",
-     "link": "https://www.eldiario.es/internacional/ue-acuerda-instituciones-paises-e5-sienten-negociar-rusia-paz-ucrania_1_13661588.html",
-     "source": "elDiario.es"
-    }
-   ]
-  },
-  {
-   "topic": "Europa",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "More live news, more conversations, more Europe: Euronews reinvents itself for its new season",
-     "link": "https://www.euronews.com/2026/11/13/more-live-news-more-conversations-more-europe-euronews-reinvents-itself-for-its-new-season",
-     "source": "Euronews"
-    },
-    {
-     "title": "El Supremo eleva a Europa la estafa del 'fraude del CEO' y pregunta hasta dónde deben responder los bancos",
-     "link": "https://www.eldiario.es/politica/supremo-eleva-europa-estafa-fraude-ceo-pregunta-deben-responder-bancos_1_13662430.html",
-     "source": "elDiario.es"
-    },
-    {
-     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-     "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+     "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
      "source": "The New York Times"
     },
     {
-     "title": "Europa enfrenta divisões ao tentar indicar negociador para Guerra da Ucrânia",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/europa-enfrenta-divisoes-ao-tentar-indicar-negociador-para-guerra-da-ucrania.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Pope",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru",
-     "link": "https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Pope Leo XIV's return to Peru thrills those who recall 'Padre Robert'",
-     "link": "https://www.latimes.com/world-nation/story/2026-11-13/pope-leo-xivs-return-to-peru-thrills-those-who-recall-padre-robert",
-     "source": "Los Angeles Times"
-    },
-    {
-     "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
-     "link": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Chiclayo",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru",
-     "link": "https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "El papa León XIV se reencuentra con su pueblo de Chiclayo",
-     "link": "https://elpais.com/america/2026-11-13/el-papa-leon-xiv-se-reencuentra-con-su-pueblo-de-chiclayo.html",
-     "source": "El País"
-    },
-    {
-     "title": "Emotivo regreso del Papa a Perú: “¡Qué alegría volver a Chiclayo!”",
-     "link": "https://www.lavanguardia.com/internacional/20261113/11683743/emotivo-regreso-papa-peru-que-alegria-volver-chiclayo.html",
-     "source": "La Vanguardia"
-    }
-   ]
-  },
-  {
-   "topic": "China",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
-     "link": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials",
-     "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
+     "title": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
+     "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
      "source": "The Japan Times"
     },
     {
-     "title": "EU leaders told to ‘act now’ to stay in AI race with US and China",
-     "link": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china",
+     "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
      "source": "South China Morning Post"
     }
    ]
   },
   {
-   "topic": "Eisenkot",
-   "sources": 3,
+   "topic": "Orleans",
+   "sources": 4,
    "examples": [
     {
-     "title": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
-     "link": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html",
-     "source": "Le Monde"
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
-     "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-     "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-     "source": "The New York Times"
+     "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+     "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
-     "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-     "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
+     "source": "Euronews"
+    },
+    {
+     "title": "Un buque que navegaba por el río Misisipi choca contra un crucero con 129 pasajeros a bordo en Nueva Orleans",
+     "link": "https://www.eldiario.es/internacional/buque-cisterna-navegaba-rio-misisipi-choca-crucero-fluvial-129-pasajeros-bordo-nueva-orleans_1_13663395.html",
+     "source": "elDiario.es"
     }
    ]
   }
@@ -339,60 +354,60 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
-     "title": "Democratic Senate leader Schumer set to face leadership challenge",
-     "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-     "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-     "published": "2026-11-13T19:03+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+     "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+     "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+     "published": "2026-11-14T00:03+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-     "published": "2026-11-13T18:36+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+     "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+     "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+     "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+     "published": "2026-11-14T00:03+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
     },
     {
-     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-     "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-     "published": "2026-11-13T18:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
+     "title": "Setback for SpaceX Starship rocket's double-catch test",
+     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+     "published": "2026-11-14T00:01+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
     },
     {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-     "published": "2026-11-13T16:40+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+     "published": "2026-11-13T23:40+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
     },
     {
-     "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-     "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-     "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-     "published": "2026-11-13T15:42+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
+     "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+     "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+     "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+     "published": "2026-11-13T23:11+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg"
     },
     {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-     "published": "2026-11-13T15:40+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+     "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+     "published": "2026-11-13T23:00+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
     },
     {
-     "title": "At least 24 killed after bus collides with truck in north-east India",
-     "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-     "published": "2026-11-13T15:16+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg"
+     "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+     "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+     "published": "2026-11-13T21:15+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
     },
     {
-     "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-     "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-     "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
-     "published": "2026-11-13T15:09+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg"
+     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+     "published": "2026-11-13T21:14+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     }
    ]
   },
@@ -404,60 +419,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+     "title": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the…",
-     "published": "2026-11-13T19:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066"
+     "summary": "Democratic lawmakers press Trump officials for more details about communication system failures as nationwide flight fiasco continues FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights…",
+     "published": "2026-11-14T01:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
-     "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
-     "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
-     "summary": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection…",
-     "published": "2026-11-13T19:23+00:00",
-     "image": "https://i.guim.co.uk/img/media/565c46cb082a19c5f1902d69207476973ec0e5ca/0_0_3834_3068/master/3834.jpg?width=140&quality=85&auto=format&fit=max&s=43847f2d9531d49f352c16c8aa4d5859"
+     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+     "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration…",
+     "published": "2026-11-14T01:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986"
     },
     {
-     "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
-     "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-     "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China…",
-     "published": "2026-11-13T19:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8a807e89eb2444738f7d753deae084d"
+     "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+     "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a…",
+     "published": "2026-11-14T01:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/bad470fd72c96843e66c54b24e828b110309e74f/920_806_5642_4517/master/5642.jpg?width=140&quality=85&auto=format&fit=max&s=d26253caa471b9a1073a46e86c2ca7b0"
     },
     {
-     "title": "Families clear homes of David Walliams books after sexual offence allegations",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
-     "summary": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed…",
-     "published": "2026-11-13T18:55+00:00",
-     "image": "https://i.guim.co.uk/img/media/a29ed4693a342a6cd38c082c316edb7ccaf79f78/1192_157_6213_4970/master/6213.jpg?width=140&quality=85&auto=format&fit=max&s=81a585c2b13265920736ce27d26c8c70"
+     "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+     "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+     "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to…",
+     "published": "2026-11-14T00:53+00:00",
+     "image": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d"
     },
     {
-     "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-     "summary": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual…",
-     "published": "2026-11-13T18:53+00:00",
-     "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2"
+     "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+     "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a…",
+     "published": "2026-11-14T00:52+00:00",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=32d07acfc6c3a30cd9dc6332d3e3023c"
     },
     {
-     "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
-     "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-     "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election…",
-     "published": "2026-11-13T18:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/e38bb3728105c5d43c48c890dbafe4ef3e75d70d/185_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=68370e6297fc946040a1c10e2adee8c5"
+     "title": "What to know about the rare nationwide ground stop issued by the FAA",
+     "link": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+     "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flights Flights grounded at all US airports due to communications outage – live The…",
+     "published": "2026-11-13T23:56+00:00",
+     "image": "https://i.guim.co.uk/img/media/65cfe750f8f356c4184de878849ed7c03107aa6f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=7860155056d5c7f957fb63c5ba52237d"
     },
     {
-     "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
-     "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
-     "summary": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be…",
-     "published": "2026-11-13T18:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/4c1be2018c85b1bd8f3b44061ee196854105b58f/0_0_3590_2874/master/3590.jpg?width=140&quality=85&auto=format&fit=max&s=8747823bb9347de7d7a997354c336057"
+     "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+     "link": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+     "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new…",
+     "published": "2026-11-13T23:53+00:00",
+     "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
     },
     {
-     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "summary": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected…",
-     "published": "2026-11-13T17:41+00:00",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+     "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+     "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+     "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday…",
+     "published": "2026-11-13T22:36+00:00",
+     "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
     }
    ]
   },
@@ -471,7 +486,7 @@
     {
      "title": "What's Trump's strategy now with Iran? To keep things as they are",
      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+     "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
      "published": "2026-11-13T19:02+00:00",
      "image": ""
     },
@@ -534,6 +549,27 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
     {
+     "title": "FAA issues US national ground stop on all flights",
+     "link": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+     "summary": "The US federal aviation regulator announced a nationwide ground stop for all airports. Federal officials blamed a communications outage and said technicians are investigating.",
+     "published": "2026-11-13T22:57+00:00",
+     "image": ""
+    },
+    {
+     "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+     "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+     "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+     "published": "2026-11-13T21:31+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ukraine updates: EU to send united front to potential peace talks",
+     "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+     "summary": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
+     "published": "2026-11-13T19:39+00:00",
+     "image": ""
+    },
+    {
      "title": "David Walliams: UK police launch sex offense probe into comedian",
      "link": "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
      "summary": "The \"Little Britain\" star and \"Britain's Got Talent\" judge has been accused of engaging in sexual misconduct and inappropriate behavior towards young women and girls. Walliams denies the allegations.",
@@ -567,27 +603,71 @@
      "summary": "Observations show the ring of fierce winds that rotate at the Earth's North Pole has changed direction. Scientists say it's a historic disruption and the earliest reversal on record. What could it mean for the weather?",
      "published": "2026-11-13T16:34+00:00",
      "image": ""
+    }
+   ]
+  },
+  {
+   "name": "France 24",
+   "country": "França",
+   "lang": "en",
+   "region": "europa",
+   "url": "https://www.france24.com/en/rss",
+   "items": [
+    {
+     "title": "Gambia's Adama Barrow seeks third term",
+     "link": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
+     "summary": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking a third term. Tensions continue to…",
+     "published": "2026-11-13T21:46+00:00",
+     "image": "https://s.france24.com/media/display/5ffd1078-dfab-11f1-ae95-5f54d898a954/w:1024/p:16x9/capture-43ee1b88.jpg"
     },
     {
-     "title": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-     "link": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
-     "summary": "A fortnight after the CAS ordered ice hockey's governing body to reintegrate Russia into international play, a solution remains elusive. Now Russia has threatened to take legal action against two tournament hosts.",
-     "published": "2026-11-13T16:02+00:00",
+     "title": "France among five major powers to represent EU in Ukraine talks",
+     "link": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+     "summary": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to upcoming Ukraine talks.",
+     "published": "2026-11-13T21:38+00:00",
+     "image": "https://s.france24.com/media/display/b484b08c-dfa7-11f1-aaa1-f71d22e7fea9/w:1024/p:16x9/2026-10-16T084030Z-885766991-RC274OADTRVQ-RTRMADP-3-UKRAINE-CRISIS-EU.jpg"
+    },
+    {
+     "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
+     "link": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+     "summary": "",
+     "published": "2026-11-13T21:29+00:00",
      "image": ""
     },
     {
-     "title": "Why does El Salvador's Bukele have troops in Haiti?",
-     "link": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-all-1573-rdf",
-     "summary": "Haiti's Prime Minister congratulating El Salvador's President for a gang crackdown in Haiti has shone a light on the relationship between the two countries. What's going on, and where does the US stand?",
-     "published": "2026-11-13T15:37+00:00",
-     "image": ""
+     "title": "US flight authority orders national ground stop over air traffic control 'communication issue'",
+     "link": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+     "summary": "The US flight authority on Friday halted flights across the nation due to what US Transportation Secretary Sean Duffy said was a communication issue affecting the country's air traffic control centres.",
+     "published": "2026-11-13T21:27+00:00",
+     "image": "https://s.france24.com/media/display/0b9ef0bc-dfa8-11f1-84a6-3f371022a770/w:1024/p:16x9/2026-10-20T235835Z-122091610-RC297OANDGMD-RTRMADP-3-BOEING-737-MAX.jpg"
     },
     {
-     "title": "Iran targeted US radar system in Bahrain",
-     "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
-     "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
-     "published": "2026-11-13T15:32+00:00",
-     "image": ""
+     "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+     "link": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+     "summary": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint Defence…",
+     "published": "2026-11-13T20:06+00:00",
+     "image": "https://s.france24.com/media/display/2e18af32-df9b-11f1-903b-3f371022a770/w:1024/p:16x9/2026-11-13T145055Z-1247391648-RC22NOA8HWLE-RTRMADP-3-TURKEY-QATAR.jpg"
+    },
+    {
+     "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
+     "summary": "On The World This Week with Gavin Lee, our panel distills the breaking news and global stories of the past 7 days into 45 minutes. Ukraine: Who will speak for Europe? In a week thats seen the first direct talks between…",
+     "published": "2026-11-13T19:46+00:00",
+     "image": "https://s.france24.com/media/display/fd993a00-df97-11f1-a921-695cb59fade5/w:1024/p:16x9/c225d164-32c2-48f7-924f-e100efad3094.png"
+    },
+    {
+     "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
+     "link": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
+     "summary": "Gavin Lee is pleased to welcome Alexander Titov, Lecturer in Modern European History at Queen's University Belfast and a specialist on Russia. He's joined us to discuss high-level meetings in Abu Dhabi, Dublin and the…",
+     "published": "2026-11-13T19:03+00:00",
+     "image": "https://s.france24.com/media/display/7839d154-df8c-11f1-9864-5f54d898a954/w:1024/p:16x9/EN-20261113-182803-183830-CS.jpg"
+    },
+    {
+     "title": "What we know about China's military exercises around Taiwan",
+     "link": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+     "summary": "China has been carrying out major military drills around Taiwan since early November. But contrary to some claims on social media, Beijing's armed forces have not actually implemented a blockade on the island; they just…",
+     "published": "2026-11-13T18:19+00:00",
+     "image": "https://s.france24.com/media/display/92520268-dd08-11f1-8ebf-29048b396e03/w:1024/p:16x9/image3-138.jpg"
     }
    ]
   },
@@ -598,6 +678,48 @@
    "region": "europa",
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
+    {
+     "title": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+     "link": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
+     "summary": "Douze personnes ont été sorties de l’eau et 32 personnes ont été transportées à l’hôpital. La collision a eu lieu alors que le bateau de la compagnie American Cruise Lines était amarré à quai, sur le Mississippi, avec…",
+     "published": "2026-11-14T00:35+00:00",
+     "image": "https://img.lemde.fr/2026/11/13/0/0/4096/2048/644/322/60/0/391ef5e_ftp-1-odjiz3lt1vpq-07111035b3cf4c5db9d75b72e3859525-0-dbbd6e1e18784bb898b020f42cce4be3.jpg"
+    },
+    {
+     "title": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes russes de concourir sur son sol",
+     "link": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html",
+     "summary": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique, Jakob Forssmed. La…",
+     "published": "2026-11-14T00:21+00:00",
+     "image": "https://img.lemde.fr/2026/11/14/768/0/6885/3442/644/322/60/0/39bbeaf_upload-1-emjra3e459yu-000-d3pu89e.jpg"
+    },
+    {
+     "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+     "link": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+     "summary": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath…",
+     "published": "2026-11-13T22:51+00:00",
+     "image": "https://img.lemde.fr/2026/11/13/225/0/5472/2736/644/322/60/0/48e80cd_ftp-1-ecy9u03hife7-afp-d7f989f.jpg"
+    },
+    {
+     "title": "Aux Etats-Unis, l’agence de l’aviation civile ordonne l’arrêt de tous les vols en raison d’un problème de communication",
+     "link": "https://www.lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html",
+     "summary": "L’autorité américaine de régulation de l’aviation précise que cette suspension a été imposée « en raison de circonstances exceptionnelles et pour des raisons de sécurité ».",
+     "published": "2026-11-13T21:52+00:00",
+     "image": "https://img.lemde.fr/2026/11/13/141/0/5500/2750/644/322/60/0/197de68_ftp-1-e76zk238lez3-2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.JPG"
+    },
+    {
+     "title": "Le Burkina Faso annonce lancer des mandats d’arrêt contre des journalistes et des activistes en exil pour des faits de « terrorisme »",
+     "link": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
+     "summary": "Les autorités de la junte d’Afrique de l’Ouest ciblent une vingtaine de personnes, et demandent leur extradition. Un chroniqueur burkinabé de RFI et des anciens ministres de l’ex-président Blaise Compaoré sont notamment…",
+     "published": "2026-11-13T21:51+00:00",
+     "image": "https://img.lemde.fr/2026/10/21/552/0/3973/1986/644/322/60/0/255543a_ftp-1-rzni2fugbyhl-f2566b1d357a43788ac434fda6ad169b-0-d7bace231df248138ae60cc84f540141.jpg"
+    },
+    {
+     "title": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+     "link": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
+     "summary": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires.",
+     "published": "2026-11-13T20:58+00:00",
+     "image": "https://img.lemde.fr/2026/11/13/369/0/5900/2950/644/322/60/0/790f5d4_ftp-1-g2kpsqy6zqz6-2026-11-13t144638z-1429108712-rc21noaeoahr-rtrmadp-3-eu-summit.JPG"
+    },
     {
      "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne, le Royaume-Uni, l’Italie et la Pologne représenteront les Européens lors des prochains pourparlers sur l’Ukraine",
      "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-france-l-allemagne-le-royaume-uni-l-italie-et-la-pologne-representeront-les-europeens-lors-des-prochains-pourparlers-sur-l-ukraine_6808609_3210.html",
@@ -611,48 +733,6 @@
      "summary": "Le Vatican a estimé qu’un million de personnes s’étaient massées le long du parcours emprunté par le cortège du pape pour se rendre à l’office auquel 500 000 fidèles auraient assisté.",
      "published": "2026-11-13T19:00+00:00",
      "image": "https://img.lemde.fr/2026/11/13/526/0/8640/4320/644/322/60/0/c3acb98_ftp-1-nxmstpaezwhf-0a6a094322d347f38041da07a493e338-0-9c576620e33f4e318244419d4b5b21f4.jpg"
-    },
-    {
-     "title": "Au Cameroun, les parlementaires sous la pression de la société civile pour légiférer contre les féminicides",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/13/au-cameroun-les-parlementaires-sous-la-pression-de-la-societe-civile-pour-legiferer-contre-les-feminicides_6809373_3212.html",
-     "summary": "Le thème des violences contre les femmes s’est peu à peu imposé dans le débat public, où le terme de « féminicide » a fait son apparition. Avant la fin de la mandature des députés, le 20 décembre, un dispositif…",
-     "published": "2026-11-13T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/13/583/0/3500/1750/644/322/60/0/59ceb68_upload-1-fikviu2bzmuw-000-c8tt44w.jpg"
-    },
-    {
-     "title": "Avec « Qui contrôle la mer contrôle le monde ? », l’historien Arnaud Orain analyse l’affaiblissement de l’hégémonie américaine sur les mers",
-     "link": "https://www.lemonde.fr/idees/article/2026/11/13/avec-qui-controle-la-mer-controle-le-monde-l-historien-arnaud-orain-analyse-l-affaiblissement-de-l-hegemonie-americaine-sur-les-mers_6809371_3232.html",
-     "summary": "Dans son nouvel essai, Arnaud Orain analyse les enjeux maritimes des basculements géopolitiques actuels, dans un monde marqué par la concurrence pour les ressources, les rivalités géopolitiques et la montée en puissance…",
-     "published": "2026-11-13T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/06/160/0/1920/960/644/322/60/0/916bcc2_upload-1-qo5xcypk5jwi-generated-1793974633227.jpg"
-    },
-    {
-     "title": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne",
-     "link": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html",
-     "summary": "Pour reprendre langue avec les Etats européens, le Kremlin leur propose, entre autres, de signer des accords bilatéraux d’assistance mutuelle, à l’image de ceux qu’il a conclus avec la Biélorussie et la Corée du Nord.",
-     "published": "2026-11-13T17:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/10/552/0/5000/2500/644/322/60/0/899076b_ftp-1-7dh0k9ndn0yb-2026-11-10t090843z-1947322998-rc2xkoa94tre-rtrmadp-3-ukraine-crisis-talks-abu-dhabi.JPG"
-    },
-    {
-     "title": "Jeux olympiques de la jeunesse de Dakar 2026, une année record pour l’Afrique",
-     "link": "https://www.lemonde.fr/videos/video/2026/11/13/jeux-olympiques-de-la-jeunesse-de-dakar-2026-une-annee-record-pour-l-afrique_6809359_1669088.html",
-     "summary": "Lors de cette première édition des Jeux olympiques de la jeunesse en Afrique, le continent a remporté un nombre record de médailles.",
-     "published": "2026-11-13T16:44+00:00",
-     "image": "https://img.lemde.fr/2026/11/08/1614/0/3545/1772/644/322/60/0/59ba623_ftp-1-axrgzdct3fho-27100980249e48558582920f4bfa1991-0-402076cfe5714556b3e9abbc80ae0449.jpg"
-    },
-    {
-     "title": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
-     "link": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html",
-     "summary": "Les partis arabes israéliens, qui comptent 19 députés depuis les dernières élections législatives, sont au cœur des négociations pour former le futur gouvernement. La prise de position de M. Eisenkot est inhabituelle de…",
-     "published": "2026-11-13T16:43+00:00",
-     "image": "https://img.lemde.fr/2026/10/20/1137/0/6160/3080/644/322/60/0/384f01d_upload-1-mzqi5edyjiof-ll-taibeh-meeting-tibi-07.jpg"
-    },
-    {
-     "title": "Le Maroc se positionne en potentiel fournisseur d’uranium de la France",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/13/le-maroc-se-positionne-en-potentiel-fournisseur-d-uranium-de-la-france_6809357_3212.html",
-     "summary": "Le groupe industriel marocain OCP étudie avec les sociétés françaises EDF et Orano les conditions d’un accord sur la production et la fourniture de concentré d’uranium. Le royaume possède de conséquentes réserves de…",
-     "published": "2026-11-13T16:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/13/1315/0/7886/3943/644/322/60/0/2a27361_upload-1-au39eq3xyj5t-000-b8yp83c.jpg"
     }
    ]
   },
@@ -663,6 +743,13 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
+     "summary": "A tanker struck and partially submerged a New Orleans river cruise carrying around 129 passengers. Multiple people were rescued as search-and-rescue operations continued.",
+     "published": "2026-11-13T21:04+00:00",
+     "image": ""
+    },
     {
      "title": "Russia sends major business delegation to Kabul for business talks with the Taliban",
      "link": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
@@ -711,13 +798,6 @@
      "summary": "More than 1,000 cows are roaming freely through Kriva Palanka in North Macedonia, damaging property and alarming residents. The mayor wants the government to declare a 30-day state of crisis.",
      "published": "2026-11-13T14:04+00:00",
      "image": ""
-    },
-    {
-     "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
-     "link": "https://www.euronews.com/video/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31",
-     "summary": "A giant Trojan Horse overflowing with plastic waste has appeared in Antalya as Greenpeace International staged a striking environmental protest during the COP31 climate summit. Created with Danish artist Thomas Dambo…",
-     "published": "2026-11-13T13:36+00:00",
-     "image": ""
     }
    ]
   },
@@ -729,60 +809,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Campaña elecciones 29-N y actualidad política, en directo | Sánchez pide 176 diputados progresistas en el Congreso para “llegar antes y más lejos”",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-     "summary": "El cara a cara entre Sánchez y Feijóo será el próximo jueves y estará moderado por la presidenta de la Academia de Televisión | Abascal deja de lado el reparto de ministerios con el PP: “Vamos a ver quién es el…",
-     "published": "2026-11-13T19:07+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/TJLUHE3PRJFV5CRG5OTAHN54KU.jpg?auth=581e7cde80d31965426e9976839b085e90218f60964aed2f94292c6474403139"
+     "title": "La suspensión de miles de vuelos colapsa los aeropuertos de Estados Unidos",
+     "link": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
+     "summary": "El secretario de Transporte de EE UU informa de que la paralización se debe a un “problema de comunicación que afecta a todos los centros de control de tráfico aéreo”",
+     "published": "2026-11-14T00:50+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/YEUDZIVLLBMX5GWL3ED4BK3WGU.jpg?auth=b9c6f09e03d7da454f463374c0ed876a2dbcf0b7708f83c6fe347359c2d19fd2"
     },
     {
-     "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
-     "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-     "summary": "La compañía pide disculpas por el “problema técnico” y descarta que haya un ciberataque o agentes de IA detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o Copilot. No se han…",
-     "published": "2026-11-13T18:48+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/ZRND26ZYLVG2BNXLGWZKZACKFE.jpg?auth=52341b528a79d52a89278fb8eac34afa25aa1b9a32d24935ff6031cc941a187c"
-    },
-    {
-     "title": "El papa León XIV se reencuentra con su pueblo de Chiclayo",
-     "link": "https://elpais.com/america/2026-11-13/el-papa-leon-xiv-se-reencuentra-con-su-pueblo-de-chiclayo.html",
-     "summary": "Más de un millón peruanos vibra con el regreso de su antiguo obispo convertido en Papa, en la etapa más emocional del viaje por Sudamérica",
-     "published": "2026-11-13T17:52+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/C67PI5JRQ5IADFFHY2Z37GZG2Y.jpg?auth=14997662eca00519db43562fbd76710db04d25da5cc322e2edf4e2abe4bb8cdf"
-    },
-    {
-     "title": "Las librerías piden protección ante la presión inmobiliaria: “No hacemos planes más allá de cada renovación de alquiler, es dramático”",
-     "link": "https://elpais.com/cultura/2026-11-13/las-librerias-piden-proteccion-ante-la-presion-inmobiliaria-no-hacemos-planes-mas-alla-de-cada-renovacion-de-alquiler-es-dramatico.html",
-     "summary": "El 64% están en locales alquilados y el 24% de ellas afrontará su renovación durante el próximo año, según un estudio del sector",
-     "published": "2026-11-13T17:07+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/QEAEAXPHDJGEREEL3KFUSXPRAA.jpg?auth=742b18eac3744901f77048665fa766c7d708055defee520b088c51743adec4e8"
-    },
-    {
-     "title": "Las últimas horas de Jensen Huang en Nvidia: “Soy un pedazo de mierda”",
-     "link": "https://elpais.com/us/2026-11-13/las-ultimas-horas-de-jensen-huang-en-nvidia-soy-un-pedazo-de-mierda.html",
-     "summary": "El fundador del mayor fabricante de chips abandonó la compañía tras las revelaciones de sus infidelidades, salpicado por un caso de supuesto espionaje",
-     "published": "2026-11-13T16:43+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/BIH7AAIEEJLRRPBLIRQUHWRLJM.jpg?auth=35b00fe336facfad07ee2cadbddc46017da28d377785cc2b7f3f234dbcdfc3b5"
-    },
-    {
-     "title": "Religión en las aulas: una receta con fecha de caducidad",
-     "link": "https://elpais.com/educacion/2026-11-13/religion-en-las-aulas-una-receta-con-fecha-de-caducidad.html",
-     "summary": "Con lo que cuesta la asignatura se podrían climatizar 3.000 centros al año o dar refuerzo de matemáticas",
-     "published": "2026-11-13T16:37+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/XVM5WHSXDNBE3NOLNT3RSMHRJU.jpg?auth=c2b614441db0a26cdd70c59afb5f69d82baab5f4b5dfa66a928681ea53ee3f80"
-    },
-    {
-     "title": "Reconstrucción visual: así colapsó el edificio en Brooklyn",
-     "link": "https://elpais.com/us/2026-11-13/reconstruccion-visual-asi-colapso-el-edificio-en-brooklyn.html",
-     "summary": "La Fiscalía del Distrito ha iniciado una investigación sobre las causas del siniestro, que aún se desconocen",
-     "published": "2026-11-13T16:36+00:00",
+     "title": "Así se vació el cielo de Estados Unidos tras la suspensión de los vuelos",
+     "link": "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html",
+     "summary": "La FAA ordenó detener los despegues en todo el país por un problema en los centros que guían a los aviones en ruta. Es la tercera vez que ocurre en la historia del país, tras el 11-S y el apagón informático de 2023",
+     "published": "2026-11-13T23:55+00:00",
      "image": ""
     },
     {
-     "title": "La encrucijada de Raphinha en la selección brasileña: “Siempre hice todo lo posible por estar presente”",
-     "link": "https://elpais.com/deportes/futbol/2026-11-13/la-encrucijada-de-raphinha-en-la-seleccion-brasilena-siempre-hice-todo-lo-posible-por-estar-presente.html",
-     "summary": "El capitán del Barça se emociona al reafirmar su compromiso con la selección después de que una frase sobre su físico provocara críticas en su país.",
-     "published": "2026-11-13T16:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/KYYMKLS3IBOHPNIKSWLNP2NDN4.jpg?auth=3dfa8bda60420b6daaf3323d6097341d5093d3400cf46124b748e72ea95c4bed"
+     "title": "PSOE y Frente Amplio cierran filas en el primer debate a cuatro ante la crítica del PP a la gestión del Gobierno y un Vox centrado en la inmigración",
+     "link": "https://elpais.com/espana/2026-11-13/psoe-y-frente-amplio-cierran-filas-en-el-primer-debate-a-cuatro-ante-la-critica-del-pp-a-la-gestion-del-gobierno-y-un-vox-centrado-en-la-inmigracion.html",
+     "summary": "La derecha y la izquierda enfrentan sus recetas en vivienda, salarios y pensiones en un debate económico con pocas salidas de tono y escasez de nuevas propuestas",
+     "published": "2026-11-13T23:19+00:00",
+     "image": ""
+    },
+    {
+     "title": "El caos aéreo en Estados Unidos, en imágenes: pasajeros varados y vuelos suspendidos en todo el país",
+     "link": "https://elpais.com/america/2026-11-13/el-caos-aereo-en-estados-unidos-en-imagenes-pasajeros-varados-y-vuelos-suspendidos-en-todo-el-pais.html",
+     "summary": "La interrupción de las operaciones aéreas por una falla en las comunicaciones del sistema de control del tráfico aéreo ha provocado retrasos, cancelaciones y largas esperas en los aeropuertos a nivel nacional",
+     "published": "2026-11-13T22:58+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/OWSXMSMRMBJXBN5FYXWQ2HQ5VE.jpg?auth=9dce5e44d82aa7b9acdb470ce0f8dd2024f23474e9deb6655abe2f95c4bcd9c3"
+    },
+    {
+     "title": "Abascal exhibe el respaldo de la ultraderecha internacional en su arranque de campaña",
+     "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/abascal-advierte-a-sus-votantes-de-que-su-mayor-enemigo-es-el-exceso-de-confianza.html",
+     "summary": "El líder de Vox a advierte a sus votantes de que su mayor enemigo es el exceso de confianza",
+     "published": "2026-11-13T22:36+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/M36K2PNRFZO65EHCBJVLOGEQKA.jpg?auth=10b59b281bf8aed2e5ebb47b03ed3771d83753515d1a81234268122837609c64"
+    },
+    {
+     "title": "El Celta golea al Salamanca de Muniain y avanza en la Copa (0-5)",
+     "link": "https://elpais.com/deportes/futbol/2026-11-13/el-celta-golea-al-salamanca-de-muniain-y-avanza-en-la-copa-0-5.html",
+     "summary": "El conjunto gallego ya ganaba en El Helmántico 0-3 al descanso del partido",
+     "published": "2026-11-13T22:32+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/OECKQHNBFRKT5FQAX2V5AZ4PGU.jpg?auth=703b69855f1fc84cb7b0a51f4239a7910bbe438c91d272aed6862f2773b155e7"
+    },
+    {
+     "title": "El Tribunal Supremo accede a revisar la orden de Trump para prohibir el acceso al asilo en la frontera sur",
+     "link": "https://elpais.com/us/migracion/2026-11-13/el-tribunal-supremo-accede-a-revisar-la-orden-de-trump-para-prohibir-el-acceso-al-asilo-en-la-frontera-sur.html",
+     "summary": "La máxima corte del país decidirá si el presidente tiene la autoridad para prohibir este derecho",
+     "published": "2026-11-13T22:17+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/FNARMMPEE6U7J4Z5FO2EDZMX2A.jpg?auth=b0078b0d44d074e0fd75ea9d66e7a7ac39a3f2f2f11e2110cd9bf24d3edc9f7d"
+    },
+    {
+     "title": "Justin Robinson enmudece al Panathinaikos y aúpa al Barcelona",
+     "link": "https://elpais.com/deportes/baloncesto/2026-11-13/justin-robinson-enmudece-al-panathinaikos-y-aupa-al-barcelona.html",
+     "summary": "El base azulgrana firma 16 puntos en el último cuarto para lograr una remontada mágica (74-76) frente al todopoderoso equipo griego",
+     "published": "2026-11-13T22:15+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/QNKRRVRWDVIBBMMY4PZJJ6PT6I.jpg?auth=cc5fdfa9b5b7ca15d1cfe4a4e0126b5b4e4a0c2f6470b09cd4080eef9a90fe54"
     }
    ]
   },
@@ -794,60 +874,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "Colau rompe dos huevos, Feijóo no sabe inglés",
-     "link": "https://www.lavanguardia.com/politica/20261113/11683785/colau-rompe-dos-huevos-feijoo-ingles.html",
-     "summary": "Que Jordi Wild entreviste a Feijóo con una camiseta de Queens of the Stone Age no puede ser casual. Es uno de los grupos de rock favoritos de Alejandro Fernández, presidente del PP en Catalunya. Aunque han reconducido…",
-     "published": "2026-11-13T18:35+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af757f716953.r_d.960-540-3009.jpeg"
+     "title": "Puedo prometer y prometo: el pragmatismo con el que Adolfo Suárez se ganó a los españoles",
+     "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20261114/11684113/prometer-prometo-pragmatismo-adolfo-suarez-gano-espanoles.html",
+     "summary": "Tras liderar la transición, el presidente del Gobierno se presentó a las elecciones con una propuesta ajena a la política tradicional, sin ideología",
+     "published": "2026-11-14T00:45+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/06/6a4bd2f2eb489.r_d.1930-1094-1174.jpeg"
     },
     {
-     "title": "Prisión para tres de los detenidos por los disturbios tras la huelga del 11-N en Barcelona",
-     "link": "https://www.lavanguardia.com/local/barcelona/20261113/11683776/tres-detenidos-relacionados-disturbios-huelga-11-n-barcelona-pasan-prision-provisional.html",
-     "summary": "Las causas están abiertas por los delitos de daños, atentado y desórdenes públicos, entre otros",
-     "published": "2026-11-13T18:19+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/11/6af4cf6604bd9.r_d.838-525-2806.jpeg"
+     "title": "Las imágenes de la interrupción del tráfico aéreo en Estados Unidos",
+     "link": "https://www.lavanguardia.com/internacional/20261114/11684110/imagenes-interrupcion-trafico-aereo-estados-unidos.html",
+     "summary": "La Administración Federal de Aviación americana ordena la suspensión de todos los vuelos por la caída de los sistemas de comunicación en los centros de control del transporte aéreo",
+     "published": "2026-11-13T23:41+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/14/6af79e5ccb84a.jpeg"
     },
     {
-     "title": "Mariah Carey preocupa a sus seguidores tras aparecer con dificultades para caminar",
-     "link": "https://www.lavanguardia.com/gente/20261113/11683766/mariah-carey-preocupa-seguidores-aparecer-dificultades-caminar.html",
-     "summary": "La cantante ha necesitado la ayuda de una de sus asistentes para desplazarse durante el encuentro con sus seguidores en Brasil, donde tiene previstos dos conciertos de su espectáculo navideño",
-     "published": "2026-11-13T17:59+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad7f036c7e13.jpeg"
+     "title": "'Walk on the Wild side', Santi",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683830/walk-on-the-wild-side-santi.html",
+     "summary": "Supongo que cuando ya se ve ganador uno se lo piensa dos veces antes de jugársela. Por eso Abascal impuso a su público en La revuelta, a riesgo de que le dijesen que no, y le salió bien, según reconoció él mismo en…",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/13/6af77674ef364.jpeg"
     },
     {
-     "title": "Qué futuro tiene el Sindicato de Inquilinas: “Puede adquirir entidad”",
-     "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261113/11683759/enric-juliana-pone-foco-sindicato-inquilinas-adquirir-entidad.html",
-     "summary": "El adjunto al director de La Vanguardia, Enric Juliana, analiza en «Claves del día» el inicio de la campaña electoral y destaca la importancia de la vivienda, la movilización juvenil y las estrategias de los partidos",
-     "published": "2026-11-13T17:52+00:00",
+     "title": "La caída global de Microsoft",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683814/caida-global-microsoft.html",
+     "summary": "Ayer pudimos comprobar de primera mano en qué medida la sociedad contemporánea es dependiente de los servicios digitales. Por ejemplo, de los de la firma Microsoft, que sufrió una caída de sus sistemas que afectó al…",
+     "published": "2026-11-13T23:30+00:00",
      "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg"
     },
     {
-     "title": "Sánchez anuncia que Cuerpo volverá a ser su vicepresidente si logra la reelección",
-     "link": "https://www.lavanguardia.com/politica/20261113/11683755/sanchez-anuncia-cuerpo-volvera-vicepresidente-logra-reeleccion-29-n.html",
-     "summary": "El líder del PSOE demanda un 75% de participación en las elecciones generales para poder alcanzar una mayoría absoluta de 176 escaños progresistas",
-     "published": "2026-11-13T17:42+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af74f1c6cbf1.r_d.1789-1055-1267.jpeg"
+     "title": "Defender las calles",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683697/defender-calles.html",
+     "summary": "Toca abrir un debate sereno sobre cómo reprimir la violencia “fuera de lo común”",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/10/19/5fa53a9f580e6.jpeg"
     },
     {
-     "title": "Kate Middleton celebrará la sexta edición de su tradicional concierto de Navidad con una nueva temática",
-     "link": "https://www.lavanguardia.com/gente/20261113/11683705/kate-middleton-celebrara-sexta-edicion-tradicional-concierto-navidad-nueva-tematica.html",
-     "summary": "La celebración tendrá lugar el 11 de diciembre en la Abadía de Westminster y se emitirá en televisión durante la Nochebuena y el día de Navidad",
-     "published": "2026-11-13T17:35+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/05/693325aa4e2df.jpeg"
+     "title": "La gran renuncia",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683699/gran-renuncia.html",
+     "summary": "Votamos a aquellos con quienes nos identificamos sin esperar nada concreto ni exigirles que resuelvan",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/13/6af73cc10fb3b.jpeg"
     },
     {
-     "title": "Emotivo regreso del Papa a Perú: “¡Qué alegría volver a Chiclayo!”",
-     "link": "https://www.lavanguardia.com/internacional/20261113/11683743/emotivo-regreso-papa-peru-que-alegria-volver-chiclayo.html",
-     "summary": "Multitudinaria entrada de León XIV a la ciudad peruana donde fue obispo durante nueve años hasta que fue llamado a la Curia",
-     "published": "2026-11-13T17:33+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af748829a7c7.r_d.1997-1344-1124.jpeg"
+     "title": "Libertad y servidumbre digital (2)",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683704/libertad-servidumbre-digital-2.html",
+     "summary": "Recomendación y recompensa forman un círculo de ratificación que limita nuestra libertad",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/13/6af73cec3e799.jpeg"
     },
     {
-     "title": "Expulsan a Marruecos a un imán de Huelva que difundía narrativas radicales entre sus fieles",
-     "link": "https://www.lavanguardia.com/local/andalucia/20261113/11683735/expulsan-marruecos-iman-huelva-difundia-narrativas-radicales-fieles.html",
-     "summary": "El hombre utilizaba su “posición de liderazgo e influencia” dentro de una comunidad religiosa para transmitir mensajes que promovían la segregación social, el rechazo a los valores democráticos y la confrontación",
-     "published": "2026-11-13T17:26+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af747abd517a.r_d.482-277-7241.jpeg"
+     "title": "El Mal sin malos",
+     "link": "https://www.lavanguardia.com/opinion/20261114/11683701/mal-malos.html",
+     "summary": "¿Por qué hay tantísimo escrito, escenificado, rodado, sobre el Mal, y nada sobre accidentes?",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/10/6af397c1d8693.jpeg"
     }
    ]
   },
@@ -859,60 +939,60 @@
    "url": "https://www.eldiario.es/rss/",
    "items": [
     {
-     "title": "La UE acuerda que sus instituciones y los países del E5 se sienten a negociar con Rusia por la paz en Ucrania",
-     "link": "https://www.eldiario.es/internacional/ue-acuerda-instituciones-paises-e5-sienten-negociar-rusia-paz-ucrania_1_13661588.html",
-     "summary": "El presidente del Consejo Europeo junto a la presidenta de la Comisión Europea más los líderes de Alemania, Francia, Reino Unido, Italia y Polonia se sentarán en la mesa de negociación a más alto nivel con Rusia…",
-     "published": "2026-11-13T18:40+00:00",
-     "image": "https://static.eldiario.es/clip/1d64925b-eccf-441a-a54f-1569883411b8_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
+     "link": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
+     "summary": "El portavoz de Vox ha acusado al Gobierno de disminuir la hucha de las pensiones, cuando la está rellenando, entre otras falsedades La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el…",
+     "published": "2026-11-13T23:01+00:00",
+     "image": "https://static.eldiario.es/clip/42c13603-4ae7-4357-86c4-323855af0db0_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "El chasis de Newey para el coche de Fernando Alonso no es ninguna patata",
-     "link": "https://www.eldiario.es/motor/competicion-y-estilo/chasis-newey-coche-fernando-alonso-no-patata_1_13661188.html",
-     "summary": "El Aston Martin de Fernando Alonso cambió en el GP de Brasil la imagen de un coche con problemas de fiabilidad y falta de rendimiento. La lectura es clara: el chasis que diseñó Adrian Newey no es tan malo. Lo analiza el…",
-     "published": "2026-11-13T18:04+00:00",
-     "image": "https://static.eldiario.es/clip/f035dd51-f75e-4e7d-a91e-de58673d4604_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
+     "link": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
+     "summary": "El PP promete mantener la subida de las pensiones que votó contra la ley que la garantiza, mientras Vox insiste en cuestionar su sostenibilidad. La vivienda y los impuestos evidencian también las diferencias entre los…",
+     "published": "2026-11-13T22:42+00:00",
+     "image": "https://static.eldiario.es/clip/b04b0e88-a285-4bb7-9a5d-b510fbdf1f1c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "La ciencia pone en duda que sea posible resucitar animales extintos como el mamut o el lobo terrible",
-     "link": "https://www.eldiario.es/spin/mundo-animal/ciencia-pone-duda-sea-posible-resucitar-animales-extintos-mamut-lobo-terrible-pm_1_13660958.html",
-     "summary": "Un artículo científico cuestiona que modificar el ADN de especies actuales permita recuperar animales desaparecidos y explica por qué reproducir sus características no equivale a restaurar su linaje evolutivo Un hueso…",
-     "published": "2026-11-13T17:00+00:00",
-     "image": "https://static.eldiario.es/clip/53af5aa6-3f76-455a-9a11-ed1dfe3f3243_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Mucho más que un castillo: siete pueblos españoles que nacieron al amparo de una fortaleza",
+     "link": "https://www.eldiario.es/viajes/castillo-siete-pueblos-espanoles-nacieron-amparo-fortaleza_1_13655918.html",
+     "summary": "De Jaén a Mallorca, recorremos siete localidades donde las fortalezas no son solo monumentos históricos, sino parte fundamental de su origen y de su trazado urbano Qué ver en Breslavia en un fin de semana: una escapada…",
+     "published": "2026-11-13T21:53+00:00",
+     "image": "https://static.eldiario.es/clip/da878ff7-704c-42bb-bec3-e9ed0943606c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Los profesores en huelga llevarán al Gobierno de Ayuso a los tribunales por imponer servicios mínimos \"inconstitucionales\"",
-     "link": "https://www.eldiario.es/sociedad/profesores-huelga-llevaran-gobierno-ayuso-tribunales-imponer-servicios-minimos-inconstitucionales_1_13662678.html",
-     "summary": "La Consejería de Educación anunció el miércoles que subirá los servicios mínimos pese a que no ha cambiado nada en el paro; los directores también critican que esa medida parece destinada a enquistar la huelga y no…",
-     "published": "2026-11-13T16:47+00:00",
-     "image": "https://static.eldiario.es/clip/7090817e-6e4f-426b-8582-e08371cd8c16_16-9-discover-aspect-ratio_default_1152132.jpg"
+     "title": "EEUU suspende todos los vuelos por \"circunstancias extraordinarias y motivos de seguridad\"",
+     "link": "https://www.eldiario.es/internacional/eeuu-ordena-suspension-vuelos-escala-nacional-circunstancias-extraordinarias-motivos-seguridad_1_13663423.html",
+     "summary": "\"No hay indicios de que se trate de un ataque malintencionado contra nosotros\", ha afirmado el secretario del Departamento de Seguridad Nacional, Markwayne Mullin Todos los vuelos en Estados Unidos quedan suspendidos…",
+     "published": "2026-11-13T21:28+00:00",
+     "image": "https://static.eldiario.es/clip/283828ac-61e3-4a20-bdf9-45dd55b07fe5_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Facua denuncia que Ryanair se ahorre costes aprovechándose de los pasajeros al adelantar 20 minutos el cierre de mostradores",
-     "link": "https://www.eldiario.es/economia/facua-denuncia-ryanair-ahorre-costes-costa-pasajeros-adelantar-20-minutos-cierre-mostradores_1_13662774.html",
-     "summary": "\"Ryanair justifica este cambio por motivos operativos y de eficiencia, pero en la práctica se traduce en un recorte del tiempo disponible para que los usuarios puedan realizar los trámites de facturación\", condena la…",
-     "published": "2026-11-13T16:47+00:00",
-     "image": "https://static.eldiario.es/clip/e491e2af-87c6-4483-b755-7a356ec5654a_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Un buque que navegaba por el río Misisipi choca contra un crucero con 129 pasajeros a bordo en Nueva Orleans",
+     "link": "https://www.eldiario.es/internacional/buque-cisterna-navegaba-rio-misisipi-choca-crucero-fluvial-129-pasajeros-bordo-nueva-orleans_1_13663395.html",
+     "summary": "Las autoridades portuarias no han informado de una treintena de personas atendidas por los servicios sanitarios tras la colisión contra el barco que parecía atracado Un buque cisterna ha chocado este viernes contra un…",
+     "published": "2026-11-13T21:21+00:00",
+     "image": "https://static.eldiario.es/clip/d09b86f0-90cc-4d2e-a47b-e438c0f0c791_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Detenido en Castellón un cuarto miembro de 'Blocus Vlc', un menor de 16 años",
-     "link": "https://www.eldiario.es/comunitat-valenciana/detenido-castellon-cuarto-miembro-blocus-vlc-menor-16-anos_1_13662746.html",
-     "summary": "El arrestado está acusado de conspiración para desórdenes públicos y pertenencia a grupo organizado El líder de Blocus captó a un menor para su núcleo cerrado y enfrenta delitos de organización criminal y robos con…",
-     "published": "2026-11-13T16:34+00:00",
-     "image": "https://static.eldiario.es/clip/87de127f-9784-4151-bf12-9816619af738_16-9-discover-aspect-ratio_default_1154806.jpg"
+     "title": "El Comité de Disciplina sanciona con 12 partidos a Owono por la entrada que costó la vida a Jesús de Miguel",
+     "link": "https://www.eldiario.es/canariasahora/Deportes/futbol/sancion-12-partidos-portero-andorra-jesus-owono_1_13663399.html",
+     "summary": "El delantero del CD Tenerife, de 30 años, falleció el martes 3 de noviembre en el Hospital Universitario de Nuestra Señora de la Candelaria, donde estuvo ingresado desde la víspera, cuando fue trasladado tras el partido…",
+     "published": "2026-11-13T21:18+00:00",
+     "image": "https://static.eldiario.es/clip/5eea890d-dbac-4596-a39b-bde6e48cac5b_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "El Supremo eleva a Europa la estafa del 'fraude del CEO' y pregunta hasta dónde deben responder los bancos",
-     "link": "https://www.eldiario.es/politica/supremo-eleva-europa-estafa-fraude-ceo-pregunta-deben-responder-bancos_1_13662430.html",
-     "summary": "La Sala de lo Civil ha examinado el caso de la empresa Unísono, que en los primeros meses de 2018 transfirió más de dos millones de euros a bancos chinos después de que los estafadores suplantaran la identidad y la…",
-     "published": "2026-11-13T15:56+00:00",
-     "image": "https://static.eldiario.es/clip/95b53938-04fe-4ecc-aaf4-49eacf98ee19_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "Mañueco pide movilizar al PP para acabar con el Gobierno de Sánchez: \"El problema tiene nombre y apellidos\"",
+     "link": "https://www.eldiario.es/castilla-y-leon/politica/manueco-pide-movilizar-pp-acabar-gobierno-sanchez-problema-nombre-apellidos_1_13663382.html",
+     "summary": "El presidente autonómico reclama a las bases que busquen \"cada voto\" para el 29N, presenta a Feijóo como alternativa y advierte de que \"lo difícil viene el día después\" Martínez (PSOE) acusa a PP y Vox de convertir…",
+     "published": "2026-11-13T20:55+00:00",
+     "image": "https://static.eldiario.es/clip/0b4e8e49-3f5c-4a1d-ac8b-2e7b59304255_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Yolanda Díaz apura la campaña para \"recuperar\" la OIT de la crisis actual: \"Vamos a ganar\"",
-     "link": "https://www.eldiario.es/economia/yolanda-diaz-apura-campana-recuperar-oit-crisis-actual-ganar_1_13662440.html",
-     "summary": "La vicepresidenta ha colgado un vídeo en el que recoge las protestas de la plantilla de la organización contra el actual director y su rival, Gilbert F. Houngbo, y pide un cambio de gestión ante la actual crisis Los…",
-     "published": "2026-11-13T15:45+00:00",
-     "image": "https://static.eldiario.es/clip/54ddec3d-f819-433d-894b-6ce9dfee4bfd_16-9-discover-aspect-ratio_default_1155640.jpg"
+     "title": "Rufián y Montero defienden en Palma una izquierda que no se someta al PSOE: \"El frente somos nosotros\"",
+     "link": "https://www.eldiario.es/catalunya/rufian-montero-defienden-palma-izquierda-no-someta-psoe-frente_1_13663237.html",
+     "summary": "El candidato de ERC asegura que los soberanistas han hecho \"un acto histórico de solidaridad\" con el acuerdo de candidatura unitaria en Baleares Rufián apuesta por el catalanismo en su primer mitin en solitario: “Quiero…",
+     "published": "2026-11-13T19:39+00:00",
+     "image": "https://static.eldiario.es/clip/62a7f3d3-f346-472b-a9a3-7c67ffef5bc4_16-9-discover-aspect-ratio_default_0_x2549y1703.jpg"
     }
    ]
   },
@@ -924,60 +1004,60 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
-     "title": "Microsoft’s Global Outage and Fixes: What We Know",
-     "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-     "summary": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
-     "published": "2026-11-13T19:04+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
+     "title": "Here’s the latest.",
+     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+     "summary": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+     "published": "2026-11-14T00:35+00:00",
+     "image": ""
+    },
+    {
+     "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
+     "link": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+     "summary": "It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.",
+     "published": "2026-11-13T23:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg"
     },
     {
      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
      "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
      "summary": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
-     "published": "2026-11-13T18:52+00:00",
+     "published": "2026-11-13T22:47+00:00",
      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Microsoft’s Global Outage and Fixes: What We Know",
+     "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+     "summary": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+     "published": "2026-11-13T22:30+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
+     "link": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
+     "summary": "Leo XIV returned to the city in Peru where he served as bishop for eight years, drawing large crowds who remembered him before he was pope.",
+     "published": "2026-11-13T22:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-chiclayo-wvlk/13int-pope-chiclayo-wvlk-mediumSquareAt3X.jpg"
     },
     {
      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
      "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-     "published": "2026-11-13T18:26+00:00",
+     "published": "2026-11-13T21:50+00:00",
      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-     "link": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-     "summary": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.",
-     "published": "2026-11-13T17:59+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg"
+     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+     "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+     "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+     "published": "2026-11-13T21:04+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg"
     },
     {
-     "title": "Paul Barril, French ‘Supergendarme’ Turned Mercenary, Has Died",
-     "link": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
-     "summary": "After years in elite police units, he drew scrutiny from human rights groups for selling arms and providing other services to unsavory governments. He was 80.",
-     "published": "2026-11-13T16:54+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12obit-barril-ctwk/12obit-barril-ctwk-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-     "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-     "summary": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
-     "published": "2026-11-13T16:02+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-ebola-biakato-promo-mzqw/13int-ebola-biakato-promo-mzqw-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "One of France’s Most Popular Athletes Is Running for President",
-     "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
-     "summary": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.",
-     "published": "2026-11-13T14:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11france-Judo-01-jvkc/11france-Judo-01-jvkc-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-     "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-     "summary": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
-     "published": "2026-11-13T14:02+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg"
+     "title": "African Miss Universe Contestants Struggle to Get U.S. Visas",
+     "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
+     "summary": "A crackdown on entry by some citizens of African countries by the U.S. immigration officials means that some contestants might not get visas in time to attend the pageant in Puerto Rico this month.",
+     "published": "2026-11-13T21:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-missuniverse-africa-1-lfwp/13int-missuniverse-africa-1-lfwp-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -988,6 +1068,13 @@
    "region": "americas",
    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
    "items": [
+    {
+     "title": "Supreme Court agrees to rule on Trump's asylum ban at the southern border",
+     "link": "https://www.latimes.com/politics/story/2026-11-13/supreme-court-agrees-to-rule-on-trumps-asylum-ban-at-southern-border",
+     "summary": "At issue is a clash between the promise of asylum for those fleeing persecution and the reality of a border overwhelmed by hundreds of thousands who arrived seeking to apply.",
+     "published": "2026-11-13T20:38+00:00",
+     "image": ""
+    },
     {
      "title": "Pope Leo XIV's return to Peru thrills those who recall 'Padre Robert'",
      "link": "https://www.latimes.com/world-nation/story/2026-11-13/pope-leo-xivs-return-to-peru-thrills-those-who-recall-padre-robert",
@@ -1036,13 +1123,6 @@
      "summary": "In the aftermath of widespread Republican midterm losses, California GOP Chair Corrin Rankin announced Wednesday that she would not seek reelection next year.",
      "published": "2026-11-12T05:03+00:00",
      "image": ""
-    },
-    {
-     "title": "White House warns of criminal inquiries into House Democrats who investigate Trump",
-     "link": "https://www.latimes.com/politics/story/2026-11-11/white-house-warns-of-criminal-inquiries-into-house-democrats-who-investigate-trump",
-     "summary": "The White House counsel made the warning in a letter dated Monday to Rep. Robert Garcia of Long Beach, who is in line to lead the House oversight committee.",
-     "published": "2026-11-11T15:55+00:00",
-     "image": ""
     }
    ]
   },
@@ -1054,60 +1134,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "Campaña de las elecciones generales 29-N, en directo: el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo organizado por la Academia de la Televisión será el 19 de noviembre",
-     "link": "https://www.infobae.com/espana/2026/11/13/campana-de-las-elecciones-generales-29-n-en-directo-las-entrevistas-de-jordi-wild-un-nuevo-sondeo-y-ultima-hora-politica/",
-     "summary": "La campaña arranca oficialmente hoy, con actos de los partidos, las entrevistas a Feijóo, Sánchez y Colau, y el primer debate electoral. El CIS da al PSOE ventaja sobre el PP y descarta una mayoría absoluta con Vox, en…",
-     "published": "2026-11-13T19:37+00:00",
-     "image": "https://www.infobae.com/resizer/v2/OCYSM6BUPFETLK4Y7DHHQ3ZPVE.JPG?auth=e09facb4403628e0427f63dd60d0515abc0cc6f5a0bf6fab4c32b6a57f71c88c&smart=true&width=4800&height=2700"
+     "title": "Traficante reclutaba adolescentes en Mexicali para enviar metanfetamina en avionetas ultraligeras a California: se declara culpable en EEUU",
+     "link": "https://www.infobae.com/mexico/2026/11/14/traficante-reclutaba-adolescentes-en-mexicali-para-enviar-metanfetamina-en-avionetas-ultraligeras-a-california-se-declara-culpable-en-eeuu/",
+     "summary": "Marco Antonio López Guerrero encabezaba una organización que utilizaba a menores de edad y mujeres jóvenes para introducir drogas por la frontera; también coordinaba el traslado de armas y municiones desde territorio…",
+     "published": "2026-11-14T01:23+00:00",
+     "image": "https://www.infobae.com/resizer/v2/5QRL6CTH4JA5HCOM2LIZ777A4E.png?auth=20ea7dbba96278bb52f89db3774e17fd3fdb5d1d2f803fe3a53f122cc4f1d794&smart=true&width=2752&height=1536"
     },
     {
-     "title": "Con el corazón en Nicaragua: El emotivo homenaje de Jasmine Blandford a sus raíces costeñas en Miss Universo 2026",
-     "link": "https://www.infobae.com/nicaragua/2026/11/13/con-el-corazon-en-nicaragua-el-emotivo-homenaje-de-jasmine-blandford-a-sus-raices-costenas-en-miss-universo-2026/",
-     "summary": "Luciendo un espectacular enterizo azul cobalto con estampados de inspiración artesanal y su cabellera afro adornada con una flor blanca, Miss Nicaragua 2026, Jasmine Blandford, robó miradas en San Juan al dedicar su…",
-     "published": "2026-11-13T19:37+00:00",
-     "image": "https://www.infobae.com/resizer/v2/UDG5UOF5UFHYFLXTCTDR7AQESU.png?auth=f593dcb59e17b92fe63e5853b2eafb1a1da8fc6f823b22b603b5b2c731b2a579&smart=true&width=539&height=377"
+     "title": "¿Qué está pasando en el Metro y Metrobús hoy 13 de noviembre? Línea A del STC con retrasos y restricciones en sus accesos",
+     "link": "https://www.infobae.com/mexico/2026/11/13/que-esta-pasando-en-el-metro-y-metrobus-hoy-13-de-noviembre/",
+     "summary": "Información y actualización del servicio de transporte público en la capital este viernes en vivo minuto a minuto",
+     "published": "2026-11-14T01:23+00:00",
+     "image": "https://www.infobae.com/resizer/v2/JSRRDDHOBVFPFNSR747OBD4WOM.jpg?auth=84686959f87eae268c21cdf71198bb2642bbc50b4293e86a020a7c6493927228&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Duras declaraciones de Insúa contra Moretti: “Nunca pasó de ver un dirigente guardándose dinero en el saco y tirarse de palomita en un patrullero”",
-     "link": "https://www.infobae.com/deportes/2026/11/13/duras-declaraciones-de-insua-contra-moretti-nunca-paso-de-ver-un-dirigente-guardandose-dinero-en-el-saco-y-tirarse-de-palomita-en-un-patrullero/",
-     "summary": "Ruben Darío Insua explotó contra el ex presidente de San Lorenzo Marcelo Moretti en una entrevista televisiva. El mandatario que fue separado de su cargo tras un escándalo en una cámara oculta aseguró en redes sociales…",
-     "published": "2026-11-13T19:37+00:00",
-     "image": "https://www.infobae.com/resizer/v2/NZ6ABU5VI5BO5FKLF5OPIMMPI4.jpg?auth=f71edd946dd6b87afcd2c5635d26107e33d533e34cf3a91dc3912fb2f36817d4&smart=true&width=1920&height=1080"
+     "title": "Gol de Gianluca Lapadula, con remate potente, en Perú vs Bolivia por amistoso de fecha FIFA 2026",
+     "link": "https://www.infobae.com/peru/deportes/2026/11/14/gol-gianluca-lapadula-peru-vs-bolivia-amistoso-fecha-fifa-2026-video-hoy/",
+     "summary": "El ‘Bambino’ ejecutó el penal con precisión y marcó el 1-0 en el estadio Alejandro Villanueva",
+     "published": "2026-11-14T01:22+00:00",
+     "image": "https://www.infobae.com/resizer/v2/QH46CD42Q5FLBBMDMTY2PEC3MM.jpg?auth=0735324eb428a2184c586c36506c6a9b945353f9230e129c1d5790d80ecf41b0&smart=true&width=1201&height=629"
     },
     {
-     "title": "‘Romancing SaGa 3: Destinies United’ cambia de fecha por decisión de Square Enix",
-     "link": "https://www.infobae.com/malditos-nerds/2026/11/13/romancing-saga-3-destinies-united-cambia-de-fecha-por-decision-de-square-enix/",
-     "summary": "El lanzamiento mundial será el 4 de febrero y su edición Digital Deluxe ofrecerá acceso anticipado desde el 1 de febrero",
-     "published": "2026-11-13T19:37+00:00",
-     "image": "https://www.infobae.com/resizer/v2/QE22WGELNBADPK53DIRFHJRIVE.jpg?auth=1b658f72b4a3273b94bd1939c7016e0d81a57dcc60c669530826e2fc12d61495&smart=true&width=1280&height=720"
+     "title": "Perú 1-0 Bolivia EN VIVO HOY: minuto a minuto del partido amistoso en Matute por fecha FIFA 2026",
+     "link": "https://www.infobae.com/peru/deportes/2026/11/13/peru-vs-bolivia-en-vivo-hoy-minuto-a-minuto-partido-amistoso-matute-fecha-fifa-2026-goles-resumen-resultado/",
+     "summary": "La ‘bicolor’ recibe a la selección altiplánica en el estadio Alejandro Villanueva, en el primer partido de Mano Menezes en territorio peruano. Sigue aquí todas las incidencias del encuentro",
+     "published": "2026-11-14T01:22+00:00",
+     "image": "https://www.infobae.com/resizer/v2/K5NZZC4CFRAXVMC3HUKDER3Z24.jpg?auth=14b9ef49c06649d38eea3519f4cc7fcff32ce7f58059aa2efe7961b0bc87241c&smart=true&width=1920&height=1080"
     },
     {
-     "title": "El Gobierno de Guatemala inicia la ampliación a cuatro carriles de la carretera al Atlántico entre El Rancho y Teculután",
-     "link": "https://www.infobae.com/guatemala/2026/11/13/el-gobierno-de-guatemala-inicia-la-ampliacion-a-cuatro-carriles-de-la-carretera-al-atlantico-entre-el-rancho-y-teculutan/",
-     "summary": "La vía proyectada para 6 mil vehículos diarios recibe actualmente hasta 20 mil unidades. La representante del BID, María José Jarquín, explicó que las obras incorporarán medidas basadas en la naturaleza para reducir…",
-     "published": "2026-11-13T19:36+00:00",
-     "image": "https://www.infobae.com/resizer/v2/PCQGBHNDHVHJLK3ZIVDENMMODE.jpg?auth=93e2e907d14dabc80c41048b00ffe208af687b4f64951196e3b7c4130483390a&smart=true&width=2048&height=1152"
+     "title": "Abelardo de la Espriella nombró a Luis Felipe Henao gerente del Fondo Milagro, tras la renuncia de Jaime Uribe: “Que cada peso se traduzca en resultados”",
+     "link": "https://www.infobae.com/colombia/2026/11/14/abelardo-de-la-espriella-nombro-a-luis-felipe-henao-gerente-del-fondo-milagro-tras-la-renuncia-de-jaime-uribe-que-cada-peso-se-traduzca-en-resultados/",
+     "summary": "El relevo ocurre tras la controversia por la nómina de la entidad encargada de la reconstrucción luego del terremoto del 10 de agosto de 2026",
+     "published": "2026-11-14T01:21+00:00",
+     "image": "https://www.infobae.com/resizer/v2/6IJ7DKSQUZEPFPA4SGA6KFPLUA.jpg?auth=e00419131777e01720011fe2013df5c9fe95426b30f693517f2ba2cde41c1b30&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Pedro Sánchez vuelve a señalar a Javier Milei: lo pone como ejemplo de \"involución\"",
-     "link": "https://www.infobae.com/espana/2026/11/13/pedro-sanchez-vuelve-a-senalar-a-javier-milei-lo-pone-como-ejemplo-de-involucion/",
-     "summary": "En la entrevista con el youtuber Jordi Wild, el presidente del Gobierno español y candidato del PSOE cargó contra el mandatario argentino, con quien ya acumula varios enfrentamientos públicos",
-     "published": "2026-11-13T19:36+00:00",
-     "image": "https://www.infobae.com/resizer/v2/2PQBVSEDZ5DSVGXJOZZXGQD4KM.png?auth=8a6973b8abdc07510186ec4f8664995362fb8cc58e8cce5d47353fbf6dc6616e&smart=true&width=890&height=558"
+     "title": "Bloquear o no bloquear: ¿he ahí el dilema?",
+     "link": "https://www.infobae.com/peru/2026/11/14/bloquear-o-no-bloquear-he-ahi-el-dilema/",
+     "summary": "La ubicación de la mayoría de cárceles en áreas pobladas haría que una interferencia externa perjudique a residentes y transeúntes, según el análisis que propone inteligencia penitenciaria con coordinación multisectorial",
+     "published": "2026-11-14T01:19+00:00",
+     "image": "https://www.infobae.com/resizer/v2/6DWCGTIFWRAYFGOKTEIAWBGTBU.jpg?auth=198a2a00b1f6e597833986b2af05a21298e4f606aae70db2373a665592c087d1&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Orlando Ferreres: \"La inflación de noviembre tampoco va a ser muy baja\"",
-     "link": "https://www.infobae.com/economia/2026/11/13/orlando-ferreres-la-inflacion-de-noviembre-tampoco-va-a-ser-muy-baja/",
-     "summary": "El economista cuestionó las chances de cumplir la meta anual tras el dato de octubre, que superó las estimaciones privadas y cerró en 2,2 por ciento",
-     "published": "2026-11-13T19:36+00:00",
-     "image": "https://www.infobae.com/resizer/v2/UQULQQHJ7NAHJPMTDCF3J4DYGU.jpg?auth=bd957b3606d83769dd906bc1927a2d573320a41985c1d66e962b89dfdde4f967&smart=true&width=1920&height=1251"
+     "title": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy 13 de noviembre: comerciantes bloquean viaducto Río de la Piedad previo al inicio del concierto de Karol G",
+     "link": "https://www.infobae.com/mexico/2026/11/13/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-13-de-noviembre/",
+     "summary": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+     "published": "2026-11-14T01:18+00:00",
+     "image": "https://www.infobae.com/resizer/v2/IPJ5TPSB7JGJFHVXQTHA2HN5ZY.png?auth=df29de493a00c34618dd73617c9145d30db68ae7bb2686497f9f234882b7e483&smart=true&width=801&height=578"
     },
     {
-     "title": "Gilberto Mora y la millonaria cifra que pone en evidencia la diferencia entre las plantillas de México y Jamaica",
-     "link": "https://www.infobae.com/mexico/deportes/2026/11/13/gilberto-mora-y-la-millonaria-cifra-que-pone-en-evidencia-la-diferencia-entre-las-plantillas-de-mexico-y-jamaica/",
-     "summary": "La Selección Mexicana tendrá una prueba importante frente a Jamaica en los cuartos de final de la Concacaf Nations League 2026-27 , pero antes de que ruede el balón existe otro dato que llama la atención: la enorme…",
-     "published": "2026-11-13T19:35+00:00",
-     "image": "https://www.infobae.com/resizer/v2/7AGIWD47KJAQXJ3FMHWE4ZAXTU.png?auth=32fed7c7c773391549e441da93b477ba24db0611dce4c285e38ccec6eaca0a4d&smart=true&width=2752&height=1536"
+     "title": "Afidro pidió recuperar $3 billones del presupuesto de la salud a 100 días del Gobierno de Abelardo de la Espriella: este fue su balance del sector",
+     "link": "https://www.infobae.com/colombia/2026/11/14/afidro-pidio-recuperar-3-billones-del-presupuesto-de-la-salud-a-100-dias-del-gobierno-de-abelardo-de-la-espriella-este-fue-su-balance-del-sector/",
+     "summary": "El gremio farmacéutico reconoció la puesta en marcha del Plan de Choque en Salud y la apertura al diálogo con los actores del sistema, pero insistió en la necesidad de fortalecer la financiación y evitar interrupciones…",
+     "published": "2026-11-14T01:17+00:00",
+     "image": "https://www.infobae.com/resizer/v2/5EDIWE45RNG3HJVNC72YBI4JKU.png?auth=ba35fa08d035ac558a7a9f6733937bab92fbfa03f209976a48787a56bc81de36&smart=true&width=2752&height=1536"
     }
    ]
   },
@@ -1119,59 +1199,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Lula atravessará o Rubicão?",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2026/11/lula-atravessara-o-rubicao.shtml",
-     "summary": "Desde seu primeiro mandato, Lula adota comportamento dúbio na sua relação com o Banco Central . Por um lado, concede autonomia (mesmo antes de estabelecida em lei) para que a autoridade monetária busque o controle da…",
-     "published": "2026-11-13T19:30+00:00",
+     "title": "Passageiros que partiriam do aeroporto de Guarulhos para os EUA enfrentam decepção e incerteza",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/passageiros-que-partiriam-do-aeroporto-de-guarulhos-para-os-eua-enfrentam-decepcao-e-incerteza.shtml",
+     "summary": "Misto de decepção, falta de informação e incerteza. Passageiros exibiam semblantes de preocupação na noite desta sexta-feira (13) no aeroporto internacional de Guarulhos , na Grande São Paulo , após a suspensão de voos…",
+     "published": "2026-11-14T01:13+00:00",
      "image": ""
     },
     {
-     "title": "A intimidade do poder revelada",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/11/a-intimidade-do-poder-revelada.shtml",
-     "summary": "Jacqueline Kennedy , a mais famosa ex-primeira-dama dos EUA, tinha três vidas: a pública, a privada e a secreta. Esse é o título de sua biografia, um best-seller na lista do New York Times, publicada em 2024 por J…",
-     "published": "2026-11-13T19:30+00:00",
+     "title": "Trump, Xi e Putin vão se reunir na China na próxima quinta (19), diz Casa Branca",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-vao-se-reunir-na-china-na-proxima-quinta-19-diz-casa-branca.shtml",
+     "summary": "A Casa Branca anunciou nesta sexta-feira (13) que o presidente dos Estados Unidos , Donald Trump , o presidente da Rússia , Vladimir Putin , e o líder da China , Xi Jinping , realizarão na próxima semana uma rara…",
+     "published": "2026-11-14T01:13+00:00",
      "image": ""
     },
     {
-     "title": "Enel tenta evitar caducidade com pedido de nova análise na Aneel",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/enel-tenta-evitar-recomendacao-de-caducidade-com-nova-analise-da-aneel.shtml",
-     "summary": "A Enel São Paulo pediu à Aneel (Agência Nacional de Energia Elétrica) que atualize a avaliação de seu desempenho operacional antes de recomendar ao governo federal a caducidade (cancelamento) de sua concessão. Em…",
-     "published": "2026-11-13T19:25+00:00",
+     "title": "Fim da escala 6x1 vai melhorar a vida do trabalhador sem prejudicar a economia? NÃO",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/fim-da-escala-6x1-vai-melhorar-a-vida-do-trabalhador-sem-prejudicar-a-economia-nao.shtml",
+     "summary": "Não é para todos os trabalhadores . Há quem prefira jornadas menores e mais dias de descanso , mesmo que isso implique algum custo. Esses trabalhadores tendem a se beneficiar da mudança. O fim da escala 6x1 é uma…",
+     "published": "2026-11-14T01:00+00:00",
      "image": ""
     },
     {
-     "title": "AGU do governo Lula se posiciona contra liminar por segundo turno no RJ",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/agu-do-governo-lula-se-posiciona-contra-liminar-por-segundo-turno-no-rj.shtml",
-     "summary": "A AGU (Advocacia-Geral da União) concordou nesta sexta-feira (13) com a decisão do ministro Cristiano Zanin , do STF (Supremo Tribunal Federal), de negar a liminar solicitada pelo PSD para garantir a realização de um…",
-     "published": "2026-11-13T19:23+00:00",
+     "title": "Fim da escala 6x1 vai melhorar a vida do trabalhador sem prejudicar a economia? SIM",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/fim-da-escala-6x1-vai-melhorar-a-vida-do-trabalhador-sem-prejudicar-a-economia-sim.shtml",
+     "summary": "Sim, o fim da escala 6x1 pode melhorar a vida das pessoas, gerar bem-estar social e fortalecer a economia . Para isso, precisa assegurar redução efetiva da jornada, preservação dos salários e dois dias de descanso…",
+     "published": "2026-11-14T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Nvidia sonda CEO de empresa concorrente para substituir Jensen Huang",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/nvidia-sonda-ceo-de-empresa-concorrente-para-substituir-jensen-huang.shtml",
-     "summary": "O conselho de administração da Nvidia procurou Rene Haas, presidente-executivo da Arm, em sua busca por um sucessor para Jensen Huang, segundo pessoas familiarizadas com o assunto. A carreira do cofundador da Nvidia…",
-     "published": "2026-11-13T19:09+00:00",
+     "title": "Resultado do Banco do Brasil é vexatório",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/resultado-do-banco-do-brasil-e-vexatorio.shtml",
+     "summary": "O péssimo resultado do Banco do Brasil no terceiro trimestre causou espanto mesmo para quem acompanha os negócios da instituição financeira estatal e as dificuldades de parte das empresas do setor agropecuário. O…",
+     "published": "2026-11-14T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Ministério Público do Paraguai acusa presidente destituído de liderar quadrilha",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ministerio-publico-do-paraguai-acusa-presidente-destituido-de-liderar-quadrilha.shtml",
-     "summary": "O Ministério Público do Paraguai solicitou, nesta sexta-feira (13), a ampliação da acusação contra o ex-presidente Santiago Peña , a quem imputa o crime de associação criminosa, juntamente com cinco diretores do Banco…",
-     "published": "2026-11-13T19:06+00:00",
+     "title": "Ao lado de Trump, Colômbia sepulta Paz Total",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/ao-lado-de-trump-colombia-sepulta-paz-total.shtml",
+     "summary": "Fiel a sua promessa eleitoral, o presidente da Colômbia , Abelardo de la Espriella , consolidou o pilar de sua receita ortodoxa de combate ao crime organizado e às guerrilhas. Enquanto arrematava o aval do Congresso ao…",
+     "published": "2026-11-14T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Fachin atende à OAB e prorroga prazos processuais após pane da Microsoft",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/fachin-atende-a-oab-e-prorroga-prazos-processuais-apos-pane-da-microsoft.shtml",
-     "summary": "O presidente do CNJ (Conselho Nacional de Justiça), Edson Fachin, atendeu à OAB (Ordem dos Advogados do Brasil) e concedeu a prorrogação dos prazos processuais da Justiça com vencimento em 12 e 13 de novembro em razão…",
-     "published": "2026-11-13T18:52+00:00",
+     "title": "Justiça condena União a investir R$ 597 milhões em Canudos como reparação por massacre",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/justica-condena-uniao-a-investir-r-597-milhoes-em-canudos-como-reparacao-por-massacre.shtml",
+     "summary": "A Justiça Federal condenou a União a investir R$ 597 milhões em projetos de reparação histórica e desenvolvimento social em Canudos, no sertão da Bahia , pelo massacre promovido pelo Exército durante a guerra de 1896 e…",
+     "published": "2026-11-14T01:00+00:00",
      "image": ""
     },
     {
-     "title": "STJ determina que farmácias tenham farmacêutico presente no estabelecimento o tempo todo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/stj-determina-que-farmacias-tenham-farmaceutico-presente-no-estabelecimento-o-tempo-todo.shtml",
-     "summary": "Farmácias e drogarias devem manter um farmacêutico fisicamente presente em cada unidade durante todo o horário de funcionamento, sem possibilidade de substituir o profissional por atendimento remoto. A decisão, assinada…",
-     "published": "2026-11-13T18:50+00:00",
+     "title": "Vídeo mostra tráfego aéreo dos EUA caindo em tempo real após suspensão; veja",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml",
+     "summary": "A agência de aviação civil dos Estados Unidos , a FAA, suspendeu todos os voos do país nesta sexta-feira (13), citando um problema de comunicação que paralisou o tráfego aéreo do país, cancelando milhares de voos e…",
+     "published": "2026-11-14T00:52+00:00",
      "image": ""
     }
    ]
@@ -1184,60 +1264,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Modelo de El Salvador: Bukele inicia ação militar no Haiti com bombas, cachorro-robô armado e 2.000 soldados",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/modelo-de-el-salvador-bukele-inicia-acao-militar-no-haiti-com-bombas-cachorro-robo-armado-e-2000-soldados.ghtml",
-     "summary": "Tropas salvadorenhas bombardeiam a casa de um criminoso a partir de helicópteros sobre a zona rural do Haiti. Civis aplaudem soldados uniformizados com trajes de camuflagem que marcham pelo local. Veículos blindados…",
-     "published": "2026-11-13T19:24+00:00",
-     "image": ""
+     "title": "Incêndio em fábrica de produtos químicos deixa 6 pessoas em estado grave em Salto, no interior de São Paulo",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/incendio-em-fabrica-de-produtos-quimicos-deixa-6-pessoas-em-estado-grave-em-salto-no-interior-de-sao-paulo.ghtml",
+     "summary": "Incêndio em fábrica de produtos químicos deixa 12 feridos em Salto, SP Um incêndio em uma fábrica de produtos químicos deixou 12 feridos em Salto, no interior de São Paulo; seis em estado grave. Uma coluna de fogo e…",
+     "published": "2026-11-14T01:12+00:00",
+     "image": "https://s2-g1.glbimg.com/W6ARJt_tUUWKYsnlzL-4arEJoIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/XlJIYORpmv2jpQZseMGA/globo-canal-4-20261113-2000-frame-113531.jpeg"
     },
     {
-     "title": "Cadela morre após ser jogada de viaduto, em Anápolis",
-     "link": "https://g1.globo.com/go/goias/noticia/2026/11/13/cadela-morre-apos-ser-jogada-de-viaduto-em-anapolis.ghtml",
-     "summary": "Cadela morre após ser jogada de viaduto Um cadela morreu após ser jogada de um viaduto de cerca de 5 metros próximo à Delegacia Especializada no Atendimento à Mulher (Deam), em Anápolis, na região central de Goiás…",
-     "published": "2026-11-13T19:24+00:00",
-     "image": "https://s2-g1.glbimg.com/sYcf545u717DZaJZKYtLyo5iDsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/x/tAUy1WSemqa5SaIQNWUg/copia-de-copia-de-padrao-foto-g1-goias-2026-11-13t155144.539.jpg"
+     "title": "Pará decreta emergência de Nível II por incêndios florestais; medida vale por 180 dias",
+     "link": "https://g1.globo.com/pa/para/noticia/2026/11/13/para-decreta-emergencia-de-nivel-ii-por-incendios-florestais-medida-vale-por-180-dias.ghtml",
+     "summary": "Fugindo do fogo: bicho preguiça é resgatado no Oeste do Pará O Pará declarou situação de emergência de Nível II nas áreas atingidas por incêndios florestais, pelo prazo de 180 dias. A medida prevê ações de combate ao…",
+     "published": "2026-11-14T01:11+00:00",
+     "image": "https://s2-g1.glbimg.com/QWRZ1qy51ULJs8SNZV6VP5XWTkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Y/gOZrpgRpq5t1tq5BZd2g/globo-canal-4-20261103-2000-frame-120908.jpeg"
     },
     {
-     "title": "Como denunciar terrenos com lixo em Petrolina? Veja orientações e valor das multas",
-     "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/13/como-denunciar-terrenos-com-lixo-em-petrolina-veja-orientacoes-e-valor-das-multas.ghtml",
-     "summary": "Petrolina registra 245 denúncias contra terrenos particulares sujos em três meses; multa chega a R$ 100 mil Ascom/PMP A Secretaria de Serviços Públicos e Defesa Civil de Petrolina, no Sertão de Pernambuco, registrou 245…",
-     "published": "2026-11-13T19:20+00:00",
-     "image": "https://s2-g1.glbimg.com/PmxCegB2IMnuG55EwazY7plNoxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/0/9AEtxhTlu4CBCt9LY8Rg/bairro-atras-da-banca.jpeg"
+     "title": "Mulher é presa por tentar matar amiga trans a facadas em terreno abandonado em Boa Vista",
+     "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/13/mulher-e-presa-por-tentar-matar-amiga-trans-a-facadas-em-terreno-abandonado-em-boa-vista.ghtml",
+     "summary": "A prisão ocorreu no bairro Nova Canaã Polícia Civil/ Divulgação Uma mulher trans, de 23 anos, foi presa por esfaquear a amiga, de 29 anos, em um terreno abandonado por suspeitar que ela tinha um relacionamento amoroso…",
+     "published": "2026-11-14T01:00+00:00",
+     "image": "https://s2-g1.glbimg.com/UDTk-5gVjl2VlQTfZqAJBKQJu18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/ZVjfsCTZq8jAeEkuNBBA/investigada-presa.jpg"
     },
     {
-     "title": "Homem é preso suspeito de descumprir medida protetiva e quebrar celulares de vítima no RN",
-     "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/13/homem-e-preso-suspeito-de-descumprir-medida-protetiva-e-quebrar-celulares-de-vitima-no-rn.ghtml",
+     "title": "Ministério Público acusa Santiago Peña de chefiar organização criminosa criada para fraudar o sistema financeiro do Paraguai",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/ministerio-publico-acusa-santiago-pena-de-chefiar-organizacao-criminosa-criada-para-fraudar-o-sistema-financeiro-do-paraguai.ghtml",
+     "summary": "MP do Paraguai acusa ex-presidente Peña de chefiar organização criminosa criada para fraudar o sistema financeiro A crise no Banco Ueno, no Paraguai, ganhou nesta sexta-feira (13) um novo capítulo. O Ministério Público…",
+     "published": "2026-11-14T00:58+00:00",
+     "image": "https://s2-g1.glbimg.com/dKHdOVvzSeOZjvCgdAcHXoE5SLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/5/n5AmDYT9KRVipaBfgGcA/globo-canal-4-20261113-2000-frame-103636.jpeg"
+    },
+    {
+     "title": "Homem é preso suspeito de matar jovem durante festival católico em Sobral, no Ceará",
+     "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/homem-e-preso-suspeito-de-matar-jovem-durante-festival-catolico-em-sobral-no-ceara.ghtml",
      "summary": "",
-     "published": "2026-11-13T19:20+00:00",
-     "image": "https://s2-g1.glbimg.com/wi9rZQgwp9OW9NcQX_heE05KMAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/F/p0aw2LSbSLktjp3N2Wuw/whatsapp-image-2026-07-02-at-13.18.47.jpeg"
+     "published": "2026-11-14T00:57+00:00",
+     "image": "https://s2-g1.glbimg.com/cj_DXuxKNVR_VB7Z0mwUUU66cIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/s/CJJ1jPQ3mv0GwJ2cVTkA/preso-sobral.jpg"
     },
     {
-     "title": "Mulher presa se passou por empresária e ganhou confiança de cooperativa de café antes de sumir com carga avaliada em R$ 275 mil",
-     "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/13/mulher-presa-se-passou-por-empresaria-e-ganhou-confianca-de-cooperativa-de-cafe-antes-de-sumir-com-carga-avaliada-em-r-275-mil.ghtml",
-     "summary": "Mulher presa se passou por empresária antes de sumir com carga de café especial Presa pela Polícia Civil na quinta-feira (12) por suspeita de sumir com uma carga de café especial avaliada em R$ 275 mil, Ruana Cristina…",
-     "published": "2026-11-13T19:18+00:00",
-     "image": "https://s2-g1.glbimg.com/uhmJ7jCggM-zCceJjzsh2ytwQGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/icAEvtQpG2AgEredA7Cw/molduras-g1-rp-2-.png"
+     "title": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/alemanha-franca-italia-polonia-e-reino-unido-vao-representar-a-europa-nas-proximas-negociacoes-de-paz-entre-ucrania-e-russia.ghtml",
+     "summary": "Guerra da Ucrânia domina discussões em cúpula da UE sobre inteligência artificial A guerra da Ucrânia dominou as discussões na cúpula da União Europeia sobre inteligência artificial. Líderes definiram quem deve…",
+     "published": "2026-11-14T00:51+00:00",
+     "image": "https://s2-g1.glbimg.com/qEMD4ACXlWtOElyRzTmML0IF4iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/RFsORNRMuSAz9Jonlpzw/globo-canal-4-20261113-2000-frame-100026.jpeg"
     },
     {
-     "title": "Jovem é perseguido por criminosos, tenta se esconder em lanchonete e morre após ser baleado no PI",
-     "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/jovem-lanchonete-morre-baleado.ghtml",
-     "summary": "IML de Teresina Yngridy Vieira / g1 Carlos Eduardo da Silva, de 27 anos, morreu após ser perseguido e baleado na noite de quinta-feira (12), no Centro de Marcolândia, no Sul do Piauí. Segundo a Polícia Civil, o jovem…",
-     "published": "2026-11-13T19:17+00:00",
-     "image": "https://s2-g1.glbimg.com/HwxS-5UHM0RuzzeEEaVG_v00nSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/7/7agZf7RfWGPR7fdxnTSg/edicao-imagens-g1-2026-10-02t190301.657.png"
+     "title": "Resumão diário do JN: EUA suspendem todas as decolagens no país após problemas na comunicação com aviões; Jensen Huang é intimado a depor em comissão do Congresso dos EUA",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/resumao-diario-do-jn-eua-suspendem-todos-os-voos-no-pais-apos-problemas-na-comunicacao-com-avioes-jensen-huang-e-intimado-a-depor-em-comissao-do-congresso-dos-eua.ghtml",
+     "summary": "Uma pane no controle aéreo dos Estados Unidos suspendeu as decolagens no país e provocou atrasos e cancelamentos de milhares de voos. O governo descarta, até o momento, a hipótese de ataque, e o FBI investiga se uma…",
+     "published": "2026-11-14T00:50+00:00",
+     "image": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
     },
     {
-     "title": "Dois homens são presos com armas em Governador Valadares; PM aponta ligação com facção criminosa",
-     "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/13/dois-homens-sao-presos-com-armas-em-governador-valadares-pm-aponta-ligacao-com-faccao-criminosa.ghtml",
-     "summary": "",
-     "published": "2026-11-13T19:16+00:00",
-     "image": "https://s2-g1.glbimg.com/DCoXKeMFFIM3Nnq1jn2Hnaj7v2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/7/RVAaEASBWYDZlM8OmPxw/carol-39-.png"
-    },
-    {
-     "title": "BN Business apresenta startup brasileira que usa IA para antecipar notícias",
-     "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/bn-business-backstage-negocios-negocios-e-conexoes/noticia/2026/11/13/bn-business-apresenta-startup-brasileira-que-usa-ia-para-antecipar-noticias.ghtml",
-     "summary": "A inteligência artificial e suas aplicações no mundo dos negócios serão tema de uma próxima entrevista do Backstage Negócios, da BN Business. O convidado será Leonardo Zago Menezes, fundador do Cassandra, plataforma…",
-     "published": "2026-11-13T19:15+00:00",
-     "image": "https://s2-g1.glbimg.com/sHjKYYUNQRxn-eVkUhfADSKfezI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/x/hWbzw3SCiS2Duepy7Ckg/whatsapp-image-2026-11-05-at-09.55.50-2-.jpeg"
+     "title": "Lotofácil 3829: cinco apostas de MT acertam 14 números e ganham R$ 1,7 mil cada",
+     "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/13/lotofacil-3829-cinco-apostas-de-mt-acertam-14-numeros-e-ganham-r-17-mil-cada.ghtml",
+     "summary": "Lotofácil Millena Sartori/g1 Cinco apostas feitas em Mato Grosso acertaram 14 números da Lotofácil e ganharam R$ 1.756,68 cada no concurso , sorteado nesta sexta-feira (13). Os jogos premiados foram registrados em…",
+     "published": "2026-11-14T00:50+00:00",
+     "image": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png"
     }
    ]
   },
@@ -1249,59 +1329,59 @@
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
     {
-     "title": "Ministério Público do Paraguai acusa presidente destituído de liderar quadrilha",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ministerio-publico-do-paraguai-acusa-presidente-destituido-de-liderar-quadrilha.shtml",
-     "summary": "O Ministério Público do Paraguai solicitou, nesta sexta-feira (13), a ampliação da acusação contra o ex-presidente Santiago Peña , a quem imputa o crime de associação criminosa, juntamente com cinco diretores do Banco…",
-     "published": "2026-11-13T19:06+00:00",
+     "title": "Trump, Xi e Putin vão se reunir na China na próxima quinta (19), diz Casa Branca",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-vao-se-reunir-na-china-na-proxima-quinta-19-diz-casa-branca.shtml",
+     "summary": "A Casa Branca anunciou nesta sexta-feira (13) que o presidente dos Estados Unidos , Donald Trump , o presidente da Rússia , Vladimir Putin , e o líder da China , Xi Jinping , realizarão na próxima semana uma rara…",
+     "published": "2026-11-14T01:13+00:00",
      "image": ""
     },
     {
-     "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/bloqueios-obrigam-fieis-a-fazer-peregrinacao-para-ver-missa-onde-papa-foi-bispo.shtml",
-     "summary": "Angie Cordova não esperava fazer uma peregrinação para ver a missa do papa Leão 14 em Pimentel, no norte do Peru , na manhã desta sexta-feira (13). Mas as circunstâncias a obrigaram. Leia mais (11/13/2026 - 15h07)",
-     "published": "2026-11-13T18:07+00:00",
+     "title": "Vídeo mostra tráfego aéreo dos EUA caindo em tempo real após suspensão; veja",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml",
+     "summary": "A agência de aviação civil dos Estados Unidos , a FAA, suspendeu todos os voos do país nesta sexta-feira (13), citando um problema de comunicação que paralisou o tráfego aéreo do país, cancelando milhares de voos e…",
+     "published": "2026-11-14T00:52+00:00",
      "image": ""
     },
     {
-     "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ha-uma-guerra-entre-dois-lados-no-vaticano-em-que-o-abuso-sexual-se-tornou-uma-arma-diz-autor-de-livro-sobre-o-papa.shtml",
-     "summary": "Quando, em 8 de maio de 2025, o cardeal americano Robert Prevost saiu à varanda central da Basílica de São Pedro como papa Leão 14 , era um desconhecido para o grande público, inclusive para muitos no Peru , onde passou…",
-     "published": "2026-11-13T17:35+00:00",
+     "title": "Pane aérea nos EUA frustra viagens e deixa passageiros sem previsão de embarque",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pane-aerea-nos-eua-frustra-viagens-e-deixa-passageiros-sem-previsao-de-embarque.shtml",
+     "summary": "Os painéis do Aeroporto Nacional Ronald Reagan, nos arredores de Washington, exibiam uma sucessão de voos atrasados ou cancelados nesta sexta-feira (13). Em meio à suspensão das decolagen s nos Estados Unidos …",
+     "published": "2026-11-14T00:18+00:00",
      "image": ""
     },
     {
-     "title": "EUA ampliam presença militar na América do Sul usando base no Equador",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-ampliam-presenca-militar-na-america-do-sul-usando-base-no-equador.shtml",
-     "summary": "Oculta entre árvores e atrás de arames farpados, funciona uma base militar no Equador a partir da qual os Estados Unidos conduzem sua ofensiva antidrogas no Pacífico . Há um destacamento incomum de recursos, segundo…",
-     "published": "2026-11-13T15:19+00:00",
+     "title": "Europa suspende voos para os EUA após interrupção de decolagens",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/europa-suspende-voos-para-os-eua-apos-interrupcao-de-decolagens.shtml",
+     "summary": "A Eurocontrol, organização intergovernamental responsável pela coordenação e gestão do tráfego aéreo em 42 países europeus e vizinhos, suspendeu voos para os Estados Unidos nesta sexta-feira (13). A decisão foi tomada a…",
+     "published": "2026-11-13T23:55+00:00",
      "image": ""
     },
     {
-     "title": "Europa enfrenta divisões ao tentar indicar negociador para Guerra da Ucrânia",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/europa-enfrenta-divisoes-ao-tentar-indicar-negociador-para-guerra-da-ucrania.shtml",
-     "summary": "Há meses, líderes da Europa aguardam à margem das negociações para pôr fim à guerra da Rússia na Ucrânia , de olho em um lugar à mesa. Agora, finalmente esperam consegui-lo -mas não sabem quem deverá ocupá-lo. Leia mais…",
-     "published": "2026-11-13T14:59+00:00",
+     "title": "'Não é outro 11 de Setembro', diz secretário de Trump sobre suspensão de voos nos EUA",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-diz-nao-ver-indicios-de-ameaca-mas-nao-descarta-ataque-apos-suspensao-de-voos-nos-eua.shtml",
+     "summary": "Em entrevista a jornalistas na Casa Branca nesta sexta-feira (13), Markwayne Mullin, secretário de Segurança Interna dos Estados Unidos , afirmou que os problemas que provocaram a suspensão das decolagens de aviões no…",
+     "published": "2026-11-13T22:31+00:00",
      "image": ""
     },
     {
-     "title": "Mãe de menino brasileiro que teve dedo mutilado em escola diz que família teve que mudar de cidade e espera Justiça para deixar Portugal: 'Traumas para a vida toda'",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/mae-de-menino-brasileiro-que-teve-dedo-mutilado-em-escola-diz-que-familia-teve-que-mudar-de-cidade-e-espera-justica-para-deixar-portugal-traumas-para-a-vida-toda.shtml",
-     "summary": "A vida da brasileira Nívia Estevam mudou completamente em novembro de 2025, quando seu filho José, então com 9 anos, teve dois dedos mutilados dentro de uma escola pública em Portugal . Leia mais (11/13/2026 - 09h59)",
-     "published": "2026-11-13T12:59+00:00",
+     "title": "Suspensão total de voos nos EUA só aconteceu duas vezes em 25 anos",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/suspensao-total-de-voos-nos-eua-so-aconteceu-duas-vezes-em-25-anos.shtml",
+     "summary": "A Agência Federal de Aviação (FAA, na sigla em inglês) dos Estados Unidos suspendeu todas as decolagens em aeroportos do país nesta sexta-feira (13), citando problemas de comunicação. Aviões no ar poderão pousar. Leia…",
+     "published": "2026-11-13T22:16+00:00",
      "image": ""
     },
     {
-     "title": "Rússia perde quase meio milhão de vidas na guerra contra a Ucrânia",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/russia-perde-quase-meio-milhao-de-vidas-na-guerra-contra-a-ucrania.shtml",
-     "summary": "Pelo menos 450 mil russos tinham morrido até o verão deste ano no hemisfério Norte em decorrência da invasão em grande escala da Ucrânia , segundo análise do jornal Financial Times feita a partir de registros vazados da…",
-     "published": "2026-11-13T12:20+00:00",
+     "title": "UE escolhe cinco países para representar Europa em negociações de paz entre Ucrânia e Rússia",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ue-escolhe-cinco-paises-para-representar-europa-em-negociacoes-de-paz-entre-ucrania-e-russia.shtml",
+     "summary": "Os líderes da União Europeia afirmaram nesta sexta-feira (13) que a equipe europeia para as negociações de paz da guerra da Ucrânia será composta por cinco importantes potências militares -o Reino Unido , que não…",
+     "published": "2026-11-13T21:21+00:00",
      "image": ""
     },
     {
-     "title": "Lula chega a Manila para visita de Estado e reuniões bilaterais com Canadá e Singapura",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-chega-a-manila-para-visita-de-estado-e-reuniao-bilateral-com-canada-e-singapura.shtml",
-     "summary": "O presidente Luiz Inácio Lula da Silva ( PT ) chegou na madrugada desta sexta-feira (13), no horário de Brasília, em Manila, capital das Filipinas , para participar de uma visita de Estado e da cúpula dos líderes da…",
-     "published": "2026-11-13T11:07+00:00",
+     "title": "EUA suspendem todos os voos no país; governo Trump aponta falha de comunicação como causa",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
+     "summary": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de decolagens em todos os aeroportos do país. Pousos estão permitidos, e não há previsão de…",
+     "published": "2026-11-13T21:16+00:00",
      "image": ""
     }
    ]
@@ -1314,60 +1394,60 @@
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
     {
+     "title": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain",
+     "link": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-stabilizing/",
+     "summary": "Microsoft said server issues were behind the incident and that a broader rollout of software fixes was stabilizing the system.",
+     "published": "2026-11-14T00:26+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/573999.jpg"
+    },
+    {
+     "title": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
+     "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
+     "summary": "Congress is demanding answers about whether the Bureau of Industry and Security did enough to keep Nvidia's AI processors out of China's hands.",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/573998.jpg"
+    },
+    {
+     "title": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say",
+     "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-arm-ceo-haas-huang/",
+     "summary": "Nvidia's board said it was in the process of selecting a search firm for the CEO role and had not formally engaged any potential candidates.",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/573997.jpg"
+    },
+    {
+     "title": "All departing U.S. flights grounded due to communication outage",
+     "link": "https://www.japantimes.co.jp/news/2026/11/14/world/departing-us-flights-grounded/",
+     "summary": "The Department of Homeland Security said the incident did not appear to be the result of any \"nefarious attack.\"",
+     "published": "2026-11-13T23:29+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/573996.jpg"
+    },
+    {
+     "title": "‘Love Village’ is a warts-and-all take on the realities of middle-aged romance",
+     "link": "https://www.japantimes.co.jp/culture/2026/11/14/tv-streaming/love-village-season-3/",
+     "summary": "The third season of the Netflix reality show dove deep into the turbulent lives and past traumas of its participants.",
+     "published": "2026-11-13T23:20+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573709.jpg"
+    },
+    {
+     "title": "A beginner’s guide to camping in Japan",
+     "link": "https://www.japantimes.co.jp/life/2026/11/14/travel/camping-japan-travel-hiking-mountains-guide/",
+     "summary": "In a country with a convenience store on every corner and trains that are never late, camping is a wildly fun time.",
+     "published": "2026-11-13T23:05+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573611.jpg"
+    },
+    {
+     "title": "In a crowded fall, ‘Nintendo Switch Sports Resort’ is a casual gem",
+     "link": "https://www.japantimes.co.jp/life/2026/11/14/digital/switch-2-sports-resort-nintendo-golf-tennis/",
+     "summary": "The motion-controlled sports series returns with 12 sports and a whole lot of eminently accessible charm.",
+     "published": "2026-11-13T23:00+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573694.jpg"
+    },
+    {
      "title": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says",
      "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/malaysia-airasia-aid/",
      "summary": "The finance ministry is reviewing options to aid Southeast Asia's largest low-cost airline as it deals with high jet fuel prices and currency swings.",
      "published": "2026-11-13T09:16+00:00",
      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573930.jpg"
-    },
-    {
-     "title": "Japan team creates ‘planimal’ hybrid plant-animal cells in world first",
-     "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
-     "summary": "Cells that produce useful animal and plant proteins and can be cultured using photosynthesis could offer new methods of producing drugs and meat.",
-     "published": "2026-11-13T09:08+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573952.jpg"
-    },
-    {
-     "title": "Japan yet to make full use of nuclear power equipment export treaty with India",
-     "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/nuclear-plant-exports-india/",
-     "summary": "New Delhi has a goal of boosting India's nuclear power capacity to 100 gigawatts by 2047, and reducing greenhouse gas emissions to net zero by 2070.",
-     "published": "2026-11-13T09:03+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573916.jpg"
-    },
-    {
-     "title": "Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback",
-     "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/",
-     "summary": "Japanese lenders are on a record earnings streak thanks to the BOJ's interest-rate hikes, with corporate borrowing showing few signs of slowing down.",
-     "published": "2026-11-13T08:45+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573945.jpg"
-    },
-    {
-     "title": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials",
-     "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
-     "summary": "Beijing has stepped up its military pressure over the past five years, drawing condemnation from Taiwan and heightening concern in the West.",
-     "published": "2026-11-13T08:35+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573924.jpg"
-    },
-    {
-     "title": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform",
-     "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/explainer/explainer-ruling-disparity-upper-house-seat/",
-     "summary": "While the results from last year's Upper House election are not invalidated, the ruling puts the debate on reform back into focus.",
-     "published": "2026-11-13T08:16+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573951.jpg"
-    },
-    {
-     "title": "Oh and Kuriyama call for change as Japan’s baseball landscape shifts",
-     "link": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/oh-kuriyama-npb-mlb/",
-     "summary": "The two baseball legends are seeking to inspire Japan's next generation of players as many seek their fortunes in MLB.",
-     "published": "2026-11-13T07:43+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573953.jpg"
-    },
-    {
-     "title": "Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster",
-     "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/prabowo-consolidates-power/",
-     "summary": "Since taking office, Indonesian President Prabowo Subianto has increasingly put his own stamp on the government.",
-     "published": "2026-11-13T07:38+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573862.jpg"
     }
    ]
   },
@@ -1379,60 +1459,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "Missouri appeals court revives hotel guest's claim after truck crash and icy parking lot fall",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-hotel-guests-truck-slid-into-a-van-on-an-icy-parking-lot-then-he-fell-while-photographing-the-damage-after-his-injury-lawsuit-was-dismissed-a-november-10-appeals-court-revived-his-claim-against-motel-6/articleshow/135765325.cms",
-     "summary": "A recent decision by a Missouri appeals court has overturned a previous dismissal of a negligence lawsuit involving Super 6 Inn. The plaintiff, Jeff Woosley, sustained a shoulder injury while attempting to photograph…",
-     "published": "2026-11-13T19:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135765562,imgsize-2494399.cms"
+     "title": "Texas brothers convicted in $240 million cattle investment fraud targeting 2,200 investors",
+     "link": "https://timesofindia.indiatimes.com/world/us/two-brothers-in-texas-have-been-convicted-for-a-240-million-cattle-investment-scheme-that-defrauded-more-than-2200-people-prosecutors-say-that-investors-money-also-paid-for-a-1-5-million-luxury-home-in-kansas/articleshow/135771740.cms",
+     "summary": "Convicted of a fraudulent cattle investment scheme, Joshua and Jason Link swindled over 2,200 investors, misleading them into thinking their money was turning into cattle purchases. Their actions resulted in colossal…",
+     "published": "2026-11-13T23:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135771920,imgsize-842333.cms"
     },
     {
-     "title": "Why do mosquitoes love some people and ignore others? Study found skin odour, bacteria responsible",
-     "link": "https://timesofindia.indiatimes.com/science/discovery/why-do-mosquitoes-love-some-people-and-ignore-others-a-study-of-119-volunteers-found-no-one-attracted-all-three-species-tested-because-each-mosquito-picks-people-by-their-skin-odour-and-skin-bacteria/articleshow/135804270.cms",
-     "summary": "Recent studies shed light on the intriguing attraction between mosquitoes and humans, revealing that different species of these pests have specific preferences for individual body odors and the unique skin microbiomes…",
-     "published": "2026-11-13T19:25+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135804369,imgsize-80607.cms"
+     "title": "Rob Roy MacGregor’s gravestone;scans suggest first carvings were made 1,000years before he died",
+     "link": "https://timesofindia.indiatimes.com/science/archaeology/for-nearly-300-years-visitors-to-scotlands-balquhidder-churchyard-have-admired-rob-roy-macgregors-gravestone-but-3d-scans-now-suggest-its-first-carvings-were-made-about-1000-years-before-he-died/articleshow/135789903.cms",
+     "summary": "A recent study has uncovered that the gravestone of Rob Roy MacGregor, found at Balquhidder Parish Church, has roots that stretch back an astonishing thousand years prior to his life. Utilizing 3D imaging techniques…",
+     "published": "2026-11-13T23:20+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135789903,imgsize-243176.cms"
     },
     {
-     "title": "Nick Cannon tried putting all six mothers of his 12 children into one group chat to coordinate Thanksgiving, but the comedian now says the experiment quickly became chaotic and is not something he plans to repeat",
-     "link": "https://timesofindia.indiatimes.com/world/us/nick-cannon-tried-putting-all-six-mothers-of-his-12-children-into-one-group-chat-to-coordinate-thanksgiving-but-the-comedian-now-says-the-experiment-quickly-became-chaotic-and-is-not-something-he-plans-to-repeat/articleshow/135807141.cms",
-     "summary": "Nick Cannon tried to set up a group chat to plan Thanksgiving with the six moms of his kids, but it turned out to be a chaotic mess. Despite the communication hiccups, he assured everyone that the moms are on good…",
-     "published": "2026-11-13T19:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135807769,imgsize-97710.cms"
-    },
-    {
-     "title": "Meet Madison Ayers, 8; she turned candle-making into a 1,000-order business",
-     "link": "https://timesofindia.indiatimes.com/world/us/meet-madison-ayers-the-8-year-old-texas-girl-who-turned-candle-making-into-a-business-fulfilled-more-than-1000-orders-in-five-months-and-is-saving-for-her-first-car-at-16/articleshow/135765282.cms",
+     "title": "UK woman’s £500,000 inheritance battle after boyfriend claims secret marriage",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-woman-died-of-breast-cancer-at-46-leaving-her-500000-estate-to-her-teenage-daughter-her-boyfriend-later-claimed-a-secret-cyprus-marriage-and-produced-a-will-that-the-high-court-found-to-be-forged/articleshow/135799419.cms",
      "summary": "",
-     "published": "2026-11-13T19:15+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135765450,imgsize-1397562.cms"
+     "published": "2026-11-13T23:15+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135799839,imgsize-1952882.cms"
     },
     {
-     "title": "95-year-old Houston man finally gets birth certificate after decades-long search",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-houston-great-grandfather-born-on-a-louisiana-plantation-in-1931-spent-decades-without-a-birth-certificate-at-95-he-finally-received-the-document-after-his-family-and-a-volunteer-lawyer-traced-the-records/articleshow/135814014.cms",
-     "summary": "James Dorsey, a 95-year-old resident of Houston, has finally secured his long-missing birth certificate, a significant milestone that eluded him for decades. Born on a Louisiana plantation, Dorsey discovered the absence…",
-     "published": "2026-11-13T19:04+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135815093,imgsize-765990.cms"
+     "title": "Missouri appeals court upholds $800,000 award in delivery van crash case",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-delivery-driver-pulled-into-traffic-after-a-trucker-waved-him-through-and-a-womans-car-hit-his-van-he-admitted-he-could-not-see-the-road-and-a-november-10-appeals-court-upheld-her-800000-injury-award/articleshow/135771958.cms",
+     "summary": "A Missouri appeals court upheld an $800,000 jury verdict in favor of Amy Bolandis following a traffic accident. It was determined that the delivery van driver failed to check for oncoming vehicles before merging into…",
+     "published": "2026-11-13T22:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135772101,imgsize-112089.cms"
     },
     {
-     "title": "Connecticut boarding school's beloved principal flees campus to evade tax investigation agents; was found overdosing in Maine through his wife's tracker",
-     "link": "https://timesofindia.indiatimes.com/world/us/connecticut-boarding-schools-beloved-principal-flees-campus-to-evade-tax-investigation-agents-was-found-overdosing-in-maine-through-his-wifes-tracker/articleshow/135814954.cms",
+     "title": "A 13-inch sculpture model that Barbara Hepworth gave her doctor has resurfaced for auction in Cornwall, where the aluminium-and-string study for her famous Winged Figure could fetch as much as £80,000",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-13-inch-sculpture-model-that-barbara-hepworth-gave-her-doctor-has-resurfaced-for-auction-in-cornwall-where-the-aluminium-and-string-study-for-her-famous-winged-figure-could-fetch-as-much-as-80000/articleshow/135804402.cms",
+     "summary": "Barbara Hepworth's miniature sculpture of Winged Figure, a personal gift to Dr. Roger Slack, is returning to auction. This 13-inch artwork could reach an estimated value of £80,000 at the auction in Cornwall. Roger…",
+     "published": "2026-11-13T22:20+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135804402,imgsize-86754.cms"
+    },
+    {
+     "title": "Belgian workers found €240,000 gold pot, but court convicted all three of theft",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/three-demolition-workers-found-a-hidden-pot-of-gold-coins-worth-240000-beneath-a-belgian-house-they-divided-and-sold-the-treasure-but-a-court-later-found-all-three-guilty-of-theft/articleshow/135798508.cms",
      "summary": "",
-     "published": "2026-11-13T19:03+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135815064,imgsize-81106.cms"
+     "published": "2026-11-13T22:15+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135798765,imgsize-189053.cms"
     },
     {
-     "title": "Two men accused of $3.7m fake-company fraud arrested in California and Illinois on November 10",
-     "link": "https://timesofindia.indiatimes.com/world/us/two-men-allegedly-created-fake-companies-under-stolen-identities-in-a-scheme-to-initiate-3-7-million-in-unauthorised-bank-account-debits-federal-agents-arrested-them-in-california-and-illinois-on-november-10/articleshow/135763252.cms",
-     "summary": "Arrests have been made in a high-profile fraud case involving Paris Baker and Michael Sullivan. They are accused of orchestrating a complicated scheme involving fake companies to illegally withdraw funds from victims'…",
-     "published": "2026-11-13T18:28+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135763443,imgsize-1967386.cms"
+     "title": "Ohio Appeals Court revives inmate's challenge to foreclosure over improper service claims",
+     "link": "https://timesofindia.indiatimes.com/world/us/an-ohio-bank-foreclosed-on-a-home-while-its-owner-was-in-prison-for-murdering-his-wife-after-the-property-sold-with-61060-left-over-a-november-10-appeals-court-revived-his-challenge-over-how-the-papers-were-served/articleshow/135773509.cms",
+     "summary": "A foreclosure dispute surrounding Mamadou Diallo is back in court due to notification concerns. The Ohio appeals court has ruled that Diallo's subsequent actions do not establish proof of proper service for the…",
+     "published": "2026-11-13T21:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135773585,imgsize-726259.cms"
     },
     {
-     "title": "Boy Found Alive After Search: Roman Heilman found alive; horseback riders spot him",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-6-year-old-boy-with-autism-vanished-into-the-kentucky-woods-and-spent-two-cold-nights-outdoors-until-on-the-third-day-he-walked-out-of-the-brush-onto-a-horse-trail-with-a-small-dog-and-grabbed-his-rescuers-leg/articleshow/135766845.cms",
-     "summary": "A community came together in a remarkable rescue of six-year-old Roman Heilman, who had been missing for nearly 44 hours in the woods of Kentucky. The collaborative search, involving volunteers and emergency services…",
-     "published": "2026-11-13T18:25+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135766958,imgsize-1050761.cms"
+     "title": "Teens raised by strict, obey-without-question parents tend to hold more antisocial beliefs, a US study found, and they also showed small rises in anxiety and depression",
+     "link": "https://timesofindia.indiatimes.com/world/us/teens-raised-by-strict-obey-without-question-parents-tend-to-hold-more-antisocial-beliefs-a-us-study-found-and-they-also-showed-small-rises-in-anxiety-and-depression/articleshow/135805627.cms",
+     "summary": "Authoritarian parenting can lead to persistent antisocial thoughts among teenagers, affecting their social behavior and emotional well-being. Research indicates that strict parenting fosters beliefs that may justify…",
+     "published": "2026-11-13T21:25+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135806176,imgsize-82202.cms"
     }
    ]
   },
@@ -1444,60 +1524,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
-     "link": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents",
-     "summary": "Microsoft on Friday apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook email and other services. The company ruled out any…",
-     "published": "2026-11-13T18:43+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/10be4e09-a8ca-47d6-b6ef-ca112362ac08_c2ab7838.jpg?itok=-QtXJ0Y-&v=1794595400"
+     "title": "Malaysia’s Melaka election begins as Anwar’s PH seeks to counter resurgent Umno",
+     "link": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
+     "summary": "Voters began casting their ballots on Saturday morning to decide who will govern the southern Malaysian state of Melaka over the next five years, with the odds stacked against Prime Minister Anwar Ibrahim’s ruling…",
+     "published": "2026-11-14T01:02+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/92d5f6f7-d3a9-4cee-92f5-5e95606ef1b8_be89592a.jpg?itok=QRPiPPDZ&v=1794618130"
     },
     {
-     "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
-     "summary": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US President Donald Trump is set to meet Chinese leader Xi Jinping in Shenzhen. “Today, the Office of…",
-     "published": "2026-11-13T18:39+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/8a5a75a9-6b6e-40e2-a1ec-020843399685_4f9253bd.jpg?itok=4c4n-JM8&v=1794595134"
+     "title": "Why Japanese DJ who survived spiked-drink ordeal in Hong Kong keeps apologising",
+     "link": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+     "summary": "When Mao Hamasaki, also known as DJ Mao, took to the social media platform X earlier this month to recount the ordeal of consuming a spiked drink in Hong Kong, her comments were accompanied by an apology, leaving many…",
+     "published": "2026-11-14T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/92d5c446-39d1-41bd-bbb3-c200814821d9_ad15286e.jpg?itok=Y6DioZhb&v=1794581873"
     },
     {
-     "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
-     "link": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
-     "summary": "Pope Leo held the central event of his 12-day South America tour on Friday, an outdoor mass in northern Peru where he told a vast crowd of people who once knew him as their bishop that he thanked God he was alive to see…",
-     "published": "2026-11-13T18:05+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/cefd65af-1bce-486c-82b5-382737c95815_5149c3fc.jpg?itok=FCaQemIy&v=1794597429"
+     "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+     "link": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+     "summary": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field. The findings reveal a shift away…",
+     "published": "2026-11-14T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/ca09350c-3b82-4332-a6d9-ffabf3fa9481_e1e50b83.jpg?itok=1G7wUnqr&v=1794457421"
     },
     {
-     "title": "EU leaders told to ‘act now’ to stay in AI race with US and China",
-     "link": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china",
-     "summary": "The EU must “act now” to ensure Europe stays in the AI race with the US and China, French AI firm Mistral’s Chief Executive Arthur Mensch told a summit of the bloc’s leaders on Friday. The leaders heard from Mensch and…",
-     "published": "2026-11-13T17:20+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/f3039e47-9d54-420e-a6ae-d748f2e423ea_310df75c.jpg?itok=4Nkag1eX&v=1794590415"
+     "title": "White House confirms US-China-Russia trilateral on Apec sidelines",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines",
+     "summary": "The White House on Friday confirmed an unprecedented meeting between leaders of the US, China and Russia has been scheduled to take place on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in…",
+     "published": "2026-11-14T00:30+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/25f1c183-07f0-40d8-b9a7-1bbb97ebfaa6_9dcf4d3b.jpg?itok=HlwpEW0j&v=1794616908"
     },
     {
-     "title": "Catholic diocese asks parishes to hold special masses to mark Tai Po fire anniversary",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3374399/catholic-diocese-asks-parishes-hold-special-masses-mark-tai-po-fire-anniversary",
-     "summary": "The head of Hong Kong’s Catholic diocese has asked all of the city’s parishes to hold special masses and prayers to mark the first anniversary of the deadly Tai Po fire later this month. Cardinal Stephen Chow Sau-yan…",
-     "published": "2026-11-13T15:37+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/1976c3ec-7f6d-407c-b1c1-4542133c30a7_2c0ef27a.jpg?itok=GWZUqSwq&v=1794583430"
+     "title": "Pax Silica means peace. In the Philippines, it’s a fight",
+     "link": "https://www.scmp.com/week-asia/economics/article/3374368/pax-silica-means-peace-philippines-its-fight",
+     "summary": "Outside the Grand Hyatt hotel in Manila earlier this year, five people were arrested as hundreds of activists chanting “Junk Pax Silica!” clashed with anti-riot police. Inside, Philippine President Ferdinand Marcos Jnr…",
+     "published": "2026-11-14T00:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/7cf13cd9-234c-45a5-a5c5-ca39ee28fc92_ce91c111.jpg?itok=Y_sMY1Gb&v=1794567090"
     },
     {
-     "title": "Trump to press Southeast Asia nations to join Pax Silica at Asean summit in Manila",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila",
-     "summary": "US President Donald Trump will press Southeast Asian economies to join Pax Silica, his campaign to China-proof AI and chip supply chains, when he attends the Asean summit in Manila next week. According to people…",
-     "published": "2026-11-13T15:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/cd8a1138-d23b-4370-a92e-a95be0da4ab8_bcbbd593.jpg?itok=zTKxytht&v=1794576888"
+     "title": "US Air Force responds to suspected drone activity over UK airbase",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+     "summary": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorised drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force…",
+     "published": "2026-11-13T23:47+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/57e9d0cb-d165-4c67-a2ad-621090e47173_f1d255bd.jpg?itok=lFb5djNG&v=1794613661"
     },
     {
-     "title": "A bad year for Hong Kong construction: 6 scandals that shocked city",
-     "link": "https://www.scmp.com/news/hong-kong/article/3374396/bad-year-hong-kong-construction-6-scandals-shocked-city",
-     "summary": "Hong Kong’s construction industry is facing mounting public scrutiny following a string of scandals involving substandard work, defective installations and questionable maintenance practices. From malfunctioning…",
-     "published": "2026-11-13T14:08+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/50db63e1-8b84-4498-902f-8febd0486ee5_5952d6d3.jpg?itok=T806Tvxs&v=1794578706"
+     "title": "SpaceX’s bid for Starship double catch thwarted, as booster ends up in ocean",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean",
+     "summary": "SpaceX launched Starship towards orbit on Friday in its boldest test yet: a 22-hour flight that aimed to capture the entire rocket in a move meant to accelerate moon and Mars travel. But Elon Musk’s company had to lower…",
+     "published": "2026-11-13T23:23+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/b1e848bd-16b3-40bd-9445-55a49b31e145_265c7ec9.jpg?itok=evnSO9wu&v=1794612195"
     },
     {
-     "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai",
-     "summary": "Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one…",
-     "published": "2026-11-13T14:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/6a05cefc-4e87-4bd9-a54f-c89a18336d7f_134715fa.jpg?itok=YQ4YJF0c&v=1794568825"
+     "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
+     "summary": "US lawmakers have been demanding answers about potential national security risks and White House oversight of advanced chip exports to China following revelations that former Nvidia chief executive Jensen Huang was in a…",
+     "published": "2026-11-13T22:16+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/b4a3019c-82af-4dad-8081-61130d1d6aef_deb15cd6.jpg?itok=0WIzL_Li&v=1794608176"
     }
    ]
   },
@@ -1509,60 +1589,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Microsoft 'deeply sorry' for global outage, reports 'broad recovery' of services",
-     "link": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
-     "summary": "Microsoft rules out any malicious \"cyber or AI\" activity after a worldwide outage disrupted healthcare services, delayed corporate earnings reports and left schools struggling to communicate.",
-     "published": "2026-11-13T19:34+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/b47852ce2b1ebea9ca47553c98947e8c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=250&width=862&height=485"
+     "title": "Questions left to answer in wake of Huang's departure",
+     "link": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+     "summary": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain.",
+     "published": "2026-11-14T00:52+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/106e24ad254aaec8770558040c5d729c?impolicy=wcms_crop_resize&cropH=2106&cropW=3744&xPos=0&yPos=53&width=862&height=485"
     },
     {
-     "title": "How 1851's Black Thursday helped shape Victoria",
-     "link": "https://www.abc.net.au/news/2026-11-14/victoria-largest-bushfire-black-thursday-1851/106472898",
-     "summary": "It shaped colonial-era Victoria and is remembered as being a \"baptism of fire\" for the Garden State. But few today know about the Black Thursday bushfire.",
-     "published": "2026-11-13T19:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/9fe0202bc83e98953226e55bfa1049b9?impolicy=wcms_crop_resize&cropH=402&cropW=715&xPos=243&yPos=0&width=862&height=485"
+     "title": "Australia wins six Youth Olympics medals as African Games hailed",
+     "link": "https://www.abc.net.au/news/2026-11-14/youth-olympic-games-2026-senegal-six-medals/107385766",
+     "summary": "Australia has come away from the Youth Olympic Games in Senegal with six medals, as the IOC hails Africa's capability to host major multi--sport events.",
+     "published": "2026-11-14T00:46+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/177758c8ad83bcea783e160be3c3b03b?impolicy=wcms_crop_resize&cropH=2108&cropW=3748&xPos=0&yPos=196&width=862&height=485"
     },
     {
-     "title": "Homes with architectural designs that cost just $1 near completion",
-     "link": "https://www.abc.net.au/news/2026-11-14/pattern-book-homes-near-completion-in-corrimal/107383868",
-     "summary": "Almost 18 months after the state government launched the architectural designs, the Illawarra build is one of 22 projects being constructed and hopes to be the first to land.",
-     "published": "2026-11-13T19:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/79626b185db5fb3604e27907a56a960f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=115&width=862&height=485"
+     "title": "Regional bands say it's now cheaper to do a gig in London than interstate",
+     "link": "https://www.abc.net.au/news/2026-11-14/remote-flight-prices-nt-bands-yothu-yindi-king-stingray-touring/107381634",
+     "summary": "Some of the country's hottest musical exports say it's now cheaper to fly to London or the United States for gigs than to travel interstate to play for Australian audiences.",
+     "published": "2026-11-14T00:28+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/52c24cd6eeb1217bd1c3daf7d934e589?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=164&width=862&height=485"
     },
     {
-     "title": "The must-see artworks at the Clarice Beckett exhibition",
-     "link": "https://www.abc.net.au/news/2026-11-14/three-artworks-to-see-clarice-beckett/107335304",
-     "summary": "Clarice Beckett painted the life and scenery of her coastal home in Victoria until her death in 1935. Selling almost nothing while she was alive, she is now recognised as one of the country's pioneering tonal and…",
-     "published": "2026-11-13T18:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ad8164152a24f52a13749f8b2eabd9b3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=379&width=862&height=485"
+     "title": "Rope barriers at parliament round out prickly week for government",
+     "link": "https://www.abc.net.au/news/2026-11-14/jags-krishnan-don-punch-woes-distract-wa-government/107382896",
+     "summary": "If the government wants to signal it's in touch with community concerns, walking through Hollywood-style velvet ropes and gold posts at parliament is probably not the best way to do it, writes Keane Bourke.",
+     "published": "2026-11-14T00:13+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/2bf122a02f61fa77a9a7a2b887ac85b5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=108&width=862&height=485"
     },
     {
-     "title": "Boots Riley is ready for the working class to rise up",
-     "link": "https://www.abc.net.au/news/2026-11-14/boots-riley-interview-trump-unions-i-love-boosters/107377408",
-     "summary": "Filmmaker, musician and activist Boots Riley’s latest movie I Love Boosters makes the creative’s edict clear: power lies with the people, we just have to rise up and take it.",
-     "published": "2026-11-13T18:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/68e92efc427c144cae4ded22e83ba1d8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "Litany of missed opportunities in Floreat murder tragedy",
+     "link": "https://www.abc.net.au/news/2026-11-14/missed-opportunities-floreat-shooting-inquest-jennifer-petelczyc/107384594",
+     "summary": "A coronial inquest into the deaths of Jennifer Petelczyc and daughter Gretl puts police errors under the microscope, and sees an apology from the gunman's daughter.",
+     "published": "2026-11-14T00:05+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/a5e9b6fc51c7b183b18012d9d98a0337?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
     },
     {
-     "title": "ABC 50/50 quiz: Testing your knowledge of 90s Aussie bands and cat people vs dog people",
-     "link": "https://www.abc.net.au/news/2026-11-14/abc-5050-quiz/107381088",
-     "summary": "Each question in the ABC 50/50 quiz has only two options: one is right, the other is wrong. But be warned: we might try to trick you.",
-     "published": "2026-11-13T18:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/076677dcdcc35751a7f49e7b0be85bce?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=35&width=862&height=485"
+     "title": "Man dies after house fire in Geelong suburb",
+     "link": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832",
+     "summary": "A man has been found dead after a house fire in Armstrong Creek, about 100 kilometres south-west of Melbourne.",
+     "published": "2026-11-13T23:52+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/8b44aec3ef129337a165d3fc0380f78e?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Registered psychologist accused of recruiting for Universal Medicine cult",
-     "link": "https://www.abc.net.au/news/2026-11-14/universal-medicine-cult-registered-health-professionals/107313996",
-     "summary": "A Victorian survivor of childhood sexual abuse went to a psychologist seeking help. Instead, she alleges she was recruited to a cult found to be \"socially dangerous\" and \"sexually manipulative\".",
-     "published": "2026-11-13T18:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/94e99547bbabe64ae6f510396dbedc31?impolicy=wcms_crop_resize&cropH=701&cropW=1246&xPos=196&yPos=0&width=862&height=485"
+     "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
+     "link": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
+     "summary": "The ball-tampering scandal doesn't look like it's going away any time soon, with Greg Chappell fearing Australian cricket could \"eat itself\".",
+     "published": "2026-11-13T23:41+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/56c90eafc4cd46c88dba0ae62749509b?impolicy=wcms_crop_resize&cropH=1418&cropW=2521&xPos=1598&yPos=739&width=862&height=485"
     },
     {
-     "title": "Albanese's salad days have wilted into a long list of woe",
-     "link": "https://www.abc.net.au/news/2026-11-14/government-floundering-albanese-salad-days-wilted/107382680",
-     "summary": "Underlying the grimness inside the government is the realisation that there are few easy policy options to hand.",
-     "published": "2026-11-13T18:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/36569615f8e6fbe99c02462ee0a5dc91?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485"
+     "title": "Former NT administrator opens up about being groomed as a child",
+     "link": "https://www.abc.net.au/news/2026-11-14/former-nt-administrator-hugh-heggie-on-being-groomed-as-a-child/107372262",
+     "summary": "Former Northern Territory administrator Hugh Heggie was just 14 years old when an older church youth group leader began grooming him. He says he hopes sharing his story will help other survivors feel less alone.",
+     "published": "2026-11-13T22:55+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/3741615785b5077283c8f49522b62f34?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=72&width=862&height=485"
     }
    ]
   },
@@ -1574,59 +1654,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "How will the US deal with Nvidia scandal?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-     "summary": "Tech giant CEO resigned and will testify before Congress.",
-     "published": "2026-11-13T18:57+00:00",
+     "title": "UK police open sex offence probe into comedian and author David Walliams",
+     "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+     "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+     "published": "2026-11-14T00:22+00:00",
      "image": ""
     },
     {
-     "title": "At least 10 killed in Guinea in crackdown on gold mining",
-     "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
-     "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
-     "published": "2026-11-13T18:44+00:00",
+     "title": "Microsoft services begin recovering after global outage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+     "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+     "published": "2026-11-14T00:17+00:00",
      "image": ""
     },
     {
-     "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
-     "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
-     "published": "2026-11-13T18:28+00:00",
+     "title": "Afghanistan’s new road to China ends at a closed border",
+     "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+     "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+     "published": "2026-11-14T00:06+00:00",
      "image": ""
     },
     {
-     "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-     "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-     "published": "2026-11-13T18:09+00:00",
+     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+     "published": "2026-11-14T00:00+00:00",
      "image": ""
     },
     {
-     "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-     "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-     "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
-     "published": "2026-11-13T18:04+00:00",
+     "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+     "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+     "published": "2026-11-13T23:45+00:00",
      "image": ""
     },
     {
-     "title": "No emails, no problem? Workers joke about Microsoft outage",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-     "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
-     "published": "2026-11-13T17:55+00:00",
+     "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+     "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+     "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+     "published": "2026-11-13T22:47+00:00",
      "image": ""
     },
     {
-     "title": "The fight over Canadian steelworker jobs",
-     "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-     "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-     "published": "2026-11-13T17:10+00:00",
+     "title": "LIVE: FAA issues US ground stop, some international flights to depart",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+     "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+     "published": "2026-11-13T22:02+00:00",
      "image": ""
     },
     {
-     "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-     "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-     "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-     "published": "2026-11-13T16:44+00:00",
+     "title": "FAA grounds US flights nationwide after ‘communication issue’",
+     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+     "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.",
+     "published": "2026-11-13T21:32+00:00",
      "image": ""
     }
    ]
@@ -1697,10 +1777,5 @@
    ]
   }
  ],
- "failed": [
-  {
-   "name": "France 24",
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  }
- ]
+ "failed": []
 }
