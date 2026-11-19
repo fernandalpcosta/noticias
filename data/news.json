@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:30+00:00",
+ "updated": "2026-11-19T02:33+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -36,13 +36,13 @@
    "sources": 10,
    "examples": [
     {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+     "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
      "source": "The Guardian"
     },
     {
@@ -51,94 +51,47 @@
      "source": "Deutsche Welle"
     },
     {
-     "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-     "source": "Euronews"
+     "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+     "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+     "source": "France 24"
     }
    ]
   },
   {
    "topic": "China",
-   "sources": 8,
+   "sources": 9,
    "examples": [
+    {
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "source": "The Guardian"
+    },
     {
      "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
      "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
      "source": "NPR"
     },
     {
-     "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
-     "link": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
+     "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+     "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
      "source": "France 24"
     },
     {
      "title": "A Shenzhen, la « diplomatie du tarmac » de la Chine réserve tous les égards à Donald Trump",
      "link": "https://www.lemonde.fr/international/article/2026/11/18/a-shenzhen-la-diplomatie-du-tarmac-de-la-chine-reserve-tous-les-egards-a-donald-trump_6813205_3210.html",
      "source": "Le Monde"
-    },
-    {
-     "title": "Robots serve ice cream and coffee in China's tech hub",
-     "link": "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "Israel",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Israel launches new ground operation in Gaza",
-     "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Israel begins new military operation in Gaza",
-     "link": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-     "source": "France 24"
-    },
-    {
-     "title": "Israeli military launches new operation on central Gaza despite ceasefire",
-     "link": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "Rússia",
-   "sources": 7,
-   "examples": [
-    {
-     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-     "source": "NPR"
-    },
-    {
-     "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-     "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
-     "source": "France 24"
-    },
-    {
-     "title": "Enrique de Inglaterra asegura que volvería a alistarse en el ejército para luchar contra Rusia: “Si surgiera la necesidad, estaría allí al 100% para servir a mi país”",
-     "link": "https://elpais.com/gente/2026-11-18/enrique-de-inglaterra-asegura-que-volveria-a-alistarse-en-el-ejercito-para-luchar-contra-rusia-si-surgiera-la-necesidad-estaria-alli-al-100-para-servir-a-mi-pais.html",
-     "source": "El País"
     }
    ]
   },
   {
    "topic": "Trump",
-   "sources": 7,
+   "sources": 8,
    "examples": [
+    {
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "source": "The Guardian"
+    },
     {
      "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
      "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
@@ -153,75 +106,169 @@
      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
      "source": "The New York Times"
-    },
-    {
-     "title": "Trump arrives in China for a meeting with historic adversaries",
-     "link": "https://www.latimes.com/story/2026-11-18/trump-arrives-in-china-for-meeting-with-historic-adversaries",
-     "source": "Los Angeles Times"
     }
    ]
   },
   {
-   "topic": "Gaza",
+   "topic": "Rússia",
    "sources": 6,
    "examples": [
     {
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "title": "Crimean Bridge attacked again, Russian official says",
+     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
+    {
+     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+     "source": "NPR"
+    },
+    {
+     "title": "What the Crimean bridge attack means for Russia",
+     "link": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+     "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+     "source": "France 24"
+    }
+   ]
+  },
+  {
+   "topic": "Anthropic",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+     "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+     "source": "El País"
+    },
+    {
+     "title": "Anthropic fija en 83 dólares por acción el precio de su salida a bolsa y prevé recaudar 94.000 millones para superar a SpaceX",
+     "link": "https://www.eldiario.es/economia/anthropic-fija-83-dolares-accion-precio-salida-bolsa-valora-empresa-94-000-millones-spacex_1_13675570.html",
+     "source": "elDiario.es"
+    },
+    {
+     "title": "Anthropic IPO raises $107.3 billion to top SpaceX’s record debut",
+     "link": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/",
+     "source": "The Japan Times"
+    }
+   ]
+  },
+  {
+   "topic": "Israel",
+   "sources": 4,
+   "examples": [
     {
      "title": "Israel launches new ground operation in Gaza",
      "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Israel begins new military operation in Gaza",
-     "link": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-     "source": "France 24"
-    },
-    {
      "title": "Israeli military launches new operation on central Gaza despite ceasefire",
      "link": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
      "source": "Euronews"
+    },
+    {
+     "title": "Israel lanza una operación terrestre en Gaza más allá de la Línea Amarilla acordada en el alto el fuego de 2025",
+     "link": "https://www.eldiario.es/internacional/israel-lanza-operacion-terrestre-gaza-linea-amarilla-acordada-alto-fuego-2025_1_13675414.html",
+     "source": "elDiario.es"
+    },
+    {
+     "title": "Settler rams into Palestinians at multiple locations in central Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ]
   },
   {
-   "topic": "Jeffries",
-   "sources": 6,
+   "topic": "Nvidia",
+   "sources": 4,
    "examples": [
     {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+     "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+     "source": "NPR"
+    },
+    {
+     "title": "Nvidia turmoil spurs valuation rethink of Japan’s AI shares",
+     "link": "https://www.japantimes.co.jp/business/2026/11/19/markets/japan-ai-shares-investors-rethink/",
+     "source": "The Japan Times"
+    },
+    {
+     "title": "‘Natural enemies’: Trump on China-Russia ties as he plays down Nvidia ‘tragedy’",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy",
+     "source": "South China Morning Post"
+    }
+   ]
+  },
+  {
+   "topic": "Putin",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+     "source": "NPR"
+    },
+    {
+     "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Ucrânia faz terceiro ataque à ponte da Crimeia às vésperas de encontro de Putin com Trump e Xi",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ucrania-faz-terceiro-ataque-a-ponte-da-crimeia-as-vesperas-de-encontro-de-putin-com-trump-e-xi.shtml",
+     "source": "Folha — Mundo"
+    },
+    {
+     "title": "Xi, Putin blast West's protectionism & sanctions before meeting Trump",
+     "link": "https://timesofindia.indiatimes.com/world/china/xi-putin-blast-wests-protectionism-sanctions-before-meeting-trump/articleshow/135975283.cms",
+     "source": "Times of India"
+    }
+   ]
+  },
+  {
+   "topic": "Ucrânia",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+     "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "US House Democrats nominate Hakeem Jeffries for speaker",
-     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
+     "title": "Would Ukraine trade land for NATO membership or protection?",
+     "link": "https://www.dw.com/en/would-ukraine-trade-land-for-nato-membership-or-protection/a-79984492?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
-     "link": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
+     "title": "EN DIRECT, guerre en Ukraine : le pont de Crimée de nouveau touché, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure",
+     "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html",
      "source": "Le Monde"
     },
     {
-     "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-     "source": "Euronews"
+     "title": "Ucrânia faz terceiro ataque à ponte da Crimeia às vésperas de encontro de Putin com Trump e Xi",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ucrania-faz-terceiro-ataque-a-ponte-da-crimeia-as-vesperas-de-encontro-de-putin-com-trump-e-xi.shtml",
+     "source": "Folha — Mundo"
     }
    ]
   },
   {
    "topic": "Venezuela",
-   "sources": 6,
+   "sources": 4,
    "examples": [
-    {
-     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-     "source": "The Guardian"
-    },
     {
      "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
      "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
@@ -236,110 +283,53 @@
      "title": "Pete Hegseth viaja a Caracas para firmar con Delcy Rodríguez un acuerdo de cooperación militar entre EEUU y Venezuela",
      "link": "https://www.eldiario.es/internacional/pete-hegseth-viaja-caracas-firmar-delcy-rodriguez-acuerdo-cooperacion-militar-eeuu-venezuela_1_13675311.html",
      "source": "elDiario.es"
+    },
+    {
+     "title": "Military Ties Agreement: US and Venezuela restore cooperation; political future remains uncertain",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-venezuela-sign-military-deal-as-trump-administration-seeks-closer-ties/articleshow/135975509.cms",
+     "source": "Times of India"
     }
    ]
   },
   {
-   "topic": "Hakeem",
-   "sources": 5,
+   "topic": "Black",
+   "sources": 3,
    "examples": [
     {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "US House Democrats nominate Hakeem Jeffries for speaker",
-     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
-     "link": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "Hegseth",
-   "sources": 5,
-   "examples": [
-    {
-     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-     "source": "The Guardian"
-    },
-    {
-     "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
-     "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Pete Hegseth viaja a Caracas para firmar con Delcy Rodríguez un acuerdo de cooperación militar entre EEUU y Venezuela",
-     "link": "https://www.eldiario.es/internacional/pete-hegseth-viaja-caracas-firmar-delcy-rodriguez-acuerdo-cooperacion-militar-eeuu-venezuela_1_13675311.html",
-     "source": "elDiario.es"
-    },
-    {
-     "title": "Hegseth vai a Caracas, e EUA e Venezuela anunciam acordo militar",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/hegseth-vai-a-caracas-e-eua-e-venezuela-anunciam-acordo-militar.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "House",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "US House Democrats nominate Hakeem Jeffries for speaker",
-     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-     "source": "Euronews"
-    },
-    {
-     "title": "Democrats nominate Jeffries to be first black US House speaker",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374962/democrats-nominate-jeffries-be-first-black-us-house-speaker",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Ucrânia",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Would Ukraine trade land for NATO membership or protection?",
-     "link": "https://www.dw.com/en/would-ukraine-trade-land-for-nato-membership-or-protection/a-79984492?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-     "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+     "title": "US Democrats nominate Jeffries to be first Black House speaker",
+     "link": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
      "source": "France 24"
     },
     {
-     "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
-     "link": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
-     "source": "Le Monde"
+     "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
+     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
+     "source": "Euronews"
+    },
+    {
+     "title": "Levi’s, Calvin Klein y Adidas: 25 ofertas de moda que merece la pena comprar este Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-moda.html",
+     "source": "El País"
+    }
+   ]
+  },
+  {
+   "topic": "Coreia",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+     "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "El temor a las trampas con IA marca el examen de acceso a la universidad en Corea del Sur",
+     "link": "https://www.infobae.com/america/agencias/2026/11/19/el-temor-a-las-trampas-con-ia-marca-el-examen-de-acceso-a-la-universidad-en-corea-del-sur/",
+     "source": "Infobae"
+    },
+    {
+     "title": "Trump afirma que Kim Jong-un gostaria de se reunir com ele, enquanto ditador visita resort na Coreia do Norte",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-afirma-que-kim-jong-un-gostaria-de-se-reunir-com-ele-enquanto-ditador-visita-resort-na-coreia-do-norte.shtml",
+     "source": "Folha — Mundo"
     }
    ]
   }
@@ -354,60 +344,60 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-     "published": "2026-11-18T20:14+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+     "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+     "published": "2026-11-19T02:20+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
     },
     {
-     "title": "William and Kate meet PM Modi as they wrap up India tour",
-     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-     "published": "2026-11-18T20:07+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
+     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+     "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+     "published": "2026-11-19T01:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
     },
     {
-     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-     "published": "2026-11-18T17:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
+     "title": "Crimean Bridge attacked again, Russian official says",
+     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+     "published": "2026-11-19T01:05+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
     },
     {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-     "published": "2026-11-18T17:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+     "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+     "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+     "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+     "published": "2026-11-19T00:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
     },
     {
-     "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-     "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-     "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
-     "published": "2026-11-18T17:09+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png"
+     "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+     "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+     "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+     "published": "2026-11-19T00:38+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg"
     },
     {
-     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-     "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-     "published": "2026-11-18T17:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg"
+     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+     "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+     "published": "2026-11-18T23:47+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg"
     },
     {
-     "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-     "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-     "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-     "published": "2026-11-18T17:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg"
+     "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+     "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+     "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+     "published": "2026-11-18T23:28+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-     "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-     "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-     "published": "2026-11-18T16:33+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg"
+     "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+     "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+     "summary": "No state has ever been found guilty by an international court of committing genocide.",
+     "published": "2026-11-18T23:04+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg"
     }
    ]
   },
@@ -419,60 +409,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-     "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted…",
-     "published": "2026-11-18T20:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a"
-    },
-    {
-     "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-     "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several…",
-     "published": "2026-11-18T20:11+00:00",
-     "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
+     "summary": "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too. I think we spy better than they do’ Sign up for US breaking News email Linked to that, the White House held a briefing call…",
+     "published": "2026-11-19T02:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d"
     },
     {
-     "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-     "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-     "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as…",
-     "published": "2026-11-18T20:03+00:00",
-     "image": "https://i.guim.co.uk/img/media/fe32e8fff64ccad51c80ae6cbee03e277ab28439/170_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=f3803d60f09103d48c5683bac96d774d"
+     "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+     "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+     "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast Youth fashion chain General Pants Co has become the…",
+     "published": "2026-11-19T01:46+00:00",
+     "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d"
     },
     {
-     "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
-     "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
-     "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie”…",
-     "published": "2026-11-18T19:45+00:00",
-     "image": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cc38d0284f108bb45abb2f0de8259ad8"
+     "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+     "link": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+     "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after…",
+     "published": "2026-11-19T01:12+00:00",
+     "image": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=cdc902f13711b00113b62f2359c282f2"
     },
     {
-     "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-     "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-     "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs…",
-     "published": "2026-11-18T19:34+00:00",
-     "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140"
+     "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+     "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spending Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald…",
+     "published": "2026-11-19T01:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/0d10d08459c8b09152e92f3ebf55f9712a98d380/2128_149_4811_3852/master/4811.jpg?width=140&quality=85&auto=format&fit=max&s=8839487fb786add260720cdfc034e3e8"
     },
     {
-     "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+     "title": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
      "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-     "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps…",
-     "published": "2026-11-18T19:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/9432928875c16c5c5a9c3b9c8d3e334dd23625f8/524_697_5957_4767/master/5957.jpg?width=140&quality=85&auto=format&fit=max&s=6d388abce6f55007babfc8823253b9b5"
+     "summary": "Storm expected to move into southern California, with LA residents warned of potential evacuation orders Heavy rain pounded California’s Bay area, with record rainfall in downtown San Francisco and flooding and power…",
+     "published": "2026-11-19T01:03+00:00",
+     "image": "https://i.guim.co.uk/img/media/f9f5212fc0956900ba97c6edec783a649f9bb14b/630_0_6300_5042/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=a535c6eaf85cf6ca207953a5b7cc1559"
     },
     {
-     "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-     "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-     "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term…",
-     "published": "2026-11-18T19:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/f7ad60a116dae04179547396d95174f6a9e9f4d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f5cf8619c3e847045eddc8cc1b23273b"
+     "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+     "summary": "Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statement Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon’s claims about the…",
+     "published": "2026-11-19T01:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/0531a2e953231af47512ada3cda5ebb111031ea5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0c5c24c6477967ed5f7c90be9a04b6d2"
     },
     {
-     "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
-     "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-     "summary": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop…",
-     "published": "2026-11-18T19:14+00:00",
-     "image": "https://i.guim.co.uk/img/media/4616ce07e7f4de93e722db12aac9bc8b412424c5/0_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=f371062e4069fc225f68db85be5fe6f9"
+     "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+     "link": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+     "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not been fully assessed, say investigators The superyacht Bayesian, which sank in a storm off Sicily killing seven people including the tech…",
+     "published": "2026-11-19T00:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/825ecd867cce6a2e631d42ff9c349a0da9713bf2/483_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d07447a96b088d4f99cd9e584c34a"
+    },
+    {
+     "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+     "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+     "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia A key bridge connecting annexed Crimea to Russia has been…",
+     "published": "2026-11-18T23:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/1f65e3d2ebcc8d811a18f37903e44996945c8da4/687_199_2164_1731/master/2164.jpg?width=140&quality=85&auto=format&fit=max&s=9c83e43296f3dcc9b75586c112cf0b22"
     }
    ]
   },
@@ -526,16 +516,16 @@
      "image": ""
     },
     {
-     "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-     "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate…",
+     "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+     "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
      "published": "2026-11-18T10:00+00:00",
      "image": ""
     },
     {
-     "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-     "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
+     "title": "China and the U.S. are the world's biggest polluters. And the U.S. is falling behind",
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+     "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate…",
      "published": "2026-11-18T10:00+00:00",
      "image": ""
     }
@@ -548,6 +538,27 @@
    "region": "europa",
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
+    {
+     "title": "Almost 1 in 4 children live in conflict zones — report",
+     "link": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf",
+     "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
+     "published": "2026-11-19T00:34+00:00",
+     "image": ""
+    },
+    {
+     "title": "Grand Theft Auto VI released as gamers rejoice globally",
+     "link": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-rdf",
+     "summary": "After 13 years of waiting, fans around the world will get to play the latest installment in the blockbuster video game series. In focus: A tale of crime and violence in a fictionalized version of Miami.",
+     "published": "2026-11-18T23:58+00:00",
+     "image": ""
+    },
+    {
+     "title": "What the Crimean bridge attack means for Russia",
+     "link": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf",
+     "summary": "Ukraine's latest strike on the Kerch Bridge has disrupted a key transport link between Russia and Crimea. Beyond the damage, the attack could have serious consequences for Russian military logistics and Putin's prestige.",
+     "published": "2026-11-18T20:30+00:00",
+     "image": ""
+    },
     {
      "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
      "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
@@ -582,27 +593,6 @@
      "summary": "When \"GTA VI\" is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
      "published": "2026-11-18T17:13+00:00",
      "image": ""
-    },
-    {
-     "title": "US House Democrats nominate Hakeem Jeffries for speaker",
-     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
-     "summary": "Jeffries is set to be the first Black speaker of the US House of Representatives when Democrats take control of the chamber next year. He will be second in line to the presidency.",
-     "published": "2026-11-18T15:46+00:00",
-     "image": ""
-    },
-    {
-     "title": "Borussia Dortmund bows to fan pressure and end Rheinmetall deal",
-     "link": "https://www.dw.com/en/borussia-dortmund-bows-to-fan-pressure-and-end-rheinmetall-deal/a-79980121?maca=en-rss-en-all-1573-rdf",
-     "summary": "Borussia Dortmund has reluctantly ended its association with a major sponsor after long-term fan protests. They are not the first Bundesliga club to u-turn, as commercial interests clash with politics and fan culture.",
-     "published": "2026-11-18T15:39+00:00",
-     "image": ""
-    },
-    {
-     "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-     "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-all-1573-rdf",
-     "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-     "published": "2026-11-18T15:15+00:00",
-     "image": ""
     }
    ]
   },
@@ -614,60 +604,60 @@
    "url": "https://www.france24.com/en/rss",
    "items": [
     {
-     "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-     "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
-     "summary": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into…",
-     "published": "2026-11-18T18:17+00:00",
-     "image": "https://s.france24.com/media/display/6b1cf78a-e374-11f1-ae39-1ba7ddfab527/w:1024/p:16x9/2026-11-17T132708Z-373589621-RC2PPOA5FXQR-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CRIMEA-SBU.jpg"
+     "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
+     "link": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+     "summary": "Vanuatu's Environment Minister Ralph Regenvanu has called for changes to the UN climate summit process, accusing a small group of countries of blocking progress and warning that COP31 risks reversing previous…",
+     "published": "2026-11-19T02:00+00:00",
+     "image": "https://s.france24.com/media/display/e3717e5c-e3bc-11f1-b3ed-6d75ed565170/w:1024/p:16x9/AP26321662340752.jpg"
     },
     {
-     "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
-     "link": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
-     "summary": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College…",
-     "published": "2026-11-18T17:48+00:00",
-     "image": "https://s.france24.com/media/display/2bed0054-e370-11f1-905e-7908c4e1a3c7/w:1024/p:16x9/EN-20261118-150609-151600-CS-01.jpg"
+     "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+     "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+     "summary": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The meeting between Xi Jinping, Donald…",
+     "published": "2026-11-19T01:47+00:00",
+     "image": "https://s.france24.com/media/display/adbf2d2c-e358-11f1-ba43-1ba7ddfab527/w:1024/p:16x9/AP26322481866969.jpg"
     },
     {
-     "title": "French ex-PM Philippe pledges to slash spending, hike retirement age as Elysée bid falters",
-     "link": "https://www.france24.com/en/france/20261118-french-ex-pm-philippe-pledges-to-slash-spending-hike-retirement-age-as-elys%C3%A9e-bid-falters",
-     "summary": "Former prime minister Édouard Philippe pledged on Wednesday to slash public spending, scrap France’s statutory 35-hour workweek and raise the retirement age to 65 from the current 62.9 years as he unveiled a slew of…",
-     "published": "2026-11-18T17:16+00:00",
-     "image": "https://s.france24.com/media/display/1bccebde-e353-11f1-bf1a-6d75ed565170/w:1024/p:16x9/000-D7UY3G7.jpg"
+     "title": "24-month matured Comté crowned world’s best cheese",
+     "link": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+     "summary": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jura Mountains, has beaten more than five…",
+     "published": "2026-11-18T22:32+00:00",
+     "image": "https://s.france24.com/media/display/1cb81224-e396-11f1-bbfa-c5c0357b2a0c/w:1024/p:16x9/EN-20261118-221442-221615-CS.jpg"
     },
     {
-     "title": "War in Ukraine: Is France in direct conflict with Russia?",
-     "link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
-     "summary": "An investigation published by the French public radio channel RFI on November 17 revealed that a confidential mission by the French army known as \"Volia\" has been used for months to conceal the presence of French…",
-     "published": "2026-11-18T16:57+00:00",
-     "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png"
+     "title": "Inside Limoges City Hall devastated by arson attack",
+     "link": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+     "summary": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign…",
+     "published": "2026-11-18T22:23+00:00",
+     "image": "https://s.france24.com/media/display/a034574a-e39e-11f1-bfdd-7908c4e1a3c7/w:1024/p:16x9/capture-fa1f6e70.jpg"
     },
     {
-     "title": "Senate leadership challenge exposes divisions among Democrat",
-     "link": "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat",
-     "summary": "As Democrats prepare to take control of the Senate, incumbent minority leader Chuck Schumer is facing an insurgent leadership bid from Senator Chris Van Hollen and disputes over party leadership are exposing divisions…",
-     "published": "2026-11-18T16:39+00:00",
-     "image": "https://s.france24.com/media/display/553e2200-e36e-11f1-9b21-6d75ed565170/w:1024/p:16x9/EN-20261118-171318-171504-CS.jpg"
+     "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
+     "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
+     "summary": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some…",
+     "published": "2026-11-18T21:51+00:00",
+     "image": "https://s.france24.com/media/display/1e5b1bea-e39a-11f1-83bd-6d75ed565170/w:1024/p:16x9/kerch.png"
     },
     {
-     "title": "Russia’s new low-cost munitions pose a fresh threat to Ukraine",
-     "link": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
-     "summary": "Dan-T, Filin and Geran-5 might not mean anything to you, but in Ukraine, everyone is talking about these munitions. These new Russian weapons are small, fast and cheap – and a major threat, as they were specially…",
-     "published": "2026-11-18T16:19+00:00",
-     "image": "https://s.france24.com/media/display/87fb8c48-ddf9-11f1-b48e-3f371022a770/w:1024/p:16x9/cou1.jpg"
+     "title": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
+     "link": "https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party",
+     "summary": "In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown willingness for a push to create their own…",
+     "published": "2026-11-18T21:21+00:00",
+     "image": "https://s.france24.com/media/display/99dabb00-e394-11f1-9448-6d75ed565170/w:1024/p:16x9/DL00006190-VOD-00023669-01.jpg"
     },
     {
-     "title": "Israel begins new military operation in Gaza",
-     "link": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-     "summary": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its ​forces were targeting ‌Hamas infrastructure outside the \"Yellow Line\" that sets the boundary…",
-     "published": "2026-11-18T16:12+00:00",
-     "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg"
+     "title": "Reconstruction begins at Limoges City Hall after devastating fire",
+     "link": "https://www.france24.com/en/reconstruction-begins-at-limoges-city-hall-after-devastating-fire",
+     "summary": "It's been a month since the nationwide protests that degenerated in violence across France. The dramatic pictures of the historic City Hall in the French city of Limoges set on fire made headlines worldwide. To the…",
+     "published": "2026-11-18T20:31+00:00",
+     "image": "https://s.france24.com/media/display/3b54e79a-cbfc-11f1-a1af-2d1c143cdef3/w:1024/p:16x9/000-D3LR764-1.jpg"
     },
     {
-     "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
-     "link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
-     "summary": "Palestinians fled their tents and shelters in central Gaza on Wednesday after Israel launched a rare ground operation in an area it withdrew ​from under a ‌2025 ceasefire. The Israeli army said it crossed the Yellow…",
-     "published": "2026-11-18T16:03+00:00",
-     "image": "https://s.france24.com/media/display/291a44ea-e375-11f1-8738-6d75ed565170/w:1024/p:16x9/2026-11-18T145851Z-876917872-RC2DQOALE3WH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
+     "title": "US Democrats nominate Jeffries to be first Black House speaker",
+     "link": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+     "summary": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. Jeffries faced no…",
+     "published": "2026-11-18T19:58+00:00",
+     "image": "https://s.france24.com/media/display/a8e4f9b8-e389-11f1-908f-1ba7ddfab527/w:1024/p:16x9/EN-20261118-204203-204553-CS.jpg"
     }
    ]
   },
@@ -679,6 +669,20 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
+     "title": "EN DIRECT, guerre en Ukraine : le pont de Crimée de nouveau touché, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure",
+     "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html",
+     "summary": "« La circulation est temporairement interrompue » sur ce pont reliant la Crimée annexée à la Russie, a rapporté Sergueï Aksionov, le responsable nommé par Moscou. Dans la nuit de lundi à mardi, déjà, des attaques…",
+     "published": "2026-11-19T02:02+00:00",
+     "image": "https://img.lemde.fr/2026/11/18/135/0/3590/1795/644/322/60/0/30de633_ftp-1-mb4fdxcx9soe-f6f52be8ccf047c496c3b70f590155fd-1-176517b3ee9646bb99ceff4b5454cf6e.jpg"
+    },
+    {
+     "title": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
+     "link": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html",
+     "summary": "La cour d’assises spéciale de Paris a condamné deux ex-épouses d’Adrien Guihal, haut cadre de l’EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville (Yvelines), ainsi qu’une ancienne militaire jugée à…",
+     "published": "2026-11-18T21:00+00:00",
+     "image": "https://img.lemde.fr/2026/07/28/250/0/3000/1500/644/322/60/0/1c6b991_upload-1-t6j3tcpl3wzf-frame-1194.jpg"
+    },
+    {
      "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
      "link": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
      "summary": "Son élection attendue en janvier aurait un poids hautement symbolique, le président de la Chambre des représentants étant à la tête de l’une des institutions les plus puissantes à Washington et le deuxième dans l’ordre…",
@@ -688,7 +692,7 @@
     {
      "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
      "link": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
-     "summary": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain.",
+     "summary": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros en 2027.",
      "published": "2026-11-18T20:12+00:00",
      "image": "https://img.lemde.fr/2026/11/16/458/0/5500/2750/644/322/60/0/0e2c329_ftp-1-sg7c6ekpveej-2026-11-16t134931z-2145001215-rc2yooamsqwb-rtrmadp-3-eu-enlargement.JPG"
     },
@@ -719,20 +723,6 @@
      "summary": "Selon le secrétaire d’Etat à la défense américain, Pete Hegseth, en visite surprise à Caracas, l’accord vise à « garantir que le peuple vénézuélien ne soit pas menacé par des acteurs étrangers, des narcoterroristes ou…",
      "published": "2026-11-18T18:34+00:00",
      "image": "https://img.lemde.fr/2026/11/18/649/0/5000/2500/644/322/60/0/5beb6f6_ftp-1-lnzdazzx28ii-2026-11-18t173601z-208770846-rc2owm5owbh2-rtrmadp-3-venezuela-usa.JPG"
-    },
-    {
-     "title": "Dans « La Part algérienne de la France », l’essayiste Karim Amellal célèbre une hybridation culturelle incomparable",
-     "link": "https://www.lemonde.fr/idees/article/2026/11/18/dans-la-part-algerienne-de-la-france-l-essayiste-karim-amellal-celebre-une-hybridation-culturelle-incomparable_6813185_3232.html",
-     "summary": "Dans son nouvel ouvrage, l’écrivain franco-algérien appelle la société française à assumer pleinement le versant algérien de son imaginaire, qui demeure largement occulté.",
-     "published": "2026-11-18T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/13/160/0/1920/960/644/322/60/0/bbf11f8_upload-1-cj2vme48k7r3-part-algerienne-de-la-france.jpg"
-    },
-    {
-     "title": "Au Danemark, la première ministre sociale-démocrate Mette Frederiksen franchit un nouveau pas vers l’extrême droite en parlant de « grand remplacement »",
-     "link": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
-     "summary": "Dans un podcast, mardi 17 novembre, la cheffe du gouvernement danois a évoqué cette théorie complotiste, se livrant à une surenchère supplémentaire dans le domaine de l’immigration. Ses propos ont été salués par…",
-     "published": "2026-11-18T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/16/405/0/4864/2432/644/322/60/0/d668e44_ftp-1-e136ik95rjen-2026-11-16t154235z-407822163-rc23poajuozr-rtrmadp-3-europe-migration-rwanda.JPG"
     }
    ]
   },
@@ -743,6 +733,27 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "Alleged Russian agent arrested for spying on Silicon Valley tech firm",
+     "link": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
+     "summary": "The company was not named in the indictment but was described as a large, publicly traded technology and defence firm with offices across the US, including in Palo Alto, California.",
+     "published": "2026-11-18T22:05+00:00",
+     "image": ""
+    },
+    {
+     "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
+     "link": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
+     "summary": "The Salvadoran president welcomes the destruction of the home of Jeff Larose, one of Haiti's main crime leaders. It is not clear whether Jeff was in the building during the bombing.",
+     "published": "2026-11-18T21:58+00:00",
+     "image": ""
+    },
+    {
+     "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
+     "link": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
+     "summary": "The US Defence Secretary met Delcy Rodríguez in Caracas ahead of a planned visit to Colombia, where he is due to discuss bilateral security cooperation.",
+     "published": "2026-11-18T21:02+00:00",
+     "image": ""
+    },
     {
      "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
      "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
@@ -777,27 +788,6 @@
      "summary": "In Shenzhen, China, humanoid robots serve coffee and ice cream while AI developers use human-recorded movements to train machines for everyday jobs.",
      "published": "2026-11-18T15:20+00:00",
      "image": ""
-    },
-    {
-     "title": "GTA 6 countdown begins as billboards go up from Tokyo to Sydney",
-     "link": "https://www.euronews.com/video/2026/11/18/gta-6-countdown-begins-as-billboards-go-up-from-tokyo-to-sydney",
-     "summary": "GTA VI fever grips Australia, Japan and New Zealand ahead of its 19 November release, with record downloads expected.",
-     "published": "2026-11-18T14:38+00:00",
-     "image": ""
-    },
-    {
-     "title": "Iraqi court jails six French Islamic State members for life",
-     "link": "https://www.euronews.com/2026/11/18/iraqi-court-jails-six-french-islamic-state-members-for-life",
-     "summary": "More than 5,700 Islamic State detainees whom the US moved from Syria to Iraq are due to go on trial from Sunday, while rights groups question whether Iraq’s courts are fair.",
-     "published": "2026-11-18T14:20+00:00",
-     "image": ""
-    },
-    {
-     "title": "Baku, Tbilisi and Astana join forces to expand Middle Corridor as Belgian firms eye investment",
-     "link": "https://www.euronews.com/2026/11/18/baku-tbilisi-and-astana-join-forces-to-expand-middle-corridor-as-belgian-firms-eye-investm",
-     "summary": "Azerbaijan, Georgia and Kazakhstan have drawn up a joint plan to increase Middle Corridor freight capacity to around 30 million tonnes a year by 2029, as Belgian companies discuss a logistics hub in Kazakhstan and…",
-     "published": "2026-11-18T14:14+00:00",
-     "image": ""
     }
    ]
   },
@@ -809,60 +799,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
+     "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+     "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+     "summary": "La empresa de inteligencia artificial debuta este jueves con un precio de salida de 83 dólares por acción, por encima de la banda orientativa, y amplía la oferta un 19%, gracias a la fuerte demanda de los inversores",
+     "published": "2026-11-19T00:25+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6"
+    },
+    {
+     "title": "190 millones de dólares por un ‘van gogh’: la subasta de ‘Los castaños en flor’ alcanza cifras récord",
+     "link": "https://elpais.com/us/2026-11-18/190-millones-de-dolares-por-un-van-gogh-la-subasta-de-los-castanos-en-flor-alcanza-cifras-record.html",
+     "summary": "Un acuerdo de última hora entre los actuales propietarios de la obra y los herederos del antiguo dueño judío que habían intentado impugnar la venta permitió que la pieza cambie de manos",
+     "published": "2026-11-18T23:42+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/4S77BYP2NJMAZN4NITAVLB5PYU.jpg?auth=460d89efc87fe87bb08769db81b587d417b38410db00a3fabd919d799022118f"
+    },
+    {
+     "title": "Levi’s, Calvin Klein y Adidas: 25 ofertas de moda que merece la pena comprar este Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-moda.html",
+     "summary": "Vaqueros, jerséis, sudaderas, zapatillas y botas de marcas conocidas con descuentos de hasta el 66% en Amazon. ¡Es el momento de renovar el armario!",
+     "published": "2026-11-18T23:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/M7D2EKFBXJFQ5KMO5KG42JELTU.png?auth=3a86aa72906fb1c39da99172f54db91cab1a48499003d5fbd939f95ccc205656"
+    },
+    {
+     "title": "Los 20 chollos tecnológicos que comprar esta semana de Black Friday en Amazon",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-tecnologia.html",
+     "summary": "Un altavoz inteligente, unos auriculares inalámbricos o una batería externa tienen algunos de los mejores precios. Los descuentos duran solo unos días",
+     "published": "2026-11-18T23:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/BHJZ3CDKNRAEDESMJKCPNKSWUM.png?auth=d83c17d6831ad96dd7430ec2faee74bc6a963bccdd4699b3abd5adec08a5c70b"
+    },
+    {
+     "title": "El limpiador de tapicerías de Bissell que arrasa en Amazon cae a su precio mínimo histórico por Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-limpiador-tapicerias-bissell.html",
+     "summary": "Este aparato de limpieza combina potencia, capacidad de succión y tecnología ‘Heatwave’ para eliminar las manchas más difíciles en casa o en el coche",
+     "published": "2026-11-18T23:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/LQKCPX27DFGWVGICL5TL2SRLAM.png?auth=749c92b84c319322ab38603a4031cf1aeb44c1b10826a4b43853b4051e72ee37"
+    },
+    {
+     "title": "Dormir como en un hotel de cinco estrellas sin salir de casa: las almohadas viscoelásticas ya rebajadas en Black Friday",
+     "link": "https://elpais.com/escaparate/estilo-de-vida/almohadas-viscoelasticas.html",
+     "summary": "Firmeza agradable, tacto suave y fundas fáciles de lavar para mejorar tus noches de sueño sin gastar una fortuna",
+     "published": "2026-11-18T23:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/OMPONUPBVBAEHFV4QGAZH7WGBA.png?auth=86921cd07afa40ac97a629bf242065eac9aed60ca43d426447eceb6eb637344f"
+    },
+    {
+     "title": "Jugar mejor o vender más, el nuevo debate del ajedrez de élite",
+     "link": "https://elpais.com/ajedrez/actualidad/2026-11-18/jugar-mejor-o-vender-mas-el-nuevo-debate-del-ajedrez-de-elite.html",
+     "summary": "Varias estrellas se estresan por los acelerados controles de tiempo en el Total Chess de Budapest para aumentar el número de espectadores",
+     "published": "2026-11-18T20:42+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/WUPOA3N65BFKJILLDYUQ6NTFHI.jpg?auth=6d7c1d026d0bd96c4744ef212bdb90d2ce8dccca4fef6ae02dc5d64f573c8f9c"
+    },
+    {
      "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
      "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
      "summary": "El periódico despliega un equipo de analistas y de especialistas en todas las áreas para seguir el único debate a dos de la campaña del 29-N",
-     "published": "2026-11-18T20:16+00:00",
+     "published": "2026-11-18T20:33+00:00",
      "image": "https://imagenes.elpais.com/resizer/v2/SH26JHNQGNFDTCUTKOKKMKANBY.jpg?auth=f66abec58e20ecf5e8b324af325dfe2fbe26b1f0cc2ff061e6e81d0712b5c18a"
-    },
-    {
-     "title": "Unas imágenes excepcionales de un contacto con indígenas aislados subrayan las amenazas a la Amazonia en Brasil",
-     "link": "https://elpais.com/internacional/2026-11-18/unas-imagenes-ineditas-en-30-anos-de-un-contacto-con-indigenas-aislados-subrayan-las-amenazas-a-la-amazonia-en-brasil.html",
-     "summary": "Una veintena de nativos pueblo awá sale de las profundidades de la selva tropical para pedir comida ante el asedio de madereros furtivos, cazadores y ganaderos",
-     "published": "2026-11-18T19:50+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/FZ3C6HNQXRMUFAOWRVSSRQEEFE.jpg?auth=6ce83bc46d270585f0684277ce52f4ee1309b59ed5b77a3ddb99cced5938967f"
-    },
-    {
-     "title": "Un Madrid irreconocible se diluye en Estambul contra el Besiktas",
-     "link": "https://elpais.com/deportes/baloncesto/2026-11-18/un-madrid-irreconocible-se-diluye-en-estambul-contra-el-besiktas.html",
-     "summary": "El conjunto blanco pierde su quinto partido en la Euroliga (83-79) en un duelo en que nunca se encontró cómodo",
-     "published": "2026-11-18T19:48+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/KF2V57RCINCWRLRBB4FIRTGCIA.jpg?auth=8ac43eeec051649fa525ca8836787b0e852a70213156f922636ad3a4055fa5b5"
-    },
-    {
-     "title": "Videoanálisis | ¿Se debe apoyar una legalización de los inmigrantes sin derecho al voto?",
-     "link": "https://elpais.com/us/2026-11-18/videoanalisis-se-debe-apoyar-una-legalizacion-de-los-inmigrantes-sin-derecho-al-voto.html",
-     "summary": "Jorge Ramos habla con el activista Carlos Eduardo Espina sobre su controvertida propuesta de una reforma migratoria con permiso de trabajo, pero sin derecho al sufragio",
-     "published": "2026-11-18T19:44+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/OPQDSU7MTVCSFIJ4ZSUAXAP5RU.png?auth=f24bebec5412f41767d5fed3ac95a15abf077d1c57844cb49be055782acd098c"
-    },
-    {
-     "title": "LOS40 hacen un milagrito con Estopa",
-     "link": "https://elpais.com/cultura/2026-11-18/los40-hacen-un-milagrito-con-estopa.html",
-     "summary": "En el marco de los Music Awards Santander 2026 de la cadena musical, los hermanos Muñoz ofrecen un concierto secreto en el Tibidabo ante cien personas",
-     "published": "2026-11-18T19:30+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/47J5BKFIDBGKNBI4YUGUDI6WG4.jpg?auth=5ffb661903802a7ed8e385f10adf8f95c91599b0c693c1c6aa541d7a1d58aada"
-    },
-    {
-     "title": "¿Cómo de exactos son los datos de vivienda que los candidatos están usando en la campaña?",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/como-de-exactos-son-los-datos-de-vivienda-que-los-candidatos-estan-usando-en-la-campana.html",
-     "summary": "Recopilación de medias verdades sobre vivienda, inmigración y educación de los principales candidatos a la presidencia del Gobierno",
-     "published": "2026-11-18T19:13+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/BJYYBOMM2BDDRK54UBOO6PSAGA.jpg?auth=4a1f6f84030de83cf47b7726180fde83e62aae91f3bf472db775f576fff40bfd"
-    },
-    {
-     "title": "La magnitud de la salida a Bolsa de Anthropic, en cifras",
-     "link": "https://elpais.com/us/economia/2026-11-18/la-magnitud-de-la-salida-a-bolsa-de-anthropic-en-cifras.html",
-     "summary": "La compañía creadora de Claude está por concretar su oferta pública inicial de acciones, que se anticipa valore a la empresa en unos 1,4 billones de dólares",
-     "published": "2026-11-18T18:51+00:00",
-     "image": ""
-    },
-    {
-     "title": "Enrique de Inglaterra asegura que volvería a alistarse en el ejército para luchar contra Rusia: “Si surgiera la necesidad, estaría allí al 100% para servir a mi país”",
-     "link": "https://elpais.com/gente/2026-11-18/enrique-de-inglaterra-asegura-que-volveria-a-alistarse-en-el-ejercito-para-luchar-contra-rusia-si-surgiera-la-necesidad-estaria-alli-al-100-para-servir-a-mi-pais.html",
-     "summary": "El hijo pequeño del rey Carlos III protagonizó la semana pasada su cuarta visita a Ucrania, donde se reunió con veteranos y heridos en la guerra y dio una entrevista en exclusiva a ‘The Telegraph’. Según publica este…",
-     "published": "2026-11-18T18:37+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/FPFDNWO7VVLALEGV4LWK5KPD4Q.jpg?auth=12fa41c4563022a9ca902663b4c244e95852e383ac20e53c59576fe6b787df1f"
     }
    ]
   },
@@ -874,60 +864,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "ERC carga contra Hereu y Urtasun por ser “poco útiles” con Catalunya: “Han sido invisibles”",
-     "link": "https://www.lavanguardia.com/politica/elecciones/20261118/11687575/erc-carga-hereu-urtasun-poco-utiles-catalunya-han-sido-invisibles.html",
-     "summary": "Gabriel Rufián acusa a los que dicen que “están en el medio” de estar “colaborando con los malos”: “Es elegir entre los que niegan derechos o los que los reconocen”",
-     "published": "2026-11-18T19:55+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afdffa6cced6.r_d.2170-1582-0.jpeg"
+     "title": "Un 29-N cogido con pinzas",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687511/29-n-cogido-pinzas.html",
+     "summary": "El murmullo en las colas adquiría un tono nasal inconfundible, una especie de resonancia colectiva que unificaba todos los acentos y todas las edades en un mismo timbre metálico. Aquel 29-N las cuatro paredes de los…",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afdd797853fb.r_d.1668-482-2881.jpeg"
     },
     {
-     "title": "Deco no descarta fichar un central en enero",
-     "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261118/11687561/deco-no-descarta-central-barca-fichar-enero-balde.html",
-     "summary": "El director deportivo blaugrana anima a Balde a revertir su situación en el club y elogia la consolidación de Xavi Espart",
-     "published": "2026-11-18T19:17+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a98650fc40c4.r_d.3351-4385-0.jpeg"
+     "title": "Poco más de 19 días y 500 noches",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687524/poco-mas-19-dias-500-noches.html",
+     "summary": "Como en la canción de Sabina, la buena relación entre Sánchez y Feijóo apenas duró",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/10/10/6343e03f6e0b3.r_d.1590-843-0.jpeg"
     },
     {
-     "title": "Isabel Preysler, 76 años: “Cuando mis hijos eran pequeños no tenía confianza para hablar de temas sexuales”",
-     "link": "https://www.lavanguardia.com/television/20261118/11687560/isabel-preysler-76-anos-mis-hijos-pequenos-tenia-confianza-hablar-temas-sexuales.html",
-     "summary": "La socialité ha sido nombrada Presidenta de Honor de la Fundación No Me Toques en un acto en Madrid",
-     "published": "2026-11-18T19:14+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afdf8893cd72.jpeg"
+     "title": "La responsabilidad de Feijóo",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687372/responsabilidad-feijoo.html",
+     "summary": "Gobernar España exige más que atender los territorios que te votan: comprender a quienes nunca te votarán",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afdbe59e18eb.jpeg"
     },
     {
-     "title": "El NSN de Iniesta ficha a Primoz Roglic",
-     "link": "https://www.lavanguardia.com/deportes/ciclismo/20261118/11687540/nsn-iniesta-ficha-primoz-roglic.html",
-     "summary": "El veterano esloveno firma por una temporada con un conjunto que se está reforzando",
-     "published": "2026-11-18T18:37+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/06/66db737c0599b.r_d.2784-1856-806.jpeg"
+     "title": "Superad la lideritis (por caridad)",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687204/superad-lideritis-caridad.html",
+     "summary": "La izquierda dilapida líderes a una velocidad que claramente no se puede permitir",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afdec8c4383f.jpeg"
     },
     {
-     "title": "La garrapata de Ayuso",
-     "link": "https://www.lavanguardia.com/politica/20261118/11687537/garrapata-ayuso.html",
-     "summary": "Ayuso se ha empeñado en hacer de oposición a Feijóo. Cómo se explica, si no, que en lo que llevamos de campaña haya despotricado de los sindicatos llamándoles “mafia” y “basura”, asegurado que “Andalucía es la última…",
-     "published": "2026-11-18T18:36+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afdef8f34bc5.r_d.2558-1241-1334.jpeg"
+     "title": "El puente de Crimea",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687411/puente-crimea.html",
+     "summary": "Xi, Trump y Putin, ante el reto de terminar con las guerras en Ucrania e Irán",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afdcc474c662.jpeg"
     },
     {
-     "title": "Desalojos y revisiones en al menos 45 colegios de Galicia por falsos avisos de bomba",
-     "link": "https://www.lavanguardia.com/vida/20261118/11687529/desalojos-revisiones-45-colegios-galicia-falsos-avisos-bomba.html",
-     "summary": "En algunos casos, no fue necesario efectuar un desalojo al no haber personas en el centro",
-     "published": "2026-11-18T18:18+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afdeb7a26e0f.r_d.259-192-8651.jpeg"
+     "title": "La frivolización de la opinión",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687211/frivolizacion-opinion.html",
+     "summary": "Buena parte del debate público funciona como si la especialización fuera una extravagancia",
+     "published": "2026-11-18T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afd9935ef446.jpeg"
     },
     {
-     "title": "No es una mampara corredera: la alternativa plegable, práctica y moderna perfecta para baños pequeños",
-     "link": "https://www.lavanguardia.com/comprar/hogar-cocina/20261118/11686488/mampara-corredera-alternativa-plegable-practica-moderna-perfecta-banos-pequenos-mkt-alie.html",
-     "summary": "Si la mampara corredera te ocupa mucho espacio en tu baño pequeño, opta por esta alternativa tan elegante y funcional. ¡Te va a encantar!",
-     "published": "2026-11-18T18:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/17/6afc4f6c6c92e.jpeg"
-    },
-    {
-     "title": "Rosalía, mucho más que una voz: las claves de un talento extraordinario",
-     "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261118/11687514/rosalia-mas-voz-claves-talento-extraordinario.html",
-     "summary": "El musicólogo Daniel Gómez, autor de una tesis doctoral sobre la cantante, analiza en Claves del día las claves de su éxito internacional, la evolución vocal que ha culminado en Lux y su capacidad para conectar con las…",
-     "published": "2026-11-18T17:42+00:00",
+     "title": "Batlle, el sheriff puntual",
+     "link": "https://www.lavanguardia.com/opinion/20261119/11687605/batlle-sheriff-puntual.html",
+     "summary": "El teniente de alcalde de Seguridad de Barcelona es un hombre de orden en toda regla",
+     "published": "2026-11-18T23:10+00:00",
      "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg"
+    },
+    {
+     "title": "“Los mayores tenemos ventaja sobre los jóvenes al usar la IA”",
+     "link": "https://www.lavanguardia.com/lacontra/20261119/11687538/ethan-mollick-mayores-ventaja-sobre-jovenes-ia.html",
+     "summary": "Tengo 51 años y la ventaja de que ya sabía pensar sin IA: impido que disuada del esfuerzo de aprender a mis hijos. Soy de EE.UU. Confío en que la UE no se quede atrás. La IA nos da el triunfo a quienes trabajamos con…",
+     "published": "2026-11-18T23:05+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afdefeab0554.r_d.3404-2048-710.jpeg"
     }
    ]
   },
@@ -939,6 +929,41 @@
    "url": "https://www.eldiario.es/rss/",
    "items": [
     {
+     "title": "Anthropic fija en 83 dólares por acción el precio de su salida a bolsa y prevé recaudar 94.000 millones para superar a SpaceX",
+     "link": "https://www.eldiario.es/economia/anthropic-fija-83-dolares-accion-precio-salida-bolsa-valora-empresa-94-000-millones-spacex_1_13675570.html",
+     "summary": "Anthropic espera recaudar 94.000 millones, una cifra superior a la de SpaceX, que en junio recaudó 75.000 millones de dólares en su oferta pública inicial, o 86.200 millones de dólares si se incluye la opción de…",
+     "published": "2026-11-18T22:04+00:00",
+     "image": "https://static.eldiario.es/clip/ec157a5b-1641-42fd-bb90-ac1fe2d3111a_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Rufián busca el voto desencantado del PSC: \"Si dudas de Hereu, aquí está ERC\"",
+     "link": "https://www.eldiario.es/catalunya/rufian-busca-voto-desencantado-psc-si-dudas-hereu-erc_1_13675504.html",
+     "summary": "El candidato republicano asegura en Lleida que \"no es lo mismo tener a Abascal de vicepresidente que a Carlos Cuerpo exigido\" Entrevista - Gabriel Rufián: “A Abascal le paga Israel y a Sílvia Orriols le paga Israel” El…",
+     "published": "2026-11-18T21:00+00:00",
+     "image": "https://static.eldiario.es/clip/72fac173-b0ac-4adf-9599-c3744e1d66f8_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "La paradoja del caso Julio Iglesias",
+     "link": "https://www.eldiario.es/escolar/paradoja-caso-julio-iglesias_132_13675387.html",
+     "summary": "Lo que publicamos hace diez meses en elDiario.es era cierto entonces y sigue siendo cierto hoy, cuando la Audiencia Nacional ha considerado que la denuncia de dos mujeres que trabajaron para el cantante debe ser…",
+     "published": "2026-11-18T20:35+00:00",
+     "image": "https://static.eldiario.es/clip/ccd40061-b693-43ea-94f1-ebe5a697fd66_16-9-discover-aspect-ratio_default_0_x783y18.jpg"
+    },
+    {
+     "title": "Israel lanza una operación terrestre en Gaza más allá de la Línea Amarilla acordada en el alto el fuego de 2025",
+     "link": "https://www.eldiario.es/internacional/israel-lanza-operacion-terrestre-gaza-linea-amarilla-acordada-alto-fuego-2025_1_13675414.html",
+     "summary": "Miles de personas, muchas de ellas desplazadas durante el genocidio, viven en la zona en el centro de la Franja donde han irrumpido las tropas israelíes con vehículos militares El ejército israelí ha lanzado una…",
+     "published": "2026-11-18T20:22+00:00",
+     "image": "https://static.eldiario.es/clip/4bde049b-c2ad-485d-86b9-454c33ce8542_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "El especial de Datadista 'España (des)protegida', publicado en elDiario.es, gana el premio API 2026 de periodismo de datos",
+     "link": "https://www.eldiario.es/redaccion/especial-datadista-espana-des-protegida-publicado-eldiario-gana-premio-api-2026-periodismo-datos_132_13675321.html",
+     "summary": "La investigación forma parte de un proyecto europeo que desvela cómo edificaciones ilegales destruyeron en el continente 9.000 kilómetros cuadrados de naturaleza y tierras de cultivo entre 2018 y 2023 Especial - España…",
+     "published": "2026-11-18T20:22+00:00",
+     "image": "https://static.eldiario.es/clip/4d73ab2e-3aad-4d3e-917b-d2d82324aa8d_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
      "title": "Pete Hegseth viaja a Caracas para firmar con Delcy Rodríguez un acuerdo de cooperación militar entre EEUU y Venezuela",
      "link": "https://www.eldiario.es/internacional/pete-hegseth-viaja-caracas-firmar-delcy-rodriguez-acuerdo-cooperacion-militar-eeuu-venezuela_1_13675311.html",
      "summary": "\"Me enorgullece anunciar que Estados Unidos y Venezuela han firmado un acuerdo histórico que restablece una asociación militar renovada\", ha anunciado el secretario de Guerra desde la capital de Venezuela Pete Hegseth…",
@@ -948,7 +973,7 @@
     {
      "title": "Un estudio sugiere que un fármaco similar a la viagra podría ralentizar la progresión del alzheimer",
      "link": "https://www.eldiario.es/sociedad/estudio-sugiere-farmaco-similar-viagra-ralentizar-progresion-alzheimer_1_13674445.html",
-     "summary": "Los expertos califican los resultados de un ensayo clínico con un medicamento que ralentizó el deterioro cognitivo en casi un tercio como \"muy prometedores\", aunque recominedan realizar más estudios Un estudio…",
+     "summary": "Los expertos califican los resultados de un ensayo clínico con un medicamento que ralentizó el deterioro cognitivo en casi un tercio como \"muy prometedores\", aunque recomiendan realizar más estudios Un estudio…",
      "published": "2026-11-18T19:00+00:00",
      "image": "https://static.eldiario.es/clip/fc33bd43-0d21-4c0b-8975-27f6fe5164a7_16-9-discover-aspect-ratio_default_0.jpg"
     },
@@ -958,41 +983,6 @@
      "summary": "La Fundación Seat Cupra pone en marcha el programa Charge for Good con el fin de distribuir el 5% de la electricidad recargada por el nuevo modelo en España a familias vulnerables con pobreza energética Los nuevos…",
      "published": "2026-11-18T18:59+00:00",
      "image": "https://static.eldiario.es/clip/144253e7-d59c-4d4c-b8a6-30a86e0e2d0e_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "La candidata del PP al Congreso por Valladolid defiende que la cultura \"no admite censuras ni en positivo ni en negativo\"",
-     "link": "https://www.eldiario.es/castilla-y-leon/politica/candidata-pp-congreso-valladolid-defiende-cultura-no-admite-censuras-positivo-negativo_1_13675287.html",
-     "summary": "\"No queremos que haya nadie que no pueda acceder a las ayudas y espacios públicos por su pensamiento y al revés\", ha asegurado Maria Pardo El PSOE de Castilla y León critica la censura de “los herederos del franquismo”…",
-     "published": "2026-11-18T18:50+00:00",
-     "image": "https://static.eldiario.es/clip/76553858-20fc-493a-9fc7-f4ef314a4c57_16-9-discover-aspect-ratio_default_0_x1072y320.jpg"
-    },
-    {
-     "title": "La media de las encuestas: caída mínima del Frente Amplio que no altera la diferencia entre bloques",
-     "link": "https://www.eldiario.es/politica/media-encuestas-caida-minima-frente-amplio-no-altera-diferencia-bloques_1_13675156.html",
-     "summary": "El promedio diario realizado por elDiario.es sitúa a la suma de PP y Vox en 193 escaños, muy por encima de la mayoría absoluta, y da 147 a la suma de las izquierdas a semana y media de las elecciones generales del 29N…",
-     "published": "2026-11-18T18:33+00:00",
-     "image": "https://static.eldiario.es/clip/86736fa5-78fe-439b-aeff-56f8d17c409b_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "El Gobierno de Ayuso pagó más de 1.400 millones de euros en 2025 a los hospitales que gestionan Quirón y Ribera Salud",
-     "link": "https://www.eldiario.es/madrid/gobierno-ayuso-pago-1-400-millones-euros-2025-hospitales-gestionan-quiron-ribera-salud_1_13674982.html",
-     "summary": "La Comunidad de Madrid aumentó el presupuesto inicial que iba a ser destinado a los hospitales gestionados por los dos gigantes sanitarios, un aumento de los pagos que se lleva produciendo especialmente desde que Ayuso…",
-     "published": "2026-11-18T18:23+00:00",
-     "image": "https://static.eldiario.es/clip/40037142-be27-49e7-8f04-77b16249bc3c_16-9-discover-aspect-ratio_default_0_x1796y492.jpg"
-    },
-    {
-     "title": "Cayetana Álvarez de Toledo: \"Necesitamos inmigración que trabaje mientras los españoles se ponen a tener bebés\"",
-     "link": "https://www.eldiario.es/politica/cayetana-alvarez-toledo-necesitamos-inmigracion-trabaje-espanoles-ponen-bebes_1_13675078.html",
-     "summary": "La número dos de Feijóo en las elecciones del 29 de noviembre sostiene en un encuentro con militantes en Elche que \"el Gobierno tiene que decidir cuántos, cuándo, cómo y para qué entran\" las personas extranjeras en…",
-     "published": "2026-11-18T18:22+00:00",
-     "image": "https://static.eldiario.es/clip/1632689c-5688-45ea-96a4-de86a6d82193_16-9-discover-aspect-ratio_default_0_x905y454.jpg"
-    },
-    {
-     "title": "Los cálculos del Frente Amplio para la campaña: a menos de dos puntos de arrebatar cinco escaños a PP o Vox",
-     "link": "https://www.eldiario.es/politica/cuentas-frente-amplio-campana-puntos-arrebatar-cinco-escanos-pp-vox_1_13673928.html",
-     "summary": "Apoyándose en su propia reestimación del CIS, la coalición asegura que se encuentra a dos décimas de lograr representación en Asturias y a un punto de conseguir escaño en Sevilla, ambos en detrimento de la derecha El…",
-     "published": "2026-11-18T18:17+00:00",
-     "image": "https://static.eldiario.es/clip/00013d64-2d8f-4c9b-86e3-a485bea9e6b1_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -1004,60 +994,60 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
-     "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-     "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
-     "summary": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
-     "published": "2026-11-18T20:22+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg"
+     "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
+     "link": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+     "summary": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
+     "published": "2026-11-19T02:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-     "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-     "summary": "The Colombian president said his nation would not allow Americans forces to take part in anti-cartel operations on its soil.",
-     "published": "2026-11-18T20:21+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg"
+     "title": "Here’s the latest.",
+     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+     "summary": "",
+     "published": "2026-11-19T01:57+00:00",
+     "image": ""
+    },
+    {
+     "title": "India is not in the room in Shenzhen, but it’s watching closely.",
+     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
+     "summary": "Prime Minister Narendra Modi of India at the ASEAN-U.S. Summit, in Manila on Tuesday.",
+     "published": "2026-11-19T01:47+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+     "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+     "summary": "South Korea is sending emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+     "published": "2026-11-19T01:44+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-skorea-exam-klmw/18int-skorea-exam-klmw-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+     "link": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+     "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+     "published": "2026-11-19T01:14+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg"
     },
     {
      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of…",
-     "published": "2026-11-18T20:13+00:00",
+     "published": "2026-11-19T00:57+00:00",
      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-     "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-     "summary": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
-     "published": "2026-11-18T20:08+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
-     "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
-     "summary": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
-     "published": "2026-11-18T18:38+00:00",
-     "image": ""
     },
     {
      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
      "summary": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
-     "published": "2026-11-18T17:52+00:00",
+     "published": "2026-11-19T00:52+00:00",
      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-yalta/18xp-yalta-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-     "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-     "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
-     "published": "2026-11-18T17:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-     "link": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-     "summary": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
-     "published": "2026-11-18T17:42+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg"
+     "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+     "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+     "summary": "The Colombian president said his nation would not allow American forces to take part in anti-cartel operations on its soil.",
+     "published": "2026-11-19T00:30+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -1069,6 +1059,27 @@
    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
    "items": [
     {
+     "title": "Newsom arrives in D.C. with an AI plan, as Trump aides struggle to address outages",
+     "link": "https://www.latimes.com/politics/story/2026-11-18/newsom-arrives-in-d-c-with-ai-plan-as-trump-aides-struggle-to-address-outages",
+     "summary": "Gov. Gavin Newsom accused President Trump and his administration of failing to lead on artificial intelligence while releasing his own plan for industry oversight in Washington on Wednesday.",
+     "published": "2026-11-18T22:34+00:00",
+     "image": ""
+    },
+    {
+     "title": "Russian spy stalked, photographed Silicon Valley tech defense company workers, feds say",
+     "link": "https://www.latimes.com/california/story/2026-11-18/feds-russian-spy-silicon-valley-pursuit",
+     "summary": "A Russian spy surveilled employees of a Silicon Valley tech and defense company because it supplies Ukraine, the U.S. Department of Justice alleges in a federal indictment released Wednesday.",
+     "published": "2026-11-18T20:46+00:00",
+     "image": "https://ca-times.brightspotcdn.com/dims4/default/d1c0090/2147483647/strip/false/crop/504x353+0+0/resize/504x353!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Fec%2F39a6e6b2451b919b025dae7f6bb0%2Fla-me-russian-spy-fake-passport.jpg"
+    },
+    {
+     "title": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
+     "link": "https://www.latimes.com/business/story/2026-11-18/tech-layoffs-flare-up-in-san-diego-with-hundreds-of-layoffs-at-chipmaker",
+     "summary": "The cuts come weeks after CEO Cristiano Amon announced a \"performance-focused reduction\" following annual reviews.",
+     "published": "2026-11-18T20:45+00:00",
+     "image": ""
+    },
+    {
      "title": "'It's not fine': Massive tech failures fuel alarm about critical U.S. infrastructure, AI",
      "link": "https://www.latimes.com/world-nation/story/2026-11-18/outages-alarm-vulnerabilities-critical-infrastructure",
      "summary": "After Americans faced a series of snafus trying to catch flights, send emails and log into bank accounts, experts warn of potential weaknesses in the technology that runs critical infrastructure.",
@@ -1076,7 +1087,7 @@
      "image": ""
     },
     {
-     "title": "Trump arrives in China for a meeting with historic adversaries",
+     "title": "Trump arrives in China for a meeting with historic U.S. adversaries",
      "link": "https://www.latimes.com/story/2026-11-18/trump-arrives-in-china-for-meeting-with-historic-adversaries",
      "summary": "President Trump is set to join the leaders of Russia and China for an unprecedented trilateral summit in China.",
      "published": "2026-11-18T13:24+00:00",
@@ -1102,27 +1113,6 @@
      "summary": "The Pan American Health Organization has officially revoked the United States' measles elimination status after determining the virus has circulated uninterrupted for more than a year.",
      "published": "2026-11-17T17:00+00:00",
      "image": ""
-    },
-    {
-     "title": "A divided Trump team closes ranks ahead of AI talks with China",
-     "link": "https://www.latimes.com/politics/story/2026-11-17/divided-trump-team-closes-ranks-ahead-of-ai-talks-with-china",
-     "summary": "A new rule tightening loopholes in U.S. export controls sends a dual message to Beijing ahead of Thursday's summit.",
-     "published": "2026-11-17T14:33+00:00",
-     "image": ""
-    },
-    {
-     "title": "NASA's Voyager 1 will soon be so far away that its messages take a day to reach Earth",
-     "link": "https://www.latimes.com/science/story/2026-11-17/nasas-voyager-1-to-reach-record-breaking-light-day-distance-from-earth",
-     "summary": "On Wednesday, after half a century in space, the Voyager 1 spacecraft will be so far from Earth, it will take a full day for light to travel between it and Earth. It's \"a tribute to the engineers who designed something…",
-     "published": "2026-11-17T11:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Chabria: California loses a 'hummingbird' but the movement lives on",
-     "link": "https://www.latimes.com/california/story/2026-11-16/california-dolores-huerta-memorial-capitol-becerra",
-     "summary": "Dolores Huerta spent one last day in California's Capitol as mourners came to pay respects, but her legacy under the dome and in the Golden State lives on.",
-     "published": "2026-11-17T00:52+00:00",
-     "image": ""
     }
    ]
   },
@@ -1134,60 +1124,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "Revelan que el sobrino de Jorge Nieto trabaja con el presidente de la Cámara de Diputados y cobra más de S/8.000",
-     "link": "https://www.infobae.com/peru/2026/11/18/revelan-que-el-sobrino-de-jorge-nieto-trabaja-con-el-presidente-de-la-camara-de-diputados-y-cobra-mas-de-s8000/",
-     "summary": "El licenciado en Administración Ernesto Nieto Vega se desempeña como asesor del presidente de la Cámara Baja, Óscar Reto, según reveló Panamericana TV",
-     "published": "2026-11-18T20:27+00:00",
-     "image": "https://www.infobae.com/resizer/v2/Q5UZ45DE45EX3MMNTPHSF3GIOM.jpg?auth=f6dd227fcfc9ab28e33403500e00e6ed077f86b2eb796998dd300bc385f5b527&smart=true&width=980&height=556"
+     "title": "Tres extranjeros intentaron viajar a España suplantando la identidad de ciudadanos peruanos en el aeropuerto Jorge Chávez",
+     "link": "https://www.infobae.com/peru/2026/11/19/tres-extranjeros-intentaron-viajar-a-espana-suplantando-la-identidad-de-ciudadanos-peruanos-en-el-aeropuerto-jorge-chavez/",
+     "summary": "Un ciudadano ecuatoriano y una pareja de bolivianos fueron interceptados con documentos auténticos pertenecientes a terceros, decomisados por el personal de la Sala APIs durante el control de salida",
+     "published": "2026-11-19T02:31+00:00",
+     "image": "https://www.infobae.com/resizer/v2/VURJQB77DRGSNDRG6BR2TXLSOA.png?auth=989363bc0999afd8d8cad418b9fe6e1e82a13343394290d839b2250168237727&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Selva peruana soportará hasta 38 °C: Once regiones entre las perjudicadas, según Senamhi",
-     "link": "https://www.infobae.com/peru/2026/11/18/selva-peruana-soportara-hasta-38-c-once-regiones-entre-las-perjudicadas-segun-senamhi/",
-     "summary": "El pronóstico incluye ráfagas de viento, noches con temperaturas elevadas y posible presencia de chubascos entre el jueves 19 y el sábado 21 de noviembre",
-     "published": "2026-11-18T20:27+00:00",
-     "image": "https://www.infobae.com/resizer/v2/QQBZ364NBVD2ROISXO26JVNFKI.jpg?auth=03bca08d713e31b57347375f8e8e06a5f0a2ea22b5787263dd24e5e54fdb12ea&smart=true&width=1920&height=1080"
+     "title": "Greeicy compartió su punto de vista sobre los piropos que recibe en la calle: “Tampoco voy a abrir una puerta innecesaria”",
+     "link": "https://www.infobae.com/colombia/2026/11/19/greeicy-compartio-su-punto-de-vista-sobre-los-piropos-que-recibe-en-la-calle-tampoco-voy-a-abrir-una-puerta-innecesaria/",
+     "summary": "Durante una entrevista, la artista abordó todo tipo de temas que incluyeron desde su experiencia viviendo en Miami, hasta la oportunidad de conocer a uno de los Backstreet Boys",
+     "published": "2026-11-19T02:31+00:00",
+     "image": "https://www.infobae.com/resizer/v2/4EVVURPNEJA3VKI7J4TW7OCD7Q.JPG?auth=8c70a74e8ed2c4c1a0fc1e464ba824f612ea80e78d4207c11c05c86eda91e42d&smart=true&width=4914&height=3280"
     },
     {
-     "title": "Anitta debuta en GTA VI como la Dra. Nita en un pódcast exclusivo sobre relaciones e intimidad",
-     "link": "https://www.infobae.com/tecno/2026/11/18/anitta-debuta-en-gta-vi-como-la-dra-nita-en-un-podcast-exclusivo-sobre-relaciones-e-intimidad/",
-     "summary": "Más allá del pódcast de la cantante, compositora y bailarina brasileña, Rockstar incorporó a Grand Theft Auto VI un total de 22 estaciones de radio",
-     "published": "2026-11-18T20:27+00:00",
-     "image": "https://www.infobae.com/resizer/v2/M4SM5DGAMFGZTMJDMFQSLZ3EVI.png?auth=403fdb9a90b5a3d926ff8bc3622ff3fe714cfebafce6490b968a483a233c3f1e&smart=true&width=1920&height=1080"
+     "title": "Yaya Muñoz reveló lo que se dijo con Karola luego de terminar su combate en ‘Stream Fighters 5’: “Yo suelto esto”",
+     "link": "https://www.infobae.com/colombia/2026/11/19/yaya-munoz-revelo-lo-que-se-dijo-con-karola-luego-de-terminar-su-combate-en-stream-fighters-5-yo-suelto-esto/",
+     "summary": "La presentadora y exparticipante de ‘La casa de los famosos Colombia’ se llevó el cinturón en el Royal Rumble en el que se midió también ante Beba de la Cruz y Alexa Torrex",
+     "published": "2026-11-19T02:31+00:00",
+     "image": "https://www.infobae.com/resizer/v2/OSXSNEUCRJEUFARCUDLBHYHTMU.jpg?auth=e187a76e24a3dcf257481705303b3cbd18620a67477ec50557890a5a332cf26c&smart=true&width=960&height=540"
     },
     {
-     "title": "Warren Buffett dona acciones por USD 5.470 millones a cuatro fundaciones familiares",
-     "link": "https://www.infobae.com/america/mundo/2026/11/18/warren-buffett-dona-acciones-por-usd-5470-millones-a-cuatro-fundaciones-familiares/",
-     "summary": "El empresario de 96 años compartió estos títulos entre la organización que lleva el nombre de su primera esposa y otras tres entidades ligadas a sus hijos, en el marco de su plan para transferir casi toda su fortuna…",
-     "published": "2026-11-18T20:27+00:00",
-     "image": "https://www.infobae.com/resizer/v2/ZODNF5UMDRHXZD4SKITK4OIXUA.jpg?auth=7f94df53d16fe2836c1513a7b44f4c7368b7f0af253216814cd031bbbde9ed09&smart=true&width=1920&height=1080"
+     "title": "Aldo Rendón cree que él pudo ser el ganador de La Casa de los Famosos: lamenta problemas de salud",
+     "link": "https://www.infobae.com/mexico/2026/11/19/aldo-rendon-cree-que-el-pudo-ser-el-ganador-de-la-casa-de-los-famosos-lamenta-problemas-de-salud/",
+     "summary": "El fashion stulist tuvo que abandonar el reality show por recomendación médica dado que un nódulo de gran tamaño requiriere una cirugía para ser retirado",
+     "published": "2026-11-19T02:30+00:00",
+     "image": "https://www.infobae.com/resizer/v2/5N54VUD5D5F6XCLH2CLHVD3IDY.jpeg?auth=0fe365ca2e164832cfe27efc2829e40280a3a95a42c1c047ff218055bb6ce0bf&smart=true&width=702&height=479"
     },
     {
-     "title": "Triple lesbicidio en Barracas: condenaron a prisión perpetua a Justo Barrientos, el único acusado",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/11/18/triple-lesbicidio-en-barracas-condenaron-a-prision-perpetua-a-justo-barrientos-el-unico-acusado/",
-     "summary": "El acusado recibió la pena máxima por los asesinatos de Pamela Cobbas, Roxana Figueroa y Andrea Amarante, y por el intento de homicidio de Sofía Castro Riglos, la única sobreviviente del ataque",
-     "published": "2026-11-18T20:27+00:00",
-     "image": "https://www.infobae.com/resizer/v2/DNUXLOFZPJFIJCOVE3ZRCYVUBM.jpg?auth=5d9f19957f138b3986fe3c0776459d9879a4f3c65c1e5e6814578c48e4b4c239&smart=true&width=1920&height=1080"
+     "title": "El temor a las trampas con IA marca el examen de acceso a la universidad en Corea del Sur",
+     "link": "https://www.infobae.com/america/agencias/2026/11/19/el-temor-a-las-trampas-con-ia-marca-el-examen-de-acceso-a-la-universidad-en-corea-del-sur/",
+     "summary": "Ruy A. Valdés Seúl, 19 nov (EFE).- Más de medio millón de estudiantes surcoreanos afrontan este jueves el exigente examen nacional de acceso a la universidad, una jornada que altera la actividad de todo el país y que…",
+     "published": "2026-11-19T02:30+00:00",
+     "image": ""
     },
     {
-     "title": "Cambios en la reforma electoral: el Gobierno admite desprolijidad y asegura tener los votos para suspender las PASO",
-     "link": "https://www.infobae.com/politica/2026/11/18/cambios-en-la-reforma-electoral-el-gobierno-admite-desprolijidad-y-asegura-tener-los-votos-para-suspender-las-paso/",
-     "summary": "Tras las modificaciones anunciadas por Bullrich, en Casa Rosada sostienen que cuentan con los apoyos para postergar las primarias. Los números que manejan, el contrapunto con la UCR y las lecturas de especulación…",
-     "published": "2026-11-18T20:25+00:00",
-     "image": "https://www.infobae.com/resizer/v2/UWDIV7PTWBCZ5JCGMBGPJNXH5U.jpg?auth=a53d0fb15d40a2857b5d853b957d241750044eedf046d268348a73e8ad13f1c2&smart=true&width=1600&height=1200"
+     "title": "Alianza Verde reveló qué es lo que apoya y lo que rechaza de la Ley de Rescate Económico del Gobierno: planteó nuevas ideas y condiciones",
+     "link": "https://www.infobae.com/colombia/2026/11/19/alianza-verde-revelo-que-es-lo-que-apoya-y-lo-que-rechaza-de-la-ley-de-rescate-economico-del-gobierno-planteo-nuevas-ideas-y-condiciones/",
+     "summary": "El partido indicó que no apoya ninguna medida que reduzca el poder adquisitivo de los hogares o que encarezca el empleo formal",
+     "published": "2026-11-19T02:30+00:00",
+     "image": "https://www.infobae.com/resizer/v2/HIDHMTBPPNERFFG4OQM2CTCTFU.png?auth=25fbea542a94f3eea2d63a172be562b12f763f48b4c2f777ca51a1d02ae9dc35&smart=true&width=1800&height=1080"
     },
     {
-     "title": "La virtuosa violinista y cantante Violeta Diez llega por primera vez a Buenos Aires e inicia una gira sudamericana",
-     "link": "https://www.infobae.com/cultura/2026/11/18/la-virtuosa-violinista-y-cantante-violeta-diez-llega-por-primera-vez-a-buenos-aires-e-inicia-su-primera-gira-sudamericana/",
-     "summary": "Al frente del Violeta Veinte Trío, la artista española se presenta este miércoles en el CCEBA con entrada gratuita, antes de continuar por Rosario, Córdoba, Chile, Uruguay y Paraguay",
-     "published": "2026-11-18T20:23+00:00",
-     "image": "https://www.infobae.com/resizer/v2/7XLBRW2XIRFFFOWGJUONAA32LY.jpg?auth=bfc6f2e16b1b2de20ad7f43c4ae5a232cd29acc89842756cb061e144d86fa41d&smart=true&width=5760&height=3840"
+     "title": "Xi aboga por una cooperación \"abierta\" y no \"excluyente\" durante la cumbre de la APEC",
+     "link": "https://www.infobae.com/america/agencias/2026/11/19/xi-aboga-por-una-cooperacion-abierta-y-no-excluyente-durante-la-cumbre-de-la-apec/",
+     "summary": "Shenzhen (China), 19 nov (EFE).- El presidente de China, Xi Jinping, abogó este jueves por \"avanzar de forma constante\" en la integración económica de Asia-Pacífico y desarrollar un \"modelo de cooperación abierto e…",
+     "published": "2026-11-19T02:30+00:00",
+     "image": ""
     },
     {
-     "title": "La historia de Victoria, la niña en silla de ruedas que recibió la bendición del papa León XIV durante su visita a Lima",
-     "link": "https://www.infobae.com/peru/2026/11/18/la-historia-de-victoria-la-nina-en-silla-de-ruedas-que-recibio-la-bendicion-del-papa-leon-xiv-durante-su-visita-a-lima/",
-     "summary": "La pequeña recibió palabras de aliento del sumo pontífice, quien la llamó valiente y también bendijo a sus padres. La familia obtuvo dos rosarios durante el encuentro en la Plaza de Armas",
-     "published": "2026-11-18T20:23+00:00",
-     "image": "https://www.infobae.com/resizer/v2/6DYN62HR6ZAC3AUTFPUCQTQMZU.jpg?auth=538d29abedd460e5b133fdc08a6e1b018a2b29bc22107a63ebbec695832ff38e&smart=true&width=1920&height=1080"
+     "title": "Jimena Monteverde recordó el accidente doméstico que sufrió mientras atravesaba uno de sus embarazos: \"La maté\"",
+     "link": "https://www.infobae.com/teleshow/2026/11/19/jimena-monteverde-recordo-el-accidente-domestico-que-sufrio-mientras-atravesaba-uno-de-sus-embarazos-la-mate/",
+     "summary": "Monteverde reveló que había aumentado cerca de 32 kilos y que esa noche no podía ver sus pies mientras caminaba por su casa",
+     "published": "2026-11-19T02:28+00:00",
+     "image": "https://www.infobae.com/resizer/v2/ZXFLIOIAAZDI7MEUJQTK75GDGM.jpg?auth=c796d2f9f39a6439cf5e1a2269d0d80e0001cf6d2ecfa8479893fef0d1b2b5c0&smart=true&width=1920&height=1280"
     }
    ]
   },
@@ -1199,59 +1189,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "'Grand Theft Auto 6' é uma obra-prima, dizem os críticos: 'Não há nada igual'",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/grand-theft-auto-6-e-uma-obra-prima-dizem-os-criticos-nao-ha-nada-igual.shtml",
-     "summary": "Após 13 anos de espera, trailers que quebraram recordes e longos atrasos, os críticos deram sua resposta a uma das maiores perguntas do ano. Leia mais (11/18/2026 - 17h27)",
-     "published": "2026-11-18T20:27+00:00",
+     "title": "Corinthians goleia o Botafogo com três de Kaio César e deixa a zona de rebaixamento",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/corinthians-goleia-o-botafogo-com-tres-de-kaio-cesar-e-deixa-a-zona-de-rebaixamento.shtml",
+     "summary": "O Corinthians vai dormir com um pouco de tranquilidade depois de três rodadas consecutivas na zona de rebaixamento do Brasileiro ao golear o Botafogo por 4 a 0 na noite desta quarta-feira (18), na Neo Química Arena , em…",
+     "published": "2026-11-19T02:21+00:00",
      "image": ""
     },
     {
-     "title": "Juan Mata, campeão mundial pela Espanha em 2010, anuncia aposentadoria",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/juan-mata-campeao-mundial-pela-espanha-em-2010-anuncia-aposentadoria.shtml",
-     "summary": "O espanhol Juan Mata, campeão pela Espanha na Copa do Mundo de 2010 e na Eurocopa de 2012, anunciou nesta quarta-feira (18) sua aposentadoria como jogador, aos 38 anos, após duas décadas no futebol profissional. Leia…",
-     "published": "2026-11-18T20:25+00:00",
+     "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
+     "summary": "Com leilões de infraestrutura na bolsa de valores como marca do primeiro mandato, Tarcísio de Freitas (Republicanos) pretende fortalecer nos próximos quatro anos o controle sobre as concessões públicas que promoveu…",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "O Master e o brasileiro desconfiado",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/o-master-e-o-brasileiro-desconfiado.shtml",
-     "summary": "Para entender a ascensão da extrema-direita na América Latina é preciso recuar no tempo e considerar o sentimento popular que por aqui pouco se alterou em mais de três décadas de experiência democrática. Eis o recado da…",
-     "published": "2026-11-18T20:18+00:00",
+     "title": "Curaçao, no Caribe, vai além do mar azul e esbanja diversidade cultural",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/curacao-no-caribe-vai-alem-do-mar-azul-e-esbanja-diversidade-cultural.shtml",
+     "summary": "A apenas 70 km da Venezuela , em uma ilha um pouco maior do que Curitiba e com apenas 158 mil habitantes, o famoso azul-turquesa do mar do sul do Caribe é apenas um pano de fundo para uma das mais ricas e diversas…",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "É preciso politizar a reforma do Judiciário",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/e-preciso-politizar-a-reforma-do-judiciario.shtml",
-     "summary": "Dizem que reformar o Judiciário não é tarefa para qualquer um: \"Não se deve promover uma reforma contra o Poder Judiciário, mas construir reformas com o Poder Judiciário, em diálogo com os demais Poderes, com as funções…",
-     "published": "2026-11-18T20:15+00:00",
+     "title": "Após demolições, conselho decide sobre tombamento de 62 imóveis na Santa Cecília, em SP",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/apos-demolicoes-conselho-decide-sobre-tombamento-de-62-imoveis-na-santa-cecilia-em-sp.shtml",
+     "summary": "Cerca de um mês após a demolição de um sobrado na rua Canuto do Val gerar repercussão nas redes sociais, o Conpresp (conselho municipal de patrimônio cultural) decidirá nesta quinta-feira (19) sobre o tombamento…",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Secretário de Transportes dos EUA diz que governo está implementando medidas para evitar novo caos aéreo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/secretario-de-transportes-dos-eua-diz-que-governo-esta-implementando-medidas-para-evitar-novo-caos-aereo.shtml",
-     "summary": "O secretário de Transportes dos Estados Unidos , Sean Duffy, afirmou nesta quarta-feira (18) que o problema em um roteador que levou à paralisação dos voos em todo o país deveria ter sido identificado mais rapidamente e…",
-     "published": "2026-11-18T20:08+00:00",
+     "title": "Curaçao North Sea Jazz Festival mescla música local e jazz internacional",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/curacao-north-sea-jazz-festival-mescla-musica-local-e-jazz-internacional.shtml",
+     "summary": "Entre o final de agosto e o começo de setembro, Curaçao recebe o prestigiado Curaçao North Sea Jazz Festival , em que a paixão musical do país atinge o seu ápice. Leia mais (11/18/2026 - 23h00)",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Tashima inscreve chapa na Fifa, mas se dispõe a debater candidatura conjunta",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/tashima-inscreve-chapa-na-fifa-mas-se-dispoe-a-debater-candidatura-conjunta.shtml",
-     "summary": "A JFA (Associação Japonesa de Futebol ) apresentou oficialmente seu presidente de honra, Kozo Tashima, como candidato à presidência da Fifa (Federação Internacional de Futebol), cujas eleições ocorrerão no dia 18 de…",
-     "published": "2026-11-18T20:07+00:00",
+     "title": "Lula deve manter Margareth Menezes na Cultura, apesar de bombardeio",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-deve-manter-margareth-menezes-na-cultura-apesar-de-bombardeio.shtml",
+     "summary": "O presidente Lula ( PT ) já afirmou a interlocutores que pretende manter Margareth Menezes no MinC ( Ministério da Cultura ). Leia mais (11/18/2026 - 23h00)",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Quem é o sem-teto que vive na porta de uma mansão avaliada em R$ 1 bilhão em Londres; veja vídeo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/quem-e-o-sem-teto-que-vive-na-porta-de-uma-mansao-avaliada-em-r-1-bilhao-em-londres-veja-video.shtml",
-     "summary": "Anders Fernstedt mora na entrada de uma das maiores e mais caras casas de Londres . \"Minha presunção quando comecei era: 'Ah, eu sou só um garoto, meus pais estão em casa, apenas pedi permissão para acampar na…",
-     "published": "2026-11-18T20:05+00:00",
+     "title": "Presidente do Memorial da América Latina pede a Lula que avalie federalizar complexo",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-pede-a-lula-que-avalie-federalizar-complexo.shtml",
+     "summary": "O diretor-presidente do Memorial da América Latina , Pedro Machado Mastrobuono, enviou uma carta ao presidente Luiz Inácio Lula da Silva sugerindo a possível transferência do equipamento do governo estadual para o…",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Adolescente apontado como líder de quadrilha de furto a apartamentos é apreendido em São Paulo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/adolescente-apontado-como-lider-de-quadrilha-de-furto-a-apartamentos-e-apreendido-em-sao-paulo.shtml",
-     "summary": "A Polícia Civil de São Paulo apreendeu nesta terça-feira (17) um adolescente de 17 anos investigado sob suspeita de liderar uma quadrilha de menores especializada em invadir apartamentos para furtar. Leia mais…",
-     "published": "2026-11-18T20:02+00:00",
+     "title": "Documentarista consegue registro inédito de um bagre cego em caverna do Petar; veja vídeo",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/e-logo-ali/2026/11/documentarista-consegue-registro-inedito-de-um-bagre-cego-em-caverna-do-petar-veja-video.shtml",
+     "summary": "Na coluna do dia 28 de outubro passado, falamos da reabertura da Caverna Desmoronada no Petar (Parque Estadual Alto do Ribeira), em São Paulo. O destaque foi a trabalheira que equipes de especialistas realizaram ao…",
+     "published": "2026-11-19T02:00+00:00",
      "image": ""
     }
    ]
@@ -1264,60 +1254,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Jovem compra PS5 para jogar GTA VI, mas console queima dias antes do lançamento após raio atingir casa",
-     "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/18/jovem-compra-ps5-para-jogar-gta-vi-mas-console-queima-dias-antes-do-lancamento-apos-raio-atingir-casa.ghtml",
-     "summary": "Jovem compra PS5 para jogar GTA VI, mas raio queima aparelho dias antes do lançamento Um morador de São Roque (SP) teve um prejuízo estimado em R$ 8 mil após um raio atingir sua casa e queimar um PlayStation 5 e outros…",
-     "published": "2026-11-18T20:16+00:00",
-     "image": "https://s2-g1.glbimg.com/QJYiaKDzmV8btiLwtPG4XQtyOS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/N/G8LOV7Q1mSmEJPMrSrgw/texto-do-seu-paragrafo-2026-11-18t165159.786.png"
+     "title": "Justiça do Pará suspende novas obras na Avenida Liberdade",
+     "link": "https://g1.globo.com/pa/para/noticia/2026/11/18/justica-do-para-suspende-novas-obras-na-avenida-liberdade.ghtml",
+     "summary": "Justiça do Pará suspende obras na Avenida Liberdade A Justiça do Pará determinou a suspensão de novas obras na Avenida Liberdade. A decisão aponta irregularidades no último aditivo ao contrato, de R$ 47 milhões…",
+     "published": "2026-11-19T02:20+00:00",
+     "image": ""
     },
     {
-     "title": "TRE-SP determina que Adrilles Jorge devolva R$ 188 mil por irregularidades na campanha; vereador diz que responsabilidade é do partido",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/tre-sp-determina-que-adrilles-jorge-devolva-r-188-mil-por-irregularidades-na-campanha-vereador-diz-que-responsabilidade-e-do-partido.ghtml",
-     "summary": "O vereador Adrilles Jorge (União Brasil) durante discurso na Câmara Municipal de São Paulo. Divulgação/Rede Câmara O Tribunal Regional Eleitoral de São Paulo (TRE-SP) reprovou as contas da campanha de Adrilles Jorge…",
-     "published": "2026-11-18T20:15+00:00",
-     "image": "https://s2-g1.glbimg.com/aOimuYfTHS0SAGFKySBCbLEAJ-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/w/auczURQQOBXfg0Vj0eRw/adrilles-camara-municipal.jpg"
-    },
-    {
-     "title": "Moto usada em ataque a tiros que deixou dois mortos é apreendida em Volta Redonda",
-     "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/moto-usada-em-ataque-a-tiros-que-deixou-dois-mortos-e-apreendida-em-volta-redonda.ghtml",
+     "title": "Concerto no Teatro Amazonas celebra 120 anos do voo do 14-Bis com música e homenagem à aviação",
+     "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/18/concerto-no-teatro-amazonas-celebra-120-anos-do-voo-do-14-bis-com-musica-e-homenagem-a-aviacao.ghtml",
      "summary": "",
-     "published": "2026-11-18T20:14+00:00",
-     "image": "https://s2-g1.glbimg.com/Sz5dZaVu_ZkLKATkAhST8-zmVkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/7/EjUy0STSiztqLrnkrt6g/whatsapp-image-2026-11-18-at-16.41.26-1-.jpeg"
+     "published": "2026-11-19T02:18+00:00",
+     "image": "https://s2-g1.glbimg.com/e9FeE0qgLKqJ-WbJOD7N5Z0juzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/y/B7VTwoRS2N8LoA9j6Kaw/whatsapp-image-2026-11-18-at-22.16.13.jpeg"
     },
     {
-     "title": "Seca afeta quase 9 mil pessoas e leva Óbidos a decretar situação de emergência",
-     "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/18/seca-afeta-quase-9-mil-pessoas-e-leva-obidos-a-decretar-situacao-de-emergencia.ghtml",
-     "summary": "",
-     "published": "2026-11-18T20:08+00:00",
-     "image": "https://s2-g1.glbimg.com/VKwwrszuGrvU8fO4srq-0cb7VCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/CEEiUUQxWCmLbedxbO6g/whatsapp-image-2026-11-18-at-15.48.43.jpeg"
+     "title": "Diretor-geral da PF entrega ao Supremo relatórios e documentos com mensagens que citam ministros da Corte no caso Master",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/diretor-geral-da-pf-entrega-ao-supremo-relatorios-e-documentos-com-mensagens-que-citam-ministros-da-corte-no-caso-master.ghtml",
+     "summary": "Andrei Rodrigues entrega relatórios e documentos do caso Master que citam ministros do Supremo Na noite desta quarta-feira (18), o diretor-geral da Polícia Federal entregou ao presidente do Supremo relatórios e…",
+     "published": "2026-11-19T02:16+00:00",
+     "image": "https://s2-g1.glbimg.com/XknKHbZMW9t1RwSYr6qaGs9BZX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/1/ERhP46SBWI31sbn0DNIw/globo-canal-4-20261118-2000-frame-115484.jpeg"
     },
     {
-     "title": "Ex de tatuadora encontrada morta em SP é preso por suspeita de feminicídio",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/ex-de-tatuadora-encontrada-morta-em-sp-e-preso-por-suspeita-de-feminicidio.ghtml",
-     "summary": "Bianca Carolyne Garbo Reprodução A Polícia Civil prendeu nesta quarta-feira (18) o ex-companheiro da tatuadora Bianca Carolyne Garbo, de 25 anos, por suspeita de feminicídio. O corpo da jovem foi encontrado na manhã…",
-     "published": "2026-11-18T20:08+00:00",
-     "image": "https://s2-g1.glbimg.com/BRgnkAmanc5fO5OuhbUtVmAtN9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/L/mlTVNYQSWcra0UdzzBhQ/fotojet-2026-11-18t114713.538.jpg"
+     "title": "Profissionais do Ano anuncia os vencedores da 48ª edição",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/profissionais-do-ano-anuncia-os-vencedores-da-48a-edicao.ghtml",
+     "summary": "PPA 2026 premia campanhas e talentos que marcaram a publicidade brasileira A Globo anunciou os vencedores da 48ªedição do Prêmio Profissionais do Ano, o PPA. Essa premiação reconhece as ideias e os talentos que ajudam a…",
+     "published": "2026-11-19T01:54+00:00",
+     "image": "https://s2-g1.glbimg.com/nbtEaYFoTWDmkE9j7Bkq2J7SokE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/k/PJSIL7QGadU5zA1QF6Xg/globo-canal-4-20261118-2000-frame-128632.jpeg"
     },
     {
-     "title": "Moradores e comerciantes relatam aumento de furtos de cabos e fiação em Cabo Frio",
-     "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/18/moradores-e-comerciantes-relatam-aumento-de-furtos-de-cabos-e-fiacao-em-cabo-frio.ghtml",
-     "summary": "PM informou que a corporação intensificou o patrulhamento nas áreas onde os furtos têm ocorrido e busca imagens que possam auxiliar a Polícia Civil na identificação dos autores. Câmera de segurança Moradores e…",
-     "published": "2026-11-18T20:06+00:00",
-     "image": "https://s2-g1.glbimg.com/h5rqTJjldL42EmzIYwsy3XJTOhc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/j/fMxrNmTVOEtdTz2JESdA/roubo-cf-fios-1.png"
+     "title": "IBGE: mesmo sendo a maioria da população no Brasil, pessoas pretas e pardas ocupam apenas 30% dos cargos de gerência",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/ibge-mesmo-sendo-a-maioria-da-populacao-no-brasil-pessoas-pretas-e-pardas-ocupam-apenas-30percent-dos-cargos-de-gerencia.ghtml",
+     "summary": "IBGE divulga levantamento sobre desigualdade racial no Brasil O IBGE divulgou um novo levantamento sobre a desigualdade racial no Brasil. Aos 28 anos, Amyla Gomes chegou ao cargo de gerente. Começou ainda como…",
+     "published": "2026-11-19T01:33+00:00",
+     "image": "https://s2-g1.glbimg.com/ZEjOf0DGkRvp5fitTxn3iiDHpd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/Cqn2MxSIADKkGtdHdkSA/globo-canal-4-20261118-2000-frame-126500.jpeg"
     },
     {
-     "title": "'Supersecretária' de Tarcísio foi responsável pela privatização da Sabesp e coordenadora de campanha",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/supersecretaria-de-tarcisio-foi-responsavel-pela-privatizacao-da-sabesp-e-coordenadora-de-campanha.ghtml",
-     "summary": "A secretária estadual Natália Resende. Divulgação/GESP A secretária Natália Resende, responsável pela pasta que conduziu a privatização da Sabesp em 2024 e escolhida por Tarcísio de Freitas (Republicanos) para coordenar…",
-     "published": "2026-11-18T20:03+00:00",
-     "image": "https://s2-g1.glbimg.com/sbGc4Tntntx7Arw1v3HJpIQiTNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/w/vZAagYTR2IhbveVQ6ueA/52625308965-9feb40d742-k.jpg"
+     "title": "Três mulheres e um homem são presos com 9,6 kg de drogas e R$ 18 mil em dinheiro em Boa Vista",
+     "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/tres-mulheres-e-um-homem-sao-presos-com-96-kg-de-drogas-e-r-18-mil-em-dinheiro-em-boa-vista.ghtml",
+     "summary": "Policiais apreenderam cocaína, skunk e crack Polícia Federal/ Divulgação Três mulheres e um homem foram presos com 9,6 kg de drogas, um revólver, seis munições, duas balanças de precisão e R$ 18,6 mil em dinheiro. A…",
+     "published": "2026-11-19T01:26+00:00",
+     "image": "https://s2-g1.glbimg.com/vH6y0o-nnXdxtLnMH0KGUJ20W24=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/Bb0kfqQaeCiZ32cSXiWQ/apreensao-ficco.jpeg"
     },
     {
-     "title": "Menino leva 12 pontos no pescoço após ser atingido por linha com cerol enquanto brincava com patinete em rua",
-     "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/18/menino-leva-pontos-no-pescoco-apos-ser-atingido-por-linha-com-cerol-enquanto-brincava-com-patinete-em-rua.ghtml",
-     "summary": "Menino é atingido por linha com cerol em Araçatuba (SP) Arquivo pessoal Um menino de oito anos levou 12 pontos no pescoço após ser atingido por uma linha com cerol enquanto brincava com um patinete em uma rua em…",
-     "published": "2026-11-18T20:03+00:00",
-     "image": "https://s2-g1.glbimg.com/oU3nW6zwNHBSpaf9fx9euOyzmXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/B/BdimONQTC9Kff7AM3MAQ/design-sem-nome-2026-11-18t170143.099.jpg"
+     "title": "Sarna humana chega a 7 cidades, fecha mais uma creche e soma pelo menos 126 casos confirmados em MS",
+     "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/sarna-humana-chega-a-7-cidades-fecha-mais-uma-creche-e-soma-pelo-menos-126-casos-confirmados-em-ms.ghtml",
+     "summary": "Amambai e Rio Brilhante também têm registros da doença Mato Grosso do Sul já tem casos confirmados de escabiose, conhecida como sarna humana, em pelo menos sete municípios. Dourados, Itaporã, Nova Andradina, Campo…",
+     "published": "2026-11-19T01:21+00:00",
+     "image": "https://s2-g1.glbimg.com/YRLy3zoWuUO5QqhAA8UfbyWMCNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/3/dmhr8jQv6UfWPmLTLcMQ/design-sem-nome-89-.jpg"
+    },
+    {
+     "title": "Bicampeã olímpica de vôlei, Paula Pequeno posa pela primeira vez com as duas medalhas após ter a de Pequim roubada: 'Dia especial'",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/bicampea-olimpica-de-volei-paula-pequeno-posa-pela-primeira-vez-com-as-duas-medalhas-apos-ter-a-de-pequim-roubada-dia-especial.ghtml",
+     "summary": "Dezessete anos depois de ter medalha olímpica roubada, Paula Pequeno recebe surpresa emocionante Dezessete anos depois de ter uma medalha olímpica roubada, a ex-jogadora de vôlei Paula Pequeno recebeu uma surpresa…",
+     "published": "2026-11-19T01:14+00:00",
+     "image": "https://s2-g1.glbimg.com/2WniZS34AY0w_I2PogHP8y6ERWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/N/plH7gVQV24BATQ1TlYhw/globo-canal-4-20261118-2000-frame-150642.jpeg"
     }
    ]
   },
@@ -1328,6 +1318,34 @@
    "region": "brasil",
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
+    {
+     "title": "Leão 14 buscou equilibrar legado de Francisco com unidade católica na América do Sul",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/leao-14-buscou-equilibrar-legado-de-francisco-com-unidade-catolica-na-america-do-sul.shtml",
+     "summary": "A jornada do papa Leão 14 pela América do Sul talvez possa ser descrita como uma delicada operação de equilibrista, mesmo levando em conta as multidões em festa atraídas pelo pontífice e sua óbvia descontração e alegria…",
+     "published": "2026-11-19T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Democratas enfrentam desafio de não desperdiçar vitória nas midterms com divisões internas",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2026/11/democratas-enfrentam-desafio-de-nao-desperdicar-vitoria-nas-midterms-com-divisoes-internas.shtml",
+     "summary": "Numa votação histórica, democratas indicaram o primeiro deputado negro para presidir a Câmara dos Estados Unidos a partir de janeiro, quando assumirem a maioria da Casa. Leia mais (11/18/2026 - 23h00)",
+     "published": "2026-11-19T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ucrânia faz terceiro ataque à ponte da Crimeia às vésperas de encontro de Putin com Trump e Xi",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ucrania-faz-terceiro-ataque-a-ponte-da-crimeia-as-vesperas-de-encontro-de-putin-com-trump-e-xi.shtml",
+     "summary": "O tráfego na ponte da Crimeia foi temporariamente suspenso após um novo ataque, informou Sergei Aksyonov -governador da Crimeia nomeado pela Rússia - nesta quinta-feira (18), acrescentando que uma avaliação dos danos já…",
+     "published": "2026-11-19T01:28+00:00",
+     "image": ""
+    },
+    {
+     "title": "Trump afirma que Kim Jong-un gostaria de se reunir com ele, enquanto ditador visita resort na Coreia do Norte",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-afirma-que-kim-jong-un-gostaria-de-se-reunir-com-ele-enquanto-ditador-visita-resort-na-coreia-do-norte.shtml",
+     "summary": "O regime da Coreia do Norte divulgou imagens na terça-feira (17) do ditador Kim Jong-un visitando uma estação de esqui, enquanto o presidente dos Estados Unidos , Donald Trump , sugere a possibilidade de um encontro…",
+     "published": "2026-11-18T22:04+00:00",
+     "image": ""
+    },
     {
      "title": "Secretário de Transportes dos EUA diz que governo está implementando medidas para evitar novo caos aéreo",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/secretario-de-transportes-dos-eua-diz-que-governo-esta-implementando-medidas-para-evitar-novo-caos-aereo.shtml",
@@ -1355,34 +1373,6 @@
      "summary": "O presidente de El Salvador , Nayib Bukele , anunciou nesta quarta-feira (18) a destruição da casa de um chefe de gangue haitiano, em uma ofensiva das tropas salvadorenhas mobilizadas no país caribenho assolado por…",
      "published": "2026-11-18T18:22+00:00",
      "image": ""
-    },
-    {
-     "title": "Hegseth vai a Caracas, e EUA e Venezuela anunciam acordo militar",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/hegseth-vai-a-caracas-e-eua-e-venezuela-anunciam-acordo-militar.shtml",
-     "summary": "O secretário de Defesa dos Estados Unidos , Pete Hegseth, visitou Caracas nesta quarta-feira (18) e anunciou um acordo de cooperação militar com a Venezuela . Ele se encontrou com Delcy Rodríguez , líder da ditadura…",
-     "published": "2026-11-18T18:03+00:00",
-     "image": ""
-    },
-    {
-     "title": "Hakeem Jeffries é escolhido pelos democratas e deve se tornar 1º presidente negro da Câmara dos Estados Unidos",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/hakeem-jeffries-e-escolhido-pelos-democratas-e-deve-se-tornar-1o-negro-presidente-da-camara-dos-estados-unidos.shtml",
-     "summary": "Os democratas da Câmara dos Representantes dos Estados Unidos indicaram, nesta quarta-feira (18), o deputado Hakeem Jeffries, de Nova York , para presidir a Casa. A escolha superou resistência da ala mais à esquerda do…",
-     "published": "2026-11-18T16:36+00:00",
-     "image": ""
-    },
-    {
-     "title": "Parlamento da Itália aprova controversa lei contra antissemitismo",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/parlamento-da-italia-aprova-controversa-lei-contra-antissemitismo.shtml",
-     "summary": "O Parlamento da Itália aprovou em definitivo um projeto de lei que tem a intenção de combater o antissemitismo no país. A definição do que pode ser considerado antissemitismo foi contestada por partidos de oposição, que…",
-     "published": "2026-11-18T16:29+00:00",
-     "image": ""
-    },
-    {
-     "title": "Democratas têm maior avanço no Senado em quase 70 anos após vitória no Alasca",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/democratas-tem-maior-avanco-no-senado-em-quase-70-anos-apos-vitoria-no-alasca.shtml",
-     "summary": "A vitória de Mary Peltola no Alasca garantiu aos democratas o maior avanço no Senado americano em eleições de meio de mandato em quase 70 anos. Com a conquista de nove cadeiras, antes ocupadas pelos republicanos , o…",
-     "published": "2026-11-18T16:28+00:00",
-     "image": ""
     }
    ]
   },
@@ -1394,60 +1384,60 @@
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
     {
-     "title": "Xi greets Trump at Shenzhen at airport in rare move",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/china-xi-trump-greet-shenzhen/",
-     "summary": "Xi's welcome marked a reciprocation for Trump's in-person greeting for the Chinese leader when he visited the U.S. in September.",
-     "published": "2026-11-18T12:16+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574840.jpg"
+     "title": "Anthropic IPO raises $107.3 billion to top SpaceX’s record debut",
+     "link": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/",
+     "summary": "The artificial intelligence firm priced its shares at $83 each, above a range of $70 to $78 marketed in its filing.",
+     "published": "2026-11-19T02:12+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574890.jpg"
     },
     {
-     "title": "Top court rules prisoner voting restriction constitutional",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/inmate-voting-ruling/",
-     "summary": "Nine of the 15 justices of the top court's Grand Bench ruled the restriction constitutional.",
-     "published": "2026-11-18T12:11+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574839.jpg"
+     "title": "Father arrested after 3-year-old daughter dies in Hyogo Prefecture",
+     "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/crime-legal/japan-hyogo-child-abuse-death-arrest/",
+     "summary": "The girl had been taken into protective custody twice, with her death coming about a month after she had been returned to her home.",
+     "published": "2026-11-19T02:07+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574888.jpg"
     },
     {
-     "title": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/takaichi-xi-china-japan-apec/",
-     "summary": "The surprisingly warm interaction was the first since Takaichi's comments last year about possible Japanese military intervention in a Taiwan crisis.",
-     "published": "2026-11-18T12:05+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574838.jpg"
+     "title": "Grand Theft Auto VI draws rave reviews as gamers return to Vice City",
+     "link": "https://www.japantimes.co.jp/life/2026/11/19/digital/grand-theft-auto-5-launch-reaction-rockstar/",
+     "summary": "The most anticipated game of the decade has finally hit shelves, and early reactions are overwhelmingly positive.",
+     "published": "2026-11-19T01:47+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574895.jpg"
     },
     {
-     "title": "Foreign visitors to Japan hit record 3.9 million in October",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/tourists-record-october/",
-     "summary": "More foreign tourists, mainly from other areas in Asia and Europe, are believed to have visited Japan to enjoy the country's autumn season.",
-     "published": "2026-11-18T11:57+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574837.jpg"
+     "title": "Nagoya animation festival celebrates human-made art",
+     "link": "https://www.japantimes.co.jp/culture/2026/11/19/film/aniaff-nagoya-animation-festival/",
+     "summary": "Though smaller than the inaugural event, the second Aichi Nagoya International Film Festival was a vibrant gathering of international artists.",
+     "published": "2026-11-19T01:45+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574797.jpg"
     },
     {
-     "title": "Japan improves on English learning in global ranking, but still lags behind",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/ef-english-survey/",
-     "summary": "Its 86th place in the 2026 EF English Proficiency Index, though higher than last year, puts it behind peers in Asia and elsewhere in the world.",
-     "published": "2026-11-18T09:02+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574803.jpg"
+     "title": "Nvidia turmoil spurs valuation rethink of Japan’s AI shares",
+     "link": "https://www.japantimes.co.jp/business/2026/11/19/markets/japan-ai-shares-investors-rethink/",
+     "summary": "Chip-related firms Kioxia Holdings and Advantest have tumbled more than 9% each since Jensen Huang's resignation from Nvidia.",
+     "published": "2026-11-19T01:44+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574892.jpg"
     },
     {
-     "title": "Education minister may face censure motion over fundraiser",
-     "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/education-minister-censure-motion-possible/",
-     "summary": "The June 2024 event was attended by participants who each paid a ¥90,000 fee, including officials from eight biopharmaceutical companies.",
-     "published": "2026-11-18T08:26+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574796.jpg"
+     "title": "Brooks Koepka determined to make run at 2027 Ryder Cup spot",
+     "link": "https://www.japantimes.co.jp/sports/2026/11/19/more-sports/brooks-koepka-rsm-classic/",
+     "summary": "Koepka admits that 2026 has \"just been a little bit of a disappointment.\"",
+     "published": "2026-11-19T01:38+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574896.jpg"
     },
     {
-     "title": "Purple rabbit-like character wins Suica mascot contest",
-     "link": "https://www.japantimes.co.jp/business/2026/11/18/companies/suica-new-character-rabbit/",
-     "summary": "The creature won more than half of the 1.6 million votes cast and will be named via a poll open through Dec. 15.",
-     "published": "2026-11-18T08:24+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574788.jpg"
+     "title": "Tencent’s profit squeeze exposes China’s AI spending dilemma",
+     "link": "https://www.japantimes.co.jp/business/2026/11/19/tech/tencent-profit-china-ai-spending/",
+     "summary": "China's most valuable company recorded its first earnings decline in years in the September quarter.",
+     "published": "2026-11-19T01:37+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574885.jpg"
     },
     {
-     "title": "Rising star Atamifuji has been the story of the Kyushu Basho",
-     "link": "https://www.japantimes.co.jp/sports/2026/11/18/sumo/basho-reports/kyushu-2026-atamifuji/",
-     "summary": "The sekiwake is off to his best start in years and is in prime position to claim his first Emperor's Cup, and possibly even earn a promotion.",
-     "published": "2026-11-18T08:00+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574749.jpg"
+     "title": "Governments warn Java flaw leaves computer systems open to hackers",
+     "link": "https://www.japantimes.co.jp/news/2026/11/19/world/governments-java-computer-hackers/",
+     "summary": "The vulnerability could allow hackers to remotely execute code or to crash systems.",
+     "published": "2026-11-19T01:32+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574887.jpg"
     }
    ]
   },
@@ -1459,60 +1449,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "Idaho dropped 76 beavers from aeroplanes in parachute-equipped boxes in 1948",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/idaho-dropped-76-beavers-from-aeroplanes-in-parachute-equipped-boxes-in-1948-to-move-them-into-remote-forests-the-unusual-experiment-cost-just-30-per-four-animals-and-helped-establish-new-colonies/articleshow/135957998.cms",
+     "title": "'Human' is Cambridge dictionary's word of '26",
+     "link": "https://timesofindia.indiatimes.com/world/uk/human-is-cambridge-dictionarys-word-of-26/articleshow/135975573.cms",
      "summary": "",
-     "published": "2026-11-18T20:15+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135958159,imgsize-153959.cms"
+     "published": "2026-11-19T02:21+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135975581,imgsize-59552.cms"
     },
     {
-     "title": "US man accused of plotting foiled Hindu temple shooting in Illinois faces new charges",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-man-accused-of-plotting-hindu-temple-shooting-in-illinois-faces-additional-terrorism-and-weapons-charges/articleshow/135970853.cms",
-     "summary": "Alexandros Paporakis, a 19-year-old resident of Palatine, faces severe charges including terrorism and armed violence after allegedly planning a mass shooting targeting a Hindu temple during the Navaratri festival…",
-     "published": "2026-11-18T19:55+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135971130,imgsize-21440.cms"
+     "title": "Military Ties Agreement: US and Venezuela restore cooperation; political future remains uncertain",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-venezuela-sign-military-deal-as-trump-administration-seeks-closer-ties/articleshow/135975509.cms",
+     "summary": "In a significant development, the United States has established a new military partnership with Venezuela following the capture of Nicolás Maduro. The agreement, announced by US Defence Secretary Pete Hegseth, involves…",
+     "published": "2026-11-19T02:20+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135975572,imgsize-111006.cms"
     },
     {
-     "title": "Palm Beach mansion linked to $194m CIA fraud sells for $24m after government seizure",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-palm-beach-mansion-bought-for-21-9-million-with-funds-linked-to-a-former-cia-officials-194-million-fraud-scheme-has-resold-for-24-million-the-property-was-among-luxury-assets-the-official-agreed-to-forfeit/articleshow/135970453.cms",
-     "summary": "In a stunning development, a lavish mansion in Palm Beach, Florida, has changed hands for $24 million. This opulent property was acquired using funds siphoned from a substantial government fraud scheme, orchestrated by…",
-     "published": "2026-11-18T19:51+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135971047,imgsize-1857793.cms"
-    },
-    {
-     "title": "Broker ordered to pay $1.3M over banned expansion on $1.41M Nantucket cottage",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-family-of-eight-bought-a-1-41-million-nantucket-cottage-expecting-to-expand-its-two-bedrooms-but-a-deed-restriction-banned-additions-a-jury-and-judge-awarded-nearly-1-3-million-against-the-broker/articleshow/135966143.cms",
-     "summary": "In Nantucket, Dr. Mary Murray and attorney Jeffrey Ment faced unexpected challenges after purchasing a cottage with expansion aspirations. Legal barriers led to a prolonged court case, but justice prevailed, and they…",
-     "published": "2026-11-18T19:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135966271,imgsize-976156.cms"
-    },
-    {
-     "title": "Idris Elba and wife plan 40,000-person eco-city on Sierra Leone's Sherbro Island",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/idris-elba-and-wife-sabrina-plan-to-transform-sierra-leones-remote-sherbro-island-into-a-renewable-powered-eco-city-with-wind-turbines-solar-energy-and-digital-connectivity-for-40000-residents/articleshow/135950803.cms",
+     "title": "Did Lutnick help sons' firm avoid Nvidia-linked losses? Probe on",
+     "link": "https://timesofindia.indiatimes.com/world/us/did-lutnick-help-sons-firm-avoid-nvidia-linked-losses-probe-on/articleshow/135975486.cms",
      "summary": "",
-     "published": "2026-11-18T19:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135950982,imgsize-1160036.cms"
+     "published": "2026-11-19T02:16+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135975506,imgsize-58152.cms"
     },
     {
-     "title": "Sydney builder ordered to pay $346,000 over 127 defects found in two homes",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-sydney-homeowner-hired-his-wifes-uncle-to-build-two-houses-for-nearly-1-5-million-but-a-court-found-127-defects-and-ordered-the-builder-to-pay-346580/articleshow/135962922.cms",
-     "summary": "",
-     "published": "2026-11-18T19:15+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135963061,imgsize-126002.cms"
+     "title": "Mary Peltola wins in Alaska, securing 56-44 US Senate majority for Democrats",
+     "link": "https://timesofindia.indiatimes.com/world/us/mary-peltola-wins-in-alaska-securing-56-44-us-senate-majority-for-democrats/articleshow/135975353.cms",
+     "summary": "It's nine Senate seats flipped by the Democrats, most since 1958",
+     "published": "2026-11-19T02:08+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135975352,imgsize-71448.cms"
     },
     {
-     "title": "Canadian judge rejects son's inheritance claim but orders family firms to disclose financial records",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-son-believed-family-company-shares-entitled-him-to-property-assets-but-his-fathers-estate-plans-favoured-his-sister-a-judge-rejected-his-claim-while-ordering-the-companies-to-release-financial-records/articleshow/135968608.cms",
-     "summary": "In a recent legal dispute, a son faced a setback in his claims over family companies and property ownership. He believed his shareholder status gave him rights to specific assets within those firms. However, the court…",
-     "published": "2026-11-18T18:44+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135970107,imgsize-1641790.cms"
+     "title": "Xi, Putin blast West's protectionism & sanctions before meeting Trump",
+     "link": "https://timesofindia.indiatimes.com/world/china/xi-putin-blast-wests-protectionism-sanctions-before-meeting-trump/articleshow/135975283.cms",
+     "summary": "Amid 'spy' scandal, Xi welcomes Trump at airport in a rare diplomatic move",
+     "published": "2026-11-19T01:57+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135975281,imgsize-109822.cms"
     },
     {
-     "title": "Texas homeowners secure $1.9 million settlement and protections over nearby data centre project",
-     "link": "https://timesofindia.indiatimes.com/world/us/texas-homeowners-challenged-an-88-acre-data-centre-planned-close-to-their-houses-fearing-noise-and-environmental-effects-a-settlement-offers-nearly-1-9-million-and-protections-but-allows-the-project/articleshow/135966207.cms",
-     "summary": "Homeowners in Westlake, Texas, have come to an agreement concerning a proposed data centre that had sparked concerns. The settlement includes a financial contribution from developer PowerHouse earmarked for noise…",
-     "published": "2026-11-18T18:25+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135966324,imgsize-112786.cms"
+     "title": "GTA VI Console Frame Rate: TheBurntPeanut mocks 30 FPS cap; console players lack 60 FPS mode",
+     "link": "https://timesofindia.indiatimes.com/world/us-streamers/theburntpeanut-takes-a-dig-at-gta-vi-questions-why-ps5-pro-players-cannot-get-higher-fps/articleshow/135974654.cms",
+     "summary": "TheBurntPeanut mocked GTA VI’s 30 FPS console limit during YouTube’s 24-hour livestream event. He compared the gameplay to PowerPoint slides and joked about its slow frame rate while playing as Lucia. Rockstar has…",
+     "published": "2026-11-19T00:39+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135974656,imgsize-305975.cms"
+    },
+    {
+     "title": "Court reopens British mother's fight against daughter's adoption after her life turnaround",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-british-mother-lost-the-chance-to-oppose-her-young-daughters-adoption-even-after-completing-treatment-and-rebuilding-her-life-a-court-has-now-reopened-her-challenge-but-the-childs-future-remains-undecided/articleshow/135954753.cms",
+     "summary": "A British mother has begun to reclaim her life, overcoming a challenging past marked by substance abuse and domestic violence. Through psychotherapy, she has found stable housing and has maintained her sobriety. The…",
+     "published": "2026-11-19T00:30+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135954895,imgsize-1417988.cms"
+    },
+    {
+     "title": "Florida has secured roughly $5.2 million to protect nearly 830 acres across three farms",
+     "link": "https://timesofindia.indiatimes.com/science/nature/florida-has-secured-roughly-5-2-million-in-conservation-easements-to-protect-nearly-830-acres-across-three-farms-owners-can-continue-raising-cattle-while-future-development-is-permanently-restricted/articleshow/135861311.cms",
+     "summary": "In a significant stride for land conservation, Florida's Commissioner of Agriculture, Wilton Simpson, revealed plans to safeguard three distinct properties spanning DeSoto, St. Johns, and Polk counties. These…",
+     "published": "2026-11-19T00:20+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135861311,imgsize-70460.cms"
     }
    ]
   },
@@ -1524,60 +1514,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
-     "link": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
-     "summary": "The United States and Venezuela have signed a deal to re-establish military ties, from training to intelligence sharing, US Defence Secretary Pete Hegseth said Wednesday on a visit with the South American nation’s…",
-     "published": "2026-11-18T19:01+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fae98942-4ea0-425d-94b7-4d5663b30c32_8b9ad221.jpg?itok=TiAzUym6&v=1795028454"
+     "title": "Chinese student attends final class with classmates from hospital bed before leukaemia death",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3374983/chinese-student-attends-final-class-classmates-hospital-bed-leukaemia-death",
+     "summary": "Millions across China were moved by the story of a girl with leukaemia whose dying wish – to have one last lesson with her classmates – was fulfilled shortly before her death. Yao Yingbei, nicknamed Beibei, was still in…",
+     "published": "2026-11-19T02:08+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fce01945-4402-46b2-a06c-ed39d7f582b3_96e75c32.jpg?itok=I9Pf4En9&v=1795054095"
     },
     {
-     "title": "El Salvador’s Bukele says his troops destroyed gang leader’s mansion in Haiti",
-     "link": "https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti",
-     "summary": "El Salvador’s President Nayib Bukele said on Wednesday that his troops had demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It was not immediately clear if he was killed. Bukele posted a…",
-     "published": "2026-11-18T18:34+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/572f6b0d-53d8-4aaf-95a5-8b4f4a10fda6_f6254c5e.jpg?itok=CBLRdX8v&v=1795026872"
+     "title": "Vietnamese woman forced to strip in Malaysia over US$2,433 extortion bid",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374982/vietnamese-woman-forced-strip-malaysia-over-us2433-extortion-bid",
+     "summary": "A business proposition turned ugly when a Vietnamese woman was allegedly forced to strip naked after she followed a man into a car in Malaysia, believing they were going to discuss offers. The Malaysian Chinese…",
+     "published": "2026-11-19T02:02+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/ca357e55-6b20-42aa-93c6-6af712151a68_d3df2b65.jpg?itok=zA8ubTlx&v=1795053735"
     },
     {
-     "title": "Chinese executive convicted in case linked to Bangkok tower collapse",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374963/chinese-executive-convicted-case-linked-bangkok-tower-collapse",
-     "summary": "A court in Thailand on Wednesday found a Chinese executive and Thai shareholders of a Thai subsidiary of a Chinese state-owned construction company guilty of illegally operating a business in Thailand in a case related…",
-     "published": "2026-11-18T18:03+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d90af21c-0ae6-402d-9deb-8a278986d3e6_8879edfc.jpg?itok=ul16P3tB&v=1795025016"
+     "title": "Hong Kong MTR Island line disrupted by second signalling fault in 2 days",
+     "link": "https://www.scmp.com/news/hong-kong/transport/article/3374981/hong-kong-mtr-island-line-disrupted-second-signalling-fault-2-days",
+     "summary": "A signalling fault at HKU station has disrupted morning peak services on the Island line for a second day in a row, adding five to eight minutes to journeys. The MTR Corporation apologised to passengers and said…",
+     "published": "2026-11-19T01:53+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a0c698ea-535d-4f88-a11b-5b921fa2753a_07e4f689.jpg?itok=ouhCj70F&v=1795053172"
     },
     {
-     "title": "Democrats nominate Jeffries to be first black US House speaker",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374962/democrats-nominate-jeffries-be-first-black-us-house-speaker",
-     "summary": "Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats elected him their leader on Wednesday following a sweeping midterm election triumph. The 56-year-old…",
-     "published": "2026-11-18T16:39+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/5ea0496a-75ff-4a89-bded-3b30dcc03d4f_83580998.jpg?itok=fS4wuBrS&v=1795019974"
+     "title": "US launched unarmed ICBM test hours before Trump’s Air Force One landed in China",
+     "link": "https://www.scmp.com/news/china/military/article/3374979/us-launched-unarmed-icbm-test-hours-trumps-air-force-one-landed-china",
+     "summary": "The United States conducted an intercontinental ballistic missile test less than two hours before President Donald Trump landed in China on Wednesday for the Apec summit and a high-stakes trilateral meeting with his…",
+     "published": "2026-11-19T01:42+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/377be208-74ad-4c0d-809b-7dc4aa222723_effd087a.jpg?itok=FYKDHA7J&v=1795052283"
     },
     {
-     "title": "Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia",
-     "summary": "Japanese Prime Minister Sanae Takaichi met Russian President Vladimir Putin on Wednesday, marking a rare high-level contact at a time of deeply strained relations over Moscow’s war in Ukraine and the recent arrest of a…",
-     "published": "2026-11-18T16:24+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/575253bc-9d2d-4c58-b273-6d64b965a86c_793e6ba2.jpg?itok=xx2VxAEg&v=1795019051"
+     "title": "‘Natural enemies’: Trump on China-Russia ties as he plays down Nvidia ‘tragedy’",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy",
+     "summary": "US President Donald Trump has described China and Russia as “natural enemies” whose partnership “should never have been allowed to happen”, while defending former Nvidia CEO Jensen Huang as an irreplaceable genius. He…",
+     "published": "2026-11-19T01:38+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a447b3b4-a328-4e5f-9876-be48a44a57b0_57466c02.jpg?itok=SE2ZI8c7&v=1795052302"
     },
     {
-     "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
-     "link": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
-     "summary": "Islam is expected to surpass Christianity as the world’s largest religion by 2035, according to detailed projections released on Wednesday by the Pew Research Centre. Pew, which has been issuing authoritative reports on…",
-     "published": "2026-11-18T16:01+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/eece4462-ea8e-4113-a86b-30b19f619263_97b408df.jpg?itok=t0iF9xpQ&v=1795021732"
+     "title": "Peng’s English and Cantonese classics: the Shenzhen Apec details you may have missed",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374974/pengs-english-and-cantonese-classics-shenzhen-apec-details-you-may-have-missed",
+     "summary": "We have put together stories from our coverage of the first day of Apec in Shenzhen. If you would like to see more of our reporting, please consider subscribing. 1. Rare hug and roaring flyover set stage for historic…",
+     "published": "2026-11-19T01:33+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/acc05d23-607c-4b3d-b7b4-eac7f16e25ad_6d194aa2.jpg?itok=Onx45RPr&v=1795051855"
     },
     {
-     "title": "Rare hug and roaring flyover set stage for historic firsts at Apec in Shenzhen",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374955/rare-hug-and-roaring-flyover-set-stage-historic-firsts-apec-shenzhen",
-     "summary": "It was a day of firsts in Shenzhen on Wednesday when Chinese President Xi Jinping personally greeted his American counterpart Donald Trump at the city airport, setting up a historic start to the Apec summit. It was the…",
-     "published": "2026-11-18T15:03+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/fce5a360-324c-42ec-aa8a-96bdfe4bf657_2c4234ea.jpg?itok=QW9ax4ha&v=1795017121"
+     "title": "‘Sailing in same boat’: Xi calls for stronger shared interests in Apec opening remarks",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen",
+     "summary": "This live article is freely available to our registered users. Please log in or create an account. World leaders are gathering in Shenzhen on Thursday for the Asia-Pacific Economic Cooperation (Apec) plenary, looking…",
+     "published": "2026-11-19T01:32+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/b664cd69-9482-441f-8845-7ce017229042_14294f26.jpg?itok=7Leg4vPI&v=1795054145"
     },
     {
-     "title": "Israel’s parliament moves to roll back Netanyahu’s divisive legacy",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy",
-     "summary": "Israel’s parliament met under a new speaker from the anti-Benjamin Netanyahu bloc on Wednesday, as opponents of the caretaker prime minister began a legislative offensive to roll back his divisive legacy. In the vote…",
-     "published": "2026-11-18T15:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/0ff48089-d8ae-4326-adc1-563526de71b4_0c58c70e.jpg?itok=41wfghBu&v=1795014046"
+     "title": "Treason or not, betraying one’s country won’t be tolerated",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374219/treason-or-not-betraying-ones-country-wont-be-tolerated",
+     "summary": "If you ask what constitutes treason, most people would probably answer: treason is assisting an enemy to harm one’s country. If national security laws existed at the time, historical figures like Qin Hui, Wu Sangui and…",
+     "published": "2026-11-19T01:30+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/a59f4558-5927-4b1b-90f3-75029bafa2a2_cf89c5cb.jpg?itok=IkwD-ebE&v=1794901634"
     }
    ]
   },
@@ -1589,60 +1579,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Opetaia's fight with former heavyweight champion called off",
-     "link": "https://www.abc.net.au/news/2026-11-19/jai-opetaia-deontay-wilder-fight-called-off/107401770",
-     "summary": "Jai Opetaia's eyebrow-raising move to heavyweight to fight Deontay Wilder is over after the Australian withdrew from their bout.",
-     "published": "2026-11-18T20:16+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/a758fa80ed88a02854e97e03c3540c4a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "General Pants Co collapses into voluntary administration",
+     "link": "https://www.abc.net.au/news/2026-11-19/general-pants-co-administration/107402800",
+     "summary": "There are now 500 jobs in question as the administrators plan to continue trading through the busy Black Friday sales period.",
+     "published": "2026-11-19T02:17+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/89348649f8d6c4210f3232136bc4c56a?impolicy=wcms_crop_resize&cropH=1680&cropW=2991&xPos=0&yPos=25&width=862&height=485"
     },
     {
-     "title": "Live: One in seven underpaid migrant workers took steps to recover wages, report finds",
-     "link": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850",
-     "summary": "A report finds just one in seven underpaid migrant workers have taken steps to recover their wages. Follow live.",
-     "published": "2026-11-18T20:10+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/e96bd32d084b4ff96edb139048531ee8?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=284&width=862&height=485"
+     "title": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question",
+     "link": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-makes-first-statement-since-sandpaper-article/107403394",
+     "summary": "Cameron Bancroft has made his first public statement since alleging the entire Australian cricket team knew of the 2018 ball-tampering plot.",
+     "published": "2026-11-19T02:17+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/a3913a4efa70b38e8f87d33b4ccc0f19?impolicy=wcms_crop_resize&cropH=349&cropW=620&xPos=0&yPos=32&width=862&height=485"
     },
     {
-     "title": "Data centres could ignite a 'climate bomb' in Australia, report finds",
-     "link": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036",
-     "summary": "The Climate Council has identified nine proposed data centres in Australia that could produce up to 40 million tonnes of pollution a year by 2035 if powered by fossil fuels.",
-     "published": "2026-11-18T20:02+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/a7d9472a4017892c7ceb7b631edc48f2?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Hope and connection on display at regional arts exhibition",
+     "link": "https://www.abc.net.au/news/2026-11-19/three-works-to-see-at-regional-arts-triennial-western-australia/107365180",
+     "summary": "The third Regional Arts Triennial, Radical Futures, looks at how artists can be catalysts for change in uncertain times.",
+     "published": "2026-11-19T02:00+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/2d1bf25c790fca913c6c50c1fc45eae0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=412&width=862&height=485"
     },
     {
-     "title": "'Stubbornly made in Sydney', a phrase game developers want to make redundant",
-     "link": "https://www.abc.net.au/news/2026-11-19/nsw-video-game-developers-leaving-for-more-funding-elsewhere/107390536",
-     "summary": "Screen NSW offers up to $30,000 per video game in state funding, but developers say it is not enough, and are leaving the state in search for better offers.",
-     "published": "2026-11-18T19:54+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ac866433e51425eaff81c678e7d94218?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=99&width=862&height=485"
+     "title": "When is the AFL draft and how does it work? Here's what you need to know",
+     "link": "https://www.abc.net.au/news/2026-11-19/afl-draft-2026-everything-you-need-to-know-guide-time-picks/107398510",
+     "summary": "Another AFL draft has arrived, offering dozens of teenage footballers the chance to realise their dreams. Here is everything you need to know.",
+     "published": "2026-11-19T01:47+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/b3cfbc2c41c110cb3b73ec8605ace98f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=168&width=862&height=485"
     },
     {
-     "title": "CCTV stills show armed men in wild Melbourne brawl",
-     "link": "https://www.abc.net.au/news/2026-11-19/vic-police-investigate-tarneit-brawl/107401714",
-     "summary": "Investigators say up to 20 people armed with baseball and cricket bats were involved in the early October brawl, which left one man with life-threatening injuries.",
-     "published": "2026-11-18T19:46+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/47fd8eab989d99ae873481e425543d6b?impolicy=wcms_crop_resize&cropH=290&cropW=516&xPos=0&yPos=37&width=862&height=485"
+     "title": "Breaking: Five men arrested in relation to fatal drive-by shooting",
+     "link": "https://www.abc.net.au/news/2026-11-19/qld-logan-drive-by-shooting-men-taken-into-custody/107403362",
+     "summary": "A 19-year-old woman was killed and three men hospitalised when two masked gunmen fired at least six shots at a crowd of people at a pub last month.",
+     "published": "2026-11-19T01:47+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/e4b5a6b1ac6051672b28c8c20e72ee9e?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485"
     },
     {
-     "title": "Wet weather outbreak prompts paralysis tick warning",
-     "link": "https://www.abc.net.au/news/2026-11-19/qld-vets-issue-warning-paralysis-tick-season/107383808",
-     "summary": "Predictive modelling shows about one in 20 visits to emergency vet clinics in Brisbane will be for paralysis ticks this summer.",
-     "published": "2026-11-18T19:41+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/86a1dc6e088c78a3193cf2f0db89b3e8?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=165&width=862&height=485"
+     "title": "'Wounded pride' drove Lamarre-Condon to murder 'in cold blood', jury told",
+     "link": "https://www.abc.net.au/news/2026-11-19/beau-lamarre-condon-trial-wounded-pride-murder-closing-address/107402764",
+     "summary": "The Crown prosecutor says the jury could convict the accused of murder \"on the strength of the forensic and ballistic evidence alone\".",
+     "published": "2026-11-19T01:30+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/c5abb5de91a3898fd71c65bb2c71a3b8?impolicy=wcms_crop_resize&cropH=386&cropW=686&xPos=0&yPos=28&width=862&height=485"
     },
     {
-     "title": "'Own the crisis': Qld man's plea after near-death ambulance wait",
-     "link": "https://www.abc.net.au/news/2026-11-19/qld-man-calls-for-action-fter-3hr-ambulance-wait/107400216",
-     "summary": "A Queensland man who waited almost three hours for an ambulance while \"bleeding out\" is calling on the health minister to \"own the crisis\" in the wake of the deaths of three people.",
-     "published": "2026-11-18T19:38+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/91b19913328b7ba49b81eb896998ba81?impolicy=wcms_crop_resize&cropH=392&cropW=697&xPos=0&yPos=37&width=862&height=485"
+     "title": "Brisbane council approves sale of land to shopping precinct developer",
+     "link": "https://www.abc.net.au/news/2026-11-19/brisbane-city-council-sells-part-of-carpark-to-private-developer/107402836",
+     "summary": "An independent Brisbane councillor says a plan to sell part of a commuter car park to a developer for a shopping precinct \"stinks to high heaven\" and she will refer it to the Crime and Corruption Commission.",
+     "published": "2026-11-19T01:16+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/4a0a74c76c14d9971c070a62607bc923?impolicy=wcms_crop_resize&cropH=2385&cropW=4240&xPos=0&yPos=224&width=862&height=485"
     },
     {
-     "title": "Whistleblower's 'disturbing' allegations probed by Canberra Health Services",
-     "link": "https://www.abc.net.au/news/2026-11-19/whistleblower-says-patients-removed-from-lists-to-improve-times/107400512",
-     "summary": "Independent MLA Thomas Emerson told a Legislative Assembly hearing that Canberra Health Services surgery booking clerks were instructed to remove elective surgery patients from a waitlist if they had been waiting for…",
-     "published": "2026-11-18T19:35+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/4de04a69a2cda9989f44435235158f5d?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485"
+     "title": "Major aged care staffing agency stripped of licence to operate in Victoria",
+     "link": "https://www.abc.net.au/news/2026-11-19/aged-care-provider-barton-care-stripped-of-licence-in-victoria/107402794",
+     "summary": "Barton Care has had its licence cancelled by Victoria's Labour Hire Authority after being found to have staff working with invalid qualifications and under unlawful conditions.",
+     "published": "2026-11-19T01:11+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/3492a248e2d73a0d70de59f9a519dcb6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=156&width=862&height=485"
     }
    ]
   },
@@ -1654,59 +1644,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Heated debate escalates into on-air fight on Armenian TV",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-     "summary": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
-     "published": "2026-11-18T19:56+00:00",
+     "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+     "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+     "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+     "published": "2026-11-19T02:10+00:00",
      "image": ""
     },
     {
-     "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-     "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
-     "published": "2026-11-18T19:31+00:00",
+     "title": "Hegseth unveils new US-Venezuela military deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+     "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+     "published": "2026-11-19T01:48+00:00",
      "image": ""
     },
     {
-     "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-     "summary": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
-     "published": "2026-11-18T19:30+00:00",
+     "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+     "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
+     "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
+     "published": "2026-11-19T01:17+00:00",
      "image": ""
     },
     {
-     "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-     "summary": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
-     "published": "2026-11-18T19:27+00:00",
+     "title": "Settler rams into Palestinians at multiple locations in central Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+     "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+     "published": "2026-11-19T01:13+00:00",
      "image": ""
     },
     {
-     "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-     "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-     "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
-     "published": "2026-11-18T18:22+00:00",
+     "title": "German FA backs France’s Diallo for FIFA presidency",
+     "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
+     "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+     "published": "2026-11-19T00:44+00:00",
      "image": ""
     },
     {
-     "title": "Israeli forces launch new military operation in central Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-     "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-     "published": "2026-11-18T18:12+00:00",
+     "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+     "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
+     "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+     "published": "2026-11-19T00:40+00:00",
      "image": ""
     },
     {
-     "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-     "link": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-     "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-     "published": "2026-11-18T18:09+00:00",
+     "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+     "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+     "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
+     "published": "2026-11-19T00:37+00:00",
      "image": ""
     },
     {
-     "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-     "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-     "published": "2026-11-18T17:50+00:00",
+     "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+     "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+     "summary": "AI giant prices shares at $83 in blockbuster market debut.",
+     "published": "2026-11-19T00:20+00:00",
      "image": ""
     }
    ]
