@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:17+00:00",
+ "updated": "2026-11-21T02:12+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -32,43 +32,12 @@
  ],
  "trending": [
   {
-   "topic": "Rússia",
-   "sources": 10,
-   "examples": [
-    {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-     "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
-     "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
-     "source": "France 24"
-    },
-    {
-     "title": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
-     "source": "Le Monde"
-    }
-   ]
-  },
-  {
    "topic": "Trump",
-   "sources": 10,
+   "sources": 13,
    "examples": [
     {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+     "title": "Trump turns White House press conference into a 2028 succession audition",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
      "source": "The Guardian"
     },
     {
@@ -80,22 +49,27 @@
      "title": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
      "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
      "source": "France 24"
+    },
+    {
+     "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
+     "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+     "source": "Euronews"
     }
    ]
   },
   {
    "topic": "EUA",
-   "sources": 7,
+   "sources": 6,
    "examples": [
     {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "title": "US declassifies more UFO footage filmed in the Middle East",
+     "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-     "source": "The Guardian"
+     "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+     "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
      "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
@@ -103,15 +77,15 @@
      "source": "France 24"
     },
     {
-     "title": "'Mosca-da-bicheira': parasita que devora animais vivos avança pelos EUA e alerta pecuaristas",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mosca-da-bicheira-parasita-que-devora-animais-vivos-avanca-pelos-eua-e-alerta-pecuaristas.ghtml",
+     "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
      "source": "g1"
     }
    ]
   },
   {
    "topic": "Putin",
-   "sources": 7,
+   "sources": 6,
    "examples": [
     {
      "title": "Trump touts meeting with Xi and Putin but offers little results",
@@ -124,50 +98,50 @@
      "source": "France 24"
     },
     {
-     "title": "Trump accuses Iran of dishonesty while defending Putin ties",
+     "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
      "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
      "source": "Euronews"
     },
     {
-     "title": "Trump defiende su “fantástica” relación con Putin y dice que busca una “vía diplomática” con Ucrania",
-     "link": "https://www.lavanguardia.com/internacional/20261120/11689497/trump-defiende-fantastica-relacion-putin-dice-busca-diplomatica-ucrania.html",
-     "source": "La Vanguardia"
+     "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+     "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+     "source": "The New York Times"
     }
    ]
   },
   {
-   "topic": "Reino Unido",
+   "topic": "Rússia",
    "sources": 6,
    "examples": [
     {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-     "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-     "source": "The Guardian"
+     "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
+     "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
-     "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-     "link": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-     "source": "France 24"
+     "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen »",
+     "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen_6810982_3210.html",
+     "source": "Le Monde"
     },
     {
-     "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-     "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+     "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
      "source": "The New York Times"
     }
    ]
   },
   {
    "topic": "Anthropic",
-   "sources": 5,
+   "sources": 4,
    "examples": [
     {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
@@ -176,7 +150,7 @@
      "source": "NPR"
     },
     {
-     "title": "Anthropic cae con fuerza y pone en riesgo el precio de su salida a Bolsa",
+     "title": "El desplome de la IA lleva al Nasdaq a su peor semana en año y medio con Anthropic hundiéndose un 8,5%",
      "link": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
      "source": "El País"
     },
@@ -188,8 +162,149 @@
    ]
   },
   {
+   "topic": "House",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Trump turns White House press conference into a 2028 succession audition",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+     "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+     "source": "NPR"
+    },
+    {
+     "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
+     "link": "https://www.france24.com/en/tv-shows/spotlight/20261120-house-of-cards-america-s-enemies-no-longer-fear-it-its-allies-no-longer-trust-it",
+     "source": "France 24"
+    },
+    {
+     "title": "Melania Trump on life as first lady, White House renovations, marriage to Donald Trump and son Barron",
+     "link": "https://timesofindia.indiatimes.com/world/us/melania-trump-opens-up-about-life-as-first-lady-white-house-renovations-and-design-plans-how-she-makes-her-marriage-work-with-donald-trump-and-raising-son-barron/articleshow/136039684.cms",
+     "source": "Times of India"
+    }
+   ]
+  },
+  {
+   "topic": "Irã",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+     "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+     "source": "NPR"
+    },
+    {
+     "title": "Repression against Iranian lawyers increases",
+     "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
+     "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+     "source": "Euronews"
+    },
+    {
+     "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "Ucrânia",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Another day of survival for a family in Ukraine",
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+     "source": "NPR"
+    },
+    {
+     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+     "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen »",
+     "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen_6810982_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+     "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ]
+  },
+  {
+   "topic": "Africa",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "ANC fights to keep control of South Africa's key cities after election setback",
+     "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
+    },
+    {
+     "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Africa: High-Level Dialogue - 16 Days of Activism Against Gender-Based Violence",
+     "link": "https://allafrica.com/stories/202611200720.html",
+     "source": "AllAfrica"
+    }
+   ]
+  },
+  {
+   "topic": "Angeles",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+     "link": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/20/suspeito-de-iniciar-incendio-letal-em-los-angeles-e-declarado-culpado.ghtml",
+     "source": "g1"
+    }
+   ]
+  },
+  {
+   "topic": "Bayer",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+     "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+     "source": "The Guardian"
+    },
+    {
+     "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+     "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+     "link": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+     "source": "Le Monde"
+    }
+   ]
+  },
+  {
    "topic": "COP31",
-   "sources": 5,
+   "sources": 3,
    "examples": [
     {
      "title": "At COP31, conflict over climate science slows action on global warming",
@@ -202,133 +317,8 @@
      "source": "Euronews"
     },
     {
-     "title": "La COP31 encalla en el desacuerdo para prescindir de los combustibles fósiles",
-     "link": "https://www.lavanguardia.com/vida/20261120/11689454/cop31-encalla-desacuerdo-prescindir-combustibles-fosiles.html",
-     "source": "La Vanguardia"
-    },
-    {
-     "title": "Sob protestos e atraso, COP31 adota decisões protocolares e negociações seguem",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/sob-protestos-e-atraso-cop31-adota-decisoes-protocolares-e-negociacoes-seguem.shtml",
-     "source": "Folha de S.Paulo"
-    }
-   ]
-  },
-  {
-   "topic": "China",
-   "sources": 5,
-   "examples": [
-    {
-     "title": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
-     "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
-     "source": "France 24"
-    },
-    {
-     "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
-     "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Japanese see current ties with China and Russia as worst on record, survey shows",
-     "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-china-russia-ties-survey/",
-     "source": "The Japan Times"
-    },
-    {
-     "title": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
-     "link": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "UE",
-   "sources": 5,
-   "examples": [
-    {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "The U.K. and EU hold a rare summit to strengthen ties",
-     "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-     "source": "NPR"
-    },
-    {
-     "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-     "link": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-     "source": "France 24"
-    },
-    {
-     "title": "Deepening EU–Canada ties: From critical minerals and defence to erasmus+",
-     "link": "https://www.euronews.com/2026/11/20/deepening-eucanada-ties-from-critical-minerals-and-defence-to-erasmus",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "Ucrânia",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-     "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, qualifié d’« ami » par Donald Trump, est un « assassin », souligne Volodymyr Zelensky",
-     "link": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-vladimir-poutine-qualifie-d-ami-par-donald-trump-est-un-assassin-souligne-volodymyr-zelensky_6810982_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Trump defiende su “fantástica” relación con Putin y dice que busca una “vía diplomática” con Ucrania",
-     "link": "https://www.lavanguardia.com/internacional/20261120/11689497/trump-defiende-fantastica-relacion-putin-dice-busca-diplomatica-ucrania.html",
-     "source": "La Vanguardia"
-    },
-    {
-     "title": "Denmark expels Russian diplomat over plot to kill Ukraine rapper",
-     "link": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Europa",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Cost of living protests sweep across Europe",
-     "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "‘A more expensive EU is not a better EU’: Austria's Minister for Europe, Claudia Bauer",
-     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer",
-     "source": "France 24"
-    },
-    {
-     "title": "Protestos contra gastos militares e alta do custo de vida mobilizam jovens na Europa nesta sexta",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/protestos-contra-gastos-militares-e-alta-do-custo-de-vida-mobilizam-jovens-na-europa-nesta-sexta.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Rohingya",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-     "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-     "source": "NPR"
-    },
-    {
-     "title": "Malgré l’arrêt historique de la Cour internationale de justice, les Rohingya ne sont pas près de rentrer en Birmanie",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+     "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ]
@@ -344,60 +334,60 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-     "published": "2026-11-20T20:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "published": "2026-11-20T19:51+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
-     "title": "Gérard Depardieu and French author investigated over sexual allegations",
-     "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-     "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-     "published": "2026-11-20T19:45+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-     "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-     "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-     "published": "2026-11-20T19:27+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
-     "title": "White House removes cyber-security chief after series of tech outages",
-     "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-     "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-     "published": "2026-11-20T19:03+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
-    },
-    {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-     "published": "2026-11-20T17:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-     "published": "2026-11-20T16:54+00:00",
+     "published": "2026-11-21T02:09+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-     "title": "Cost of living protests sweep across Europe",
-     "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-     "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-     "published": "2026-11-20T16:45+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg"
+     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+     "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+     "published": "2026-11-21T01:02+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg"
+    },
+    {
+     "title": "ANC fights to keep control of South Africa's key cities after election setback",
+     "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+     "published": "2026-11-21T00:34+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
+     "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+     "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+     "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+     "published": "2026-11-21T00:01+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
+    },
+    {
+     "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+     "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+     "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+     "published": "2026-11-20T23:28+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg"
+    },
+    {
+     "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+     "published": "2026-11-20T23:20+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "US declassifies more UFO footage filmed in the Middle East",
+     "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+     "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+     "published": "2026-11-20T23:15+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/9fdeb250-e537-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+     "published": "2026-11-20T23:08+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
     }
    ]
   },
@@ -409,60 +399,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-     "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-     "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax…",
-     "published": "2026-11-20T19:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
+     "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+     "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal…",
+     "published": "2026-11-21T01:43+00:00",
+     "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     },
     {
-     "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-     "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-     "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return…",
-     "published": "2026-11-20T19:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543"
+     "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+     "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are…",
+     "published": "2026-11-21T00:26+00:00",
+     "image": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32"
     },
     {
-     "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-     "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s A chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has…",
-     "published": "2026-11-20T19:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e"
+     "title": "Trump turns White House press conference into a 2028 succession audition",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+     "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s…",
+     "published": "2026-11-21T00:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=140&quality=85&auto=format&fit=max&s=efa2f21711e4d5e1709b16fb42ade6ae"
     },
     {
-     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-     "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans In response to a Guardian investigation , four US Senate…",
-     "published": "2026-11-20T18:51+00:00",
-     "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c"
+     "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+     "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights…",
+     "published": "2026-11-21T00:03+00:00",
+     "image": ""
     },
     {
-     "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-     "summary": "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’ Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the…",
-     "published": "2026-11-20T18:51+00:00",
-     "image": "https://i.guim.co.uk/img/media/be6a5eef64defea746f46320afd8fdcddb4bf12a/613_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=bee1b09efd23ab63c188bbd9180ab96f"
+     "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+     "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat…",
+     "published": "2026-11-20T23:48+00:00",
+     "image": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=140&quality=85&auto=format&fit=max&s=892fc0c8d9b7b741fcb53f80e10cc653"
     },
     {
-     "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-     "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he…",
-     "published": "2026-11-20T18:36+00:00",
-     "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52"
+     "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+     "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+     "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup…",
+     "published": "2026-11-20T23:42+00:00",
+     "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0"
     },
     {
-     "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
-     "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-     "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request In a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the…",
-     "published": "2026-11-20T18:34+00:00",
-     "image": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=71dbb87ded0ef40e5be44df05d5646f2"
+     "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+     "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast…",
+     "published": "2026-11-20T23:09+00:00",
+     "image": "https://i.guim.co.uk/img/media/b24b376c3c4ded825f413fd2ac48655f5fcb5e3c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=0bf10c399ce4d8386b40e0e8eef67063"
     },
     {
-     "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-     "summary": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conference A Princeton University doctoral student has reportedly been taken into custody by US Immigration and…",
-     "published": "2026-11-20T18:33+00:00",
-     "image": "https://i.guim.co.uk/img/media/a2b6e6d017d543b1b4713dc52b5d59d514b1068a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a31f1b45ae7c89839b5952679be4e52"
+     "title": "French police officers found guilty of racist assault on black music producer",
+     "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+     "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during…",
+     "published": "2026-11-20T22:23+00:00",
+     "image": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=140&quality=85&auto=format&fit=max&s=3d8125feb06722ff5542c1d5921cbe88"
     }
    ]
   },
@@ -473,6 +463,13 @@
    "region": "mundo",
    "url": "https://feeds.npr.org/1004/rss.xml",
    "items": [
+    {
+     "title": "Another day of survival for a family in Ukraine",
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+     "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+     "published": "2026-11-20T21:32+00:00",
+     "image": ""
+    },
     {
      "title": "Trump touts meeting with Xi and Putin but offers little results",
      "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
@@ -521,13 +518,6 @@
      "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
      "published": "2026-11-19T11:20+00:00",
      "image": ""
-    },
-    {
-     "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-     "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-     "published": "2026-11-19T09:46+00:00",
-     "image": ""
     }
    ]
   },
@@ -539,6 +529,41 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
     {
+     "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+     "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
+     "summary": "Bayer could end years of costly lawsuits in the US over claims that its Roundup weedkiller causes cancer. Tens of thousands of people could now receive compensation, although some lawyers say the payments are too low.",
+     "published": "2026-11-21T00:03+00:00",
+     "image": ""
+    },
+    {
+     "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
+     "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
+     "summary": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and family are fighting for her release.",
+     "published": "2026-11-20T20:45+00:00",
+     "image": ""
+    },
+    {
+     "title": "Repression against Iranian lawyers increases",
+     "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf",
+     "summary": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.",
+     "published": "2026-11-20T20:36+00:00",
+     "image": ""
+    },
+    {
+     "title": "At COP31, conflict over climate science slows action on global warming",
+     "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
+     "summary": "Attacks on climate science and disinformation risk delaying key measures at COP31 in Antalya. As the UN climate talks draw to a close, how will that affect efforts to come to an agreement?",
+     "published": "2026-11-20T20:34+00:00",
+     "image": ""
+    },
+    {
+     "title": "COP31: UN Climate summit enters final phase with no deal in sight",
+     "link": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf",
+     "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+     "published": "2026-11-20T20:31+00:00",
+     "image": ""
+    },
+    {
      "title": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
      "link": "https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf",
      "summary": "The depiction of the birth of the goddess Athena above the Parthenon's entrance is considered a masterpiece of ancient art. Now, a German research team has pieced together all the surviving fragments.",
@@ -546,52 +571,17 @@
      "image": ""
     },
     {
-     "title": "At COP31, conflict over climate science slows action on global warming",
-     "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
-     "summary": "Attacks on climate science and disinformation risk delaying key measures at COP31 in Antalya. As the UN climate talks draw to a close, how will that affect efforts to come to an agreement?",
-     "published": "2026-11-20T17:46+00:00",
-     "image": ""
-    },
-    {
      "title": "Germany news: Kids take to streets over school, climate and costs",
      "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-rdf",
-     "summary": "Thousands of young people turned in Germany demanding improvements in education, climate and affordability. Protesters say they aren't being taken seriously and will keep protesting until things change. DW has more.",
+     "summary": "Thousands of young people turned out across Germany demanding improvements in education, climate and affordability. Protesters say they aren't being taken seriously and will keep protesting until things change.",
      "published": "2026-11-20T17:43+00:00",
      "image": ""
     },
     {
      "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
      "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
-     "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country. Follow DW.",
+     "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country.",
      "published": "2026-11-20T17:12+00:00",
-     "image": ""
-    },
-    {
-     "title": "Better educated than ever — yet Germany's Gen Z is being shut out of its own future",
-     "link": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-all-1573-rdf",
-     "summary": "Never before have young people faced so many challenges. Young Germans are asking: Will I be better off than my parents later in life?",
-     "published": "2026-11-20T17:09+00:00",
-     "image": ""
-    },
-    {
-     "title": "Can German auto manufacturing recover after Mercedes and VW cuts?",
-     "link": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
-     "summary": "German automakers are pulling back on investments at home, sparking fresh anxiety about the auto sector's future. Some industry watchers think there is still a narrow window to stem the decline. But how?",
-     "published": "2026-11-20T15:36+00:00",
-     "image": ""
-    },
-    {
-     "title": "Measles in America: Here's a constructive approach to beating the disease, based on Brazil's experience",
-     "link": "https://www.dw.com/en/measles-in-america-here-s-a-constructive-approach-to-beating-the-disease-based-on-brazil-s-experience/a-79990626?maca=en-rss-en-all-1573-rdf",
-     "summary": "The US is now officially a measles contagion zone. By mid-2026, there were more infections than in all of the previous year. But the country could beat measles again, just like Brazil did two years ago.",
-     "published": "2026-11-20T15:14+00:00",
-     "image": ""
-    },
-    {
-     "title": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-     "link": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-all-1573-rdf",
-     "summary": "The Taliban rulers in Afghanistan have accused Pakistan of aiding and sheltering armed resistance groups. The allegations come amid heightened tensions and are likely to deepen the rift between the two neighbors.",
-     "published": "2026-11-20T15:02+00:00",
      "image": ""
     }
    ]
@@ -603,6 +593,41 @@
    "region": "europa",
    "url": "https://www.france24.com/en/rss",
    "items": [
+    {
+     "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
+     "link": "https://www.france24.com/en/tv-shows/spotlight/20261120-house-of-cards-america-s-enemies-no-longer-fear-it-its-allies-no-longer-trust-it",
+     "summary": "The Economist's deputy editor Tom Standage joins us for a futuristic retrospective, taking us back to the future as we spotlight \"The World Ahead 2027\". We begin with the \"leader of the free world\", the FIFA Peace Prize…",
+     "published": "2026-11-20T22:13+00:00",
+     "image": "https://s.france24.com/media/display/76c87eba-e522-11f1-aa3d-13439ca2fe89/w:1024/p:16x9/EN-20261120-180750-182351-CS.jpg"
+    },
+    {
+     "title": "Paris police officers sentenced to prison over 2020 beating of Black man",
+     "link": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
+     "summary": "A Paris court on Friday sentenced three policemen to serve time over the 2020 beating of Black music producer Michel Zecler, a rare such ruling. The assault, which was captured on camera, sparked nationwide outrage and…",
+     "published": "2026-11-20T22:04+00:00",
+     "image": "https://s.france24.com/media/display/dba8d6a2-dc23-11f1-9698-695cb59fade5/w:1024/p:16x9/000-D6VU4CT.jpg"
+    },
+    {
+     "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+     "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
+     "summary": "Tensions rise between Guinea and Burkina Faso after Conakry bans Burkinabe broadcaster RTB, amid a diplomatic dispute over gold miners and a caricature of President Mamadi Doumbouya. Meanwhile, fighting erupts between…",
+     "published": "2026-11-20T21:53+00:00",
+     "image": "https://s.france24.com/media/display/8e31d6f6-e52b-11f1-9535-e56ab3dc0809/w:1024/p:16x9/capture-a6bd8a5c.jpg"
+    },
+    {
+     "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+     "link": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+     "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-standing demand of the far right even…",
+     "published": "2026-11-20T21:17+00:00",
+     "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
+    },
+    {
+     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
+     "summary": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distinguished foreign correspondents.",
+     "published": "2026-11-20T19:42+00:00",
+     "image": "https://s.france24.com/media/display/cfefa95a-e518-11f1-b6ef-13439ca2fe89/w:1024/p:16x9/2026-11-19T230006Z-1256675834-RC2WQOACA4BG-RTRMADP-3-CYBERSECURITY-DRONES-RISK.jpg"
+    },
     {
      "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
      "link": "https://www.france24.com/en/video/20261120-%F0%9F%A6%9B-usa-fiona-cincinnati-zoo-s-famous-hippo-has-died",
@@ -623,41 +648,6 @@
      "summary": "🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon…",
      "published": "2026-11-20T17:06+00:00",
      "image": "https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg"
-    },
-    {
-     "title": "A cultural stroll through Paris with singer-songwriters Mariam Doumbia and Zaho",
-     "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20261120-a-cultural-stroll-through-paris-with-singer-songwriters-mariam-doumbia-and-zaho",
-     "summary": "Two women, two voices, two destinies: Malian performer Mariam continues her musical journey after the 2025 passing of Amadou, her partner in life and on stage. \"Amadou and I sang about love. We wanted to share love with…",
-     "published": "2026-11-20T17:04+00:00",
-     "image": "https://s.france24.com/media/display/b07cb1f2-e429-11f1-9e1b-6b451f569414/w:1024/p:16x9/MARIAM-ZAHO-PANACLOC-213426-2026-10-15-F24.jpg"
-    },
-    {
-     "title": "‘A more expensive EU is not a better EU’: Austria's Minister for Europe, Claudia Bauer",
-     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer",
-     "summary": "This week's programme hosted Claudia Bauer, Austria’s Federal Minister for Europe, Integration and Family while she was in Paris for the recent G7 meeting. She offered her thoughts on the diplomatic moves surrounding…",
-     "published": "2026-11-20T16:53+00:00",
-     "image": "https://s.france24.com/media/display/2ec2d102-e355-11f1-9179-1ba7ddfab527/w:1024/p:16x9/PHOTO-CLAUDIA-BAUER-TALKING-EUROPE-1.png"
-    },
-    {
-     "title": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
-     "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
-     "summary": "US President Donald Trump played up his \"fantastic\" relationships with China's Xi Jinping and Russia's Vladimir Putin during a White House press conference on Friday following his return to Washington after a first-ever…",
-     "published": "2026-11-20T16:30+00:00",
-     "image": "https://s.france24.com/media/display/428cc9ae-e508-11f1-bdfe-1bac47ab2f5d/w:1024/p:16x9/2026-11-20T172732Z-2021650949-RC2TROAG4YP7-RTRMADP-3-USA-TRUMP.jpg"
-    },
-    {
-     "title": "Photography: A very French history",
-     "link": "https://www.france24.com/en/video/20261120-photography-a-very-french-history",
-     "summary": "From its use as creative expression to documenting our everyday reality, photography has become an essential and widely-accessible medium since its invention. Did you know, however, that the technology was developed in…",
-     "published": "2026-11-20T16:28+00:00",
-     "image": "https://s.france24.com/media/display/73198654-e4fc-11f1-ab3a-e56ab3dc0809/w:1024/p:16x9/Thumb-01-2.jpg"
-    },
-    {
-     "title": "France investigates actor Depardieu, writer Houellebecq over alleged gang rape",
-     "link": "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape",
-     "summary": "French police are investigating allegations actor and convicted sex offender Gérard Depardieu raped and assaulted a woman with the complicity of bestselling author Michel Houellebecq during a 2018 film shoot, two…",
-     "published": "2026-11-20T16:27+00:00",
-     "image": "https://s.france24.com/media/display/c09677fe-e4f5-11f1-add1-13439ca2fe89/w:1024/p:16x9/000-D7ZY6NQ.jpg"
     }
    ]
   },
@@ -669,60 +659,60 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
-     "title": "Après que des missiles russes se sont écrasés en Pologne, le premier ministre Donald Tusk annonce « des mois de grands défis pour nous tous »",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/apres-que-des-missiles-russes-se-sont-ecrases-en-pologne-le-premier-ministre-donald-tusk-annonce-des-mois-de-grands-defis-pour-nous-tous_6813699_3210.html",
-     "summary": "Le secrétaire général de l’OTAN, Mark Rutte, doit se rendre à Varsovie samedi 21 novembre. Les alliés de la Pologne ont tous condamné ces incursions dans l’espace aérien du pays et ont rappelé leur solidarité.",
-     "published": "2026-11-20T19:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/20/458/0/5500/2750/644/322/60/0/6f9e43c_ftp-1-ei1st2bw0g2k-2026-11-20t092607z-1323429495-rc2lroalv5s3-rtrmadp-3-ukraine-crisis-poland-objects.JPG"
+     "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+     "link": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+     "summary": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+     "published": "2026-11-21T01:35+00:00",
+     "image": "https://img.lemde.fr/2025/01/28/419/0/5012/2506/644/322/60/0/808575d_ftp-import-images-1-gkgor4t7ipjj-5869023-01-06.jpg"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, qualifié d’« ami » par Donald Trump, est un « assassin », souligne Volodymyr Zelensky",
-     "link": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-vladimir-poutine-qualifie-d-ami-par-donald-trump-est-un-assassin-souligne-volodymyr-zelensky_6810982_3210.html",
-     "summary": "Le président ukrainien a également accusé Moscou de s’en prendre délibérément aux civils et aux infrastructures ukrainiennes après avoir, selon lui, échoué à obtenir des succès militaires sur le front cette année.",
-     "published": "2026-11-20T19:09+00:00",
-     "image": "https://img.lemde.fr/2026/11/19/102/0/7161/3580/644/322/60/0/5c88dda_ftp-1-cwxzpvup3jbe-10cd86d69e4e40daa064a94bce37003e-0-574f7ee72e23408999c0371baf3b76b7.jpg"
+     "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+     "summary": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine…",
+     "published": "2026-11-21T00:33+00:00",
+     "image": "https://img.lemde.fr/2026/11/17/145/0/8640/4320/644/322/60/0/1aac9c6_ftp-1-bl2mjk8u5plu-723cd91866ad4c908c14cab2908a80fe-0-22cb69999ee142a0a4ae95c6c2e55cd5.jpg"
     },
     {
-     "title": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
-     "summary": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a…",
-     "published": "2026-11-20T19:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/20/217/0/5232/2616/644/322/60/0/80ea034_ftp-1-d4lnbmnpqrlm-afp-d86h8hj.jpg"
+     "title": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+     "link": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+     "summary": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto », en 2013. Le jeu…",
+     "published": "2026-11-21T00:13+00:00",
+     "image": "https://img.lemde.fr/2026/11/19/181/0/6000/3000/644/322/60/0/2339ee9_ftp-1-iog45s2jy4zp-2305932040.jpg"
     },
     {
-     "title": "Au terme de longues négociations, le Royaume-Uni et l’Union européenne font un pas l’un vers l’autre",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html",
-     "summary": "Londres et Bruxelles ont conclu des accords sur la taxe carbone, la mobilité des jeunes et le rétablissement d’un espace sanitaire et phytosanitaire commun. Mais ceux-ci restent conditionnés à une autre négociation…",
-     "published": "2026-11-20T18:15+00:00",
-     "image": "https://img.lemde.fr/2026/11/20/155/0/4432/2216/644/322/60/0/28cf159_ftp-1-em1yiplzdogw-8834e5c74af641c0bc368e48f43e41df-0-b5d3c646aa0e4fee8172ac5fa9b72fb3.jpg"
+     "title": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+     "link": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+     "summary": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
+     "published": "2026-11-20T23:25+00:00",
+     "image": "https://img.lemde.fr/2026/04/27/684/0/8192/4096/644/322/60/0/874de26_ftp-1-89jmyvuosf6a-5879674-01-06.jpg"
     },
     {
-     "title": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
-     "summary": "Le ministère des mines kényan a choisi, jeudi 19 novembre, le consortium Frontier Minerals pour exploiter le site de Mrima Hill. Une victoire pour Washington, qui cherche à pallier la restriction des exportations…",
-     "published": "2026-11-20T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/20/350/0/4200/2100/644/322/60/0/f0544c3_upload-1-mhtffawx25uc-000-77d26zp.jpg"
+     "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen »",
+     "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen_6810982_3210.html",
+     "summary": "« La Russie fait un pari irresponsable qui ne peut que l’isoler davantage et renforcer la détermination et l’unité des Européens », a déclaré le président de la République, après une série d’« incidents graves », en…",
+     "published": "2026-11-20T23:13+00:00",
+     "image": "https://img.lemde.fr/2026/11/20/685/0/8224/4112/644/322/60/0/efbf849_ftp-1-uton6zw7rupn-afp-d86z2cl.jpg"
     },
     {
-     "title": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
-     "summary": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le…",
-     "published": "2026-11-20T17:56+00:00",
-     "image": "https://img.lemde.fr/2026/11/20/60/0/1920/960/644/322/60/0/7b2cb67_upload-1-hrg6fr5ju6vr-image-satok.jpg"
+     "title": "Cisjordanie occupée : un Palestinien tué par un garde de sécurité d’une colonie israélienne près de Ramallah",
+     "link": "https://www.lemonde.fr/international/article/2026/11/20/cisjordanie-occupee-un-palestinien-tue-par-un-garde-de-securite-d-une-colonie-israelienne-pres-de-ramallah_6813716_3210.html",
+     "summary": "L’armée israélienne a annoncé l’interpellation d’un homme qui se trouvait avec la victime.",
+     "published": "2026-11-20T22:38+00:00",
+     "image": "https://img.lemde.fr/2020/07/02/291/0/3500/1750/644/322/60/0/3982560_96363018-571020.jpg"
     },
     {
-     "title": "Malgré l’arrêt historique de la Cour internationale de justice, les Rohingya ne sont pas près de rentrer en Birmanie",
-     "link": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
-     "summary": "En dépit des preuves d’un génocide contre cette minorité à majorité musulmane, la Birmanie juge « injuste » l’arrêt de la CIJ et considère qu’elle « outrepasse ses compétences ».",
-     "published": "2026-11-20T17:41+00:00",
-     "image": "https://img.lemde.fr/2026/11/18/1193/0/8256/4128/644/322/60/0/e11d33f_ftp-1-a0fepietezoj-afp-d7u2469.jpg"
+     "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
+     "link": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
+     "summary": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise…",
+     "published": "2026-11-20T21:12+00:00",
+     "image": "https://img.lemde.fr/2026/11/20/416/0/5000/2500/644/322/60/0/1a19530_ftp-1-7j4w0q681gqd-afp-d8476nq.jpg"
     },
     {
-     "title": "Comment le marché africain pourrait refaçonner l’industrie du jeu vidéo ?",
-     "link": "https://www.lemonde.fr/videos/video/2026/11/20/comment-le-marche-africain-pourrait-refaconner-l-industrie-du-jeu-video_6813681_1669088.html",
-     "summary": "Le continent africain connaît une forte croissance du nombre de joueurs de jeux vidéo, mais aussi une multiplication des studios.",
-     "published": "2026-11-20T17:32+00:00",
-     "image": "https://img.lemde.fr/2026/11/17/112/0/447/223/644/322/60/0/a6f0647_upload-1-zt0tuq1gth1q-images.jpeg"
+     "title": "Génocide des Rohingya : la Cour internationale de justice « confirme qu’elle est indubitablement la boussole du droit international »",
+     "link": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+     "summary": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi…",
+     "published": "2026-11-20T20:38+00:00",
+     "image": "https://img.lemde.fr/2026/11/20/816/0/4928/2464/644/322/60/0/cc22378_ftp-1-7jkzpxcagury-afp-d83v29f.jpg"
     }
    ]
   },
@@ -734,6 +724,20 @@
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
     {
+     "title": "Germany: Berlin student protest targets rearmament and compulsory service",
+     "link": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
+     "summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a…",
+     "published": "2026-11-20T22:54+00:00",
+     "image": ""
+    },
+    {
+     "title": "Video shows dramatic helicopter rescue of woman trapped in flood channel",
+     "link": "https://www.euronews.com/2026/11/20/video-shows-dramatic-helicopter-rescue-of-woman-trapped-in-flood-channel",
+     "summary": "Los Angeles County firefighters rescued a woman trapped in a fast-moving flood control channel using a helicopter and an airborne paramedic.",
+     "published": "2026-11-20T21:18+00:00",
+     "image": ""
+    },
+    {
      "title": "Germany intensifies engagement with South Caucasus as 'region of opportunities'",
      "link": "https://www.euronews.com/2026/11/20/germany-intensifies-engagement-with-south-caucasus-as-region-of-opportunities",
      "summary": "Germany's foreign minister visited Azerbaijan and Armenia to develop projects of “strategic importance to Europe both economically and politically,\" in the context of Russia's aggression against Ukraine and the economic…",
@@ -741,9 +745,9 @@
      "image": ""
     },
     {
-     "title": "Trump accuses Iran of dishonesty while defending Putin ties",
+     "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
      "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
-     "summary": "Speaking at a White House press conference on Friday, Trump defended his ties with Xi and Putin, called for a \"real deal\" with Iran and claimed the Russian leader wanted to end the war in Ukraine through diplomacy.",
+     "summary": "Speaking at a White House following his trip to Asia, Trump defended his ties with Xi and Putin, claiming the Russian leader wanted to end the war in Ukraine through diplomacy. He also called for a \"real deal\" with Iran.",
      "published": "2026-11-20T18:55+00:00",
      "image": ""
     },
@@ -774,20 +778,6 @@
      "summary": "Climate activists denounced the proposed outcome of COP31 in Antalya, Turkey, on Friday 20 November 2026, accusing governments of failing to deliver meaningful progress on tackling climate change. They chanted \"shame\"…",
      "published": "2026-11-20T16:13+00:00",
      "image": ""
-    },
-    {
-     "title": "Italy: Workers and students stage nationwide strike over living costs",
-     "link": "https://www.euronews.com/video/2026/11/20/italy-workers-and-students-stage-nationwide-strike-over-living-costs",
-     "summary": "Workers and students marched through Rome, on Friday 20 November 2026, joining a nationwide strike over stagnant wages, rising living costs and government spending priorities. Protesters also demanded more funding for…",
-     "published": "2026-11-20T16:02+00:00",
-     "image": ""
-    },
-    {
-     "title": "UAE's Lana Nusseibeh pledges ‘relentless diplomacy’ in bid to lead the UN",
-     "link": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
-     "summary": "Lana Nusseibeh, the Emirati star diplomat running to succeed António Guterres, told Euronews the UN must return to its core purpose of peace, development, and prosperity. She has pledged relentless diplomacy, a leaner…",
-     "published": "2026-11-20T15:43+00:00",
-     "image": ""
     }
    ]
   },
@@ -799,60 +789,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Campaña electoral 29-N y actualidad política, en directo | Sánchez acusa a Feijóo y Abascal de querer derogar la Ley de Memoria Democrática y pide el voto “en nombre de los nietos del exilio republicano”",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-     "summary": "La mujer que ayudó a morir a Ramón Sampedro se suma al mitin de Sánchez en defensa de la ley de eutanasia | Feijóo promete “desplegar las fuerzas armadas cuando lo exija la seguridad nacional” | El líder de los…",
-     "published": "2026-11-20T19:57+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/P65SXY46DRCWRODJZGEJVRZRBY.jpg?auth=7dd5db58214a60b43a53d22cd02707273d89ad36b770452cd6e0a39a7fe09341"
+     "title": "Rosalía, Aitana y Guitarricadelafuente brillan en la gran noche de Los40 Music Awards Santander 2026",
+     "link": "https://elpais.com/cultura/2026-11-21/rosalia-aitana-y-guitarricadelafuente-brillan-en-la-gran-noche-de-los40-music-awards-santander-2026.html",
+     "summary": "Olivia Dean se consolida como artista internacional en una gala en Barcelona que coincide con los 60 años de historia de la emisora musical",
+     "published": "2026-11-20T23:44+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/K4HYVBCKTZBILCL67JDOJXQSD4.JPG?auth=9ddea48e58c9bd0f74c97ebcb2d8b94237ad16d43ec5e9af285b7c6ad7840d5b"
     },
     {
-     "title": "Dinamarca acusa a Rusia de intentar asesinar en su territorio a un rapero ucranio-estadounidense",
-     "link": "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html",
-     "summary": "La primera ministra, Mette Frederiksen, propone endurecer las sanciones contra Moscú y suspender los visados no esenciales a ciudadanos rusos",
-     "published": "2026-11-20T19:37+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/W4WY4ZSEF5DYJCGGHATDBA7IXU.jpg?auth=30c4ef8e932c7fc31365716e2f1912adba12cb1367b8107c358b18c361b1da7d"
+     "title": "El mensaje de Rosalía en LOS40 Music Awards: “Hay derechos conseguidos que hay que seguir defendiendo”",
+     "link": "https://elpais.com/videos/2026-11-20/el-mensaje-de-rosalia-en-los40-music-awards-hay-derechos-conseguidos-que-hay-que-seguir-defendiendo.html",
+     "summary": "La artista catalana ha destacado la necesidad de la película ‘La bola negra’, de ‘Los Javis’, en “tiempos convulsos donde tanto es cuestionado” al entregar el galardón a Fenómeno Cultural del Año a Guitarricadelafuente…",
+     "published": "2026-11-20T23:36+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/6XUNHWLTLZB6XPZIUWYWFES7YM.JPG?auth=4dd65796a6e14aaad9498e2724533921094b7baccfd3d79ff52690f8a7c3a89c"
     },
     {
-     "title": "Gala de Los40 Music Awards, en directo",
-     "link": "https://elpais.com/videos/2026-11-20/gala-de-los40-music-awards-en-directo.html",
-     "summary": "La gala de LOS40 se celebra en el Palau Sant Jordi de Barcelona y cuenta con la actuación especial de Estopa, además de las de artistas como Olivia Dean, Quevedo o Guitarricadelafuente",
-     "published": "2026-11-20T19:01+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/OFLSBADUAVBT5FYQB3SLFGVRM4.jpg?auth=d1aa58a22fc6d683192f192333ac4e82a0db84d5864eb15c5e6dcd25025e879c"
+     "title": "Hospitalizado el expresidente Jair Bolsonaro con dolores abdominales en Brasilia",
+     "link": "https://elpais.com/america/2026-11-20/hospitalizado-el-expresidente-jair-bolsonaro-con-dolores-abdominales-en-brasilia.html",
+     "summary": "El ultraderechista cumple una condena por golpismo en prisión domiciliaria a causa de sus problemas de salud",
+     "published": "2026-11-20T22:57+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/GUJGO3ADEJJAJNMJFM7323UCW4.jpg?auth=9f0e87f6659df8eb1937ba0f7a1f3df660ee2e5932b8b027ca3329464b275473"
     },
     {
-     "title": "El Supremo mantiene suspendido el voto a 163.000 nacionalizados por la ‘ley de nietos’ aunque ahora vivan en España",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-supremo-mantiene-suspendido-el-voto-a-163000-nacionalizados-por-la-ley-de-nietos-aunque-ahora-vivan-en-espana.html",
-     "summary": "Los jueces exigen a la Junta Electoral que garantice que los afectados no figuren en el censo",
-     "published": "2026-11-20T18:08+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/ZBJGTGSUGU7QHC4K6QX55YTUKQ.jpg?auth=a64b67c9dabeeba96908e3c6ae5acb9fcda4e50c971c5c70ca5e8ebdf8f72ebf"
+     "title": "San Mamés sonríe a Eder Sarabia",
+     "link": "https://elpais.com/deportes/futbol/2026-11-20/san-mames-sonrie-a-eder-sarabia.html",
+     "summary": "El técnico del Espanyol, que se estrenaba en el banquillo blanquiazul, se lleva los tres puntos a Barcelona tras un partido bien gestionado ante un Athletic falto de ideas",
+     "published": "2026-11-20T22:39+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/UDXHDMG5RNMZFNXO4U2INO67GI.jpg?auth=b4dd5fce41589498b3552ce26a48462147e2333a93fe362e62c50a0680d01418"
     },
     {
-     "title": "Rosalía, con un gran pájaro blanco como tocado: lo mejor de la alfombra roja de LOS40 Music Awards Santander",
-     "link": "https://elpais.com/smoda/2026-11-20/la-alfombra-roja-de-los40-music-awards-santander.html",
-     "summary": "Repasamos los ‘looks’ de los invitados a la gran gala de la música celebrada en el Palau Sant Jordi de Barcelona",
-     "published": "2026-11-20T17:59+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/YXA5Y4W2IBBCNK5YHSYYMHDN7I.jpg?auth=320b4ac2114c7899cddc2b0b21a1ac82d008f880862e4e8bafa13fd0da3884af"
+     "title": "El Olympiacos pasa por encima del Real Madrid (92-76)",
+     "link": "https://elpais.com/deportes/baloncesto/2026-11-20/el-olympiacos-pasa-por-encima-del-real-madrid-92-76.html",
+     "summary": "El conjunto blanco, en su peor versión de la temporada y con su anotación más baja, es zarandeado por el conjunto griego",
+     "published": "2026-11-20T21:24+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/ZL6X7A65MFHUTDTDYS7S26H2PQ.jpg?auth=aee657b94be6f10552ecd96c971c528b08d8f918a8da4bcc6d3779119b02ace8"
     },
     {
-     "title": "El Congreso de Argentina aprueba por unanimidad una ley de discapacidad que revierte los recortes de Milei",
-     "link": "https://elpais.com/argentina/2026-11-20/el-congreso-de-argentina-aprueba-por-unanimidad-una-ley-de-discapacidad-que-revierte-los-recortes-de-milei.html",
-     "summary": "El Senado también restaura los límites a la venta de tierras a extranjeros que el presidente había derogado por decreto",
-     "published": "2026-11-20T17:59+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/GWDOBSPOSJHATCBLZKYSJBHIAU.jpg?auth=01df19bf74e83c5572ef902e9840df0348dda56c34d14d23a4da61c3d5b73ada"
+     "title": "Trump amenaza con sancionar a las empresas estadounidenses que construyan centros de datos en otros países",
+     "link": "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html",
+     "summary": "El presidente no explicó cómo aplicaría la medida y animó a las comunidades a aceptar estas instalaciones, a pesar del rechazo creciente a estas instalaciones",
+     "published": "2026-11-20T21:19+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/5GR4JQSK5FOPDDHISMXKTP45PM.jpg?auth=b4e00c1b546267c4eaf7da0a10abfa19e86bfebafbab78867ae9890af55097bd"
     },
     {
-     "title": "Anthropic cae con fuerza y pone en riesgo el precio de su salida a Bolsa",
+     "title": "El desplome de la IA lleva al Nasdaq a su peor semana en año y medio con Anthropic hundiéndose un 8,5%",
      "link": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
-     "summary": "Sus acciones se hunden más del 13% un día después de que la desarrolladora de Claude protagonizara el mayor estreno bursátil de la historia",
-     "published": "2026-11-20T17:57+00:00",
+     "summary": "Nvidia pierde un 22,9% en el acumulado de las últimas cinco sesiones, su peor registro desde octubre de 2008, tras conocerse una posible investigación de su contabilidad por parte de la SEC. La sangría llega un día…",
+     "published": "2026-11-20T21:06+00:00",
      "image": "https://imagenes.elpais.com/resizer/v2/LGEFJOMHJ5PCNMQCOLD4L4G2UA.jpg?auth=ed9d1957776fa8cc6ab7f00879bf012ace559ebf84dec1837420685be5084ba0"
     },
     {
-     "title": "Seis gestos de Sánchez y Feijóo que explican qué dijeron los candidatos con su comunicación no verbal",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/seis-gestos-de-sanchez-y-feijoo-que-explican-que-dijeron-los-candidatos-con-su-comunicacion-no-verbal.html",
-     "summary": "José Luis Martín Ovejero, experto en análisis de la gestualidad, valora el único cara a cara antes de las elecciones del 29-N",
-     "published": "2026-11-20T17:37+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/2CCZJCYM25BGHCEOPSJGICHORU.jpg?auth=296c1e733f641d4e55b518f18ed71204c72cfbacf9198b8f1052c799d403e5d9"
+     "title": "Los artistas de Los40 Music Awards ante el 29N: “La vivienda debería dejar de ser un bien de mercado como cualquier otro”",
+     "link": "https://elpais.com/videos/2026-11-20/los-artistas-de-los40-music-awards-ante-el-29n-la-vivienda-deberia-dejar-de-ser-un-bien-de-mercado-como-cualquier-otro.html",
+     "summary": "Durante la alfombra roja de los premios musicales en el Palau Sant Jordi de Barcelona, EL PAÍS pregunta a los invitados qué medidas impulsarían si llegaran a La Moncloa",
+     "published": "2026-11-20T20:52+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/FOA7EWEJLBEQLDMIIOCAJ63LGM.jpg?auth=143b77478a134f1fe49c74574b3452370b5f15a1e9d9d63d510a8d1d38d12690"
     }
    ]
   },
@@ -864,60 +854,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "Montero y Rufián exhiben en Madrid su “alianza antifascista” ante la “sumisión” de Sumar al PSOE",
-     "link": "https://www.lavanguardia.com/politica/20261120/11689491/montero-rufian-alianza-antifascista-madrid-sumision-sumar-psoe.html",
-     "summary": "Los dirigentes de Podemos y ERC han reunido a cerca de 2.000 personas en su primer mitin conjunto de campaña",
-     "published": "2026-11-20T19:34+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b009ae19761e.r_d.3003-1748-749.jpeg"
+     "title": "Responsabilidad ante la crisis climática",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689509/responsabilidad-crisis-climatica.html",
+     "summary": "La COP31, que se abrió el pasado día 9 en Antalia (Turquía), se acercaba anoche a su demorado cierre sin acuerdo. Sin un acuerdo, al menos, que suponga un decidido paso al frente en la lucha contra la crisis climática y…",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg"
     },
     {
-     "title": "Trump defiende su “fantástica” relación con Putin y dice que busca una “vía diplomática” con Ucrania",
-     "link": "https://www.lavanguardia.com/internacional/20261120/11689497/trump-defiende-fantastica-relacion-putin-dice-busca-diplomatica-ucrania.html",
-     "summary": "El presidente rechaza hablar sobre garantías de seguridad para Kyiv si no firma antes un acuerdo de paz con Moscú",
-     "published": "2026-11-20T19:34+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b009f72734e5.jpeg"
+     "title": "Las nieblas de Waterloo",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689437/nieblas-waterloo.html",
+     "summary": "Puigdemont está convencido de que ha derrotado a España con la amnistía",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/04/6aea6c2cd73cb.jpeg"
     },
     {
-     "title": "Viladecans incrementa su producción de energía renovable un 35% con ocho nuevos tejados fotovoltaicos",
-     "link": "https://www.lavanguardia.com/local/baix-llobregat/20261120/11689495/viladecans-incrementa-produccion-energia-renovable-35-ocho-nuevos-tejados-fotovoltaicos.html",
-     "summary": "El Ayuntamiento espera ahorrar 80.000 euros anuales en la factura municipal",
-     "published": "2026-11-20T19:17+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b009a18e790f.r_d.3096-2064-725.jpeg"
+     "title": "¿Podría ganar la izquierda?",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689350/ganar-izquierda.html",
+     "summary": "Los votos de la indignación no tienen destinatario concreto, pero es casi seguro que no van a la derecha",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0069b30f9b8.jpeg"
     },
     {
-     "title": "Un matemático dice haber resuelto un problema sin solución gracias a la IA",
-     "link": "https://www.lavanguardia.com/vida/20261120/11689484/matematico-afirma-haber-resuelto-problemas-mas-importantes-mundo-ayuda-ia.html",
-     "summary": "El investigador Levent Alpöge ha asegurado haber resuelto la hipótesis de Riemann, uno de los siete problemas del milenio",
-     "published": "2026-11-20T19:04+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b0098ddf3a65.r_d.1003-394-2245.jpeg"
+     "title": "La falsa superioridad moral del embudo",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689342/falsa-superioridad-moral-embudo.html",
+     "summary": "Desde la izquierda, los pactos propios son “mayorías progresistas”; los ajenos, “pactos de la vergüenza”",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0069e8c06b7.jpeg"
     },
     {
-     "title": "Vaya, PSOE y PP juegan al 'fact checking'",
-     "link": "https://www.lavanguardia.com/politica/20261120/11689457/psoe-pp-juegan-fact-checking.html",
-     "summary": "Eres un mentiroso. Frase clara y directa, sin rodeos. A la altura del “es usted ruin” y de Rajoy a Sánchez, del “usted, un indecente” de Sánchez a Rajoy en el cara a cara del 2015. Pero desgraciadamente se han perdido…",
-     "published": "2026-11-20T18:53+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0092bc87b84.jpeg"
+     "title": "La Ilustración oscura",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689339/ilustracion-oscura.html",
+     "summary": "Yo al principio creí que la ultraderecha eran cuatro gatos, nostálgicos de un mundo desaparecido",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/17/6a32bff2309c9.r_d.1069-1043-0.jpeg"
     },
     {
-     "title": "¿Verdadero o falso? El fact-check del debate",
-     "link": "https://www.lavanguardia.com/vida/verificacion/20261120/11689467/verificaciones-cara-cara-pedro-sanchez-alberto-nunez-feijoo.html",
-     "summary": "A través de Comprobado, Verificat analiza y desmonta las principales imprecisiones de los candidatos",
-     "published": "2026-11-20T18:52+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff7f3ad56f7.r_d.389-268-4885.jpeg"
+     "title": "Las formas perdidas",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689284/formas-perdidas.html",
+     "summary": "De nada sirve organizar un cara a cara entre personas que no se miran",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6aff7b928f5a3.jpeg"
     },
     {
-     "title": "La COP31 encalla en el desacuerdo para prescindir de los combustibles fósiles",
-     "link": "https://www.lavanguardia.com/vida/20261120/11689454/cop31-encalla-desacuerdo-prescindir-combustibles-fosiles.html",
-     "summary": "La conferencia mundial de Turquía entra en tiempo de prórroga sin acuerdo para prescindir del petróleo, gas y carbón",
-     "published": "2026-11-20T18:44+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b008edb27cda.r_d.463-252-4885.jpeg"
+     "title": "Las carteristas",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689343/carteristas.html",
+     "summary": "En este autobús ya todo es posible, las miradas corren como ráfagas de metralla",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/09/22/632c8cb98a455.jpeg"
     },
     {
-     "title": "El PP se muestra eufórico tras el cara a cara y la Moncloa justifica su estrategia",
-     "link": "https://www.lavanguardia.com/politica/20261120/11689455/pp-muestra-euforico-cara-cara-moncloa-justifica-estrategia.html",
-     "summary": "Los equipos de Feijóo y Sánchez ven cumplidos sus contrapuestos objetivos en el debate",
-     "published": "2026-11-20T18:20+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b008eff6dd3b.jpeg"
+     "title": "El debate o colgar cortinas",
+     "link": "https://www.lavanguardia.com/opinion/20261121/11689507/debate-colgar-cortinas.html",
+     "summary": "El debate entre Pedro Sánchez y Alberto Núñez Feijóo no era del agrado de Vox, que veía relegado a Santiago Abascal del plató televisivo",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg"
     }
    ]
   },
@@ -928,6 +918,27 @@
    "region": "espanha",
    "url": "https://www.eldiario.es/rss/",
    "items": [
+    {
+     "title": "Cantando el 'Cara al sol' y con simbología y saludos fascistas: decenas de personas homenajean en Madrid a Franco por el 20N",
+     "link": "https://www.eldiario.es/sociedad/cantando-cara-sol-simbologia-saludos-fascistas-decenas-personas-homenajean-madrid-franco-20n_1_13682175.html",
+     "summary": "Los asistentes se han concentrado en la calle Génova, exhibiendo banderas preconstitucionales, y se han movilizado al grito de 'Pedro Sánchez, hijo de puta' hasta la sede del PSOE en Ferraz 51 años después de la muerte…",
+     "published": "2026-11-20T21:56+00:00",
+     "image": "https://static.eldiario.es/clip/356fbf0e-70ce-49c9-8380-61698ac4da85_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Cartagena en 48 horas: una escapada de fin de semana por más de 2.000 años de historia",
+     "link": "https://www.eldiario.es/viajes/cartagena-48-horas-escapada-semana-2-000-anos-historia_1_13676719.html",
+     "summary": "Cartagineses, romanos, edificios modernistas y antiguas fortificaciones forman parte del patrimonio de una ciudad que, además, mantiene una estrecha e histórica relación con el mar Mucho más que un castillo: siete…",
+     "published": "2026-11-20T21:08+00:00",
+     "image": "https://static.eldiario.es/clip/2367bdce-999f-41a1-8348-f56728e9868a_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "La parafernalia nazi en casa del asesino de Guillem Agulló: 110 esvásticas, cartuchos, una espada o un busto de Adolf Hitler",
+     "link": "https://www.eldiario.es/comunitat-valenciana/parafernalia-nazi-casa-asesino-guillem-agullo-110-esvasticas-cartuchos-espada-busto-adolf-hitler_1_13681188.html",
+     "summary": "La Guardia Civil intervino al autor confeso de la muerte del joven antifascista, en su penúltima detención, una fábrica de simbología de ultraderecha en su dormitorio de la vivienda familiar del barrio de Benicalap La…",
+     "published": "2026-11-20T20:15+00:00",
+     "image": "https://static.eldiario.es/clip/9132a306-f414-4d6e-bfd5-bcbe83c785f2_16-9-discover-aspect-ratio_default_0.jpg"
+    },
     {
      "title": "Podemos marca perfil de la mano de Rufián redoblando sus críticas a PSOE y Frente Amplio",
      "link": "https://www.eldiario.es/politica/marca-perfil-mano-rufian-redoblando-criticas-psoe-frente-amplio_1_13681876.html",
@@ -962,27 +973,6 @@
      "summary": "La coalición valencianista entiende que la propaganda está colocada fuera de los lugares que permite la ley electoral y consideran \"inadmisible\" esta acción que tildan de xenófoba El PSPV denuncia una lona de Vox en…",
      "published": "2026-11-20T16:33+00:00",
      "image": "https://static.eldiario.es/clip/5f364163-2edb-4951-9272-b53e5044f311_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "La justicia investiga por intrusismo a un enfermero que ha ejercido en centros sanitarios públicos y privados de Asturias",
-     "link": "https://www.eldiario.es/asturias/justicia-investiga-intrusismo-enfermero-ejercido-centros-sanitarios-publicos-privados-asturias_1_13676189.html",
-     "summary": "Tribunales de Instancia de Oviedo y Gijón han abierto diligencias contra el investigado por delitos de estafa y falsedad documental tras ser denunciado por el Colegio de Enfermería de Asturias al acceder a los trabajos…",
-     "published": "2026-11-20T16:04+00:00",
-     "image": "https://static.eldiario.es/clip/32af3108-5fe4-45b1-8e2e-0ad55c564dc2_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Título para Márquez o ‘match ball’ para Valencia: previa, horario y dónde ver el Gran Premio de Portugal de Moto GP",
-     "link": "https://www.eldiario.es/spin/deportes/titulo-marquez-match-ball-valencia-previa-horario-gran-donde-ver-premio-portugal-moto-gp-pm_1_13680604.html",
-     "summary": "Pese a que la sensación es que Marc Márquez puede tener fácil para conquistar el título este fin de semana, el de Ducati prefiere ser prudente. Valentino Rossi niega la patada a Marc Márquez en Sepang 2015: “Lo puedo…",
-     "published": "2026-11-20T16:00+00:00",
-     "image": "https://static.eldiario.es/clip/5bfad8ce-9b4b-405a-8d07-a99d92c8fc93_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Azcón critica la aprobación del decreto sobre centros de datos: “Coloca a Aragón en una posición de segunda”",
-     "link": "https://www.eldiario.es/aragon/economia/azcon-critica-aprobacion-decreto-centros-datos-coloca-aragon-posicion-segunda_1_13681334.html",
-     "summary": "El presidente autonómico anuncia que recurrirá el real decreto y acusa al Ejecutivo central de fijar condiciones distintas para los proyectos que se instalan en Cataluña, pero no concreta cuáles El Gobierno aprueba la…",
-     "published": "2026-11-20T15:45+00:00",
-     "image": "https://static.eldiario.es/clip/525d97a3-8a27-4653-bfc9-6e5eb25f157c_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -994,60 +984,60 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
-     "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
-     "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
-     "summary": "After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved…",
-     "published": "2026-11-20T19:53+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X-v3.jpg"
-    },
-    {
-     "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-     "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-     "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-     "published": "2026-11-20T19:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg"
-    },
-    {
      "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
      "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
      "summary": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
-     "published": "2026-11-20T19:23+00:00",
+     "published": "2026-11-20T23:29+00:00",
      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "White Police Officers Are Convicted of Beating a Black Man in France",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+     "summary": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+     "published": "2026-11-20T23:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+     "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+     "published": "2026-11-20T23:05+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg"
     },
     {
      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
      "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-     "published": "2026-11-20T18:21+00:00",
+     "published": "2026-11-20T22:34+00:00",
      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg"
     },
     {
-     "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
-     "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-     "summary": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
-     "published": "2026-11-20T17:45+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg"
+     "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+     "summary": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
+     "published": "2026-11-20T22:15+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-     "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-     "summary": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-     "published": "2026-11-20T17:13+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg"
+     "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+     "link": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+     "summary": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.",
+     "published": "2026-11-20T22:06+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-     "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-     "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
-     "published": "2026-11-20T16:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg"
+     "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+     "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+     "published": "2026-11-20T20:30+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/world/europe/20vid-poland-airspace-cover-image/20vid-poland-airspace-cover-image-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-     "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-     "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-     "published": "2026-11-20T16:18+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg"
+     "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+     "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+     "published": "2026-11-20T20:22+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -1058,6 +1048,27 @@
    "region": "americas",
    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
    "items": [
+    {
+     "title": "Trump says he'll penalize U.S. companies that build data centers in other countries",
+     "link": "https://www.latimes.com/politics/story/2026-11-20/trump-says-hell-penalize-u-s-companies-that-build-data-centers-abroad",
+     "summary": "Trump returned from Asia eager to project confidence in his push to win the global race for dominance in artificial intelligence.",
+     "published": "2026-11-20T21:58+00:00",
+     "image": ""
+    },
+    {
+     "title": "From transmission lines to pipelines: What the Senate's permitting reform bill could mean for California",
+     "link": "https://www.latimes.com/environment/story/2026-11-20/from-transmission-lines-to-pipelines-what-senates-permitting-bill-could-mean-for-california",
+     "summary": "The Bipartisan American Affordability and Jobs Act, or BAAJA, would open the door for new transmission lines, pipelines and renewables in California and across the nation.",
+     "published": "2026-11-20T21:34+00:00",
+     "image": ""
+    },
+    {
+     "title": "Port workers could strike as union fails to extend contract",
+     "link": "https://www.latimes.com/business/story/2026-11-20/port-workers-could-strike-as-union-fails-to-extend-contract",
+     "summary": "Employers at the ports of Los Angeles and Long Beach warn that thousands of workers could strike if a contract deal is not finalized by Saturday.",
+     "published": "2026-11-20T20:40+00:00",
+     "image": ""
+    },
     {
      "title": "News Analysis: In Shenzhen, Trump treats deference to adversaries as peace",
      "link": "https://www.latimes.com/politics/story/2026-11-20/in-shenzhen-trump-treats-deference-to-adversaries-as-peace",
@@ -1092,27 +1103,6 @@
      "summary": "Gov. Gavin Newsom accused President Trump and his administration of failing to lead on artificial intelligence while releasing his own plan for industry oversight in Washington on Wednesday.",
      "published": "2026-11-18T22:34+00:00",
      "image": ""
-    },
-    {
-     "title": "Russian spy stalked, photographed Silicon Valley tech defense company workers, feds say",
-     "link": "https://www.latimes.com/california/story/2026-11-18/feds-russian-spy-silicon-valley-pursuit",
-     "summary": "A Russian spy surveilled employees of a Silicon Valley tech and defense company because it supplies Ukraine, the U.S. Department of Justice alleges in a federal indictment released Wednesday.",
-     "published": "2026-11-18T20:46+00:00",
-     "image": "https://ca-times.brightspotcdn.com/dims4/default/d1c0090/2147483647/strip/false/crop/504x353+0+0/resize/504x353!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Fec%2F39a6e6b2451b919b025dae7f6bb0%2Fla-me-russian-spy-fake-passport.jpg"
-    },
-    {
-     "title": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
-     "link": "https://www.latimes.com/business/story/2026-11-18/tech-layoffs-flare-up-in-san-diego-with-hundreds-of-layoffs-at-chipmaker",
-     "summary": "The cuts come weeks after CEO Cristiano Amon announced a \"performance-focused reduction\" following annual reviews.",
-     "published": "2026-11-18T20:45+00:00",
-     "image": ""
-    },
-    {
-     "title": "'It's not fine': Massive tech failures fuel alarm about critical U.S. infrastructure, AI",
-     "link": "https://www.latimes.com/world-nation/story/2026-11-18/outages-alarm-vulnerabilities-critical-infrastructure",
-     "summary": "After Americans faced a series of snafus trying to catch flights, send emails and log into bank accounts, experts warn of potential weaknesses in the technology that runs critical infrastructure.",
-     "published": "2026-11-18T14:35+00:00",
-     "image": ""
     }
    ]
   },
@@ -1124,60 +1114,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
+     "title": "Sorteo Especial 318: Resultados del viernes 20 de noviembre del 2026 de la Lotería Nacional",
+     "link": "https://www.infobae.com/mexico/2026/11/20/sorteo-especial-318-resultados-del-viernes-20-de-noviembre-del-2026-de-la-loteria-nacional/",
+     "summary": "El plazo para cobrar el premio es de 60 días a partir de la fecha en que se anuncian los resultados para quienes hayan adquirido uno de los cachitos ganadores",
+     "published": "2026-11-21T02:09+00:00",
+     "image": "https://www.infobae.com/resizer/v2/WDGUXLW5GFBK5C5F2VJBZCTIXY.png?auth=fa56cdd2667be3209b0a111e50b347da21eeb4ad17e0e5fdb02b31f685af2fd3&smart=true&width=518&height=236"
+    },
+    {
+     "title": "MC y el PAN se pelean por designación en el INE: Elías Lixa acusa a emecistas de “pactar nombres en lo oscurito”",
+     "link": "https://www.infobae.com/mexico/2026/11/21/mc-y-el-pan-se-pelean-por-designacion-en-el-ine-elias-lixa-acusa-a-emecistas-de-pactar-nombres-en-lo-oscurito/",
+     "summary": "Ivonne Ortega criticó la queja de Acción Nacional en el Tribunal Electoral, dejando de lado el diálogo para llegar a un consenso y emitir la convocatoria correspondiente",
+     "published": "2026-11-21T02:09+00:00",
+     "image": "https://www.infobae.com/resizer/v2/AUD2DJEHJND3FASZBK2JNYSLZQ.jpg?auth=083153abd50d5d3e46ee48f0d13b160642b1caa26be5e31efb6274d3590f360f&smart=true&width=1920&height=1080"
+    },
+    {
+     "title": "Melody Luz habló luego del video que posteó contra Alex Caniggia: \"No quiero que me afecte a mí laboralmente\"",
+     "link": "https://www.infobae.com/teleshow/2026/11/21/melody-luz-hablo-luego-del-video-que-posteo-contra-alex-caniggia-no-quiero-que-me-afecte-a-mi-laboralmente/",
+     "summary": "La bailarina contó el contundente motivo que la impulsó a subir el clip llorando en sus redes sociales",
+     "published": "2026-11-21T02:08+00:00",
+     "image": "https://www.infobae.com/resizer/v2/HX2UFA2WCBBFPFQOHOMJC4LC4M.png?auth=9b1d7585029af97cc8e483b14f7887fc0e1202cf01b88f9ed93934e9e409e74f&smart=true&width=1920&height=1080"
+    },
+    {
+     "title": "Deportivo Cali vs. Millonarios - EN VIVO Liga BetPlay: siga el minuto a minuto del partido desde Palmaseca",
+     "link": "https://www.infobae.com/colombia/2026/11/20/deportivo-cali-vs-millonarios-en-vivo-liga-betplay-siga-el-minuto-a-minuto-del-partido-desde-palmaseca/",
+     "summary": "El clásico añejo tendrá el condimento especial de reunir a dos aspirantes a la estrella de Navidad en el 2026",
+     "published": "2026-11-21T02:08+00:00",
+     "image": "https://www.infobae.com/resizer/v2/52GW6U74UNFYBBW7UJIMTUCIDA.jpg?auth=f02fda65526bc42982881b79fc4145978108fcaf05431e8320739bd484699567&smart=true&width=900&height=600"
+    },
+    {
      "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 20 de noviembre: frente frío 8 traerá lluvias y fuertes rachas de viento",
      "link": "https://www.infobae.com/mexico/2026/11/20/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-20-de-noviembre-frente-frio-8-traera-lluvias-y-fuertes-rachas-de-viento/",
      "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
-     "published": "2026-11-20T20:13+00:00",
+     "published": "2026-11-21T02:08+00:00",
      "image": "https://www.infobae.com/resizer/v2/PQEE3P2OHNDJLOIWIUPB2YYGVE.jpg?auth=533dadf245f11611118ee9c48475d30ea8fa8fc0dbee2c49443c8d1ed6135335&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Felipe Chávez anotó su primer gol en Alemania: peruano se consolida con FC Magdeburg en la Bundesliga 2",
-     "link": "https://www.infobae.com/peru/deportes/2026/11/20/felipe-chavez-anoto-su-primer-gol-en-alemania-peruano-se-consolida-con-fc-magdeburg-en-la-bundesliga-2/",
-     "summary": "El viernes 20 de noviembre, Felipe Chávez marcó su primer gol en la Segunda División de Alemania, conocida como Bundesliga 2 . El futbolista peruano anotó para el FC Magdeburg en el partido ante Arminia Bielefeld …",
-     "published": "2026-11-20T20:13+00:00",
-     "image": "https://www.infobae.com/resizer/v2/OMZ4AOYL2ZDIDBORR3XEUN2UTM.jpg?auth=ed9d1baf0ba0ca605d1a29f99d7b365377e66e0b8680e21cedee1d5296556e9d&smart=true&width=1201&height=629"
+     "title": "Medellín pegó primero en el inicio de los cuadrangulares de la Liga BetPlay: venció a Santa Fe por 1-0",
+     "link": "https://www.infobae.com/colombia/2026/11/20/independiente-medellin-vs-santa-fe-en-vivo-los-dos-equipos-dan-apertura-a-los-cuadrangulares-finales-de-la-liga-betplay-2026-ll/",
+     "summary": "Con gol de Jeison Medina y las apariciones de Jackson Martínez con Juan Fernando Quintero, el Poderoso arrancó en el grupo A con triunfo de local y los rojos perdieron por lesión a Mateo Puerta",
+     "published": "2026-11-21T02:08+00:00",
+     "image": "https://www.infobae.com/resizer/v2/W47KI2IZDJD5NB7AMHONKCTPZ4.jpeg?auth=1850f6e89c0609264f63e083db3216a74b473b7298e6ac16404e50d8b0ac4a12&smart=true&width=1280&height=854"
     },
     {
-     "title": "Dinamarca acusó a Rusia de planificar el asesinato de un ucraniano en Copenhague",
-     "link": "https://www.infobae.com/america/mundo/2026/11/20/dinamarca-expulso-a-un-diplomatico-ruso-por-un-intento-de-asesinato-contra-un-ucraniano/",
-     "summary": "El complot fue frustrado antes de un concierto en Copenhague y habría contado con la colaboración de una banda criminal danesa prohibida desde 2021",
-     "published": "2026-11-20T20:13+00:00",
-     "image": "https://www.infobae.com/resizer/v2/TEMTINV2A5FNDBBSHYS6TJTONY.JPG?auth=0e5ce7b10b0f91bbe99365f888e3bd56e4ab637b0db247f12f2cf1918863fb05&smart=true&width=5974&height=3360"
+     "title": "Julio César Chávez anuncia el inminente final para una etapa de su carrera: “La neta ya estoy cansado”",
+     "link": "https://www.infobae.com/mexico/2026/11/21/julio-cesar-chavez-anuncia-el-inminente-final-para-una-etapa-de-su-carrera-la-neta-ya-estoy-cansado/",
+     "summary": "El Gran Campeón Mexicano anticipó que comenzará a disfrutar más a su familia tras décadas de combates, viajes y campeonatos",
+     "published": "2026-11-21T02:08+00:00",
+     "image": "https://www.infobae.com/resizer/v2/BL6P2BBHBZCJXMELJU5WKT7SMQ.jpg?auth=81da7238bc793b7ef1303ad0bd038cdc3ecc95f52f73f8975fe767e0331861a1&smart=true&width=1920&height=1080"
     },
     {
-     "title": "La importancia de la nutrición y el ejercicio de fuerza en la prevención de la diabetes",
-     "link": "https://www.infobae.com/peru/2026/11/20/la-importancia-de-la-nutricion-y-el-ejercicio-de-fuerza-en-la-prevencion-de-la-diabetes/",
-     "summary": "La estimación nacional señala que cerca de 5,9 millones de personas tienen condiciones que favorecen la aparición de la enfermedad, mientras la proporción entre quienes superan los 18 años alcanza al 10 %",
-     "published": "2026-11-20T20:13+00:00",
-     "image": "https://www.infobae.com/resizer/v2/JEFZGZACLFGX7GMMZ6YXGI7QKA.png?auth=ebdf5795a15186c719c7e032e023e8b512ab75b21e3a392f5f3c869cd11e3382&smart=true&width=2752&height=1536"
-    },
-    {
-     "title": "Jorge Bava fue oficializado como nuevo entrenador de Junior de Barranquilla: ya suenan los primeros refuerzos para 2027",
-     "link": "https://www.infobae.com/colombia/deportes/2026/11/20/jorge-bava-fue-oficializado-como-nuevo-entrenador-de-junior-de-barranquilla-ya-suenan-los-primeros-refuerzos-para-2027/",
-     "summary": "El entrenador uruguayo, con pasado en Independiente Santa Fe, firmó con el conjunto barranquillero y comenzará los trabajos de pretemporada de cara a 2027, a fin de mes",
-     "published": "2026-11-20T20:12+00:00",
-     "image": "https://www.infobae.com/resizer/v2/CMZZUEEPRZEFZJCRG2BD35V6GE.jpg?auth=84fbf092b1f0be2c44d740ee0be54e83e2e10eb4206a86f37a3e6d729ad99d29&smart=true&width=900&height=601"
-    },
-    {
-     "title": "Corrientes: murió una niña de 11 años tras ser embestida por un camión cuando circulaba en bicicleta",
-     "link": "https://www.infobae.com/sociedad/2026/11/20/corrientes-murio-una-nina-de-11-anos-tras-ser-embestida-por-un-camion-cuando-circulaba-en-bicicleta/",
-     "summary": "El conductor del vehículo de carga, un hombre de 67 años oriundo de Chajarí, permanece demorado mientras la fiscalía y peritos trabajan para reconstruir la mecánica del siniestro registrado sobre la Ruta 14",
-     "published": "2026-11-20T20:11+00:00",
-     "image": "https://www.infobae.com/resizer/v2/H7T52P5HLNF4DJQMGVTWLYVGXI.png?auth=775dca2c5ace47ccf57f9ed0aadab84282212e88730faf21869b098d76a5ae7a&smart=true&width=900&height=506"
-    },
-    {
-     "title": "Retiran 314.029 vehículos por un defecto en los airbags que podría expulsar fragmentos metálicos",
-     "link": "https://www.infobae.com/estados-unidos/2026/11/20/retiran-314029-vehiculos-por-un-defecto-en-los-airbags-que-podria-expulsar-fragmentos-metalicos/",
-     "summary": "La campaña comprende siete modelos de dos fabricantes y contempla el reemplazo gratuito de los componentes involucrados en los concesionarios autorizados",
-     "published": "2026-11-20T20:10+00:00",
-     "image": "https://www.infobae.com/resizer/v2/H5EP2HSF3RCURNLRXOETIZZEM4.jpg?auth=59c2d759710fcdde2c6567d0299bf928e8b6b6e81be210d2ffbc907aadd978ff&smart=true&width=1456&height=816"
-    },
-    {
-     "title": "El terror de ‘Saihate Station: Twilight Edition’ tendrá una edición completa en Switch",
-     "link": "https://www.infobae.com/malditos-nerds/2026/11/20/el-terror-de-saihate-station-twilight-edition-tendra-una-edicion-completa-en-switch/",
-     "summary": "El paquete incluirá el juego base, el contenido Twilight Railway y dos minijuegos",
-     "published": "2026-11-20T20:10+00:00",
-     "image": "https://www.infobae.com/resizer/v2/5ROPIGZ25JFGTJRFXY7Y4E5RJA.jpg?auth=3050bf3476a291e0ac60f27951baeb21f5f5cc2617588747e1775f0200af89c7&smart=true&width=1280&height=720"
+     "title": "Jimmy Chinchay y Carla Harada reaccionan en vivo al sismo de magnitud 6,7 en Junín: “Está muy fuerte”",
+     "link": "https://www.infobae.com/peru/2026/11/21/jimmy-chinchay-y-carla-harada-reaccionan-en-vivo-al-sismo-de-magnitud-67-en-junin-esta-muy-fuerte/",
+     "summary": "El reportero evacuó el hemiciclo del Congreso junto a su equipo, mientras la conductora de Radio Exitosa pidió mantener la calma y buscar zonas seguras.",
+     "published": "2026-11-21T02:06+00:00",
+     "image": "https://www.infobae.com/resizer/v2/SRSME5XYH5DAJELT43DKPQQEUQ.jpg?auth=7e038f8389e32f0a6733a0779234906cc210445880a474c1b8e3f4284e010cb0&smart=true&width=1920&height=1080"
     }
    ]
   },
@@ -1189,59 +1179,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Ialta 2.0 premiou a guerra de Putin",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/ialta-20-premiou-a-guerra-de-putin.shtml",
-     "summary": "Ecos de Ialta. A cúpula das três grandes potências nucleares , em Shenzhen ( China ), foi apresentada como Ialta 2.0, uma reedição da conferência que, em fevereiro de 1945, esboçou as esferas de influência na Europa do…",
-     "published": "2026-11-20T20:05+00:00",
+     "title": "Financial Times elege os melhores livros de negócios de 2026; veja a lista",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/financial-times-elege-os-melhores-livros-de-negocios-de-2026-veja-a-lista.shtml",
+     "summary": "O Financial Times elaborou uma lista com os melhores livros de negócios lançados neste ano. As obras passam por temas como inteligência artificial , canetas emagrecedoras, mercado de ações e a história da família…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Atraso no atendimento aumenta risco de complicações por apendicite",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/atraso-no-atendimento-aumenta-risco-de-complicacoes-por-apendicite.shtml",
-     "summary": "Quanto mais tempo passa até que o paciente receba avaliação médica em casos de apendicite, maior o risco de perfuração do apêndice, a complicação mais severa relacionada à inflamação. O alerta vem de estudo…",
-     "published": "2026-11-20T20:04+00:00",
+     "title": "Com mudança no gabinete, Trump tira mulheres do alto escalão e acena à machosfera",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-mudanca-no-gabinete-trump-tira-mulheres-do-alto-escalao-e-acena-a-machosfera.shtml",
+     "summary": "A saída de Susie Wiles da chefia de gabinete da Casa Branca , após a derrota republicana nas eleições de meio de mandato, ampliou a presença masculina no alto escalão do governo Donald Trump e coincidiu com uma ofensiva…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Nação Zumbi resiste a um mundo 'distópico e cínico' no primeiro disco em 12 anos",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/nacao-zumbi-resiste-a-um-mundo-distopico-e-cinico-no-primeiro-disco-em-12-anos.shtml",
-     "summary": "\"Nada mais será como antes já foi\", canta Jorge du Peixe em \"Como Antes Já Foi\". A faixa antecede \"Baião Zumbi\", música que mais resgata a sonoridade clássica da Nação Zumbi no novo disco da banda pernambucana. A…",
-     "published": "2026-11-20T20:04+00:00",
+     "title": "Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml",
+     "summary": "Integrantes da equipe econômica começaram a discutir nomes para levar ao presidente Luiz Inácio Lula da Silva (PT) como sugestão para trocar o comando do Banco do Brasil . Leia mais (11/20/2026 - 23h00)",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "'Ayô', com Lázaro Ramos, e série sobre El Bulli: o que ver no streaming no sábado",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/ayo-com-lazaro-ramos-e-serie-sobre-el-bulli-o-que-ver-no-streaming-no-sabado.shtml",
-     "summary": "Um advogado recém-formado assume um caso que revela conexões com sua própria existência passada. Baseado no romance espírita de Zíbia Gasparetto, \"O Advogado de Deus\" , filme de Wagner de Assis com Nicolas Prattes , tem…",
-     "published": "2026-11-20T20:00+00:00",
+     "title": "Abin contrata passeio de barco ao pôr do sol e divulga data e local",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/abin-contrata-passeio-de-barco-ao-por-do-sol-e-divulga-data-e-local.shtml",
+     "summary": "A Abin (Agência Brasileira de Inteligência) contratou um passeio de barco ao pôr do sol em Cabedelo , na Paraíba, com comida e bebida, para 120 participantes de um fórum internacional de inteligência. O contrato de R$…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "1926: Papa Pio 11 fala de perseguições do governo do México à Igreja",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/11/1926-papa-pio-11-fala-de-perseguicoes-do-governo-do-mexico-a-igreja.shtml",
-     "summary": "O papa Pio 11 dirigiu uma encíclica a todos os bispos do mundo na qual falou de perseguições realizadas pelo governo do México contra a Igreja Católica. Leia mais (11/20/2026 - 17h00)",
-     "published": "2026-11-20T20:00+00:00",
+     "title": "Livraria da Travessa vai fechar na rua dos Pinheiros e se mudar para praça Igarapé",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/11/livraria-da-travessa-vai-fechar-na-rua-dos-pinheiros-e-se-mudar-para-praca-igarape.shtml",
+     "summary": "A Livraria da Travessa vai abrir uma nova unidade na praça Igarapé , no bairro paulistano de Pinheiros, no dia 2 de dezembro. Se você não está reconhecendo o nome da praça, é porque ela também está prestes a ser…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "O Judiciário como puxadinho do antilaicismo",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/11/o-judiciario-como-puxadinho-do-antilaicismo.shtml",
-     "summary": "Se alguém acreditou que o identitarismo estava fraquejando enquanto ideologia política nestas últimas eleições, aperte o cinto porque teremos mais quatro anos de pautas identitárias movimentando a política nacional…",
-     "published": "2026-11-20T20:00+00:00",
+     "title": "Trump celebra aceite chinês a diálogo nuclear, mas Pequim não discute números",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/trump-celebra-aceite-chines-a-dialogo-nuclear-mas-pequim-nao-discute-numeros.shtml",
+     "summary": "Xi Jinping , Vladimir Putin e Donald Trump se reuniram na quinta-feira em Shenzhen , à margem da cúpula da Apec, e divulgaram uma declaração em que prometem dialogar sobre a redução de riscos nucleares. No dia seguinte…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Chegam ao Brasil as poesias de Philip Larkin sobre o medo da morte",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2026/11/chegam-ao-brasil-as-poesias-de-philip-larkin-sobre-o-medo-da-morte.shtml",
-     "summary": "O poeta Philip Larkin odiava crianças, famílias, casamentos e sair da Inglaterra. Era frasista nato. Eis alguns exemplos. Leia mais (11/20/2026 - 17h00)",
-     "published": "2026-11-20T20:00+00:00",
+     "title": "Ameaças não me farão recuar, diz Miss Preta, 1ª deputada estadual negra do Paraná",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ameacas-nao-me-farao-recuar-diz-miss-preta-1a-deputada-estadual-negra-do-parana.shtml",
+     "summary": "Natural de Campos dos Goytacazes ( RJ ), mas vivendo no Paraná há mais de dez anos, Edna dos Santos Sousa, 33, trabalhava como vendedora em loja de shopping em Curitiba e já fazia alguns comerciais publicitários como…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     },
     {
-     "title": "Sob protestos e atraso, COP31 adota decisões protocolares e negociações seguem",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/sob-protestos-e-atraso-cop31-adota-decisoes-protocolares-e-negociacoes-seguem.shtml",
-     "summary": "O que deveria ser o último dia da COP31 , conferência das Nações Unidas sobre mudança climática em Antália, Turquia , só começou realmente às 21h23 (horário local). Foi quando os ministros australiano, Chris Bowen, e…",
-     "published": "2026-11-20T19:53+00:00",
+     "title": "Pará tem 66 cidades em emergência devido a incêndios e estiagem em meio ao El Niño",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/para-tem-66-cidades-em-emergencia-devido-a-incendios-e-estiagem-em-meio-ao-el-nino.shtml",
+     "summary": "O Pará tem 66 dos seus 144 municípios em emergência devido aos incêndios florestais e à estiagem , em meio aos efeitos do El Niño . O reconhecimento desse situação saiu no Diário Oficial da União da última quarta-feira…",
+     "published": "2026-11-21T02:00+00:00",
      "image": ""
     }
    ]
@@ -1254,60 +1244,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "'Apanhou pouco': vereador de Votorantim debocha de agressão de PMs contra advogado; OAB repudia",
-     "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/apanhou-pouco-vereador-de-votorantim-debocha-de-agressao-de-pms-contra-advogado-oab-repudia.ghtml",
-     "summary": "OAB repudia comentário em que vereador de Votorantim (SP) diz que advogado agredido por policiais 'apanhou pouco' Reprodução/Instagram Motorista perdeu o controle da direção e atingiu a lateral de um caminhão, que, por…",
-     "published": "2026-11-20T20:04+00:00",
-     "image": "https://s2-g1.glbimg.com/rlwafNg_mPp7LSjEidMb4fTk-44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/xRc0vgTViSQZGD6Ajt4A/whatsapp-image-2026-11-20-at-13.34.52.jpg"
-    },
-    {
-     "title": "Shoppings de Piracicaba e Limeira oferecem 1 mil vagas de emprego para o fim de ano; veja como se candidatar",
-     "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/20/shoppings-de-piracicaba-e-limeira-oferecem-1-mil-vagas-de-emprego-para-o-fim-de-ano-veja-como-se-candidatar.ghtml",
-     "summary": "Shopping Piracicaba prevê 1 mil vagas de emprego temporárias e efetivas A aproximação da Black Friday e das festas de fim e virada de ano, com Natal e réveillon, impulsionam contratações no setor varejista da região…",
-     "published": "2026-11-20T20:02+00:00",
-     "image": "https://s2-g1.glbimg.com/jOaAgiHtG6gPbWnYihGk4I_fylI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/N/zKkUAlTamtTbKCUekVeQ/whatsapp-image-2024-12-23-at-10.46.24.jpeg"
-    },
-    {
-     "title": "Homem é assassinado a tiros dentro de mercadinho em Capanema, no nordeste Pará",
-     "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/homem-e-assassinado-a-tiros-dentro-de-mercadinho-em-capanema-no-nordeste-para.ghtml",
-     "summary": "Homem é morto a tiros em Capanema, no Pará Um homem foi morto a tiros dentro de um mercadinho na noite desta quinta-feira (19), em Capanema, no nordeste do Pará. O crime foi registrado por câmeras de segurança do…",
-     "published": "2026-11-20T20:01+00:00",
+     "title": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
+     "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
+     "summary": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo…",
+     "published": "2026-11-21T01:50+00:00",
      "image": ""
     },
     {
-     "title": "Santos distribui 2 mil pulseirinhas gratuitas para identificar crianças nas praias",
-     "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/20/pulseirinhas-identificacao-criancas-praias-santos.ghtml",
-     "summary": "Santos distribuirá duas mil pulseirinhas gratuitas para identificação de crianças nas praias durante o verão Prefeitura de Santos A Prefeitura de Santos, no litoral de São Paulo, distribuirá gratuitamente duas mil…",
-     "published": "2026-11-20T20:00+00:00",
-     "image": "https://s2-g1.glbimg.com/5HHHMN-2WJPlU_y6PBhzYCQezuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/MtfsKKRIuAcvqsB7Z1DA/091126-distribuicao-pulseirinhas-gonzaga-1.jpg"
+     "title": "Exposição na Casa Roberto Marinho reúne 300 obras da arte brasileira e internacional no Rio",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/exposicao-na-casa-roberto-marinho-reune-300-obras-da-arte-brasileira-e-internacional-no-rio.ghtml",
+     "summary": "Exposição reúne 300 obras da arte brasileira e internacional na Casa Roberto Marinho, no Rio Uma exposição na Casa Roberto Marinho, no Rio, reúne 300 obras da arte brasileira e internacional. A coleção particular de um…",
+     "published": "2026-11-21T01:43+00:00",
+     "image": "https://s2-g1.glbimg.com/kfrH1JSQX-X8RAaL53V589Gc0UQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/j/hL1dwsTI6GmA7jvM4h1Q/globo-canal-5-20261120-2000-frame-152451.jpeg"
     },
     {
-     "title": "Coordenador de escola de BH é afastado após ser denunciado por assédio sexual contra aluna",
-     "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/coordenador-de-escola-de-bh-e-afastado-apos-ser-denunciado-por-assedio-sexual-contra-aluna.ghtml",
-     "summary": "Imagem meramente ilustrativa mostra mãos de criança fazendo um penteado numa boneca Reprodução/TV Globo Um coordenador de uma escola municipal no bairro Rio Branco, em Belo Horizonte, foi afastado na última terça-feira…",
-     "published": "2026-11-20T19:59+00:00",
-     "image": "https://s2-g1.glbimg.com/YkCZpMhMCyfoJZQRPJRhkJ2Cagw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/y/x/YqorUpSWO3WlOVsw2FrQ/maos-boneca.jpg"
+     "title": "Pedro Sampaio gravou clipe de 'Bate Coxa' em Feira de Santana antes de estrear na Micareta",
+     "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/pedro-sampaio-gravou-clipe-em-feira-de-santana-antes-de-estrear-na-micareta.ghtml",
+     "summary": "Pedro Sampaio levou funk à Micareta de Feira 2026 João Souza/g1 Feira de Santana entrou no roteiro de uma das novidades musicais de Pedro Sampaio. Antes de estrear na Micareta de Feira, o DJ e produtor musical carioca…",
+     "published": "2026-11-21T01:37+00:00",
+     "image": "https://s2-g1.glbimg.com/iURllhadxqcpcqcNdV3_Hrli2sM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/Bk97nvRgyBlzSpkLHiHg/pedro-sampaio4.png"
     },
     {
-     "title": "'Mosca-da-bicheira': parasita que devora animais vivos avança pelos EUA e alerta pecuaristas",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mosca-da-bicheira-parasita-que-devora-animais-vivos-avanca-pelos-eua-e-alerta-pecuaristas.ghtml",
-     "summary": "Duas moscas-da-bicheira do Novo Mundo no Laboratório de Pesquisa de Insetos Pecuários Knipling-Bushland, em Kerrville, Texas, EUA. REUTERS/Kaylee Greenlee Os surtos nos Estados Unidos (EUA) da chamada mosca-da-bicheira…",
-     "published": "2026-11-20T19:58+00:00",
-     "image": "https://s2-g1.glbimg.com/Yvel2_WUVSUKRMwaWJGnyycun1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/cq7XZZRiWKytNJV48qBA/2026-11-20t174901z-1-lynxnpemaj1n9-rtroptp-4-usa-screwworm.jpg"
+     "title": "Consciência Negra: espetáculo no Rio dá vida personagens que marcaram a história do Brasil",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
+     "summary": "Dia da Consciência Negra No Dia da Consciência Negra, uma encenação no Palácio Tiradentes, no Rio de Janeiro, colocou o público frente a frente com heroínas e heróis negros que marcaram a cultura e a história…",
+     "published": "2026-11-21T01:35+00:00",
+     "image": "https://s2-g1.glbimg.com/YtFxwMHEITm48iIHoZglLQWm8KI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/m/8CPquGQmC95JPxBzrqxw/globo-canal-5-20261120-2000-frame-144786.jpeg"
     },
     {
-     "title": "Motorista perde o controle da direção e tomba carreta em acesso da Rodovia Ayrton Senna",
-     "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/20/motorista-perde-o-controle-da-direcao-e-tomba-carreta-em-acesso-da-rodovia-ayrton-senna.ghtml",
-     "summary": "Carreta tomba na rodovia Ayrton Senna em Mogi das Cruzes Divulgação/Portal CCM – ARTESP Uma carreta tombou na tarde desta sexta-feira (20), na alça de acesso do km 45 da Rodovia Ayrton Senna (SP-070), no sentido leste…",
-     "published": "2026-11-20T19:55+00:00",
-     "image": "https://s2-g1.glbimg.com/bCicfPNz8Q6xS3GR3Yqdzv97a8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/f/uRNy5pSBmT20c0BllFUA/g1-minimo-1512x850.jpg"
+     "title": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/20/suspeito-de-iniciar-incendio-letal-em-los-angeles-e-declarado-culpado.ghtml",
+     "summary": "Incêndio florestal atinge Pacific Palisades em Los Angeles em 7 de janeiro de 2025. REUTERS/Ringo Chiu A Justiça dos Estados Unidos considerou culpado nesta sexta-feira (20) o homem suspeito de provocar o incêndio…",
+     "published": "2026-11-21T01:34+00:00",
+     "image": "https://s2-g1.glbimg.com/Lper7NP8qP4w-7nlactmObtIONQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/UvoJymQAmwizy9hgV4Gg/2025-01-08t065241z-650665384-rc275ca502hb-rtrmadp-3-california-wildfires-1-.jpg"
     },
     {
-     "title": "Mulher é presa após agredir e jogar filhos de 1 e de 8 anos no asfalto no interior de SP",
-     "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/20/mulher-e-presa-apos-agredir-filhos-de-1-e-de-8-anos-na-rua-no-interior-de-sp.ghtml",
-     "summary": "Mãe é presa após agredir os filhos de 1 e 8 anos no meio da rua em Patrocínio Paulista, SP Reprodução/Câmeras de segurança Uma mulher de 26 anos foi presa nesta sexta-feira (20) em Patrocínio Paulista (SP), a 20…",
-     "published": "2026-11-20T19:53+00:00",
-     "image": "https://s2-g1.glbimg.com/4lbEg11TN1OdRdiY755I1OZFfTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/POV8NRTE2DN06lWCXR9g/agressao2.jpg.jpeg"
+     "title": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
+     "summary": "Entidades médicas brasileiras lançam o primeiro protocolo padrão para prevenção de câncer de próstata O Novembro Azul é o mês de conscientização para a prevenção de câncer de próstata. A maioria dos homens só procura o…",
+     "published": "2026-11-21T01:26+00:00",
+     "image": "https://s2-g1.glbimg.com/gN-3UKG8hnsWKv1CFHOdtusFOk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/1IvPEBSliBqsavYAsnLQ/globo-canal-5-20261120-2000-frame-131552.jpeg"
+    },
+    {
+     "title": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
+     "summary": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o…",
+     "published": "2026-11-21T01:16+00:00",
+     "image": "https://s2-g1.glbimg.com/rvpvSFfRv5rDW2kNBPKzFrC8YSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/D/bAqVaLS0mwHAFlsSQa1Q/globo-canal-5-20261120-2000-frame-126643.jpeg"
+    },
+    {
+     "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+     "summary": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e…",
+     "published": "2026-11-21T01:01+00:00",
+     "image": "https://s2-g1.glbimg.com/RxLDgtYQbckWQtbWN2wyG2x9T9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/H6WHdTQAmuF9LSPWXtqA/globo-canal-5-20261120-2000-frame-121492.jpeg"
     }
    ]
   },
@@ -1318,6 +1308,34 @@
    "region": "brasil",
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
+    {
+     "title": "Com mudança no gabinete, Trump tira mulheres do alto escalão e acena à machosfera",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-mudanca-no-gabinete-trump-tira-mulheres-do-alto-escalao-e-acena-a-machosfera.shtml",
+     "summary": "A saída de Susie Wiles da chefia de gabinete da Casa Branca , após a derrota republicana nas eleições de meio de mandato, ampliou a presença masculina no alto escalão do governo Donald Trump e coincidiu com uma ofensiva…",
+     "published": "2026-11-21T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Trump celebra aceite chinês a diálogo nuclear, mas Pequim não discute números",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/trump-celebra-aceite-chines-a-dialogo-nuclear-mas-pequim-nao-discute-numeros.shtml",
+     "summary": "Xi Jinping , Vladimir Putin e Donald Trump se reuniram na quinta-feira em Shenzhen , à margem da cúpula da Apec, e divulgaram uma declaração em que prometem dialogar sobre a redução de riscos nucleares. No dia seguinte…",
+     "published": "2026-11-21T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Não posso falar pelos EUA, diz Trump ao responder se Putin é amigo do país",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/nao-posso-falar-pelos-eua-diz-trump-ao-responder-se-putin-e-amigo-do-pais.shtml",
+     "summary": "O presidente dos Estados Unidos , Donald Trump , afirmou nesta sexta-feira (20) que não pode falar em nome dos americanos ao ser questionado se considera o presidente da Rússia , Vladimir Putin , um amigo dos Estados…",
+     "published": "2026-11-21T00:16+00:00",
+     "image": ""
+    },
+    {
+     "title": "OEA aprova reunião sobre tratado de defesa mútua contra grupos criminosos",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/oea-aprova-reuniao-sobre-tratado-de-defesa-mutua-contra-grupos-criminosos.shtml",
+     "summary": "O Conselho Permanente da OEA (Organização dos Estados Americanos) aprovou nesta sexta-feira (20), por 14 votos a 2 -o Brasil e o Uruguai foram contrários, e Bahamas se absteve-, a convocação de uma reunião no âmbito do…",
+     "published": "2026-11-20T22:48+00:00",
+     "image": ""
+    },
     {
      "title": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/homem-gritou-de-dor-em-execucao-que-durou-uma-hora-no-texas-nos-estados-unidos.shtml",
@@ -1345,34 +1363,6 @@
      "summary": "Valentina Bassi está acostumada a lutar pelos direitos do seu filho com autismo , ao longo de diversos governos da Argentina . Leia mais (11/20/2026 - 13h48)",
      "published": "2026-11-20T16:48+00:00",
      "image": ""
-    },
-    {
-     "title": "Protestos contra gastos militares e alta do custo de vida mobilizam jovens na Europa nesta sexta",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/protestos-contra-gastos-militares-e-alta-do-custo-de-vida-mobilizam-jovens-na-europa-nesta-sexta.shtml",
-     "summary": "Manifestantes de diversos países da Europa saíram às ruas nesta sexta-feira (20) contra o aumento do custo de vida e a militarização, em uma tentativa de aumentar a pressão sobre seus governos com uma demonstração de…",
-     "published": "2026-11-20T15:48+00:00",
-     "image": ""
-    },
-    {
-     "title": "Reino Unido e União Europeia iniciam reaproximação após brexit com acordos sobre alimentos e mobilidade",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/reino-unido-e-uniao-europeia-iniciam-reaproximacao-apos-brexit-com-acordos-sobre-alimentos-e-mobilidade.shtml",
-     "summary": "O Reino Unido e a União Europeia fecharam acordos para facilitar o comércio de alimentos e ampliar a mobilidade de jovens em uma cúpula realizada nesta sexta-feira (20), reaproximando as partes e abrindo discussões mais…",
-     "published": "2026-11-20T15:28+00:00",
-     "image": ""
-    },
-    {
-     "title": "Elon Musk admite se sentir um bobo após ter investido bilhões nos republicanos",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/elon-musk-admite-se-sentir-um-bobo-apos-ter-investido-bilhoes-nos-republicanos.shtml",
-     "summary": "Às vésperas das eleições de meio de mandato , Elon Musk mobilizou tanto sua fortuna, desembolsando quase US$ 500 milhões (aproximadamente R$ 3 bilhões), quanto sua influência pública para ajudar candidatos republicanos…",
-     "published": "2026-11-20T14:50+00:00",
-     "image": ""
-    },
-    {
-     "title": "Mianmar contesta decisão histórica de tribunal da ONU que reconhece genocídio contra minoria rohingya",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/mianmar-contesta-decisao-historica-de-tribunal-da-onu-que-reconhece-genocidio-contra-minoria-rohingya.shtml",
-     "summary": "A decisão do tribunal superior das Nações Unidas, que concluiu que as forças de segurança de Mianmar cometeram genocídio patrocinado pelo Estado contra a minoria muçulmana rohingya do país, foi injusta, afirmou nesta…",
-     "published": "2026-11-20T12:13+00:00",
-     "image": ""
     }
    ]
   },
@@ -1384,60 +1374,60 @@
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
     {
-     "title": "Saudis make deal with Japan to replenish depleted oil stockpiles",
-     "link": "https://www.japantimes.co.jp/business/2026/11/20/saudi-japan-oil-deal/",
-     "summary": "The accord is further evidence of how major producers and consumers are taking steps to boost their energy security amid the U.S.-Iran war.",
-     "published": "2026-11-20T11:07+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575269.jpg"
+     "title": "Myanmar genocide judgment may bolster Gaza case against Israel",
+     "link": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/myanmar-ruling-bolster-gaza-case/",
+     "summary": "Legal experts say the landmark ruling establishes a precedent that genocidal intent can coexist with a military objective.",
+     "published": "2026-11-21T01:17+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575292.jpg"
     },
     {
-     "title": "Takaichi meets with leaders of Chile and Peru in bid to boost ties",
-     "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/takaichi-peru-chile-leaders-meet/",
-     "summary": "Peruvian President Keiko Fujimori and Chilean President Jose Antonio Kast held their first bilateral summits with Tokyo on Friday.",
-     "published": "2026-11-20T10:53+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575265.jpg"
+     "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+     "link": "https://www.japantimes.co.jp/business/2026/11/21/honda-toyota-us-airbag-recall/",
+     "summary": "Honda and Toyota both said ​there were no injuries or crashes tied to the vehicles being recalled, and there have ‌been no airbag ‌inflator ruptures",
+     "published": "2026-11-21T00:36+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575290.jpg"
     },
     {
-     "title": "Japanese see current ties with China and Russia as worst on record, survey shows",
-     "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-china-russia-ties-survey/",
-     "summary": "Some 93% of respondents have described Japan-China relations as poor or somewhat poor, the highest since the government began posing the question.",
-     "published": "2026-11-20T09:20+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575254.jpg"
+     "title": "Fresh off China trip, Trump bobs and weaves in freewheeling news conference",
+     "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/trump-freewheeling-news-conference/",
+     "summary": "Rather than sell the successes of his trip to the public, the president pivoted from the topic at hand.",
+     "published": "2026-11-21T00:34+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575291.jpg"
     },
     {
-     "title": "Mitsubishi Heavy Industries to take on launch operations for Japan’s H3 rocket",
-     "link": "https://www.japantimes.co.jp/business/2026/11/20/companies/h3-rocket-mitsubishi/",
-     "summary": "Transfer of the operations from the Japan Aerospace Exploration Agency will take part in stages and begin with the next launch.",
-     "published": "2026-11-20T08:43+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575247.jpg"
+     "title": "Japan wary of U.S., Russia and China holding regular summits",
+     "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/us-china-russia-summits-japan-wary/",
+     "summary": "Japan is eager to maintain the existing international order, including by strengthening the rule of law.",
+     "published": "2026-11-21T00:04+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575289.jpg"
     },
     {
-     "title": "From ukiyo-e to ‘Godzilla,’ where do Japanese monsters stand in the Asian imagination?",
-     "link": "https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/",
-     "summary": "\"Myths and Monsters: The Art of Fantasy in Asia\" exhibits some 430 works, surveying two centuries of Asian storytelling, with a heavy focus on Japan.",
-     "published": "2026-11-20T08:37+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575040.jpg"
+     "title": "Tokyo is being reshaped by a historic real estate boom",
+     "link": "https://www.japantimes.co.jp/business/2026/11/21/tokyo-real-estate-boom/",
+     "summary": "Rents are heating up across Tokyo, particularly in the historically industrial, working-class east side.",
+     "published": "2026-11-20T23:30+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575285.jpg"
     },
     {
-     "title": "Indonesia’s Prabowo and China’s Xi discuss future South China Sea cooperation",
-     "link": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/indonesia-south-china-sea-xi/",
-     "summary": "Cooperation agreements with China in the waterway have for years made nations wary they could be interpreted as legitimizing Beijing's claims.",
-     "published": "2026-11-20T08:31+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575222.jpg"
+     "title": "China’s summit snub could strengthen Takaichi’s standing at home",
+     "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/china-snub-boost-takaichi-base/",
+     "summary": "Experts say Beijing's \"blatant\" snub — including a visibly scaled-down welcome for Takaichi — could galvanize her conservative base.",
+     "published": "2026-11-20T23:07+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575284.jpg"
     },
     {
-     "title": "Red card drama at World Cup inspired Kozo Tashima’s run for FIFA presidency",
-     "link": "https://www.japantimes.co.jp/sports/2026/11/20/soccer/kozo-tashima-red-card/",
-     "summary": "Tashima said he wanted to restore trust in FIFA.",
-     "published": "2026-11-20T08:28+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575248.jpg"
+     "title": "Takaichi to meet ICC president on Tuesday",
+     "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/takaichi-akane-meeting-tuesday/",
+     "summary": "Takaichi and Akane will meet for the first time since U.S. President Donald Trump added the ICC president to its sanctions list in August.",
+     "published": "2026-11-20T23:01+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575283.jpg"
     },
     {
-     "title": "Over 15,000 register interest in class action after Rakuten Securities breach",
-     "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/rakuten-securities-lawsuit/",
-     "summary": "Access credentials and branch codes for 11.25 million accounts and personal data for 4.47 million were exposed in a recent breach, the firm has said.",
-     "published": "2026-11-20T08:24+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575238.jpg"
+     "title": "AI-fueled cyberattacks drive claims surge at Japan insurers",
+     "link": "https://www.japantimes.co.jp/business/2026/11/21/ai-property-insurer-claims-surge/",
+     "summary": "Major property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven hacking incidents surge nationwide.",
+     "published": "2026-11-20T23:01+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575282.jpg"
     }
    ]
   },
@@ -1449,60 +1439,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-feels-like-a-golden-prison-google-engineer-on-h-1b-visa-says-hes-moving-to-the-uk-without-a-job-says-he-hasnt-traveled-outside-us-for-18-months-out-of-fear/articleshow/136038884.cms",
+     "title": "Florida man admits $42M medicare fraud, bought yacht and luxury cars",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-florida-man-pleaded-guilty-in-a-42-million-medicare-fraud-case-involving-medical-equipment-and-genetic-tests-prosecutors-say-the-proceeds-funded-a-47-foot-yacht-and-luxury-vehicles/articleshow/135988743.cms",
      "summary": "",
-     "published": "2026-11-20T20:08+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038893,imgsize-61334.cms"
+     "published": "2026-11-21T01:29+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135988990,imgsize-992591.cms"
     },
     {
-     "title": "Tech millionaire spends $14,400 to hire 30 protesters to picket Saks after his mother was fired from the store five days after a customer allegedly punched and kicked her",
-     "link": "https://timesofindia.indiatimes.com/world/us/tech-millionaire-spends-14400-to-hire-30-protesters-to-picket-saks-after-his-mother-was-fired-from-the-store-five-days-after-a-customer-allegedly-punched-and-kicked-her/articleshow/136038758.cms",
+     "title": "North Carolina couple noticed kitchen floor dipping weeks after moving in; court rejects their claims",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-couple-noticed-their-new-homes-kitchen-floor-dipping-within-weeks-of-moving-in-in-2016-then-sued-the-builder-years-later-an-appeals-court-has-rejected-their-defective-construction-claims/articleshow/135987043.cms",
+     "summary": "After moving into their new home, Nate and Christine Holton noticed troubling dips in their kitchen floor. Despite reaching out to the builder, concerns about their foundation emerged again over time. In January 2025…",
+     "published": "2026-11-21T00:26+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135987141,imgsize-1208389.cms"
+    },
+    {
+     "title": "Former UK banker quit her job as wig business reached £15,000 monthly sales",
+     "link": "https://timesofindia.indiatimes.com/world/uk/former-uk-banker-dominique-bogle-turned-her-wig-business-hair-anatomy-into-a-full-time-career-after-tiktok-sales-neared-15000-in-one-month-and-quit-her-job-eight-months-later/articleshow/136015175.cms",
      "summary": "",
-     "published": "2026-11-20T19:54+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038815,imgsize-117486.cms"
+     "published": "2026-11-21T00:22+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136015247,imgsize-1365623.cms"
     },
     {
-     "title": "Eric Schmidt lists Malibu beachfront home for $37.5M alongside second Google listing",
-     "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2021-former-google-ceo-eric-schmidt-paid-22-6-million-for-a-malibu-beachfront-house-five-years-later-the-55-foot-oceanfront-property-is-back-on-the-market-for-37-5-million-amid-a-second-google-linked-listing/articleshow/136037547.cms",
+     "title": "UK retailer fined £720,000, ordered to refund 40,000 shoppers over charge",
+     "link": "https://timesofindia.indiatimes.com/world/uk/customers-buying-washing-machines-dishwashers-and-cookers-from-a-uk-retailer-were-automatically-charged-for-optional-recycling-services-watchdog-orders-refunds-for-nearly-40000-shoppers-and-imposes-a-720000-fine/articleshow/135982454.cms",
      "summary": "",
-     "published": "2026-11-20T19:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136037659,imgsize-899904.cms"
+     "published": "2026-11-21T00:18+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135982668,imgsize-1711005.cms"
     },
     {
-     "title": "Amazon communities have a complicated relationship with giant anacondas; a 2025 study explores why some people fear them while others live alongside them",
-     "link": "https://timesofindia.indiatimes.com/science/wildlife/amazon-communities-have-a-complicated-relationship-with-giant-anacondas-a-2025-study-explores-why-some-people-fear-them-while-others-live-alongside-them/articleshow/136020334.cms",
-     "summary": "Communities in the Lower Amazon have a multifaceted relationship with giant anacondas, dealing with folklore and livestock concerns. The presence of these snakes is often rooted in local myths, but practical encounters…",
-     "published": "2026-11-20T19:17+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136020510,imgsize-2212448.cms"
+     "title": "Louisiana farmer wins 13-year land dispute after neighbours clear trees; court awards him $59,966",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-farmer-returned-from-offshore-work-to-find-neighbours-clearing-trees-from-an-18-foot-strip-they-believed-was-theirs-13-years-later-an-appeals-court-upheld-his-land-rights-and-awarded-59966-99/articleshow/135986771.cms",
+     "summary": "In a landmark ruling, Louisiana farmer Benjamin Lee Bird emerged victorious in a lengthy 13-year battle over a disputed land strip. The court upheld his ownership, leading to a damages award against his neighbours for…",
+     "published": "2026-11-20T23:25+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135986864,imgsize-1569239.cms"
     },
     {
-     "title": "FBI's Winter SHIELD and Riptide: Kash Patel says 750 companies contacted, 200 cybercriminals arrested as US steps up cyber defence",
-     "link": "https://timesofindia.indiatimes.com/world/us/fbis-winter-shield-and-riptide-kash-patel-says-750-companies-contacted-200-cybercriminals-arrested-as-us-steps-up-cyber-defence/articleshow/136038332.cms",
-     "summary": "",
-     "published": "2026-11-20T19:16+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038470,imgsize-47838.cms"
+     "title": "Streamer Completion Race: Two creators finish GTA 6; marathon ending draws spoiler criticism",
+     "link": "https://timesofindia.indiatimes.com/world/us-streamers/gta-6-makes-history-as-brycexd-and-ishowspeed-become-the-first-streamers-to-beat-rockstars-highly-anticipated-game/articleshow/136041812.cms",
+     "summary": "BrycexD became the first streamer to complete GTA 6 in 39 hours and 38 minutes, with iShowSpeed finishing second after a 52-hour marathon. Both pushed through without sleep, but their experiences differed. While BrycexD…",
+     "published": "2026-11-20T23:19+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136041813,imgsize-126794.cms"
     },
     {
-     "title": "Quote of the day by Princess Diana: \"People think that at the end of the day a man is the only...\"",
-     "link": "https://timesofindia.indiatimes.com/world/uk/quote-of-the-day-by-princess-diana-people-think-that-at-the-end-of-the-day-a-man-is-the-only-answer-actually-a-fulfilling-job-is/articleshow/136038137.cms",
-     "summary": "",
-     "published": "2026-11-20T19:09+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038314,imgsize-385918.cms"
+     "title": "Melania Trump on life as first lady, White House renovations, marriage to Donald Trump and son Barron",
+     "link": "https://timesofindia.indiatimes.com/world/us/melania-trump-opens-up-about-life-as-first-lady-white-house-renovations-and-design-plans-how-she-makes-her-marriage-work-with-donald-trump-and-raising-son-barron/articleshow/136039684.cms",
+     "summary": "Melania Trump opens up about her life as first lady in a new docuseries, discussing White House renovations, her passion for interior design and the responsibilities of managing the presidential residence. She also…",
+     "published": "2026-11-20T22:49+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136041113,imgsize-63993.cms"
     },
     {
-     "title": "Denver detective accused of DUI, fleeing crash in city SUV; deputies stop, identify her at gunpoint",
-     "link": "https://timesofindia.indiatimes.com/world/us/denver-police-detective-accused-of-drunk-driving-hitting-parked-car-and-fleeing-in-city-provided-suv-deputies-stop-her-at-gunpoint-later-identify-her-as-26-year-veteran-jamie-major/articleshow/136037605.cms",
-     "summary": "A Denver police detective has been charged with DUI and hit-and-run after allegedly crashing a city-provided SUV into a parked car in an Arapahoe County neighbourhood and fleeing. Deputies stopped the damaged vehicle at…",
-     "published": "2026-11-20T18:52+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038047,imgsize-80262.cms"
-    },
-    {
-     "title": "Sara Bareilles helps raise $1.8m for New York public radio at gala",
-     "link": "https://timesofindia.indiatimes.com/world/us/sara-bareilles-performed-at-a-new-york-fundraising-gala-on-november-17-that-raised-more-than-1-8-million-from-over-500-guests-supporting-local-journalism-public-radio-and-cultural-programmes-across-the-city/articleshow/136037427.cms",
-     "summary": "Sara Bareilles graced the stage at a New York City gala, successfully raising over $1.8 million for New York Public Radio. The event gathered more than 500 attendees to emphasize the vital role of independent journalism…",
-     "published": "2026-11-20T18:32+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136037554,imgsize-799822.cms"
+     "title": "Louisiana couple's $429,000 home defects case revived against property brokerage by appeals court",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-couple-paid-429000-for-a-home-in-2021-then-alleged-a-rotted-underground-air-pipe-dead-rodents-in-the-ducts-and-other-concealed-defects-an-appeals-court-has-restored-their-case-against-the-property-brokerage-for-further-hearings/articleshow/135983201.cms",
+     "summary": "A couple in Louisiana filed a lawsuit against the sellers and brokerage after discovering defects post-purchase. They claimed that significant issues, such as a rotted air pipe and rodent remains, were concealed. The…",
+     "published": "2026-11-20T22:28+00:00",
+     "image": "https://static.toiimg.com/photo/msid-135983511,imgsize-1662768.cms"
     }
    ]
   },
@@ -1514,60 +1504,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "Indian man jailed over US murder plot against Sikh separatist",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist",
-     "summary": "An Indian man was sentenced to more than 19 years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to ‌kill a Sikh separatist in New York, in connection with what US and…",
-     "published": "2026-11-20T19:27+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/0f0925b3-2ff2-4ba0-9fd7-e1bab24b37cc_2c3ee19f.jpg?itok=5vV2v1nG&v=1795202856"
+     "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+     "summary": "North Korean leader Kim Jong-un was seen inspecting school equipment and teaching aids, state media said on Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times…",
+     "published": "2026-11-21T02:10+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/f9d50017-5cd3-4241-bb2c-fde565cc528b_6fa6ede6.jpg?itok=G8udO2vv&v=1795226993"
     },
     {
-     "title": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
-     "link": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
-     "summary": "US President Donald Trump said on Friday that China had agreed to hold trilateral nuclear risk-reduction talks for the first time despite earlier reluctance, as he acknowledged the wide gap between Beijing’s arsenal and…",
-     "published": "2026-11-20T18:54+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/34c242e0-0e0c-45f5-9ed0-77b0efc46add_1a324a4d.jpg?itok=qlWxLJDR&v=1795200858"
+     "title": "Japan wants an Asian energy agency. Will the region buy in?",
+     "link": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+     "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy…",
+     "published": "2026-11-21T02:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/7d784394-d5f6-4d8d-84e0-b63315fa023a_e0c9abe5.jpg?itok=NboUJV4w&v=1795169470"
     },
     {
-     "title": "Denmark expels Russian diplomat over plot to kill Ukraine rapper",
-     "link": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper",
-     "summary": "Denmark’s foreign minister on Friday said Moscow’s defence attache in Copenhagen would be expelled after Russia was suspected of being behind an attempted assassination of a Ukrainian rapper. “We have just summoned the…",
-     "published": "2026-11-20T18:14+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/9d447b67-273f-4560-b298-070d38ccf16d_08311517.jpg?itok=fZrbTIHB&v=1795198440"
+     "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+     "link": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+     "summary": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia…",
+     "published": "2026-11-21T02:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/5f69c835-7e34-4010-a340-ae601a24c75e_a806bd9c.jpg?itok=IPC8HiOb&v=1795174468"
     },
     {
-     "title": "Anthropic researcher says Claude AI has solved maths’ greatest riddle: Riemann Hypothesis",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle",
-     "summary": "A mathematician at AI company Anthropic said on Friday that he had used the firm’s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years. “I believe I have…",
-     "published": "2026-11-20T17:55+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/0c7198b9-8c3d-40df-9445-d4efebc0e2aa_27a86eae.jpg?itok=wJutRhFw&v=1795197296"
+     "title": "Who are you calling a ‘Chinese honeypot’?",
+     "link": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
+     "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with…",
+     "published": "2026-11-21T01:30+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/56959851-06f5-464d-b301-3a866d206e67_0311d0ee.jpg?itok=6qxhehs1&v=1795143701"
     },
     {
-     "title": "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
-     "summary": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing…",
-     "published": "2026-11-20T17:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/f250f053-9b82-4d92-a8ec-471f86e229a8_b706136d.jpg?itok=Z0nrg2sW&v=1795194037"
+     "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+     "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech…",
+     "published": "2026-11-21T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/0f162e19-0431-45e4-94ac-5b3843607880_66e5fa88.jpg?itok=rUCPn2_I&v=1795185713"
     },
     {
-     "title": "Hong Kong slams ‘biased’ US report accusing city of expanding security powers",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3375292/hong-kong-slams-biased-us-report-accusing-city-expanding-security-powers",
-     "summary": "Hong Kong has slammed an annual report by a US congressional commission that accused the government of expanding its security powers, including restricting media coverage of the Wang Fuk Court fire, the city’s deadliest…",
-     "published": "2026-11-20T16:46+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/0a5f2357-bd82-430f-92eb-14085182b3ff_252d47ee.jpg?itok=AavDYO_f&v=1795203072"
+     "title": "Tycoons campaign on the streets as Hong Kong Election Committee vote nears",
+     "link": "https://www.scmp.com/news/hong-kong/politics/article/3375285/tycoons-campaign-streets-hong-kong-election-committee-vote-nears",
+     "summary": "Mobilisation and campaigning have been ramped up ahead of Hong Kong’s Election Committee poll as Beijing expects turnout to surpass the 2021 level – a push observers say is aimed at closing the distance between the body…",
+     "published": "2026-11-21T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/06fd26fe-a6f7-498c-a494-100534d6df29_7477e0ff.jpg?itok=4I7_8mmM&v=1795184157"
     },
     {
-     "title": "COP31 climate talks go into overtime as nations quarrel over fossil fuels",
-     "link": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels",
-     "summary": "The COP31 climate conference slipped into overtime on Friday as negotiators from nearly 200 ⁠countries struggled to bridge deep divisions ⁠over fossil fuels and climate finance. Environmental groups tracking the…",
-     "published": "2026-11-20T15:34+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/26a0c531-be78-4c7e-baff-8d18a9e6ee90_bc91bf94.jpg?itok=H3lMNF-q&v=1795188831"
+     "title": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3375304/japan-government-criticised-over-conspiracy-theory-youtuber-security-pr-push",
+     "summary": "The Japanese government has faced a wave of criticism for featuring a conspiracy-theory-oriented YouTuber in its public outreach regarding national security policy, with the controversy putting Prime Minister Sanae…",
+     "published": "2026-11-21T00:57+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/59db531b-5690-4faf-b5e5-bc7284acbac8_7ffe5af0.jpg?itok=QrrBjGR7&v=1795222641"
     },
     {
-     "title": "UK, EU seal food and youth deals, but are stuck on tuition fees",
-     "link": "https://www.scmp.com/news/world/europe/article/3375289/uk-eu-seal-food-and-youth-deals-are-stuck-tuition-fees",
-     "summary": "Britain and the European Union sealed ⁠deals on easing food trade and boosting youth mobility to reset ties at a summit on Friday, but pushed back an agreement on university tuition fees and left open broader…",
-     "published": "2026-11-20T15:07+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/fe5cb011-8055-4d12-b16b-5525ca8727ac_0c38592c.jpg?itok=otHA7rqO&v=1795187258"
+     "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
+     "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data centres abroad, highlighting a divide between a president who sees their expansion as critical to…",
+     "published": "2026-11-21T00:48+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/cafc0480-355c-48c8-87e7-25476b8543a2_d3071f6f.jpg?itok=RTMm83DK&v=1795222065"
     }
    ]
   },
@@ -1579,60 +1569,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Alcaraz wears elastic band on injured thigh to beat Cobolli at ATP Finals",
-     "link": "https://www.abc.net.au/news/2026-11-21/carlos-alcaraz-beats-flavio-coboli-at-atp-finals-tennis/107412122",
-     "summary": "Carlos Alcaraz eases concerns about a hamstring injury by cruising past Italian fifth seed Flavio Cobolli at the ATP Finals in Turin.",
-     "published": "2026-11-20T20:13+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/52a18923092d5588ffca920390d1f8b3?impolicy=wcms_crop_resize&cropH=1562&cropW=2776&xPos=0&yPos=106&width=862&height=485"
+     "title": "Can the Kimberley's troubled 'Kununurra Boys' be put back on track?",
+     "link": "https://www.abc.net.au/news/2026-11-21/kununurra-youth-crime-meet-boys-police-residents-hoping-change/107033550",
+     "summary": "For the people working directly with Kununurra's troubled young teenagers, support and structure are what's needed to stop criminal behaviour that's put the town on the global map for all the wrong reasons.",
+     "published": "2026-11-21T01:58+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/26cfc7e202d7b0291157fb9daa02c7e8?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485"
     },
     {
-     "title": "Feral fur is having a moment, but does it help pest control?",
-     "link": "https://www.abc.net.au/news/2026-11-21/pest-to-purpose-feral-fur-ethical-fashion-pest-control/107398682",
-     "summary": "Advocates say this is fur you can feel good about, but it's a drop in the ocean against Australia's massive pest problem.",
-     "published": "2026-11-20T20:07+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ed1fe518f2bcfb88ab78ed248b32ebda?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
+     "link": "https://www.abc.net.au/news/2026-11-21/jess-wilson-kew-district-sophie-torney-victorian-electorate/107400636",
+     "summary": "A returning independent candidate in Jess Wilson's home electorate is optimistic about her chances, but the local member's high profile may help the Liberals claw back voters in the formerly safe Liberal seat.",
+     "published": "2026-11-21T01:37+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/937ee310e3a2c1e0fc9abd950c90b0c9?impolicy=wcms_crop_resize&cropH=1687&cropW=2999&xPos=1&yPos=0&width=862&height=485"
     },
     {
-     "title": "ABC North Queensland celebrates 90 years of radio broadcasting",
-     "link": "https://www.abc.net.au/news/2026-11-21/abc-north-queensland-turns-90-years-old/107387516",
-     "summary": "In 1936, a grand orchestral program was the fitting way to welcome a new radio station to the tropics.",
-     "published": "2026-11-20T19:45+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/2a9e3e2caa917f5218bf9da14443a902?impolicy=wcms_crop_resize&cropH=771&cropW=1371&xPos=274&yPos=86&width=862&height=485"
+     "title": "Texas inmate screams during drawn-out execution",
+     "link": "https://www.abc.net.au/news/2026-11-21/texas-death-row-inmate-reinaldo-dennes-screams-execution/107412316",
+     "summary": "The Texas Department of Criminal Justice has denied claims the execution of Reinaldo Dennes was \"botched\" after he complained of excruciating pain.",
+     "published": "2026-11-21T01:13+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/8fee0574188bdc1ac87abc23da6e8476?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=428&width=862&height=485"
     },
     {
-     "title": "Big Build royal commission this week heard 'I cannot recall' over 300 times",
-     "link": "https://www.abc.net.au/news/2026-11-21/victoria-big-build-royal-commission-week-two/107409538",
-     "summary": "The royal commission probing corruption and criminality in Victoria's construction sector has aired evidence of pay cheques for bikies and union officials worth hundreds of thousands of dollars for work never done or…",
-     "published": "2026-11-20T19:42+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/f795e23cd75d0602850bc505bc09c106?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Schoolies rolls out pickleball and line dancing as teens' tastes change",
+     "link": "https://www.abc.net.au/news/2026-11-21/schoolies-2026-evolves-changing-tastes-pickleball-line-dancing/107402348",
+     "summary": "Thousands of school leavers hit the Gold Coast today for the beginning of schoolies week, but numbers are down, and the annual celebration is changing.",
+     "published": "2026-11-21T01:12+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/0144e552736cda6f97e54c0e3e788f6e?impolicy=wcms_crop_resize&cropH=2420&cropW=4302&xPos=685&yPos=484&width=862&height=485"
     },
     {
-     "title": "The science behind Australia's 'feels like' temperature",
-     "link": "https://www.abc.net.au/news/2026-11-21/nsw-weather-how-bureau-of-meteorology-predicts-forecast/107409102",
-     "summary": "The wrong answer could lead to a misjudgement of both wardrobe requirements and the suitability of outdoor activities.",
-     "published": "2026-11-20T19:35+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/0b8f126a312e264c6b596c520b6186f1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=289&width=862&height=485"
+     "title": "From Marxism to extremism: A Perth teen's descent into radicalisation",
+     "link": "https://www.abc.net.au/news/2026-11-21/james-hollands-inquest-examines-years-leading-to-police-shooting/107404726",
+     "summary": "James Hollands was just 16 when he was fatally shot by police after almost killing a random stranger he stabbed with a kitchen knife — now a coroner will determine if the teenager could have been saved.",
+     "published": "2026-11-21T00:36+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/840dbe5ccfed8b9a1c9f285df23e19a8?impolicy=wcms_crop_resize&cropH=1572&cropW=2795&xPos=193&yPos=196&width=862&height=485"
     },
     {
-     "title": "Sale of prime farmland for carbon projects sparks debate",
-     "link": "https://www.abc.net.au/news/rural/2026-11-21/carbon-credits-farmland-sales-reshaping-landscape/107404514",
-     "summary": "The sale of two major Australian farming properties for carbon credit and forestry projects sparks concerns about the future of agricultural land.",
-     "published": "2026-11-20T19:32+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/7b8d77efa54a7d70cc9891adde96592a?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=109&width=862&height=485"
+     "title": "At 192cm tall, Tiny Tim could be a national cattle record breaker",
+     "link": "https://www.abc.net.au/news/2026-11-21/tiny-tim-could-be-australias-next-biggest-steer/107396504",
+     "summary": "A Holstein-Friesian named Tiny Tim is thought to be Australia's biggest living steer, inheriting the crown from the late legend Knickers.",
+     "published": "2026-11-21T00:04+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/5faf716950f95fc8b387789720820646?impolicy=wcms_crop_resize&cropH=2583&cropW=4592&xPos=0&yPos=432&width=862&height=485"
     },
     {
-     "title": "Sidelined Swans star on making first prelim in a 'really tough year'",
-     "link": "https://www.abc.net.au/news/2026-11-21/ally-morphett-on-sydney-swans-aflw-season-emotions/107407458",
-     "summary": "The Sydney Swans AFLW side are playing in their first preliminary final on Saturday against North Melbourne.",
-     "published": "2026-11-20T19:29+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/39665a18fd9dc5529b76d0508c2e0e0e?impolicy=wcms_crop_resize&cropH=2370&cropW=4213&xPos=0&yPos=38&width=862&height=485"
+     "title": "Man convicted of starting deadly 2025 LA Palisades Fire",
+     "link": "https://www.abc.net.au/news/2026-11-21/man-convicted-of-starting-2025-la-palisades-fire/107412326",
+     "summary": "Jonathan Rinderknecht is found guilty at his second trial of sparking last year's deadly Palisades Fire, which killed 12 people.",
+     "published": "2026-11-20T23:53+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/198f07da1fa3f37bf09ab4d4976a93fb?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
     },
     {
-     "title": "Australia strikes deal on AI talks with China",
-     "link": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
-     "summary": "Anthony Albanese has secured an agreement for new talks with China on artificial intelligence as the prime minister returns to Australia.",
-     "published": "2026-11-20T19:12+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/36364cc3a1b12ecfd1bbba7778eccc34?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485"
+     "title": "Petition against AI cameras at junior basketball attracts 13,000 signatures",
+     "link": "https://www.abc.net.au/news/2026-11-21/concerns-over-basketball-australia-ai-cameras-junior-games/107406442",
+     "summary": "Basketball Australia has started trialling AI-powered \"smart cameras\" at community games, ahead of a wider rollout, sparking concerns for some.",
+     "published": "2026-11-20T23:49+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/fba4612dee781a27118cd64fd80959a1?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=0&width=862&height=485"
     }
    ]
   },
@@ -1644,59 +1634,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-     "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-     "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-     "published": "2026-11-20T20:03+00:00",
+     "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+     "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+     "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+     "published": "2026-11-21T01:49+00:00",
      "image": ""
     },
     {
-     "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-     "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-     "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-     "published": "2026-11-20T19:57+00:00",
+     "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+     "summary": "",
+     "published": "2026-11-21T01:44+00:00",
      "image": ""
     },
     {
-     "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-     "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-     "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-     "published": "2026-11-20T19:40+00:00",
+     "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+     "summary": "The new African agency aims to bring greater transparency to credit ratings.",
+     "published": "2026-11-21T01:36+00:00",
      "image": ""
     },
     {
-     "title": "Nepal cricket fans celebrate their team’s global rise",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
-     "summary": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
-     "published": "2026-11-20T19:24+00:00",
+     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+     "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+     "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+     "published": "2026-11-21T01:12+00:00",
      "image": ""
     },
     {
-     "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-     "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
-     "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
-     "published": "2026-11-20T19:15+00:00",
+     "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+     "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+     "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+     "published": "2026-11-21T00:55+00:00",
      "image": ""
     },
     {
-     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-     "summary": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
-     "published": "2026-11-20T19:12+00:00",
+     "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+     "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+     "published": "2026-11-21T00:00+00:00",
      "image": ""
     },
     {
-     "title": "Former US national security adviser confronted by students on Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-     "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-     "published": "2026-11-20T18:51+00:00",
+     "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+     "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+     "summary": "Police say two children among dead as search continues for more victims.",
+     "published": "2026-11-20T23:36+00:00",
      "image": ""
     },
     {
-     "title": "Swimming lessons offer Gaza’s children a moment of relief",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
-     "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
-     "published": "2026-11-20T18:43+00:00",
+     "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+     "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+     "published": "2026-11-20T23:20+00:00",
      "image": ""
     }
    ]
@@ -1708,6 +1698,13 @@
    "region": "mena",
    "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
    "items": [
+    {
+     "title": "Africa: High-Level Dialogue - 16 Days of Activism Against Gender-Based Violence",
+     "link": "https://allafrica.com/stories/202611200720.html",
+     "summary": "[African Development Bank (AfDB)] When: Thursday, 26 November 2026. Time: 1:00 PM - 3:00 PM GMT. Where: Auditorium, CCIA Building, African Development Bank Group Headquarters, Abidjan, Côte d'Ivoire, and online Format…",
+     "published": "2026-11-20T23:01+00:00",
+     "image": ""
+    },
     {
      "title": "Rwanda: Women-Owned Exports Decline By 51 Percent As Finance Challenges Linger - New Report",
      "link": "https://allafrica.com/stories/202611200689.html",
@@ -1755,13 +1752,6 @@
      "link": "https://allafrica.com/stories/202611200634.html",
      "summary": "[Shabelle] Abu Dhabi -- The United Arab Emirates has strongly condemned what it described as increasingly hostile conduct by the Somali government, saying recent actions threaten diplomatic relations and cooperation…",
      "published": "2026-11-20T17:21+00:00",
-     "image": ""
-    },
-    {
-     "title": "Malawi: Dutch National Akster Convicted of Five Sodomy Counts Over Timotheos Foundation Bursaries",
-     "link": "https://allafrica.com/stories/202611200627.html",
-     "summary": "[Nyasa Times] Dutch national Jan Willem Akster has been found guilty of five counts of sodomy by the Chief Resident Magistrate's Court in Blantyre, ending a case that has run for more than six years.",
-     "published": "2026-11-20T17:19+00:00",
      "image": ""
     }
    ]
