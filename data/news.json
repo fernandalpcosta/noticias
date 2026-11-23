@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:38+00:00",
+ "updated": "2026-11-23T01:42+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -32,18 +32,65 @@
  ],
  "trending": [
   {
-   "topic": "Rússia",
-   "sources": 8,
+   "topic": "Ucrânia",
+   "sources": 7,
    "examples": [
     {
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine war spilling into NATO territory",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "source": "NPR"
+    },
+    {
+     "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+     "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+     "source": "France 24"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+     "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+     "source": "The New York Times"
+    }
+   ]
+  },
+  {
+   "topic": "EUA",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+     "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
-     "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-     "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "title": "US army to blow up bomb-making chemicals despite safety concerns",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
      "source": "The Guardian"
+    },
+    {
+     "title": "Midterms: US Democrats secure biggest House majority in decades",
+     "link": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+     "source": "Euronews"
+    },
+    {
+     "title": "Democratas garantem 258 cadeiras na Câmara dos EUA, melhor resultado desde 1992",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml",
+     "source": "Folha — Mundo"
+    }
+   ]
+  },
+  {
+   "topic": "Rússia",
+   "sources": 6,
+   "examples": [
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
      "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
@@ -51,25 +98,30 @@
      "source": "Deutsche Welle"
     },
     {
-     "title": "Russian strike kills 2 in Kyiv",
-     "link": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+     "title": "Russian ship attacked near Benghazi in suspected drone attack",
+     "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
      "source": "France 24"
+    },
+    {
+     "title": "Suspected drone strike hits Russian ship at Libya’s Benghazi port, raising regional security concerns",
+     "link": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
+     "source": "Euronews"
     }
    ]
   },
   {
    "topic": "Trump",
-   "sources": 8,
+   "sources": 6,
    "examples": [
+    {
+     "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+     "source": "The Guardian"
+    },
     {
      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
      "source": "NPR"
-    },
-    {
-     "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-     "link": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-     "source": "France 24"
     },
     {
      "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
@@ -84,38 +136,12 @@
    ]
   },
   {
-   "topic": "Ucrânia",
-   "sources": 8,
-   "examples": [
-    {
-     "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-     "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-     "source": "NPR"
-    },
-    {
-     "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack",
-     "link": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
    "topic": "COP31",
    "sources": 5,
    "examples": [
     {
-     "title": "What's next after no deal at COP31 climate talks?",
-     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News"
     },
     {
@@ -124,14 +150,14 @@
      "source": "Deutsche Welle"
     },
     {
-     "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-     "link": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+     "title": "COP31 climate talks in Turkey collapse",
+     "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
      "source": "France 24"
     },
     {
-     "title": "COP31: la derrota del último refugio del multilateralismo",
-     "link": "https://www.lavanguardia.com/natural/20261122/11690583/cop31-derrota-europa-campo-contrario.html",
-     "source": "La Vanguardia"
+     "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+     "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+     "source": "The New York Times"
     }
    ]
   },
@@ -150,176 +176,20 @@
      "source": "Deutsche Welle"
     },
     {
-     "title": "Israel investigates West Bank fires",
-     "link": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+     "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+     "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
      "source": "France 24"
     },
     {
-     "title": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Atlanta",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Delta retrasa miles de vuelos en el aeropuerto de Atlanta debido a un nuevo fallo técnico",
-     "link": "https://elpais.com/us/2026-11-22/delta-retrasa-miles-de-vuelos-en-el-aeropuerto-de-atlanta-debido-a-un-nuevo-fallo-tecnico.html",
-     "source": "El País"
-    },
-    {
-     "title": "Un fallo técnico de Delta retrasa cientos de vuelos en Atlanta, el aeropuerto más transitado del mundo",
-     "link": "https://www.lavanguardia.com/internacional/20261122/11690564/fallo-tecnico-delta-retrasa-miles-vuelos-atlanta-aeropuerto-mas-transitado-mundo.html",
-     "source": "La Vanguardia"
-    },
-    {
-     "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "source": "Folha de S.Paulo"
-    },
-    {
-     "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "source": "Folha — Mundo"
-    }
-   ]
-  },
-  {
-   "topic": "Bank",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
-     "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-     "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-     "source": "France 24"
-    },
-    {
-     "title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
-     "link": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
-     "source": "Euronews"
-    },
-    {
-     "title": "Israel investigates West Bank fires blamed on Israeli settlers",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3375395/israel-investigates-west-bank-fires-blamed-israeli-settlers",
-     "source": "South China Morning Post"
-    }
-   ]
-  },
-  {
-   "topic": "Benghazi",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-     "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
-     "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Suspected drone strike hits Russian ship at Libya’s Benghazi port, raising regional security concerns",
-     "link": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
-     "source": "Euronews"
-    }
-   ]
-  },
-  {
-   "topic": "China",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "China, ASEAN countries struggle over South China Sea code of conduct",
-     "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-     "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+     "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
      "source": "The New York Times"
-    },
-    {
-     "title": "Australia's neighbour claims 'China, Russia' looking at oil and gas project",
-     "link": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
-     "source": "ABC News"
-    },
-    {
-     "title": "On China, is Trump bucking the US national security establishment?",
-     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "EUA",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-     "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
-    },
-    {
-     "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "source": "Folha de S.Paulo"
-    },
-    {
-     "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "source": "Folha — Mundo"
-    },
-    {
-     "title": "On China, is Trump bucking the US national security establishment?",
-     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "Eisenkot",
-   "sources": 4,
-   "examples": [
-    {
-     "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
-     "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-     "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-     "source": "France 24"
-    },
-    {
-     "title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
-     "link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
-     "source": "Folha — Mundo"
     }
    ]
   },
   {
    "topic": "Libya",
-   "sources": 4,
+   "sources": 5,
    "examples": [
     {
      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -337,9 +207,139 @@
      "source": "Euronews"
     },
     {
-     "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Watch: Russian warship bursts into flames in suspected Ukraine drone attack in Libya",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-russian-warship-hit-by-suspected-ukrainian-drones-at-benghazi-naval-base-bursts-into-flames/articleshow/136085577.cms",
+     "source": "Times of India"
+    }
+   ]
+  },
+  {
+   "topic": "Bank",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
+     "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+     "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+     "source": "France 24"
+    },
+    {
+     "title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
+     "link": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
+     "source": "Euronews"
+    },
+    {
+     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+     "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+     "source": "The New York Times"
+    }
+   ]
+  },
+  {
+   "topic": "Benghazi",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
+     "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Russian ship attacked near Benghazi in suspected drone attack",
+     "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+     "source": "France 24"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Suspected drone strike hits Russian ship at Libya’s Benghazi port, raising regional security concerns",
+     "link": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
+     "source": "Euronews"
+    }
+   ]
+  },
+  {
+   "topic": "Climate",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Climate change talks fall apart in final hours over fossil fuels",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+     "source": "NPR"
+    },
+    {
+     "title": "COP31: Climate deal 'not adopted,' summit president says",
+     "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+     "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
+     "link": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
+     "source": "ABC News"
+    }
+   ]
+  },
+  {
+   "topic": "Eisenkot",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
+     "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+     "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+     "source": "France 24"
+    },
+    {
+     "title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
+     "link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+     "link": "https://www.japantimes.co.jp/news/2026/11/23/world/politics/netanyahu-eisenkot-talks-israel-government/",
+     "source": "The Japan Times"
+    }
+   ]
+  },
+  {
+   "topic": "West",
+   "sources": 4,
+   "examples": [
+    {
+     "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
+     "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+     "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+     "source": "France 24"
+    },
+    {
+     "title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
+     "link": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
+     "source": "Euronews"
+    },
+    {
+     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+     "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+     "source": "The New York Times"
     }
    ]
   }
@@ -354,18 +354,53 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+     "published": "2026-11-23T01:23+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
+    },
+    {
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+     "published": "2026-11-23T00:50+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+     "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+     "published": "2026-11-23T00:33+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "published": "2026-11-22T22:37+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+    },
+    {
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "summary": "The couple have been together for four years and were engaged in 2025.",
+     "published": "2026-11-22T21:22+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
+    },
+    {
      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-     "published": "2026-11-22T19:26+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
+     "published": "2026-11-22T20:28+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
     },
     {
      "title": "What's next after no deal at COP31 climate talks?",
      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-     "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
      "published": "2026-11-22T18:57+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
     },
     {
      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
@@ -373,41 +408,6 @@
      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
      "published": "2026-11-22T18:29+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg"
-    },
-    {
-     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-     "published": "2026-11-22T18:17+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
-    },
-    {
-     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-     "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-     "published": "2026-11-22T17:57+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
-    },
-    {
-     "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-     "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-     "published": "2026-11-22T17:18+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
-    },
-    {
-     "title": "Three killed and dozens missing after fire at Indonesian factory",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-     "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-     "published": "2026-11-22T14:05+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
-    },
-    {
-     "title": "South Korea education minister resigns over exam cheating scandal",
-     "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-     "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-     "published": "2026-11-22T09:20+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
     }
    ]
   },
@@ -419,60 +419,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-     "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-     "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a…",
-     "published": "2026-11-22T19:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=140&quality=85&auto=format&fit=max&s=0dd4f5e8250545a497550708fd2cadb3"
+     "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Minns ends presser after heckling from Greens candidate",
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on…",
+     "published": "2026-11-23T01:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
     },
     {
-     "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-     "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre…",
-     "published": "2026-11-22T19:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=841a5935e90b464a6f0e36a81358e58e"
+     "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+     "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+     "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly…",
+     "published": "2026-11-23T01:23+00:00",
+     "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48"
     },
     {
-     "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-     "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the…",
-     "published": "2026-11-22T18:50+00:00",
-     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
+     "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+     "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news…",
+     "published": "2026-11-23T00:54+00:00",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=2cd65c7c634a6466972155b4ad17b92e"
     },
     {
-     "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-     "link": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-     "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and…",
-     "published": "2026-11-22T18:45+00:00",
-     "image": "https://i.guim.co.uk/img/media/5633df9594626ebd63708d53648d420366e97d6b/97_132_2807_2244/master/2807.jpg?width=140&quality=85&auto=format&fit=max&s=f5b4c8c7147bdcacc7cb25e6ba09e00d"
+     "title": "US army to blow up bomb-making chemicals despite safety concerns",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+     "summary": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to…",
+     "published": "2026-11-23T00:50+00:00",
+     "image": "https://i.guim.co.uk/img/media/bfed09b7de050098100a09bd0b59db30af9459f6/371_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=cc029734716f40dfb0db43ac7a89db01"
     },
     {
-     "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-     "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-     "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on…",
-     "published": "2026-11-22T18:25+00:00",
-     "image": "https://i.guim.co.uk/img/media/4e6eb28d17340c345907199ceb683c4277945b37/471_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b0e019bfc9f5c34467d6e1e99fef18b1"
+     "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+     "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in…",
+     "published": "2026-11-23T00:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=8e8655ae5e48a38e70dd33fcd33d5626"
     },
     {
-     "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-     "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-     "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI)…",
-     "published": "2026-11-22T17:55+00:00",
-     "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
+     "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+     "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+     "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great…",
+     "published": "2026-11-23T00:25+00:00",
+     "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=463b4248042469d487fbddbbf134e3b5"
     },
     {
-     "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
-     "link": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-     "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand Laura Gallacher, Russell Brand’s wife, has promised to “absolutely honour” rules set by the prison where her…",
-     "published": "2026-11-22T17:49+00:00",
-     "image": "https://i.guim.co.uk/img/media/0639e8495988bcc521ebc204567a9a8327b5337d/477_75_3635_2907/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=d23b0f6819ec2955d5a178cc88585ed5"
+     "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+     "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform…",
+     "published": "2026-11-22T22:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=8250f823555ef1ca549d6dc77d97a486"
     },
     {
-     "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
-     "link": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
-     "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review of the personal independence payment (Pip) system will this week recommend that it is…",
-     "published": "2026-11-22T17:32+00:00",
-     "image": "https://i.guim.co.uk/img/media/2a5028d419651d2f1d4a4dd9d99f0cd1cdcdd343/905_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=8d16c6c659071e49cf59960dbea9e77d"
+     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May…",
+     "published": "2026-11-22T22:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702"
     }
    ]
   },
@@ -483,6 +483,20 @@
    "region": "mundo",
    "url": "https://feeds.npr.org/1004/rss.xml",
    "items": [
+    {
+     "title": "Ukraine war spilling into NATO territory",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+     "published": "2026-11-22T22:40+00:00",
+     "image": ""
+    },
+    {
+     "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+     "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+     "published": "2026-11-22T22:39+00:00",
+     "image": ""
+    },
     {
      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
@@ -524,20 +538,6 @@
      "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
      "published": "2026-11-21T18:08+00:00",
      "image": ""
-    },
-    {
-     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-     "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-     "published": "2026-11-21T14:18+00:00",
-     "image": ""
-    },
-    {
-     "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-     "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
-     "published": "2026-11-21T12:40+00:00",
-     "image": ""
     }
    ]
   },
@@ -548,6 +548,13 @@
    "region": "europa",
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
+    {
+     "title": "Turkey: Thousands protest closure of critical media outlets",
+     "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
+     "summary": "Protesters gathered in Istanbul to show their support for press freedom in Turkey. The protest was called just days after the police raided Sozcu TV and arrested several senior staff members.",
+     "published": "2026-11-22T21:31+00:00",
+     "image": ""
+    },
     {
      "title": "Sudan: Drones hit UN building, residential area in Khartoum",
      "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf",
@@ -596,13 +603,6 @@
      "summary": "The Philippines wanted a South China Sea code of conduct in place by 2026. But persistent disagreements between China and ASEAN countries are slowing progress toward a deal.",
      "published": "2026-11-22T08:45+00:00",
      "image": ""
-    },
-    {
-     "title": "Inspired by Bernie Sanders: A German agency is using US-Style campaigning to boost the left in 2029",
-     "link": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-rdf",
-     "summary": "\"The Goodforces\" wants to see a swing to the left in the 2029 German elections. The agency counts New York Mayor Zohran Mamdani and Bernie Sanders among its inspirations. Could it transform the political landscape?",
-     "published": "2026-11-22T08:39+00:00",
-     "image": ""
     }
    ]
   },
@@ -614,60 +614,60 @@
    "url": "https://www.france24.com/en/rss",
    "items": [
     {
-     "title": "Le Pen denies receiving leaked information from French interior ministry official",
-     "link": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
-     "summary": "French far-right leader Marine Le Pen on Sunday said she did not receive, nor ask for, confidential information on an investigation into her party from a senior interior ministry official. She however could not say if…",
-     "published": "2026-11-22T17:47+00:00",
-     "image": "https://s.france24.com/media/display/83540fda-e696-11f1-ba48-e56ab3dc0809/w:1024/p:16x9/AP26324374289119.jpg"
+     "title": "Christmas market returns to Paris' Champs Elysées",
+     "link": "https://www.france24.com/en/video/20261123-christmas-market-returns-to-paris-champs-elys%C3%A9es",
+     "summary": "France 24's Jamie Smith-Maillet reports from the opening of the Paris Christmas market on the Champs Elysées.",
+     "published": "2026-11-23T00:46+00:00",
+     "image": "https://s.france24.com/media/display/8c01efd6-e6d6-11f1-a5d3-6b451f569414/w:1024/p:16x9/EN-20261123-001051-001257-CS.jpg"
     },
     {
-     "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose Désiré Doué to injury",
-     "link": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
-     "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost Désiré Doué for several months after the forward suffered a serious knee injury.",
-     "published": "2026-11-22T16:55+00:00",
-     "image": "https://s.france24.com/media/display/84817312-e613-11f1-8f47-13439ca2fe89/w:1024/p:16x9/000-D8969H7.jpg"
+     "title": "France's far-right leader Le Pen denies receiving secrets from civil servant",
+     "link": "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
+     "summary": "French far-right leader Marine Le Pen Sunday denied receiving confidential information from a civil servant suspected of leaking details of investigations to her National Rally (RN) party, while acknowledging she could…",
+     "published": "2026-11-23T00:46+00:00",
+     "image": "https://s.france24.com/media/display/e8bc3946-e6d3-11f1-8282-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000824-000950-CS.jpg"
     },
     {
-     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-     "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deployed to the area following the attacks…",
-     "published": "2026-11-22T16:25+00:00",
-     "image": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg"
+     "title": "COP31 climate talks in Turkey collapse",
+     "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+     "summary": "EU member states on Sunday objected to adopting an 11th-hour deal that omitted explicit references to fossil fuels, the bloc's presidency said. The issue remains a major point of contention at the summit, which is…",
+     "published": "2026-11-23T00:44+00:00",
+     "image": "https://s.france24.com/media/display/758bc72a-e6d3-11f1-a018-13439ca2fe89/w:1024/p:16x9/EN-20261123-000618-000759-CS.jpg"
     },
     {
-     "title": "Russian strike kills 2 in Kyiv",
-     "link": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
-     "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destroyed a five-storey building, while…",
-     "published": "2026-11-22T16:23+00:00",
-     "image": "https://s.france24.com/media/display/64f540a0-e690-11f1-92e8-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-160646-160820-CS.jpg"
+     "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
+     "link": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+     "summary": "Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare…",
+     "published": "2026-11-23T00:43+00:00",
+     "image": "https://s.france24.com/media/display/bea80488-e6d2-11f1-82d9-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000406-000527-CS.jpg"
     },
     {
-     "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-     "link": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-     "summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Antalya, Turkey and another week of French…",
-     "published": "2026-11-22T14:22+00:00",
-     "image": "https://s.france24.com/media/display/4d97c630-e4c9-11f1-8b5e-13439ca2fe89/w:1024/p:16x9/2026-11-20T080754Z-1839523102-RC2IROA511RL-RTRMADP-3-CLIMATE-COP31.jpg"
+     "title": "Russian ship attacked near Benghazi in suspected drone attack",
+     "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+     "summary": "Authorities in divided Libya's east said a Russian ship docked at the Benghazi port was hit on Sunday in a suspected drone attack, causing a blast but no casualties. There was no immediate claim of responsibility for…",
+     "published": "2026-11-22T22:37+00:00",
+     "image": "https://s.france24.com/media/display/00042f96-e6c5-11f1-aeb3-ebb478925cf0/w:1024/p:16x9/EN-20261122-230127-230255-CS.jpg"
     },
     {
-     "title": "\"It can take years\": Why the AI Riemann proof is far from settled",
-     "link": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
-     "summary": "AI claimed another major scalp in maths on Friday, as Anthropic mathematician Levent Alpöge published what he says is a proof of the Riemann hypothesis, a Millennium Prize Problem, in 17 million lines of code that no…",
-     "published": "2026-11-22T14:18+00:00",
-     "image": "https://s.france24.com/media/display/fbac99c6-e67c-11f1-91ce-1bac47ab2f5d/w:1024/p:16x9/EN-TECH24-22-11-26-2027-ep-17-PAD.png"
+     "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+     "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+     "summary": "Israeli opposition leader Gadi Eisenkot on Sunday condemned arson attacks by settlers on Palestinian villages in the West Bank as “Jewish terrorism.” Israeli police said they opened an investigation into the attacks…",
+     "published": "2026-11-22T21:29+00:00",
+     "image": "https://s.france24.com/media/display/eff41172-e6b8-11f1-a8e7-1bac47ab2f5d/w:1024/p:16x9/AP26326377291946.jpg"
     },
     {
-     "title": "Israel investigates West Bank fires",
-     "link": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by…",
-     "published": "2026-11-22T13:47+00:00",
-     "image": "https://s.france24.com/media/display/f8b8c1ac-e679-11f1-8017-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-140613-140959-CS.jpg"
+     "title": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
+     "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+     "summary": "Democrat Chuck Hubbard was elected to the US House of Representatives from North Carolina on Sunday after defeating veteran Republican Virginia Foxx, who chairs the powerful House Rules Committee. His victory gave…",
+     "published": "2026-11-22T20:16+00:00",
+     "image": "https://s.france24.com/media/display/e68dbef8-e6ae-11f1-838f-13439ca2fe89/w:1024/p:16x9/AP26312701855096.jpg"
     },
     {
-     "title": "🔴 COP31 ends without deal as EU rejects text for omitting mention of fossil fuels",
-     "link": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
-     "summary": "",
-     "published": "2026-11-22T12:22+00:00",
-     "image": ""
+     "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+     "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+     "summary": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials, in what appeared to be the latest attack linked to the…",
+     "published": "2026-11-22T19:41+00:00",
+     "image": "https://s.france24.com/media/display/659e3cc8-e6a9-11f1-ae55-1bac47ab2f5d/w:1024/p:16x9/AP26326649718247.jpg"
     }
    ]
   },
@@ -679,11 +679,18 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
-     "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-     "summary": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se…",
-     "published": "2026-11-22T18:43+00:00",
+     "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+     "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+     "summary": "Les autorités de l’est de la Libye ont annoncé dimanche qu’un deuxième navire avait subi une attaque de drone au large de Benghazi, quelques heures après qu’un bateau russe a été pris pour cible dans le port de cette…",
+     "published": "2026-11-22T22:57+00:00",
      "image": "https://img.lemde.fr/2026/11/22/560/0/8860/4430/644/322/60/0/938b18c_ftp-1-hjzwzpxuwplr-d7873c82d905412eb8c8b8568050f431-1-ef271e4bc28c4fc8874ba6567deb0a91.jpg"
+    },
+    {
+     "title": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
+     "link": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
+     "summary": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de…",
+     "published": "2026-11-22T19:58+00:00",
+     "image": "https://img.lemde.fr/2026/11/22/595/0/7139/3569/644/322/60/0/3ecba48_ftp-1-i7iju2pvczlw-eed39ca9b2cf4a67b7f3d83491136759-0-b58c13f204ca408f84096f6af835b14f.jpg"
     },
     {
      "title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
@@ -726,13 +733,6 @@
      "summary": "L’anthropologue Léo Montaz retrace le parcours politique de ce mouvement musical emblématique du pays. Ce genre contestataire au début des années 1990 s’est assagi depuis.",
      "published": "2026-11-22T15:00+00:00",
      "image": "https://img.lemde.fr/2026/11/21/528/0/6048/3024/644/322/60/0/be921b6_upload-1-tw386qsbxedh-000-9ku9l7.jpg"
-    },
-    {
-     "title": "L’Italie secouée par le suicide de l’ancien chef de la police Gianni De Gennaro",
-     "link": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html",
-     "summary": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même…",
-     "published": "2026-11-22T13:10+00:00",
-     "image": "https://img.lemde.fr/2026/11/22/500/0/6000/3000/644/322/60/0/737a99f_upload-1-vc4xfi5zcphu-shutterstock41430098-000005.jpg"
     }
    ]
   },
@@ -743,6 +743,20 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "Morocco: A surreal sculpture park turns the world upside down",
+     "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+     "summary": "An upside-down house, giant furniture and vegetable-headed figures await visitors at Ramakech, an 11-hectare sculpture park near Marrakech, where French artist Jean-François Fourtou brings childhood memories to life…",
+     "published": "2026-11-22T22:33+00:00",
+     "image": ""
+    },
+    {
+     "title": "Midterms: US Democrats secure biggest House majority in decades",
+     "link": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+     "summary": "Democrats have secured their largest US House of Representatives majority in more than three decades, dealing a crushing blow to President Donald Trump and setting the stage for two years of divided government…",
+     "published": "2026-11-22T21:29+00:00",
+     "image": ""
+    },
     {
      "title": "Tanker incident “involving military forces” reported in Strait of Hormuz",
      "link": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
@@ -784,20 +798,6 @@
      "summary": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
      "published": "2026-11-22T11:00+00:00",
      "image": ""
-    },
-    {
-     "title": "Mongolia's power struggle deepens as Parliament approves president's resignation",
-     "link": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
-     "summary": "Mongolia is facing growing political and economic uncertainty after Parliament approved the resignation of president Khurelsukh Ukhnaa. Rising inflation and fuel shortages are adding to economic pressures, while rival…",
-     "published": "2026-11-22T11:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack",
-     "link": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
-     "summary": "A Russian strike partially destroyed an apartment building in Dymer, north of Kyiv, on Sunday. Nine people, including a child, were evacuated as rescuers searched the rubble for up to seven others feared trapped.",
-     "published": "2026-11-22T10:39+00:00",
-     "image": ""
     }
    ]
   },
@@ -809,11 +809,39 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Alexander Zverev - Carlos Alcaraz en directo | Alcaraz supera a Zverev y conquista por primera vez el título de las ATP Finals",
-     "link": "https://elpais.com/deportes/tenis/2026-11-22/alexander-zverev-carlos-alcaraz-en-directo-la-final-de-las-atp-finals-en-vivo.html",
-     "summary": "El tenista español tuvo que remar en la segunda manga para batir al alemán tras levantar tres bolas de set de su rival en el ‘tie-break’",
-     "published": "2026-11-22T19:26+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/HV2JG27IXVIDLNOZASNDVBEJFE.jpg?auth=8814a4f2863024b48e7d09f6b74239bc33e0662e34ae00d654b096d7338a4100"
+     "title": "Baena sostiene la llama de un buen Atlético en su victoria en Getafe",
+     "link": "https://elpais.com/deportes/futbol/2026-11-22/baena-sostiene-la-llama-de-un-buen-atletico-en-su-victoria-en-getafe.html",
+     "summary": "Simeone se convierte en el entrenador con más victorias en Liga (345) y los rojiblancos se mantienen en la pelea por la Liga con goles del almeriense, Cardoso y Grimaldo",
+     "published": "2026-11-22T22:16+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/KD6NUPX43NKT3KH4UOBDRMZHC4.jpg?auth=ccb055003e4a095c733895e21a99787114d716a601116333ab7daabcb2096b06"
+    },
+    {
+     "title": "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente",
+     "link": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-defiende-en-salvados-que-seran-los-espanoles-y-no-la-opinion-publicada-quien-le-vuelva-a-hacer-presidente.html",
+     "summary": "“No suelo autoengañarme y los datos tienen muy buena pinta, yo lo dejo ahí”, afirma el presidente, que se considera ganador del cara a cara con Feijóo",
+     "published": "2026-11-22T21:44+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/TKHJX3GRMRE4FN5QLXDTIDWY5A.JPG?auth=d5996d163047788f353859418939bf4a608bfcd4f165290ea73d0e91280c3003"
+    },
+    {
+     "title": "Gordo de la Primitiva: comprobar sorteo del domingo 22 de noviembre",
+     "link": "https://elpais.com/sorteos/2026-11-22/gordo-de-la-primitiva-comprobar-sorteo-del-domingo-22-de-noviembre.html",
+     "summary": "El sorteo de este domingo se juega por un bote de 22,9 millones de euros",
+     "published": "2026-11-22T20:43+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/JHY4FT2RUZFETABZYMORMKZQWA.png?auth=ef61f9195ca33d7ba96377b90997db1511175dac844c4c51dcc0ed35857b753c"
+    },
+    {
+     "title": "El maestro Carlos Alcaraz, hasta donde él quiera: ni el isquio ni Zverev pudieron con él",
+     "link": "https://elpais.com/deportes/tenis/2026-11-22/despues-de-todo-alcaraz-ya-es-maestro-ni-el-isquio-ni-zverev-pudieron-con-el.html",
+     "summary": "El murciano doblega al número uno, muy superado hasta el amago del final, y acaba con 28 años de negativas para el tenis español en la cita de los mejores: 6-2 y 7-6(7)",
+     "published": "2026-11-22T20:09+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/YCGKBJWRC5NDTBSUQIDZUZD3ZA.jpg?auth=2a408b21e935adcf590adaf0996282b37d2a61c579915ecc93d049333ccdf98e"
+    },
+    {
+     "title": "Una explosión hunde un barco de guerra ruso en la costa oriental de Libia",
+     "link": "https://elpais.com/internacional/2026-11-22/una-explosion-hunde-un-barco-de-guerra-ruso-en-la-costa-oriental-de-libia.html",
+     "summary": "Las autoridades locales informan de que el hundimiento pudo ser causado por un ataque con drones. Ucrania no ha asumido por el momento la autoría",
+     "published": "2026-11-22T19:50+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/5JOF3EWUFBLU7IR5XGCITMOJ4Q.jpg?auth=20663476661b6548d6a0652a45cd2936ec2ae43ff449fd4e3c2ffa2690167fde"
     },
     {
      "title": "Los demócratas se aseguran la mayor victoria en la Cámara de Representantes desde 1992",
@@ -835,34 +863,6 @@
      "summary": "El octacampeón de MotoGP competía sin apenas fuerza y llegó a pensar que había perdido la cabeza hasta que los médicos dieron con el origen de sus molestias en una extremidad consumida tras tantas operaciones",
      "published": "2026-11-22T17:12+00:00",
      "image": "https://imagenes.elpais.com/resizer/v2/CYIX5B2XOFP5VKMNVMZNYIHUFE.jpg?auth=1dc63212d7390dd32af601d2ac7649223677ccfb5e4cbd5f3106e0ae7081e8eb"
-    },
-    {
-     "title": "Hansi Flick: “Siempre pasa lo mismo con este árbitro”",
-     "link": "https://elpais.com/deportes/futbol/2026-11-22/hansi-flick-siempre-pasa-lo-mismo-con-este-arbitro.html",
-     "summary": "La rabia azulgrana con el colegiado contrasta con la alegría por la remontada más rápida de la era del técnico alemán, tres goles entre el 57 y el 67, ante un Villarreal que había marcado dos goles en siete minutos",
-     "published": "2026-11-22T16:57+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/5HZD5AXNEBOFVIE3NWEU4XQF7I.jpg?auth=fc18b39d0060ba45bbe5d8198b26843db4dc11ca983ce52f327642c9ca72ffb2"
-    },
-    {
-     "title": "Almudena Grandes vuelve a reunir a los suyos cinco años después de su muerte",
-     "link": "https://elpais.com/cultura/2026-11-22/almudena-grandes-vuelve-a-reunir-a-los-suyos-cinco-anos-despues-de-su-muerte.html",
-     "summary": "Familiares, amigos y lectores rinden homenaje a la escritora en el Ateneo de Madrid. La adaptación de ‘Inés y la alegría’ se estrenará el próximo otoño",
-     "published": "2026-11-22T16:55+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/7EVOZALOWJCRBOBOROY3SA5TYE.jpg?auth=32111a54e93acc915f02f01e8b23fcb213e8adc93b5e3058b36afe6a81ada4c8"
-    },
-    {
-     "title": "Un carguero ruso sancionado sigue ardiendo un día después del ataque de un dron en el golfo de Finlandia",
-     "link": "https://elpais.com/internacional/2026-11-22/un-carguero-ruso-sancionado-sigue-ardiendo-un-dia-despues-del-ataque-de-un-dron-en-el-golfo-de-finlandia.html",
-     "summary": "Los servicios de emergencia finlandeses, rusos y estonios colaboran para extinguir las llamas, pese a las tensiones por la invasión de Ucrania",
-     "published": "2026-11-22T16:50+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/DOOCT4MLYNKLDF5QIMMXLUYMKA.jpg?auth=8e891a439c9b3f69043e37a8478b080952c1ca4eb7d65f361d1c90ff7f551c8f"
-    },
-    {
-     "title": "El auge de la riqueza extrema es el fenómeno social más importante de nuestra época",
-     "link": "https://elpais.com/opinion/2026-11-22/el-auge-de-la-riqueza-extrema-es-el-fenomeno-social-mas-importante-de-nuestra-epoca.html",
-     "summary": "Frente a la oligarquía internacional, hoy hay que crear una internacional democrática",
-     "published": "2026-11-22T16:36+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/BVLKDJ7SDZHWHCW37GHLHANY4Q.JPG?auth=9fae6ab1698787437f646f3cc20aff04432a3df780c0dea5bf7f96c041dab10d"
     }
    ]
   },
@@ -874,60 +874,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "COP31: la derrota del último refugio del multilateralismo",
-     "link": "https://www.lavanguardia.com/natural/20261122/11690583/cop31-derrota-europa-campo-contrario.html",
-     "summary": "La cumbre del clima de la ONU deja un mal sabor de boca, porque ha fallado tal vez su misión más importante: enviar a los mercados en estos momentos convulsos una señal de apoyo a las energías renovables que, sin ser la…",
-     "published": "2026-11-22T19:02+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b02e1c7a83bd.jpeg"
+     "title": "¿Ha empezado ya el apocalipsis?",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11687198/empezado-apocalipsis.html",
+     "summary": "“Oye @grok, si la Tercera Guerra Mundial empezara mañana , clasifica los 10 países más seguros para civiles y explica por qué”. “Oye @grok, si hay una guerra nuclear , ¿estoy en peligro?”. “Oye @grok, ¿ estamos al borde…",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6afee8629304d.jpeg"
     },
     {
-     "title": "Posible ataque de Ucrania contra un buque de guerra ruso en un puerto de Libia",
-     "link": "https://www.lavanguardia.com/internacional/20261122/11690571/posible-ataque-ucrania-buque-guerra-ruso-puerto-libia.html",
-     "summary": "Funcionarios libios aseguran que los drones eran ucranianos y fueron lanzados desde una base en el oeste del país magrebí",
-     "published": "2026-11-22T18:33+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b0334a2e76bc.jpeg"
+     "title": "La mala educació",
+     "link": "https://www.lavanguardia.com/encatala/20261123/11690535/mala-educacio.html",
+     "summary": "En sortir del cara a cara de dijous, Pedro Sán­chez va resumir el debat: “Bona política i mala educació”. Es referia a les maneres d’Alberto Núñez Feijóo. Va ser una llàstima que la frase arribés al final. María Casado…",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0092bc87b84.jpeg"
     },
     {
-     "title": "Pochettino entiende en siete minutos dónde se ha metido (4-0)",
-     "link": "https://www.lavanguardia.com/deportes/futbol/20261122/11690557/pochettino-entiende-siete-minutos-donde-metido-4-0.html",
-     "summary": "Su estreno con el United no pudo ser peor: Yoro fue expulsado al comienzo y el Liverpool resolvió en los primeros compases para dejar a los de Manchester en zona de descenso",
-     "published": "2026-11-22T18:23+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b032977462d9.jpeg"
+     "title": "Campaña: variaciones del odio",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11690434/campana-variaciones-odio.html",
+     "summary": "Ácido, voraz y posesivo, el resentimiento es la gasolina de la historia",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b02d8759bc55.jpeg"
     },
     {
-     "title": "Un fallo técnico de Delta retrasa cientos de vuelos en Atlanta, el aeropuerto más transitado del mundo",
-     "link": "https://www.lavanguardia.com/internacional/20261122/11690564/fallo-tecnico-delta-retrasa-miles-vuelos-atlanta-aeropuerto-mas-transitado-mundo.html",
-     "summary": "La incidencia en medio de las dudas sobre el estado de la infraestructura tecnológica en EE.UU.",
-     "published": "2026-11-22T18:11+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/22/6b032fc16808b.r_d.1256-2744-1079.jpeg"
+     "title": "A los padres de la patria",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11690000/padres-patria.html",
+     "summary": "Un alegato por un Parlamento mejor para un país mejor es perfectamente factible",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/21/6b01e335388b0.jpeg"
     },
     {
-     "title": "El sindicato FIFPRO afea al Bayern su presión coordinada a Musiala, víctima de un nuevo desmayo",
-     "link": "https://www.lavanguardia.com/deportes/futbol/20261122/11690560/sindicato-fifpro-afea-bayern-presion-coordinada-musiala-victima-nuevo-desmayo.html",
-     "summary": "Rumennigge insinuó que el club debería replantearse el elevado salario del internacional, que sufre una disfunción neurológica",
-     "published": "2026-11-22T18:02+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b032ce2e3e8c.jpeg"
+     "title": "Campaña en Barrio Sésamo",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11689995/campana-barrio-sesamo.html",
+     "summary": "Los conceptos básicos y las paradojas dominan esta campaña electoral",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b02c66439e4f.jpeg"
     },
     {
-     "title": "Soy periodista experta en belleza: 5 gadgets del Black Friday",
-     "link": "https://www.lavanguardia.com/comprar/black-friday/20261122/11688841/periodista-experta-belleza-son-cinco-gadgets-invertiria-black-friday.html",
-     "summary": "Una máscara de luz roja por menos de 100 euros, una plancha que también sirve para peinar el flequillo y un espejo de bolso que cuesta menos que muchos correctores. ¡Aquí va mi lista de deseos!",
-     "published": "2026-11-22T18:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6afff67a8418a.jpeg"
+     "title": "El socavón",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11689996/socavon.html",
+     "summary": "El boquete de la calle Teodora Lamadrid pudo haber sido una tragedia",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b02bc0ff3ce1.jpeg"
     },
     {
-     "title": "“¡No me jodas!”, estilo Fermín",
-     "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261122/11690550/me-jodas-estilo-fermin.html",
-     "summary": "El árbitro explicó en el acta que el jugador se quejó al cuarto árbitro con esa expresión y no vio la cartulina porque ya se había ido a los vestuarios",
-     "published": "2026-11-22T17:46+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b03284c4b56c.jpeg"
+     "title": "Votar el domingo pensando en el lunes",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11689999/votar-domingo-pensando-lunes.html",
+     "summary": "El lunes va a exigir una dosis extra de cultura democrática al conjunto de la ciudadanía",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/20/69bda27ba8093.jpeg"
     },
     {
-     "title": "Un incendio en un edificio en Manresa deja 15 heridos, uno de ellos grave",
-     "link": "https://www.lavanguardia.com/local/catalunya/20261122/11690544/incendio-manresa-deja-herido-grave-30-personas-atendidas.html",
-     "summary": "Los bomberos han tenido que evacuar a más de cuarenta vecinos e inspeccionado todas las viviendas",
-     "published": "2026-11-22T17:29+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/22/6b03349e0233d.r_d.332-230-6823.jpeg"
+     "title": "La perplejidad",
+     "link": "https://www.lavanguardia.com/opinion/20261123/11690536/perplejidad.html",
+     "summary": "Sebastián, en ‘La bola negra’, aún no tiene dispone de herramientas necesarias para interpretar lo que le pasa",
+     "published": "2026-11-22T23:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab7909f212e2.jpeg"
     }
    ]
   },
@@ -946,14 +946,14 @@
      "image": "https://static.eldiario.es/clip/47df2269-434f-4e52-94fd-c7b3c57e9c6c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Un incendio forestal en Añón de Moncayo, en Zaragoza, mantiene en alerta a la localidad por su proximidad al parque natural",
+     "title": "Estabilizado el incendio en Añón de Moncayo, que ha mantenido en alerta a la localidad por su cercanía al parque natural",
      "link": "https://www.eldiario.es/aragon/incendio-forestal-anon-moncayo-zaragoza-mantiene-alerta-localidad-proximidad-parque-natural_1_13684692.html",
-     "summary": "El fuego, declarado en una ladera de vegetación arbustiva, tiene tres frentes activos y los equipos de extinción prevén trabajar durante toda la noche El Gobierno de Aragón y los bomberos forestales alcanzan un acuerdo…",
+     "summary": "Las primeras valoraciones apuntan a una quema agrícola o ganadera descontrolada como origen del fuego, declarado en una ladera de vegetación arbustiva; los efectivos refrescarán el perímetro durante la noche El Gobierno…",
      "published": "2026-11-22T18:21+00:00",
      "image": "https://static.eldiario.es/clip/26fde486-7ebc-4b6c-b7d9-d4626b4c217d_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Ciberataques, el boom de la IA y teorías de la conspiración: qué se esconde detrás del colapso de sistemas por todo el mundo",
+     "title": "Ciberataques, IA y teorías de la conspiración: ¿qué está causando los colapsos informáticos?",
      "link": "https://www.eldiario.es/tecnologia/ciberataques-boom-ia-teorias-conspiracion-esconde-detras-colapso-sistemas-mundo_1_13684598.html",
      "summary": "Tras el caos que se ha producido en los aeropuertos de EEUU, en supermercados y empresas como Microsoft y Apple, la gente se ha convencido, ayudada por ciertas teorías que corren por las redes sociales, de que los…",
      "published": "2026-11-22T17:54+00:00",
@@ -1004,6 +1004,27 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
     {
+     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+     "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+     "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+     "published": "2026-11-23T01:32+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Is Mexico Stepping Up in the War on Drugs?",
+     "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+     "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+     "published": "2026-11-23T01:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "A Landmark Genocide Ruling",
+     "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+     "summary": "A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.",
+     "published": "2026-11-22T20:35+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-theworld-rohingya-01-twpg-promo/23int-theworld-rohingya-01-twpg-promo-mediumSquareAt3X.jpg"
+    },
+    {
      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
      "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
@@ -1037,27 +1058,6 @@
      "summary": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
      "published": "2026-11-22T12:29+00:00",
      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-     "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-     "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
-     "published": "2026-11-22T11:03+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg"
-    },
-    {
-     "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-     "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-     "published": "2026-11-22T10:16+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-     "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-     "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
-     "published": "2026-11-22T08:35+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg"
     }
    ]
   },
@@ -1069,13 +1069,6 @@
    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
    "items": [
     {
-     "title": "Barabak: A blue Texas is a monumental shift. That's already reshaping the 2028 presidential race",
-     "link": "https://www.latimes.com/politics/story/2026-11-22/2028-presidential-race-political-map-texas-earthquake",
-     "summary": "It's been 50 years since a Democrat won the state, but after a midterm blowout Texas is now competitive. The shift is the most significant change to the presidential map since California went blue.",
-     "published": "2026-11-22T11:00+00:00",
-     "image": ""
-    },
-    {
      "title": "Buoyed by midterms, Democrats start looking to 2028",
      "link": "https://www.latimes.com/politics/story/2026-11-22/buoyed-by-midterms-democrats-start-looking-to-2028",
      "summary": "The 2028 presidential election will be a race to chart America's course after a decade that has been dominated by President Trump.",
@@ -1086,6 +1079,13 @@
      "title": "Saudi Arabia turns to Ukraine, South Korea and others to counter attacks",
      "link": "https://www.latimes.com/world-nation/story/2026-11-22/saudi-arabia-turns-to-ukraine-south-korea-others-to-counter-attacks",
      "summary": "Faced with the persistent threat of missile and drone attacks from Iran and Houthi rebels, Saudi Arabia is scrambling to find alternatives to U.S. weapons systems.",
+     "published": "2026-11-22T11:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Barabak: A blue Texas is a monumental shift. That's already reshaping the 2028 presidential race",
+     "link": "https://www.latimes.com/politics/story/2026-11-22/2028-presidential-race-political-map-texas-earthquake",
+     "summary": "It's been 50 years since a Democrat won the state, but after a midterm blowout Texas is now competitive. The shift is the most significant change to the presidential map since California went blue.",
      "published": "2026-11-22T11:00+00:00",
      "image": ""
     },
@@ -1134,60 +1134,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "La emoción de Catherine Fulop por su regreso a Venezuela después de 14 años para reencontrarse con su madre",
-     "link": "https://www.infobae.com/teleshow/2026/11/22/la-emocion-de-catherine-fulop-por-su-regreso-a-venezuela-despues-de-14-anos-para-reencontrarse-con-su-madre/",
-     "summary": "Tras más de una década sin pisar su tierra natal, la actriz compartió su alegría por su viaje y, además, logró visitar a su mamá, Cleopatra, a quien no veía desde 2021",
-     "published": "2026-11-22T19:32+00:00",
-     "image": "https://www.infobae.com/resizer/v2/2Q7ZTT2GC5FFNBPTRTPWSJYX54.png?auth=ce1ff0c8f02fbf3e39d0860e9e1a433e60a65d4b193ef3dfc988040b8cbc254f&smart=true&width=2752&height=1536"
+     "title": "Con enchiladas suizas y molletes: Thalia visita a Yolanda Andrade luego de participar en el concierto de Karol G",
+     "link": "https://www.infobae.com/mexico/2026/11/23/con-enchiladas-suizas-y-molletes-thalia-visita-a-yolanda-andrade-luego-de-participar-en-el-concierto-de-karol-g/",
+     "summary": "Tras subir al escenario junto a Karol G en el Estadio GNP, la cantante visita a su amiga antes de regresar a Estados Unidos",
+     "published": "2026-11-23T01:40+00:00",
+     "image": "https://www.infobae.com/resizer/v2/3JHY2FSYKZHMNIDBG7YF2763MA.jpg?auth=b84b7eb2fa6c94c038a662c9b1758db85e750f25720985e463e3c470c37d9ec0&smart=true&width=1200&height=676"
     },
     {
-     "title": "El Sparta II sale de aguas territoriales de Finlandia tras el ataque con drones del sábado",
-     "link": "https://www.infobae.com/america/agencias/2026/11/22/el-sparta-ii-sale-de-aguas-territoriales-de-finlandia-tras-el-ataque-con-drones-del-sabado/",
-     "summary": "(Actualiza tras salida de aguas territoriales finlandesas del Sparta II) Berlín, 22 nov (EFE).- El Sparta II, barco ruso que fue atacado el sábado por drones en el golfo de Finlandia, salió este domingo de aguas…",
-     "published": "2026-11-22T19:32+00:00",
-     "image": ""
+     "title": "Alcalde Galán pidió reducir el consumo de electricidad y ordenó medidas obligatorias para las entidades públicas",
+     "link": "https://www.infobae.com/colombia/2026/11/23/alcalde-galan-pidio-reducir-el-consumo-de-electricidad-y-ordeno-medidas-obligatorias-para-las-entidades-publicas/",
+     "summary": "El alcalde de Bogotá solicitó cambios cotidianos a la ciudadanía y al sector privado ante la presión sobre la red nacional, cuya demanda crece por encima de la energía disponible en el país",
+     "published": "2026-11-23T01:40+00:00",
+     "image": "https://www.infobae.com/resizer/v2/X4HSNABSJRBRXO7HPBKOAZJT3U.jpg?auth=c17c7a8846f384d21e420d325ea45460f6772acf439d428a7a6e32bed8f5be70&smart=true&width=640&height=427"
     },
     {
-     "title": "Universitario gana la Liga Femenina de Perú y se clasifica a la Libertadores",
-     "link": "https://www.infobae.com/america/agencias/2026/11/22/universitario-gana-la-liga-femenina-de-peru-y-se-clasifica-a-la-libertadores/",
-     "summary": "Lima, 22 nov (EFE).- Universitario de Deportes se quedó este domingo con el título de la Liga Femenina de 2026 de Perú, además del cupo nacional para la próxima Copa Libertadores de mujeres, tras golear por 1-4 a su…",
-     "published": "2026-11-22T19:31+00:00",
-     "image": ""
+     "title": "Tras recorrer más de cuatro mil kilómetros, la mariposa Monarca llega a México y abre temporada de santuarios",
+     "link": "https://www.infobae.com/mexico/2026/11/23/tras-recorrer-mas-de-cuatro-mil-kilometros-la-mariposa-monarca-llega-a-mexico-y-abre-temporada-de-santuarios/",
+     "summary": "La temporada de hibernación 2026-2027 comenzó el 21 de noviembre y los espacios naturales permanecerán abiertos hasta el 31 de marzo de 2027, en un horario de 08:00 a 17:00 horas",
+     "published": "2026-11-23T01:40+00:00",
+     "image": "https://www.infobae.com/resizer/v2/HVH5DKJ5N5EGDJ3AY75Y6VPHSA.jpg?auth=c31c8e002ac2d63800c1b5b42cb91feb863da06f4dfad1391723d28bb07c4d9a&smart=true&width=3472&height=1953"
     },
     {
-     "title": "Alcaraz doblega a Zverev y se corona campeón de las Finales ATP",
-     "link": "https://www.infobae.com/espana/agencias/2026/11/22/alcaraz-doblega-a-zverev-y-se-corona-campeon-de-las-finales-atp/",
-     "summary": "Turín (Italia), 22 nov (EFE).- El español Carlos Alcaraz se proclamó este domingo campeón de las Finales ATP, por primera vez en su carrera, tras imponerse al alemán Alexander Zverev, por 6-2 y 7-6 (7), en una final, de…",
-     "published": "2026-11-22T19:31+00:00",
-     "image": ""
+     "title": "Instituto se enfrenta a Huracán por los octavos de final del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/11/22/instituto-se-enfrentara-a-huracan-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
+     "summary": "La Gloria y el Globo chocan en el estadio Mario Alberto Kempes. Transmite ESPN Premium",
+     "published": "2026-11-23T01:39+00:00",
+     "image": "https://www.infobae.com/resizer/v2/W24LRNGCNFDW5FE5C64H37QPUY.jpg?auth=ab6f95bf066269da57d2c457adffe9e48484ba1948d3474568e7ed117206561f&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Osasuna resiste el empuje del Málaga en la segunda mitad y vuelve a ganar (1-0)",
-     "link": "https://www.infobae.com/espana/agencias/2026/11/22/osasuna-resiste-el-empuje-del-malaga-en-la-segunda-mitad-y-vuelve-a-ganar-1-0/",
-     "summary": "Pamplona, 22 nov (EFE).- Un gol de Budimir en el minuto 20 dio los tres puntos al Osasuna frente al Málaga. El equipo rojillo sufrió tras el descanso ante la reacción del conjunto andaluz. EFE le/jl",
-     "published": "2026-11-22T19:31+00:00",
-     "image": ""
+     "title": "Bromistas rusos engañaron a directivos de OpenAI haciéndose pasar por un alto funcionario de Ucrania",
+     "link": "https://www.infobae.com/tecno/2026/11/23/bromistas-rusos-enganaron-a-directivos-de-openai-haciendose-pasar-por-un-alto-funcionario-de-ucrania/",
+     "summary": "Durante 17 minutos, tres responsables de seguridad nacional de la empresa de ChatGPT hablaron de ayuda militar, incluso ofensiva",
+     "published": "2026-11-23T01:36+00:00",
+     "image": "https://www.infobae.com/resizer/v2/FVMJ3DTHIRELLGEJHUPEQMMZTA.JPG?auth=6f46ab863206e912e3f352950373cb5c4da924d5ee9bc670858fbbfcb8c12042&smart=true&width=3998&height=2249"
     },
     {
-     "title": "Triplex de la Once: jugada ganadora y resultado del sorteo 4",
-     "link": "https://www.infobae.com/espana/2026/11/22/triplex-de-la-once-jugada-ganadora-y-resultado-del-sorteo-4/",
-     "summary": "Como cada domingo, aquí están los afortunados ganadores del sorteo dado a conocer por Juegos Once",
-     "published": "2026-11-22T19:31+00:00",
-     "image": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&smart=true&width=1920&height=1080"
+     "title": "Chivas le arrebata liderato a Cruz Azul en la última jornada: así quedó la tabla de posiciones",
+     "link": "https://www.infobae.com/mexico/deportes/2026/11/23/chivas-le-arrebata-liderato-a-cruz-azul-en-la-ultima-jornada-asi-quedo-la-tabla-de-posiciones/",
+     "summary": "Con el último partido de la fase general, ya se definieron los lugares de los ocho clasificados para los cuartos de final",
+     "published": "2026-11-23T01:36+00:00",
+     "image": "https://www.infobae.com/resizer/v2/EUS5AOCRVBGTVMBF2XPNRACZVQ.JPG?auth=0cec4c546e0ff22bc2ac15f584a6188e8889d6d4903f2573b53e8916aaa12088&smart=true&width=6000&height=4000"
     },
     {
-     "title": "Simeone sale con el once previsto, con Julián Alvarez y Bordalás, sin Satriano y con Azón",
-     "link": "https://www.infobae.com/america/agencias/2026/11/22/simeone-sale-con-el-once-previsto-con-julian-alvarez-y-bordalas-sin-satriano-y-con-azon/",
-     "summary": "Getafe (Madrid), 22 nov (EFE).- Diego Simeone, entrenador del Atlético de Madrid, sale este domingo con el once previsto, con Julián Alvarez como delantero, en el partido de LaLiga EA Sports contra el Getafe en el…",
-     "published": "2026-11-22T19:31+00:00",
-     "image": ""
+     "title": "Paloma Valencia niega que los chats en donde le advertían de un posible atentado en su contra tuvieran que ver con Miguel Uribe: “Es absolutamente falso”",
+     "link": "https://www.infobae.com/colombia/2026/11/23/paloma-valencia-niega-que-los-chats-en-donde-le-advertian-de-un-posible-atentado-en-su-contra-tuvieran-que-ver-con-miguel-uribe-es-absolutamente-falso/",
+     "summary": "La militante del Centro Democrático aseguró que las alertas recibidas en abril de 2025, luego de que se conocieran unos chats, estaban relacionadas con ella solamente y no estaban dirigidas hacia nadie más",
+     "published": "2026-11-23T01:36+00:00",
+     "image": "https://www.infobae.com/resizer/v2/5DWV5FTBSBEOPFVXENTPKGYX74.png?auth=1e72724def50f02e597ad7e64aa8680d3c681083ca113a12e564742b2e45a819&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Esta es la última actualización del avance del Metrobús este 22 de noviembre",
-     "link": "https://www.infobae.com/mexico/2026/11/22/esta-es-la-ultima-actualizacion-del-avance-del-metrobus-este-22-de-noviembre/",
-     "summary": "Es el segundo medio de movilidad más usado en la Ciudad de México sólo detrás del Sistema de Transporte Colectivo (STC) Metro",
-     "published": "2026-11-22T19:30+00:00",
-     "image": "https://www.infobae.com/resizer/v2/NJ3VI4QENNGIDPD7NSOTJPPAAA.jpg?auth=7c08313e0e6fe0d1ee6b36adb4ed09ded8a46f44a6db66e2bd9f4e9a4b29c95c&smart=true&width=1920&height=1080"
+     "title": "San Francisco 49ers vs Minnesota Vikings EN VIVO NFL en México: empieza el partido en el Azteca",
+     "link": "https://www.infobae.com/mexico/deportes/2026/11/22/san-francisco-49ers-vs-minnesota-vikings-en-vivo-sigue-hoy-la-nfl-en-mexico-en-el-estadio-azteca/",
+     "summary": "La afición mexicana vuelve a disfrutar del espectáculo del futbol americano en la Ciudad de México",
+     "published": "2026-11-23T01:36+00:00",
+     "image": "https://www.infobae.com/resizer/v2/TKPLJBMIRFDD5PLEPL3PN2GMPA.jpeg?auth=bb0d78ca1ab344a0e18501b32fe85b1e7c718a73e8c03d87436cf962d5ab0d74&smart=true&width=1600&height=1200"
     }
    ]
   },
@@ -1199,59 +1199,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "summary": "Todos os voos da Delta Air Lines com origem ou destino em Atlanta, nos Estados Unidos, sofreram atrasos na manhã deste domingo (22), após um problema ter sido relatado no sistema que calcula o peso e o balanceamento da…",
-     "published": "2026-11-22T19:05+00:00",
+     "title": "Investigação identifica 6 dos 9 mortos encontrados em barco à deriva no Pará",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/investigacao-identifica-6-dos-9-mortos-encontrados-em-barco-a-deriva-no-para.shtml",
+     "summary": "Peritos da Polícia Federal (PF) identificaram 6 dos 9 corpos encontrados em um barco à deriva no litoral de Bragança (PA), em abril de 2024. As vítimas são migrantes africanos da Mauritânia e do Mali que tentavam chegar…",
+     "published": "2026-11-23T01:37+00:00",
      "image": ""
     },
     {
-     "title": "Série sobre Sócrates dirigida por Walter Salles estreia em dezembro no Globoplay",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/serie-sobre-socrates-dirigida-por-walter-salles-estreia-em-dezembro-no-globoplay.shtml",
-     "summary": "A série documental \"Sócrates Brasileiro\" , dirigida pelo cineasta Walter Salles , acaba de ganhar data de estreia: 4 de dezembro no Globoplay. Leia mais (11/22/2026 - 16h00)",
-     "published": "2026-11-22T19:00+00:00",
+     "title": "Bukele agora exibe seu modelo repressivo no Haiti",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/bukele-agora-exibe-seu-modelo-repressivo-no-haiti.shtml",
+     "summary": "O governo do Haiti firmou na última semana um acordo de cooperação com Nayib Bukele , presidente de El Salvador que implantou no seu país um programa de segurança pública acusado de infringir o devido processo legal…",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Mortes: Desde o primeiro encontro, soube que se casaria com sua parceira de vida",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/mortes-desde-o-primeiro-encontro-soube-que-se-casaria-com-sua-parceira-de-vida.shtml",
-     "summary": "Isac Fuks não imaginava que fazer um favor poderia mudar o rumo de sua vida. Seu melhor amigo pediu que o acompanhasse em um encontro . Ele sairia com uma moça que havia conhecido, mas os pais dela só haviam autorizado…",
-     "published": "2026-11-22T19:00+00:00",
+     "title": "PF veta entrevistas de carcereiro de Lula sobre livro em que relata bastidores da prisão do petista",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/pf-veta-entrevistas-de-carcereiro-de-lula-sobre-livro-em-que-relata-bastidores-da-prisao-do-petista.shtml",
+     "summary": "A PF ( Polícia Federal ) não autorizou o agente Jorge Chastalo Filho a dar entrevistas sobre o livro \"Banho de Sol\" (editora WMF Martins Fontes), em que relata os 580 dias em que acompanhou Lula (PT) na prisão, entre…",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Rodovias em SP têm lentidão no retorno do feriado da Consciência Negra",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/rodovias-em-sp-tem-congestionamento-no-retorno-do-feriado-da-consciencia-negra.shtml",
-     "summary": "Motoristas que retornam a São Paulo neste domingo (22), último dia do feriado prolongado da Consciência Negra, enfrentam pontos de congestionamento em rodovias que ligam a capital ao litoral e ao interior. Leia mais…",
-     "published": "2026-11-22T18:56+00:00",
+     "title": "Um quarto fator para os juros altos",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/um-quarto-fator-para-os-juros-altos.shtml",
+     "summary": "Durante décadas, a pergunta que dominava o debate econômico brasileiro era por que a inflação não caía. Com a estabilização da moeda, ela deu lugar a outra pergunta: o que explica o patamar tão alto dos juros…",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Lula diz não saber se foi responsável por reunião de Trump, Putin e Xi, mas que sugeriu conversa aos três",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-diz-nao-saber-se-foi-responsavel-por-reuniao-de-trump-putin-e-xi-mas-que-sugeriu-conversa-aos-tres.shtml",
-     "summary": "O presidente Luiz Inácio Lula da Silva (PT) disse não saber se foi o responsável pelo encontro entre os presidentes dos Estados Unidos , Donald Trump ; da China , Xi Jinping ; e da Rússia , Vladimir Putin , mas que…",
-     "published": "2026-11-22T18:33+00:00",
+     "title": "Em respeito à memória de Chiquinha Gonzaga",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/em-respeito-a-memoria-de-chiquinha-gonzaga.shtml",
+     "summary": "Num país em que ocorrem, em média, quatro feminicídios por dia, a primeira premissa para que uma mulher receba a Medalha Chiquinha Gonzaga -honraria impregnada da histórica bravura feminina- deveria ser a lealdade ao…",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Polícia investiga se homem encontrado morto no Morumbi, em SP, foi vítima de 'tribunal do crime'",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/policia-investiga-se-homem-encontrado-morto-no-morumbi-em-sp-foi-vitima-de-tribunal-do-crime.shtml",
-     "summary": "Investigações iniciais da polícia apontam que um homem cujo corpo foi abandonado na avenida Giovanni Gronchi , na zona oeste de São Paulo , na tarde de sexta-feira (20), foi vítima de um \"tribunal do crime\" - quando…",
-     "published": "2026-11-22T18:31+00:00",
+     "title": "Comida mais cara, menos dinheiro no bolso",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/comida-mais-cara-menos-dinheiro-no-bolso.shtml",
+     "summary": "As perspectivas para a atividade econômica e a renda das famílias já vinham se deteriorando ao longo deste ano. Nas últimas semanas, porém, o quadro que se desenha para o início do quarto mandato de Luiz Inácio Lula da…",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Não tenho pretensão de nada além da emoção, diz Sarah Oliveira sobre Atenção para o Refrão",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/nao-tenho-pretensao-de-nada-alem-da-emocao-diz-sarah-oliveira-sobre-atencao-para-o-refrao.shtml",
-     "summary": "Aquele trecho da música que você gosta e vive cantando pode ter uma história curiosa. Que sentimentos e reflexões podem estar ligados a certas músicas? O que passou na cabeça do compositor? O que sente quem a…",
-     "published": "2026-11-22T18:30+00:00",
+     "title": "'Basta de preconceito de gênero e étnico no Brasil', diz leitor sobre ministra negra no STF",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/basta-de-preconceito-de-genero-e-etnico-no-brasil-diz-leitor-sobre-ministra-negra-no-stf.shtml",
+     "summary": "Diversidade no STF Leia mais (11/22/2026 - 22h00)",
+     "published": "2026-11-23T01:00+00:00",
      "image": ""
     },
     {
-     "title": "Interromper antidepressivo na gravidez pode aumentar riscos à saúde mental",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/11/interromper-antidepressivo-na-gravidez-pode-aumentar-riscos-a-saude-mental.shtml",
-     "summary": "Interromper o uso de antidepressivos durante a gravidez está associado a uma maior frequência de atendimentos de emergência por questões de saúde mental , tanto ao longo da gestação quanto no período após o parto. Essa…",
-     "published": "2026-11-22T18:30+00:00",
+     "title": "Ataque de grupo paramilitar deixa ao menos 24 mortos no Sudão do Sul",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ataque-de-grupo-paramilitar-deixa-ao-menos-24-mortos-no-sudao-do-sul.shtml",
+     "summary": "Pelo menos 24 civis morreram no domingo (22) em um ataque de um grupo paramilitar no Sudão do Sul , entre eles sete crianças, informaram as autoridades locais, que alertaram que o número de vítimas pode aumentar. Leia…",
+     "published": "2026-11-23T00:36+00:00",
      "image": ""
     }
    ]
@@ -1264,60 +1264,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Motociclista é arremessado a mais de 30 metros após batida com carro no Paraná",
-     "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/motociclista-e-arremessado-a-mais-de-30-metros-apos-batida-com-carro-no-parana.ghtml",
+     "title": "Mulher na garupa de moto morre atingida por linha de pipa com cerol em Piracicaba",
+     "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/22/mulher-na-garupa-de-moto-morre-atingida-por-linha-de-pipa-com-cerol-em-piracicaba.ghtml",
      "summary": "",
-     "published": "2026-11-22T19:32+00:00",
-     "image": "https://s2-g1.glbimg.com/fGhNex73ehRVoOFvjn7mPZSUS9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/G/9qkBOpRBWRA7kQIfHF0g/g1-pr-2026-11-22t162330.316.jpg"
+     "published": "2026-11-23T01:02+00:00",
+     "image": "https://s2-g1.glbimg.com/2Y6XwRv6wL1G7hqVr8ob5_VGoT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/51YJUmRuimIC9ZzyxyeQ/design-sem-nome-3-.png"
     },
     {
-     "title": "Unesp 2027: Candidatos começam a deixar o local de prova da 1ª fase; g1 terá gabarito e resolução ao vivo",
-     "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/ao-vivo/unesp-2027-correcao-ao-vivo-1-fase.ghtml",
+     "title": "Alinne Rosa aposta em lingerie para puxar trio elétrico na Micareta de Feira: 'Gostosa'",
+     "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/alinne-rosa-aposta-em-lingerie-para-puxar-trio-eletrico-na-micareta-de-feira.ghtml",
+     "summary": "Alinne Rosa entrega processo de criação de figurinos na Micareta de Feira A cantora Alinne Rosa chamou a atenção nas redes sociais ao mostrar o look escolhido para se apresentar na Micareta de Feira de Santana, segunda…",
+     "published": "2026-11-23T01:01+00:00",
+     "image": "https://s2-g1.glbimg.com/qJbhDpYtmt732oKbwt2oi24_8jU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/ARbrduRU2KcOhq2nOM7A/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-22t214556.208.jpg"
+    },
+    {
+     "title": "'O Dentista das Feras': veja todos os episódios da série",
+     "link": "https://g1.globo.com/fantastico/playlist/o-dentista-das-feras-veja-todos-os-episodios-da-serie.ghtml",
+     "summary": "O veterinário Roberto Fecchio cuida das bocas mais temidas do planeta.",
+     "published": "2026-11-23T00:56+00:00",
+     "image": "https://s2-g1.glbimg.com/AJ9iAVeuUfWZE6fVTV9N395oS0g=/s01.video.glbimg.com/deo/vi/00/95/15149500"
+    },
+    {
+     "title": "Pablo reflete sobre crescimento do arrocha e celebra momento do gênero",
+     "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/pablo-reflete-sobre-crescimento-do-arrocha.ghtml",
      "summary": "",
-     "published": "2026-11-22T19:32+00:00",
-     "image": "https://s2-g1.glbimg.com/PzMZi9_BXqFTqJFjvz0e4Qo_F_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/m/IA3qtxQnuoBOMfITaeBg/unesp-primeira-fase-araraquara.jpeg"
+     "published": "2026-11-23T00:34+00:00",
+     "image": "https://s2-g1.glbimg.com/LONtJixHIkKfuH-BHJYFqkFazzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/p/xvYdGCQfSQgZ0P4klu4Q/img-1915.jpg"
     },
     {
-     "title": "Inscrições do concurso da Câmara Municipal de Picuí, na PB, começam nesta segunda-feira (23)",
-     "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/22/inscricoes-do-concurso-da-camara-municipal-de-picui-na-pb-comecam-nesta-segunda-feira-23.ghtml",
-     "summary": "Prova; Concurso Pexels Começam nesta segunda-feira (23) as inscrições para o concurso da Câmara Municipal de Picuí, no Seridó da Paraíba. O certame oferece sete vagas para cargos de níveis fundamental e médio. ✅ Clique…",
-     "published": "2026-11-22T19:30+00:00",
-     "image": "https://s2-g1.glbimg.com/2Ax_Uaavufj6WlfzRXrIb4ticIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/R/lhrBdoQ9yFBgdXhQcKXA/pexels-andy-barbour-6683394.jpg"
+     "title": "Americana completa um ano com rim de porco geneticamente modificado",
+     "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/americana-completa-um-ano-com-rim-de-porco-geneticamente-modificado.ghtml",
+     "summary": "“Xenotransplante”: americana vive há um ano com rim de porco no seu corpo Uma americana completou um ano vivendo com o rim de um porco geneticamente modificado. A cirurgia experimental foi conduzida por uma equipe…",
+     "published": "2026-11-23T00:26+00:00",
+     "image": ""
     },
     {
-     "title": "Empresário é preso suspeito de manter homem em cárcere privado em Marília",
-     "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/22/empresario-e-preso-suspeito-de-manter-homem-em-carcere-privado-em-marilia.ghtml",
-     "summary": "Empresário é preso em flagrante suspeito de manter homem em cárcere privado em Marília (SP) Polícia Militar/Divulgação Um empresário foi preso em flagrante suspeito de manter um homem em cárcere privado e ameaçá-lo com…",
-     "published": "2026-11-22T19:29+00:00",
-     "image": "https://s2-g1.glbimg.com/6KPA2V8UZfGYenYN7z-Mp5ALTN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/RX5KviSB660lDU7VTPfA/design-sem-nome-2026-11-22t160157.558.png"
+     "title": "Por dentro da Interpol: como funciona a maior rede policial do mundo, hoje comandada por um brasileiro",
+     "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/por-dentro-da-interpol-como-funciona-a-maior-rede-policial-do-mundo-hoje-comandada-por-um-brasileiro.ghtml",
+     "summary": "Por dentro da Interpol: conheça os bastidores da maior organização policial do mundo A Interpol opera sem delegacias ou celas, funcionando como uma central de inteligência e conexão 24 horas entre polícias de 196…",
+     "published": "2026-11-23T00:20+00:00",
+     "image": ""
     },
     {
-     "title": "Coral da Sefaz comemora 20 anos com missa em ação de graças em Manaus",
-     "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/22/coral-da-sefaz-comemora-20-anos-com-missa-em-acao-de-gracas-em-manaus.ghtml",
-     "summary": "",
-     "published": "2026-11-22T19:29+00:00",
-     "image": "https://s2-g1.glbimg.com/C8FU0DEdlmT5mbxVS0XXGm94E9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/L/L4S8zxThme1VJl921ydw/coral.jpg"
+     "title": "Não foi tornado: meteorologistas explicam 'supercélula' e microexplosão que devastaram cidade no RS",
+     "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/nao-foi-tornado-meteorologistas-explicam-supercelula-e-microexplosao-que-devastaram-cidade-no-rs.ghtml",
+     "summary": "Tempestade com ventos de 200 km/h deixa cinco mortos e destrói Tupanciretã, no RS Uma tempestade severa com granizo e ventos que podem ter superado os 200 quilômetros por hora atingiu Tupanciretã, no centro do Rio…",
+     "published": "2026-11-23T00:02+00:00",
+     "image": ""
     },
     {
-     "title": "Mulher é absolvida por matar agressor, e discurso de advogado durante o júri emociona: 'Se fosse minha mãe, eu tinha feito muito pior'",
-     "link": "https://g1.globo.com/go/goias/noticia/2026/11/22/mulher-e-absolvida-por-matar-agressor-e-discurso-de-advogado-durante-o-juri-emociona-se-fosse-minha-mae-eu-tinha-feito-muito-pior.ghtml",
-     "summary": "",
-     "published": "2026-11-22T19:29+00:00",
-     "image": "https://s2-g1.glbimg.com/0SRMHlea5op9feoHkKmV_VTZWH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/6/xe9gBhS1upnlb5o2YGUw/deuel-gontijo-advogado-de-vitima-de-violencia-domestica.jpg"
-    },
-    {
-     "title": "Idoso levado por enxurrada após rompimento de barragem é encontrado morto em Afonso Cláudio, no ES",
-     "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/22/idoso-levado-por-enxurrada-apos-rompimento-de-barragem-e-encontrado-morto-no-es.ghtml",
-     "summary": "José da Silva Mariano foi encontrado morto após ter sido arrastado por uma enxurrada em Afonso Cláudio, na Região Serrana do Espírito Santo Reprodução/Rede social O corpo de um idoso de 76 anos que estava desaparecido…",
-     "published": "2026-11-22T19:20+00:00",
-     "image": "https://s2-g1.glbimg.com/mnsXYGQJof7Pt_2bbOPffUL5q08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/m/RiSfhHTPW45KmvXtvxyw/thumb-fotos-2026-11-22t160408.275.jpg"
-    },
-    {
-     "title": "Grávida de 17 anos é morta a tiros e companheiro de 16 é baleado, em Chaval",
-     "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/22/gravida-de-17-anos-morta-tiros-adolescente-16-anos-baleado.ghtml",
-     "summary": "",
-     "published": "2026-11-22T19:18+00:00",
-     "image": "https://s2-g1.glbimg.com/a2ivx6PmD07LL7zhWGnv5jeKStA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/m/jNEUp4TRax4WqDwPVGDA/gravida-morta-chaval.jpg"
+     "title": "MPE defende rejeição de recurso de coligação de Paes que pede 2º turno no RJ",
+     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/mpe-defende-rejeicao-de-recurso-de-coligacao-de-paes-que-pede-2o-turno-no-rj.ghtml",
+     "summary": "Douglas Ruas (E) e Eduardo Paes Globo/Manoella Mello O Ministério Público Eleitoral (MPE) se manifestou neste domingo (22) pela rejeição de um recurso da coligação de Eduardo Paes que questiona a exclusão dos votos de…",
+     "published": "2026-11-22T23:51+00:00",
+     "image": "https://s2-g1.glbimg.com/4iapFuByHwAcFKRnSIv5GEWEezE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/FzEBKBSqSrlTtnQT5j7w/042t.jpeg"
     }
    ]
   },
@@ -1329,9 +1329,44 @@
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
     {
+     "title": "Investigação identifica 6 dos 9 mortos encontrados em barco à deriva no Pará",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/investigacao-identifica-6-dos-9-mortos-encontrados-em-barco-a-deriva-no-para.shtml",
+     "summary": "Peritos da Polícia Federal (PF) identificaram 6 dos 9 corpos encontrados em um barco à deriva no litoral de Bragança (PA), em abril de 2024. As vítimas são migrantes africanos da Mauritânia e do Mali que tentavam chegar…",
+     "published": "2026-11-23T01:37+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ataque de grupo paramilitar deixa ao menos 24 mortos no Sudão do Sul",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ataque-de-grupo-paramilitar-deixa-ao-menos-24-mortos-no-sudao-do-sul.shtml",
+     "summary": "Pelo menos 24 civis morreram no domingo (22) em um ataque de um grupo paramilitar no Sudão do Sul , entre eles sete crianças, informaram as autoridades locais, que alertaram que o número de vítimas pode aumentar. Leia…",
+     "published": "2026-11-23T00:36+00:00",
+     "image": ""
+    },
+    {
+     "title": "Chanceler argentino repete Milei e, sem provas, coloca em dúvida vitória de Lula",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/chanceler-argentino-repete-milei-e-sem-provas-coloca-em-duvida-vitoria-de-lula.shtml",
+     "summary": "O ministro das Relações Exteriores da Argentina , Pablo Quirno, disse, neste sábado (21), sem nenhuma evidência, que \"situações\" colocaram em dúvida o processo eleitoral brasileiro deste ano. Leia mais (11/22/2026 …",
+     "published": "2026-11-22T21:57+00:00",
+     "image": ""
+    },
+    {
+     "title": "A lei imputa o dever de agir contra genocídios a todos os países, não apenas Gâmbia e África do Sul",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/bianca-santana/2026/11/a-lei-imputa-o-dever-de-agir-contra-genocidios-a-todos-os-paises-nao-apenas-gambia-e-africa-do-sul.shtml",
+     "summary": "O menor país da África continental conseguiu que, pela primeira vez na história da Corte Internacional de Justiça, um Estado fosse responsabilizado por cometer genocídio . Nesta quinta-feira (19), o principal órgão…",
+     "published": "2026-11-22T20:24+00:00",
+     "image": ""
+    },
+    {
+     "title": "Democratas garantem 258 cadeiras na Câmara dos EUA, melhor resultado desde 1992",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml",
+     "summary": "Os democratas garantiram no domingo (22) a maior maioria na Câmara dos Representantes em uma eleição nacional em três décadas, conquistando pelo menos 258 cadeiras na Casa em uma reação avassaladora à alta dos preços e…",
+     "published": "2026-11-22T19:59+00:00",
+     "image": ""
+    },
+    {
      "title": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
-     "summary": "Todos os voos da Delta Air Lines com origem ou destino em Atlanta, nos Estados Unidos, sofreram atrasos na manhã deste domingo (22), após um problema ter sido relatado no sistema que calcula o peso e o balanceamento da…",
+     "summary": "Todos os voos da Delta Air Lines com origem ou destino em Atlanta, nos Estados Unidos , sofreram atrasos na manhã deste domingo (22), após um problema ter sido relatado no sistema que calcula o peso e o balanceamento da…",
      "published": "2026-11-22T19:05+00:00",
      "image": ""
     },
@@ -1348,41 +1383,6 @@
      "summary": "Pelo menos duas pessoas morreram e dez podem estar presas sob os escombros de um edifício residencial atingido por um drone russo, na manhã deste domingo (22), na região de Kiev , na Ucrânia , afirmou o presidente…",
      "published": "2026-11-22T09:36+00:00",
      "image": ""
-    },
-    {
-     "title": "Uruguai solicita revisão da palavra 'quilombo' no dicionário de espanhol",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/uruguai-solicita-revisao-da-palavra-quilombo-no-dicionario-de-espanhol.shtml",
-     "summary": "A Academia Nacional de Letras do Uruguai enviou à Real Academia Espanhola uma solicitação neste mês para ampliar a definição de \"quilombo\" no dicionário da entidade. Usada no Brasil para se referir a espaços de…",
-     "published": "2026-11-22T09:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "França se aproxima da sucessão de Macron com centrismo enfraquecido",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-se-aproxima-da-sucessao-de-macron-com-centrismo-enfraquecido.shtml",
-     "summary": "Cinco candidatos à Presidência da França sentaram-se lado a lado na noite de segunda-feira (16) num galpão dos Restos du C?ur, a rede assistencial criada pelo humorista Coluche em 1985, e passaram quase três horas…",
-     "published": "2026-11-22T02:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
-     "summary": "Gadi Eisenkot , ex-chefe das Forças Armadas que tenta formar o próximo governo de Israel , convidou o partido Likud, do primeiro-ministro interino, Binyamin Netanyahu , para negociar uma possível coalizão, anunciou sua…",
-     "published": "2026-11-22T02:00+00:00",
-     "image": ""
-    },
-    {
-     "title": "Governo Trump divulga documentos sobre supostos rastros do Pé-Grande",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-divulga-documentos-sobre-supostos-rastros-do-pe-grande.shtml",
-     "summary": "O governo dos Estados Unidos divulgou uma série de documentos relacionados a supostos avistamentos do Pé-Grande, criatura mitológica gigante cuja existência é motivo de centenas de relatos ao longo de décadas, apesar da…",
-     "published": "2026-11-21T22:18+00:00",
-     "image": ""
-    },
-    {
-     "title": "José Antonio Kast tem início de governo pedregoso no Chile",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/11/jose-antonio-kast-tem-inicio-de-governo-pedregoso-no-chile.shtml",
-     "summary": "Quando José Antonio Kast assumiu a Presidência do Chile , em março, a segurança pública era a promessa que sustentava sua candidatura. O discurso era claro: ordem, firmeza contra o crime e um Estado capaz de devolver…",
-     "published": "2026-11-21T19:54+00:00",
-     "image": ""
     }
    ]
   },
@@ -1393,6 +1393,41 @@
    "region": "asia",
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
+    {
+     "title": "How the launch of ‘Grand Theft Auto VI’ surpassed expectations",
+     "link": "https://www.japantimes.co.jp/life/2026/11/23/digital/grand-theft-auto-vi-launch-expectations/",
+     "summary": "The game has a score of 99 out of 100 on Metacritic, the joint highest score of any video game ever, and high praise for it has been almost universal.",
+     "published": "2026-11-23T01:29+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575474.jpg"
+    },
+    {
+     "title": "When it comes to disaster information in Japan, stick with trusted sources",
+     "link": "https://www.japantimes.co.jp/community/2026/11/23/how-tos/disaster-preparedness-online-misinformation/",
+     "summary": "A timely reminder for foreign residents: Don't believe sensationalist posts and fake news, but do prepare for emergencies.",
+     "published": "2026-11-23T01:27+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/574433.jpg"
+    },
+    {
+     "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+     "link": "https://www.japantimes.co.jp/news/2026/11/23/world/politics/netanyahu-eisenkot-talks-israel-government/",
+     "summary": "A possible coalition government would require concessions from both sides.",
+     "published": "2026-11-23T01:26+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575470.jpg"
+    },
+    {
+     "title": "U.S. probing alleged spy tied to ex-Nvidia CEO, spy chief says",
+     "link": "https://www.japantimes.co.jp/business/2026/11/23/tech/us-spy-ex-nvidia-ceo/",
+     "summary": "Jensen Huang is set to face questions from lawmakers when he appears Dec. 1 before the U.S. House Intelligence, Foreign Affairs and China Select committees.",
+     "published": "2026-11-22T22:46+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575464.jpg"
+    },
+    {
+     "title": "Can climate diplomacy build on the collapse of COP31?",
+     "link": "https://www.japantimes.co.jp/environment/2026/11/23/climate-change/climate-diplomacy-cop31-collapse/",
+     "summary": "The failures of this year's talks in Turkey, which follow weak outcomes at earlier COPs, lay bare a need for change.",
+     "published": "2026-11-22T22:36+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575465.jpg"
+    },
     {
      "title": "Japan to hold council on Futenma base issues by year-end",
      "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/futenma-base-issue-council/",
@@ -1413,41 +1448,6 @@
      "summary": "Thousands of foreign nationals are allowed to live in Japan because of their marriage certificates. Here's what happens if the marriage ends.",
      "published": "2026-11-22T09:00+00:00",
      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574990.jpg"
-    },
-    {
-     "title": "Japan eyes December launch for system that checks for sex offense records",
-     "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/crime-legal/japan-system-sex-offense-records/",
-     "summary": "The law also requires measures to prevent sexual violence before it occurs, in order to address concerns among children and their parents.",
-     "published": "2026-11-22T08:28+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575431.jpg"
-    },
-    {
-     "title": "Myanmar says combating graft in military draft process",
-     "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/myanmar-graft-military-draft/",
-     "summary": "Myanmar's military is fighting various pro-democracy rebels and ethnic minority factions in a civil war sparked by a 2021 coup.",
-     "published": "2026-11-22T08:26+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575436.jpg"
-    },
-    {
-     "title": "The secret courage of Australia’s Bondi shooting hero, one year on",
-     "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/australia-bondi-shooting-hero/",
-     "summary": "Ahmed al Ahmed rushed to tackle one of the gunmen as they fired round after round into a crowd of men, women and children.",
-     "published": "2026-11-22T08:24+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575435.jpg"
-    },
-    {
-     "title": "Main hall of Okinawa’s Shuri Castle restored seven years after fire",
-     "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/shuri-castle-restored/",
-     "summary": "The hall was destroyed by fire in the early hours of Oct. 31, 2019, along with the north hall, south hall and other structures.",
-     "published": "2026-11-22T08:04+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575419.jpg"
-    },
-    {
-     "title": "Max Verstappen tastes victory in Las Vegas for third time in four years",
-     "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/verstappen-vegas-victory-f1/",
-     "summary": "The race featured 35 lead changes over 50 laps.",
-     "published": "2026-11-22T07:05+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575426.jpg"
     }
    ]
   },
@@ -1459,60 +1459,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "Mansion Relisted At $38.495 Million: Jenner relists estate; nearly $10 million below original price",
-     "link": "https://timesofindia.indiatimes.com/real-estate/news/kylie-jenner-has-put-her-holmby-hills-mansion-bought-for-36-5-million-in-2020-back-on-the-market-at-38-5-million-nearly-10-million-below-the-48-million-she-first-asked-for-it-in-december-2025/articleshow/135952284.cms",
-     "summary": "Kylie Jenner's Holmby Hills mansion has returned to the market at a new asking price of $38.495 million, down from its previous listing of $48 million over a year ago. After purchasing the estate for $36.5 million in…",
-     "published": "2026-11-22T19:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-135952433,imgsize-644748.cms"
+     "title": "Meet the Mississippi mechanic who transformed himself into the Rhinestone Cowboy",
+     "link": "https://timesofindia.indiatimes.com/world/us/a-glen-campbell-song-inspired-mississippi-mechanic-loy-bowlin-to-become-the-rhinestone-cowboy-in-1975-he-spent-years-covering-his-clothes-and-home-in-glittering-decorations-parts-of-which-survive-in-a-wisconsin-museum/articleshow/136025757.cms",
+     "summary": "",
+     "published": "2026-11-23T01:35+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136026187,imgsize-2143844.cms"
     },
     {
-     "title": "The Conservation Fund protects North America's largest gathering site of Pacific walruses",
-     "link": "https://timesofindia.indiatimes.com/science/nature/200000-pacific-walruses-face-survival-crisis-as-conservation-fund-protects-key-habitat-in-alaska/articleshow/136054804.cms",
-     "summary": "As climate change continues to threaten the Pacific walrus population, significant steps have been taken to protect their habitat. A 47,473-acre conservation easement around Point Lay, Alaska, has been established to…",
-     "published": "2026-11-22T19:10+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136054843,imgsize-83386.cms"
+     "title": "12-year-old twins turn playroom into custom toy business with 3D printer",
+     "link": "https://timesofindia.indiatimes.com/world/us/12-year-old-aaron-osirus-borrowed-600-from-his-parents-to-buy-a-3d-printer-and-turned-his-playroom-into-a-custom-toy-business-with-his-twin-brother/articleshow/136024920.cms",
+     "summary": "",
+     "published": "2026-11-23T01:35+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136025057,imgsize-1147724.cms"
     },
     {
-     "title": "A firefly not seen since 1983 has been found again after scientist recognised its amber flashes",
-     "link": "https://timesofindia.indiatimes.com/science/wildlife/rediscovered-firefly-last-seen-in-1983-reappears-in-delaware-and-virginia-reigniting-hope-for-lost-species/articleshow/136054960.cms",
-     "summary": "Exciting news emerged in 2026 when a firefly, thought to have vanished since 1983, was rediscovered in Delaware and Virginia. Its unique amber flash patterns caught the attention of researchers, confirming its survival…",
-     "published": "2026-11-22T19:00+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136055179,imgsize-362546.cms"
+     "title": "NY landlord banned after 16 children suffer lead poisoning in his properties",
+     "link": "https://timesofindia.indiatimes.com/world/us/at-least-16-children-suffered-lead-poisoning-in-homes-owned-by-a-new-york-landlord-after-he-failed-to-obey-a-310000-court-settlement-to-remove-the-hazards-the-state-has-permanently-banned-him-from-renting-properties/articleshow/136067545.cms",
+     "summary": "Due to alarming lead poisoning cases affecting minors, William D'Angelo has been compelled to sell his rental properties. His noncompliance with safety regulations has triggered serious intervention from state…",
+     "published": "2026-11-23T01:35+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136067574,imgsize-995674.cms"
     },
     {
-     "title": "San Francisco mansion resells for $24M after five months",
-     "link": "https://timesofindia.indiatimes.com/real-estate/news/a-san-francisco-mansion-sold-for-21-million-in-june-2026-just-five-months-later-the-same-five-bedroom-presidio-heights-property-has-sold-again-for-24-million-after-a-minor-makeover/articleshow/136034578.cms",
-     "summary": "A five-bedroom mansion in Presidio Heights sold for $24 million after a previous purchase of $21 million. The property was originally listed in June and returned to the market in November at $19.9 million. It was sold…",
-     "published": "2026-11-22T18:27+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136034633,imgsize-129580.cms"
+     "title": "Bangladesh garment sector lost $428 million in 18 days of unrest, finds survey",
+     "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-garment-sector-lost-428-million-in-18-days-of-unrest-finds-survey/articleshow/136086434.cms",
+     "summary": "",
+     "published": "2026-11-23T01:26+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136086433,imgsize-1884596.cms"
     },
     {
-     "title": "A teenage girl found headless in a Northern Ireland bog in 2023 died up to 2,300 years ago, and a mock coroner’s inquest in Belfast has now pieced together her height, diet and how she was struck",
-     "link": "https://timesofindia.indiatimes.com/science/archaeology/unraveling-the-mystery-of-the-ballymacombs-more-woman-a-teens-violent-death-revealed-after-2300-years-in-a-northern-ireland-bog/articleshow/136055031.cms",
-     "summary": "Recent findings of the Ballymacombs More Woman's remains in a Northern Ireland bog are unlocking fascinating details about her life in the Iron Age, circa 343 BCE to 1 BCE. An in-depth analysis reveals she suffered a…",
-     "published": "2026-11-22T18:15+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136055419,imgsize-1507480.cms"
+     "title": "Alaska Supreme Court upholds $3,780 child support after dentist understated income",
+     "link": "https://timesofindia.indiatimes.com/world/us/an-alaska-dentist-reported-36960-in-income-and-was-ordered-to-pay-697-94-a-month-for-four-children-but-judges-found-he-understated-his-earnings-and-raised-support-to-3780-the-states-top-court-upheld-the-increase/articleshow/136067716.cms",
+     "summary": "",
+     "published": "2026-11-23T00:25+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136067733,imgsize-814034.cms"
     },
     {
-     "title": "In 1884, an Erie family built a Queen Anne mansion; 142 years later, the 360,000-pound home has been restored after a seven-hour move and renamed for the businessman who rescued it, with a university now leasing it",
-     "link": "https://timesofindia.indiatimes.com/world/us/in-1884-an-erie-family-built-a-queen-anne-mansion-142-years-later-the-360000-pound-home-has-been-restored-after-a-seven-hour-move-and-renamed-for-the-businessman-who-rescued-it-with-a-university-now-leasing-it/articleshow/136052385.cms",
-     "summary": "The Olds-Norman House, a historic mansion built in 1884, was rescued from the wrecking ball and moved 250 feet in Erie, Pennsylvania. Now called the Thomas B. Hagen House, it’s found a new life thanks to Gannon…",
-     "published": "2026-11-22T17:57+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136053005,imgsize-161684.cms"
+     "title": "Cameraman Wins $44,000: Salameh gives mother GTA 6 winnings; survives 60-minute robbery mission",
+     "link": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-promises-real-money-for-every-dollar-stolen-in-gta-6-as-cameraman-wins-44000-for-his-mother/articleshow/136085487.cms",
+     "summary": "MrBeast challenged his longtime cameraman, Tareq Salameh, to steal as much money as possible in GTA 6 within 60 minutes, promising real cash for every dollar earned. Despite losing his initial winnings after being…",
+     "published": "2026-11-23T00:01+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136085492,imgsize-27634.cms"
     },
     {
-     "title": "Scientists find 156-million-year-old horned reptile fossil in Wyoming sandstone",
-     "link": "https://timesofindia.indiatimes.com/science/archaeology/scientists-uncover-156-million-year-old-reptile-with-horns-from-wyoming-sandstone-a-paleontological-breakthrough/articleshow/136055249.cms",
-     "summary": "A remarkable discovery in Wyoming has unearthed a fossil of a diminutive dinosaur-like creature, dating back 156 million years to the Jurassic era. Advanced imaging techniques uncovered this skeleton entombed in…",
-     "published": "2026-11-22T17:54+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136055330,imgsize-1586061.cms"
+     "title": "Welsh glamping-site owner faces £135,000 legal bill over disputed driveway",
+     "link": "https://timesofindia.indiatimes.com/world/uk/a-missing-letter-on-a-1964-welsh-map-sparked-a-driveway-row-after-a-glampsite-owner-tried-to-stop-neighbours-parking-in-their-own-garden-she-lost-faced-135000-in-costs-and-is-now-appealing/articleshow/136051786.cms",
+     "summary": "Carol Esteban, owner of a glamping site, is grappling with a hefty £135,000 legal bill stemming from a contentious boundary dispute with neighbors Neil and Nadine Gould. The court has granted the Goulds a right of way…",
+     "published": "2026-11-22T23:25+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136051892,imgsize-178704.cms"
     },
     {
-     "title": "Texas inheritance fight over ranches, yacht and millions leads to asset freeze limits",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-texas-inheritance-battle-over-family-ranches-bank-accounts-a-yacht-and-luxury-vehicles-led-to-a-court-freeze-backed-by-a-1-million-bond-appeals-judges-have-narrowed-how-broadly-it-can-apply/articleshow/136038521.cms",
-     "summary": "A high-stakes inheritance battle in Texas involves Lonnie K. Ledbetter Jr.'s significant estate, featuring sprawling ranches and luxury cars. Following the Texas Second Court of Appeals ruling, assets have been…",
-     "published": "2026-11-22T17:52+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136038582,imgsize-1366218.cms"
+     "title": "Watch: Russian warship bursts into flames in suspected Ukraine drone attack in Libya",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-russian-warship-hit-by-suspected-ukrainian-drones-at-benghazi-naval-base-bursts-into-flames/articleshow/136085577.cms",
+     "summary": "A suspected Ukrainian sea drone attack targeted a Russian warship at the Benghazi port, causing significant damage. Reports indicate that two drones successfully struck the corvette Merkury while it was docked to…",
+     "published": "2026-11-22T23:21+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136085591,imgsize-11792616.cms"
     }
    ]
   },
@@ -1524,60 +1524,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "3 killed and 1 wounded in shooting at Ohio baby shower, police say",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375402/3-killed-and-1-wounded-shooting-ohio-baby-shower-police-say",
-     "summary": "Three people were killed and one was injured at an Ohio baby shower during an apparent domestic dispute, authorities said. Officers responded to a shooting on Saturday evening at Pandora’s Magical Events Venue in Parma…",
-     "published": "2026-11-22T19:13+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/3b2a8228-d172-4668-bb35-8bcf54f6d2d2_1405d192.jpg?itok=-VSdQglu&v=1795374778"
+     "title": "Reform of Hong Kong’s sexual offence laws better late than never",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3375230/reform-hong-kongs-sexual-offence-laws-better-late-never",
+     "summary": "After two decades of waiting, Hong Kong’s laws on sexual offences are about to join the 21st century. Wednesday is International Day for the Elimination of Violence against Women. It is fitting that the city government…",
+     "published": "2026-11-23T01:30+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/5630c543-a533-4a8f-8995-bf758a27c5e3_25006f62.jpg?itok=oeSHk72z&v=1795327356"
     },
     {
-     "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
-     "link": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-     "summary": "Russian strikes across the Kyiv region, including on a block of flats that partially collapsed, killed at least six people, Ukraine said on Sunday, warning there could be more victims under the rubble. Russia has been…",
-     "published": "2026-11-22T18:32+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/01448fd7-fa1c-46d6-aada-b196e96d14c1_4f450b1e.jpg?itok=z3Ly2uw_&v=1795372207"
+     "title": "China’s biogas tech turns Argentina’s farm waste into clean energy",
+     "link": "https://www.scmp.com/news/china/science/article/3375368/chinas-biogas-tech-turns-argentinas-farm-waste-clean-energy",
+     "summary": "China holds nearly 70 per cent of the world’s patents for turning farm waste into energy and useful by-products – a research stockpile born from domestic pressure to manage billions of tonnes of crop straw and manure…",
+     "published": "2026-11-23T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/969c8817-784a-4c00-be9a-73749b5ee5f4_4465eb95.jpg?itok=r1xwYW80&v=1795333163"
     },
     {
-     "title": "Major Cop meetings that ended in failure, deadlock or disappointment",
-     "link": "https://www.scmp.com/news/world/europe/article/3375400/major-cop-meetings-ended-failure-deadlock-or-disappointment",
-     "summary": "The failure of Cop31 climate talks in Antalya is the latest in a string of disappointments at major United Nations environmental summits since the first Conference of the Parties, or Cop, in 1995. Various previous…",
-     "published": "2026-11-22T18:04+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/60e910c5-0748-4e8a-96af-99f4ff908366_e33ac8de.jpg?itok=qByWxoIW&v=1795370510"
+     "title": "India’s tech talent meets Singapore’s capital: match made in AI heaven?",
+     "link": "https://www.scmp.com/week-asia/economics/article/3375271/indias-tech-talent-meets-singapores-capital-match-made-ai-heaven",
+     "summary": "India may struggle to catch up with the US and China in the race to develop cutting-edge artificial intelligence, but analysts say its growing partnership with Singapore could offer it another path to becoming a major…",
+     "published": "2026-11-23T01:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/039e82f2-1b11-4af1-8b4d-6927f77f34fb_c7360325.jpg?itok=j3Jg_1JH&v=1795177332"
     },
     {
-     "title": "Hong Kong Election Committee race: ‘healthy’ contest with some upsets",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3375398/hong-kong-election-committee-race-healthy-contest-surprise-upsets",
-     "summary": "Hong Kong’s Election Committee poll on Sunday drew a record turnout of nearly 99 per cent and delivered surprise upsets, with prominent business and professional leaders losing out in tighter races for seats on the body…",
-     "published": "2026-11-22T17:08+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/46c29594-b6b3-4ab0-8d39-c9351672b487_9c1ed40a.jpg?itok=D2KnvES_&v=1795367129"
+     "title": "Tai Po fire: will the right lessons be learned?",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3375385/tai-po-fire-will-right-lessons-be-learned",
+     "summary": "Based on interviews and an independent committee’s scathing report, Connor Mycroft details the key turning points behind the avoidable Wang Fuk Court fire, as part of a series marking one year since the tragedy. As Hong…",
+     "published": "2026-11-23T00:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/4193ff9a-15b0-4aa6-9054-c98ef44bddd0_08942216.jpg?itok=d6OZWtCW&v=1795350055"
     },
     {
-     "title": "French activists demand tear gas suspension after reported changes to menstrual cycles",
-     "link": "https://www.scmp.com/news/world/europe/article/3375397/french-activists-demand-tear-gas-suspension-after-reported-changes-menstrual-cycles",
-     "summary": "French activists and lawmakers are demanding after recent street protests that authorities suspend the use of tear gas to disperse crowds over concerns it has caused menstrual changes and other reproductive health…",
-     "published": "2026-11-22T17:08+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/d3ed449d-9183-482a-8ae5-f90cddd99987_5b097bfd.jpg?itok=cCs8sMLD&v=1795367130"
+     "title": "Amid ‘sharp rise’ in US expansion, will mainland Chinese brands ditch Hong Kong?",
+     "link": "https://www.scmp.com/business/article/3375371/amid-sharp-rise-us-expansion-will-mainland-chinese-brands-ditch-hong-kong",
+     "summary": "Chinese consumer brands are increasingly looking to the United States as a key expansion market, choosing retail spaces in gateway cities in the world’s largest economy, according to property consultancy Cushman &…",
+     "published": "2026-11-22T23:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/aa0cb024-a4bb-468e-a671-d927e8a76c96_1b366da1.jpg?itok=49ki23ZL&v=1795337228"
     },
     {
-     "title": "Trump sees difficulties ahead if Chuck Schumer leads Senate",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375396/trump-sees-difficulties-ahead-if-chuck-schumer-leads-senate",
-     "summary": "US President Donald Trump said on ⁠Sunday that it would be difficult for him to work with Senator Chuck Schumer if the Democrat is elected Senate majority leader. “It is going to be very hard for me to ‌work with Chuck…",
-     "published": "2026-11-22T16:41+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/7cd47430-84bc-45c2-bfb9-e3dac41edc0c_b2476ccf.jpg?itok=QiCXOMdi&v=1795365582"
+     "title": "Russian warship docked at a Libya base hit in sea drone attack",
+     "link": "https://www.scmp.com/news/world/africa/article/3375407/suspected-ukrainian-sea-drones-hit-russian-warship-libyan-naval-base-officials-say",
+     "summary": "A suspected Ukrainian drone strike hit a Russian warship Sunday at a naval base in Libya, officials said, the latest attack in the North African nation linked to the Russia-Ukraine war. The strike at the Benghazi Naval…",
+     "published": "2026-11-22T22:46+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/ad636842-f0b7-4c1e-b881-f3a482531803_3cc621f0.jpg?itok=aFWkUWU6&v=1795396987"
     },
     {
-     "title": "Israel investigates West Bank fires blamed on Israeli settlers",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3375395/israel-investigates-west-bank-fires-blamed-israeli-settlers",
-     "summary": "Israeli authorities said on Sunday that they opened an investigation after Palestinian cars and properties were torched in four occupied West Bank villages, in attacks a local activist said were carried out by Israeli…",
-     "published": "2026-11-22T16:25+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/181df84e-2338-4914-b5bc-6d000abc1eda_02e55f4d.jpg?itok=m0lY2B0N&v=1795364553"
+     "title": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
+     "link": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+     "summary": "Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World…",
+     "published": "2026-11-22T22:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/b7338423-60fd-411b-8c72-918cac089ac2_072547bd.jpg?itok=OKI8YpUm&v=1795167423"
     },
     {
-     "title": "Man arrested in Hong Kong over dog found hanging from tree on Tai Po trail",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375394/man-arrested-hong-kong-over-dog-found-hanging-tree-tai-po-trail",
-     "summary": "A man has been arrested in Hong Kong in connection with a mongrel found hanging from a tree on the Wilson Trail in Tai Po, the South China Morning Post has learned. A source said police arrested a 54-year-old man on…",
-     "published": "2026-11-22T16:03+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/6c467516-255c-4c87-93e4-8b024de7ea20_b0dff66a.jpg?itok=K3nyRTQ5&v=1795360668"
+     "title": "Russia starts towing its ship hit by drones in Baltic, Finland says",
+     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3375406/russia-starts-towing-its-ship-hit-drones-baltic-finland-says",
+     "summary": "A Russian rescue vessel on Sunday began towing a Russian-owned cargo ship that was struck by drones in the Baltic Sea out of Finnish waters after two days of firefighting, Finland’s coastguard said. The Finnish military…",
+     "published": "2026-11-22T21:32+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/23/1573f6be-b5c1-4e86-89c7-c9952256d723_3ae63899.jpg?itok=caey27pe&v=1795382837"
     }
    ]
   },
@@ -1589,60 +1589,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Experts say nostalgia for traditional industries resonates with voters",
-     "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574",
-     "summary": "The Victorian election has prompted discussion about the role of traditional industries like coal and timber — and experts say it resonates with voters.",
-     "published": "2026-11-22T19:30+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/4322bd15b0458f4890d6c519c92ef450?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=281&width=862&height=485"
+     "title": "Sam Wood's new lawyer says he wants to propose justice mediation",
+     "link": "https://www.abc.net.au/news/2026-11-23/qld-sam-wood-domestic-violence-court-mention/107415574",
+     "summary": "Former Bachelor Sam Wood will remain behind bars, after already spending seven weeks in custody, as his new legal team uses the brief of evidence to prepare for the next court mention.",
+     "published": "2026-11-23T00:47+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/a187af6557f95c6c67f43b1e4aa3f822?impolicy=wcms_crop_resize&cropH=419&cropW=745&xPos=3&yPos=214&width=862&height=485"
     },
     {
-     "title": "Concern about data centres go from 'zero to 100' ahead of state election",
-     "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574",
-     "summary": "Community backlash against the explosion of data centre applications in Victoria has become a hot election issue, with locals saying they're being ignored.",
-     "published": "2026-11-22T19:19+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ce767d4189e7ec32bfa6c101fafa878b?impolicy=wcms_crop_resize&cropH=1606&cropW=2855&xPos=0&yPos=0&width=862&height=485"
+     "title": "Drone strikes kill four in Khartoum and damage UN building",
+     "link": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+     "summary": "Drone attacks on Sudan's capital, Khartoum, have killed at least four civilians and injured at least nine others, according to local reports.",
+     "published": "2026-11-23T00:46+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/bcfa75ec8478259f5ca1bd1aa5db6acb?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
     },
     {
-     "title": "Teenagers charged after fatal stabbing in Melbourne's CBD",
-     "link": "https://www.abc.net.au/news/2026-11-23/teenagers-charged-fatal-stabbing-in-melbourne-cbd/107415250",
-     "summary": "A 21-year-old man died in hospital after the incident in Latrobe Street in the city on Saturday night.",
-     "published": "2026-11-22T19:03+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/8bc931e640a5f89501ba2e3cb399b626?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Wet season warning of deadly mosquito virus in remote WA",
+     "link": "https://www.abc.net.au/news/2026-11-23/aboriginal-children-most-vulnerable-to-mosquito-viruses/107382920",
+     "summary": "Aboriginal children living in remote communities in Western Australia's far north are most vulnerable to developing potentially deadly mosquito-borne viruses.",
+     "published": "2026-11-23T00:22+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/550335bb98fcab21ff66cf4a3db8c019?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "In F1's 'most chaotic race ever', Piastri finally able to find his mojo",
-     "link": "https://www.abc.net.au/news/2026-11-23/oscar-piastri-third-f1-las-vegas-grand-prix/106998752",
-     "summary": "Oscar Piastri achieved a confidence-boosting third in Las Vegas, and will finish a tough 2026 campaign at two tracks where he has enjoyed success.",
-     "published": "2026-11-22T18:49+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/184547d3f3988736c6bee08dbae0839e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "State funeral for 'life force' of Australian music Molly Meldrum",
+     "link": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-dead-tributes-aus-music-champion/107415810",
+     "summary": "Tributes are rolling in for the late Countdown presenter, who showcased Australian music to millions of viewers in the 1970s and 80s.",
+     "published": "2026-11-23T00:19+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/78e0b6a3c68293766d7da4007fdb4ed7?impolicy=wcms_crop_resize&cropH=1125&cropW=1998&xPos=1&yPos=0&width=862&height=485"
     },
     {
-     "title": "Elders criticise 'laughable and insulting' ACT cultural awareness training",
-     "link": "https://www.abc.net.au/news/2026-11-23/ngunnawal-elders-criticise-cultural-awareness-training-act/107412972",
-     "summary": "Ngunnawal elders say cultural awareness training available to MLAs and their staff is \"laughable and insulting\" and will do little to address disadvantage experienced by some First Nations people in the ACT.",
-     "published": "2026-11-22T18:48+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ca46b5dab1d3b9f8b6f36712d0f48fd7?impolicy=wcms_crop_resize&cropH=2113&cropW=3756&xPos=0&yPos=50&width=862&height=485"
+     "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
+     "link": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
+     "summary": "Countries have rejected a climate deal that ignores fossil fuels, but experts say that reflects anger rather than indifference.",
+     "published": "2026-11-23T00:18+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/9df8abe6a8c33fbf9d2ab89d07a91fb7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=517&width=862&height=485"
     },
     {
-     "title": "Australia's neighbour claims 'China, Russia' looking at oil and gas project",
-     "link": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
-     "summary": "Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will \"bankrupt\" the country. Is oil and gas…",
-     "published": "2026-11-22T18:47+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/230843927b4adbb8b4ad16c7aa90753c?impolicy=wcms_crop_resize&cropH=2619&cropW=4656&xPos=0&yPos=243&width=862&height=485"
+     "title": "SA Health denies using blackout as smokescreen for apology and backflip",
+     "link": "https://www.abc.net.au/news/2026-11-23/sa-health-denies-using-blackout-as-smokescreen/107415760",
+     "summary": "SA Health has denied that two potentially embarrassing press releases were strategically published in a manner intended to reduce scrutiny, at a time when the state's news cycle was being dominated by a blackout crisis.",
+     "published": "2026-11-22T23:53+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/597580dc52d8285d19650fdd76c6d1d3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "How Prespakis and Rowbottom are leading new era of AFLW stars",
-     "link": "https://www.abc.net.au/news/2026-11-23/charlie-rowbottom-and-georgie-prespakis-aflw-awards/107402750",
-     "summary": "Charlie Rowbottom and Georgie Prespakis are deemed the genuine frontrunners to win the AFLW Best and Fairest Award, a sign of a changing era for the league.",
-     "published": "2026-11-22T18:45+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/8099da8109317b0ecc230764b5ecd100?impolicy=wcms_crop_resize&cropH=489&cropW=870&xPos=0&yPos=0&width=862&height=485"
+     "title": "PBS medicines to cost no more than $25 until end of decade",
+     "link": "https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508",
+     "summary": "With household budgets under pressure, the federal government has again turned to cheaper medicines to try to cushion against rising costs.",
+     "published": "2026-11-22T23:43+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/02a824c81aefedabe56defab740352b6?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Struggling to afford your mortgage? You are not alone",
-     "link": "https://www.abc.net.au/news/2026-11-23/can-not-pay-your-mortgage-what-to-do/107413984",
-     "summary": "Knowing your options when it comes to managing your mortgage can be a great stress reliever, even if you never need to use them.",
-     "published": "2026-11-22T18:45+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/56f2cb2f756cabd4a79dbffbc6f2964d?impolicy=wcms_crop_resize&cropH=2340&cropW=4160&xPos=0&yPos=780&width=862&height=485"
+     "title": "Live: Community safety in election focus after violent weekend in Melbourne",
+     "link": "https://www.abc.net.au/news/2026-11-23/victoria-election-live-updates-labor-lib-campaign/107415730",
+     "summary": "Labor and the Coalition's law and order policies will likely be under scrutiny today, following three separate stabbing attacks in Melbourne over the weekend. Follow live in our Victorian election blog.",
+     "published": "2026-11-22T23:39+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/c6dd40af9236f1420653469f67d802ff?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     }
    ]
   },
@@ -1654,59 +1654,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "On China, is Trump bucking the US national security establishment?",
-     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-     "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
-     "published": "2026-11-22T19:30+00:00",
+     "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+     "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+     "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+     "published": "2026-11-23T00:39+00:00",
      "image": ""
     },
     {
-     "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-     "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-     "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-     "published": "2026-11-22T19:18+00:00",
+     "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+     "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+     "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+     "published": "2026-11-23T00:18+00:00",
      "image": ""
     },
     {
-     "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-     "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-     "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
-     "published": "2026-11-22T19:10+00:00",
+     "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+     "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+     "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+     "published": "2026-11-23T00:03+00:00",
      "image": ""
     },
     {
-     "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-     "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-     "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
-     "published": "2026-11-22T18:44+00:00",
+     "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+     "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+     "published": "2026-11-22T23:59+00:00",
      "image": ""
     },
     {
-     "title": "Civilians killed in RSF drone strikes in Sudan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-     "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
-     "published": "2026-11-22T18:12+00:00",
+     "title": "Mystery of the red stream in Turkiye",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+     "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+     "published": "2026-11-22T23:57+00:00",
      "image": ""
     },
     {
-     "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-     "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
-     "published": "2026-11-22T18:11+00:00",
+     "title": "Lion on the loose in Turkiye sparks fear among residents",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+     "summary": "",
+     "published": "2026-11-22T23:40+00:00",
      "image": ""
     },
     {
-     "title": "UN climate talks collapse without a deal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
-     "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
-     "published": "2026-11-22T18:04+00:00",
+     "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+     "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+     "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+     "published": "2026-11-22T23:22+00:00",
      "image": ""
     },
     {
-     "title": "Cox’s Bazar: Rohingya Life in Exile",
-     "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
-     "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
-     "published": "2026-11-22T18:02+00:00",
+     "title": "Trump to host private dinner for largest owners of his meme coin",
+     "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+     "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+     "published": "2026-11-22T22:37+00:00",
      "image": ""
     }
    ]
