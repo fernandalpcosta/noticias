@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:26+00:00",
+ "updated": "2026-11-28T07:46+00:00",
  "regions": [
   {
    "id": "mundo",
@@ -32,28 +32,28 @@
  ],
  "trending": [
   {
-   "topic": "Rússia",
-   "sources": 6,
+   "topic": "China",
+   "sources": 5,
    "examples": [
     {
-     "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
-     "link": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
-     "source": "France 24"
+     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+     "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
-     "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
-     "source": "Le Monde"
+     "title": "Trump, dismissing Chinese espionage, adds to national security concerns",
+     "link": "https://www.latimes.com/politics/story/2026-11-25/trump-dismissing-chinese-espionage-adds-to-counterintelligence-concerns",
+     "source": "Los Angeles Times"
     },
     {
-     "title": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
-     "link": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
-     "source": "Euronews"
+     "title": "China pressiona Colômbia após visita de delegação de deputados a Taiwan",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/china-pressiona-colombia-apos-visita-de-delegacao-de-deputados-a-taiwan.shtml",
+     "source": "Folha — Mundo"
     },
     {
-     "title": "Why Russia Is Erasing Stalin’s Crimes",
-     "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
-     "source": "The New York Times"
+     "title": "Seoul monitoring signs of possible visit to China by North Korea’s Kim",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/asia-pacific/politics/seoul-north-korea-kim-visit-china/",
+     "source": "The Japan Times"
     }
    ]
   },
@@ -62,30 +62,56 @@
    "sources": 5,
    "examples": [
     {
-     "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-     "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-     "source": "The Guardian"
-    },
-    {
      "title": "US disables ship in Gulf of Oman under Iran blockade",
      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle"
     },
     {
-     "title": "Principal plataforma de computação em nuvem da Força Aérea dos EUA sofreu ataque hacker, diz agência",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml",
-     "source": "Folha de S.Paulo"
+     "title": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+     "link": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+     "source": "France 24"
     },
     {
-     "title": "Tempestade e ventania provocam inundações, atrasam voos e deixam quase 1 milhão sem luz nos EUA",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/tempestade-e-ventania-provocam-inundacoes-atrasam-voos-e-deixam-quase-1-milhao-sem-luz-nos-eua.shtml",
+     "title": "US military fires at a ship that violated blockade of Iranian ports",
+     "link": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+     "source": "Euronews"
+    },
+    {
+     "title": "Around six drones swarmed US airbase in Britain, none recovered: Report",
+     "link": "https://timesofindia.indiatimes.com/world/uk/around-six-drones-swarmed-us-airbase-in-britain-none-recovered-report/articleshow/136240362.cms",
+     "source": "Times of India"
+    }
+   ]
+  },
+  {
+   "topic": "Rússia",
+   "sources": 5,
+   "examples": [
+    {
+     "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+     "link": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+     "source": "France 24"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit, dont une centaine se dirigeant vers Moscou",
+     "link": "https://www.lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-des-centaines-de-drones-ukrainiens-lances-vers-moscou_6814183_3210.html",
+     "source": "Le Monde"
+    },
+    {
+     "title": "Russia charges air force deputy chief with taking large bribe",
+     "link": "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
+     "source": "Euronews"
+    },
+    {
+     "title": "Com ofertas de até R$ 500 mil, brasileiros relatam como caíram em golpe para lutar pela Rússia",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-ofertas-de-ate-r-500-mil-brasileiros-relatam-como-cairam-em-golpe-para-lutar-pela-russia.shtml",
      "source": "Folha — Mundo"
     }
    ]
   },
   {
    "topic": "Espanha",
-   "sources": 5,
+   "sources": 4,
    "examples": [
     {
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
@@ -103,82 +129,61 @@
      "source": "France 24"
     },
     {
-     "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
-     "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
-     "source": "The New York Times"
+     "title": "El tiempo en España este fin de semana: máximas de 10ºC y precipitaciones en el norte para despedir noviembre",
+     "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-maximas-10oc-precipitaciones-norte-despedir-noviembre-pm_1_13699430.html",
+     "source": "elDiario.es"
     }
    ]
   },
   {
-   "topic": "França",
-   "sources": 5,
-   "examples": [
-    {
-     "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-     "source": "NPR"
-    },
-    {
-     "title": "France seeks German man in Channel migrant boat probe",
-     "link": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
-    },
-    {
-     "title": "Dans « L’Ecole du Sud », l’historien Onur Erdur enquête sur les expériences coloniales des intellectuels de la French Theory",
-     "link": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html",
-     "source": "Le Monde"
-    },
-    {
-     "title": "‘The Moon is Watching’ stages an absurd erotica in the French countryside",
-     "link": "https://www.japantimes.co.jp/culture/2026/11/28/film/the-moon-is-watching/",
-     "source": "The Japan Times"
-    }
-   ]
-  },
-  {
-   "topic": "China",
+   "topic": "Trump",
    "sources": 4,
    "examples": [
     {
-     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-     "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News"
+     "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+     "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+     "source": "NPR"
     },
     {
-     "title": "Trump, dismissing Chinese espionage, adds to national security concerns",
-     "link": "https://www.latimes.com/politics/story/2026-11-25/trump-dismissing-chinese-espionage-adds-to-counterintelligence-concerns",
+     "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules",
+     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-11-25/trump-fcc-illegally-sought-to-punish-abc-in-free-speech-case-judge-rules",
      "source": "Los Angeles Times"
     },
     {
-     "title": "Xi Jinping amplia expurgo no Partido Comunista e derruba dirigente cotado para topo do poder na China",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/xi-jinping-amplia-expurgo-no-partido-comunista-e-derruba-dirigente-cotado-para-topo-do-poder-na-china.shtml",
-     "source": "Folha — Mundo"
-    },
-    {
-     "title": "Colombian Congress chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
-     "source": "South China Morning Post"
+     "title": "Trump’s tariffs have become America’s new normal",
+     "link": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ]
   },
   {
-   "topic": "Amplio",
-   "sources": 3,
+   "topic": "Índia",
+   "sources": 4,
    "examples": [
     {
-     "title": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
-     "source": "El País"
+     "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+     "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News"
     },
     {
-     "title": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
-     "link": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
-     "source": "La Vanguardia"
+     "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+     "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
     },
     {
-     "title": "El Frente Amplio apela a la \"remontada\" en su cierre de campaña: “La historia la escribe siempre la gente\"",
-     "link": "https://www.eldiario.es/politica/frente-amplio-cierra-campana-son-si-ada-ada-ada-ada-remontada_1_13700638.html",
-     "source": "elDiario.es"
+     "title": "India finds unsafe Bisleri sample due to bacteria amid bottled water crackdown",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3376119/india-finds-unsafe-bisleri-sample-due-bacteria-amid-bottled-water-crackdown",
+     "source": "South China Morning Post"
+    },
+    {
+     "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+     "link": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ]
   },
@@ -192,119 +197,119 @@
      "source": "France 24"
     },
     {
-     "title": "Black Friday 2026, en directo: las mejores ofertas de Amazon y otras tiendas, minuto a minuto",
-     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-en-directo.html",
+     "title": "La máquina de presoterapia para piernas cansadas que arrasa en Amazon tiene un 32% de descuento por Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-maquina-presoterapia.html",
      "source": "El País"
     },
     {
-     "title": "Antes de comprar tu Xiaomi en el Black Friday: lo que debes mirar más allá del descuento",
-     "link": "https://www.lavanguardia.com/comprar/black-friday/20261123/11691080/xiaomi-mejores-ofertas-black-friday-mkt-xiao.html",
+     "title": "10 electrodomésticos del Black Friday de El Corte Inglés entre el 50% y el 70% de descuento",
+     "link": "https://www.lavanguardia.com/comprar/black-friday/20261127/11693062/black-friday-corte-ingles-electrodomesticos-ofertas-mkt-eci.html",
      "source": "La Vanguardia"
     }
    ]
   },
   {
-   "topic": "Canada",
+   "topic": "Espriella",
    "sources": 3,
    "examples": [
     {
-     "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
-     "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
+     "title": "Cabal exige pruebas sobre supuesto encuentro en EE. UU. y niega críticas contra De La Espriella",
+     "link": "https://www.infobae.com/colombia/2026/11/28/cabal-exige-pruebas-sobre-supuesto-encuentro-en-ee-uu-y-niega-criticas-contra-de-la-espriella/",
+     "source": "Infobae"
     },
     {
-     "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
-     "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+     "title": "Onda de ataques na Colômbia evidencia propaganda a la Bukele de Espriella",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/onda-de-ataques-na-colombia-evidencia-propaganda-a-la-bukele-de-espriella.shtml",
+     "source": "Folha de S.Paulo"
+    },
+    {
+     "title": "Onda de ataques na Colômbia evidencia propaganda a la Bukele de Espriella",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/onda-de-ataques-na-colombia-evidencia-propaganda-a-la-bukele-de-espriella.shtml",
+     "source": "Folha — Mundo"
+    }
+   ]
+  },
+  {
+   "topic": "France",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+     "link": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+     "source": "The Guardian"
+    },
+    {
+     "title": "S&P revises France's outlook from 'stable' to 'negative'",
+     "link": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+     "source": "France 24"
+    },
+    {
+     "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
      "source": "The New York Times"
-    },
-    {
-     "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
-     "source": "South China Morning Post"
     }
    ]
   },
   {
-   "topic": "Frente",
+   "topic": "Galicia",
    "sources": 3,
    "examples": [
     {
-     "title": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
+     "title": "¿Qué tiempo hará el día de las elecciones generales del 29-N? El paraguas, solo en Galicia y Cantábrico",
+     "link": "https://elpais.com/el-tiempo/2026-11-28/que-tiempo-hara-el-dia-de-las-elecciones-generales-del-29-n-el-paraguas-solo-en-galicia-y-cantabrico.html",
      "source": "El País"
     },
     {
-     "title": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
-     "link": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
+     "title": "Aumento generalizo de las temperaturas con lluvias en Galicia, El Hierro y La Palma",
+     "link": "https://www.lavanguardia.com/natural/20261128/11695644/aumento-generalizo-temperaturas-lluvias-galicia-hierro-palma.html",
      "source": "La Vanguardia"
     },
     {
-     "title": "El Frente Amplio apela a la \"remontada\" en su cierre de campaña: “La historia la escribe siempre la gente\"",
-     "link": "https://www.eldiario.es/politica/frente-amplio-cierra-campana-son-si-ada-ada-ada-ada-remontada_1_13700638.html",
+     "title": "Galicia pone a prueba la resistencia de la marca Feijóo con un BNG al alza",
+     "link": "https://www.eldiario.es/galicia/galicia-pone-prueba-resistencia-marca-feijoo-bng-alza_1_13696927.html",
      "source": "elDiario.es"
     }
    ]
   },
   {
-   "topic": "Irã",
+   "topic": "Gaza",
    "sources": 3,
    "examples": [
     {
-     "title": "US disables ship in Gulf of Oman under Iran blockade",
-     "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle"
+     "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+     "link": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+     "source": "The Guardian"
     },
     {
-     "title": "Relatives say jailed Iranian twins beaten and tortured, one faces execution",
-     "link": "https://www.euronews.com/2026/11/27/relatives-say-jailed-iranian-twins-beaten-and-tortured-one-faces-execution",
-     "source": "Euronews"
-    },
-    {
-     "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-     "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ]
-  },
-  {
-   "topic": "Police",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "Police Link Release of Substance at Don Toliver Concert to Robbery Attempts",
-     "link": "https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Police link substance release at concert to robbery attempts",
-     "link": "https://www.abc.net.au/news/2026-11-28/don-toliver-manchester-concert-substance-robbery-attempt-police/107437726",
-     "source": "ABC News"
-    },
-    {
-     "title": "Nigeria: Widow Demands Prosecution of Police Officers Linked to Dead Husband's Disappearance",
-     "link": "https://allafrica.com/stories/202611270595.html",
-     "source": "AllAfrica"
-    }
-   ]
-  },
-  {
-   "topic": "Putin",
-   "sources": 3,
-   "examples": [
-    {
-     "title": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
-     "link": "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says",
-     "source": "Euronews"
-    },
-    {
-     "title": "Zelenski compara fala de Trump sobre Putin a elogio a Hitler na Segunda Guerra",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/zelenski-compara-fala-de-trump-sobre-putin-a-elogio-a-hitler-na-segunda-guerra.shtml",
+     "title": "Ataque israelense mata dois vigias ligado ao Médicos Sem Fronteiras em Gaza",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ataque-israelense-mata-dois-vigias-ligado-ao-medicos-sem-fronteiras-em-gaza.shtml",
      "source": "Folha — Mundo"
     },
     {
-     "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-     "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Israeli air strike on Doctors Without Borders Gaza office kills two",
+     "link": "https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266",
+     "source": "ABC News"
+    }
+   ]
+  },
+  {
+   "topic": "Spain",
+   "sources": 3,
+   "examples": [
+    {
+     "title": "Spain's Sanchez makes final appeal to voters before election",
+     "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle"
+    },
+    {
+     "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+     "source": "France 24"
+    },
+    {
+     "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+     "source": "The New York Times"
     }
    ]
   }
@@ -319,6 +324,48 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "items": [
     {
+     "title": "Eight killed in Peruvian military helicopter crash",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+     "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+     "published": "2026-11-28T04:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
+    },
+    {
+     "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+     "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+     "published": "2026-11-28T04:13+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
+    },
+    {
+     "title": "Nigeria's 'ultimate hard man' who become an online meme",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+     "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+     "published": "2026-11-28T01:20+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+     "published": "2026-11-28T00:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+    },
+    {
+     "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+     "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+     "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+     "published": "2026-11-28T00:50+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg"
+    },
+    {
+     "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+     "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+     "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+     "published": "2026-11-28T00:05+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
@@ -326,53 +373,11 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
     },
     {
-     "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-     "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-     "published": "2026-11-27T22:03+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
-    },
-    {
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
      "published": "2026-11-27T21:55+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-     "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-     "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-     "published": "2026-11-27T20:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-     "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-     "published": "2026-11-27T20:06+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-     "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-     "published": "2026-11-27T18:42+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-     "published": "2026-11-27T18:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-     "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-     "published": "2026-11-27T17:19+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
     }
    ]
   },
@@ -384,60 +389,60 @@
    "url": "https://www.theguardian.com/world/rss",
    "items": [
     {
-     "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
-     "summary": "Watchdog had found ‘repeated’ misconduct by veteran’s daughter and her husband in running the foundation A charity set up by the family of the pandemic fundraiser Captain Sir Tom Moore has applied to be struck off. The…",
-     "published": "2026-11-27T23:02+00:00",
-     "image": "https://i.guim.co.uk/img/media/3c6aab368545820aa749338a8b5e89de937a4299/234_538_1785_1428/master/1785.jpg?width=140&quality=85&auto=format&fit=max&s=99a7e2e1cc28581ebd9634c20019cd7d"
+     "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+     "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victoria election live results: votes tracker, map and seat counts Victorian…",
+     "published": "2026-11-28T07:35+00:00",
+     "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
     {
-     "title": "Thousands still without power after storms that snarled Thanksgiving travel",
-     "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
-     "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies cleared along the US eastern seaboard on Friday, and power was being restored to hundreds of thousands of…",
-     "published": "2026-11-27T22:14+00:00",
-     "image": "https://i.guim.co.uk/img/media/13899cb7af4121d5aac3418608943d1e81f34df4/95_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c632060565bcd372c1823ea711eb5290"
+     "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+     "link": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+     "summary": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether Some psychiatric patients are refusing treatment over the NHS adding intimate details from…",
+     "published": "2026-11-28T06:47+00:00",
+     "image": "https://i.guim.co.uk/img/media/004c94c765569b58a3c94c48e641df8c020432a6/605_0_6030_4827/master/6030.jpg?width=140&quality=85&auto=format&fit=max&s=a5bc46a68538e509d395d49c01386282"
     },
     {
-     "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
-     "summary": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy On the day the Princess of Wales undertook the Three Peaks challenge, there was rain, hill fog and…",
-     "published": "2026-11-27T22:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/a11a20908b66f136ae3b496074b25217cbc0b583/180_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=24a9dd38ea8ef219f57eb0637bd1fe66"
+     "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+     "link": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+     "summary": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’ A Palestinian man who worked for the EU in Gaza has told of a “devastating” struggle to…",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/fa5a5cac1eb2fc8328bff1d0190f9de2e0928a91/0_79_502_402/master/502.jpg?width=140&quality=85&auto=format&fit=max&s=698f8150cca5ae8ef4c34c52a8009b92"
     },
     {
-     "title": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
-     "summary": "CCTV shows unidentified woman taking scissors to Middlesbrough home’s festive display An elderly woman has been accused of defying the season of goodwill after appearing to cut down her neighbour’s Christmas lights…",
-     "published": "2026-11-27T21:31+00:00",
-     "image": "https://i.guim.co.uk/img/media/31002f7557ad88f90058fb5bc878bbf4f6900edd/4_0_844_675/master/844.jpg?width=140&quality=85&auto=format&fit=max&s=b0306ba3651f2a7f4bc12b3e7e67701b"
+     "title": "Stunted sprouts: heatwaves and drought take toll on festive vegetable",
+     "link": "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable",
+     "summary": "The Christmas staple is smaller this year after a hot, dry summer hit the water-loving – but versatile – brassica They are a key ingredient in many Christmas dinners, but brussels sprouts appearing on diners’ plates…",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/60e5c88dc6e8b92522341cef05d9996c4212e6a8/0_309_2142_1714/master/2142.jpg?width=140&quality=85&auto=format&fit=max&s=6154beea9d0f8bcb2042e6bf4edaace7"
     },
     {
-     "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-     "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-     "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to…",
-     "published": "2026-11-27T21:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f9e753676a68320c2d147c2a5561d6a1"
+     "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+     "link": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+     "summary": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him They are France’s richest family, leading the world’s biggest luxury goods empire, dressed…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/c46ffd41bf96b580a798224da7f19715e474c84a/929_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9a4897c07361442e44e44358473596ab"
     },
     {
-     "title": "Sales for Biden memoir fall far short of books by Obama and Clinton",
-     "link": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
-     "summary": "Promise Me, America, which has lukewarm reviews from critics, sold about 21,000 copies during its first week on sale Joe Biden’s memoir Promise Me, America debuted with modest sales and lackluster reviews, selling about…",
-     "published": "2026-11-27T20:13+00:00",
-     "image": "https://i.guim.co.uk/img/media/003740be3a0434261a2d2a66fd6076cbdc141ac0/365_0_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=6baca68ed99fb648d2435cb43530876a"
+     "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+     "link": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+     "summary": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death One evening, after weeks spent counting Russia’s war dead, I began looking for names I might…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/35f6dc5ffb84875bd5e42691da3702fd3993ebca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ea71b9e708edede6642faa652f99da5d"
     },
     {
-     "title": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
-     "summary": "Former England Test cricketer was diagnosed with anxiety and depression before he took his own life in 2024 The wife of Graham Thorpe, the former England cricketer who took his own life, has started legal proceedings…",
-     "published": "2026-11-27T19:52+00:00",
-     "image": "https://i.guim.co.uk/img/media/65003307b1e98b9442467736c41f4291260ab315/0_0_4565_3652/master/4565.jpg?width=140&quality=85&auto=format&fit=max&s=313575a180faed4a20df2b5a7c4ec7f3"
+     "title": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+     "summary": "Severe weather and flood watch warnings are in place as a storm band moves from central Queensland through NSW to Victoria and Tasmania Get our breaking news email , free app or daily news podcast The final weekend of…",
+     "published": "2026-11-28T02:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/b1306f70888bea8d529c6649bb994e6d34935c5f/3131_1455_4726_3781/master/4726.jpg?width=140&quality=85&auto=format&fit=max&s=1a14b657d58af11c222723294f42b72e"
     },
     {
-     "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-     "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-     "summary": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties Tell us: have you been affected by the DWP ‘cyber incident’ Benefits and pensions…",
-     "published": "2026-11-27T19:45+00:00",
-     "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c"
+     "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+     "link": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+     "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw…",
+     "published": "2026-11-27T23:43+00:00",
+     "image": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc"
     }
    ]
   },
@@ -514,6 +519,27 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "items": [
     {
+     "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+     "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-rdf",
+     "summary": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
+     "published": "2026-11-28T06:12+00:00",
+     "image": ""
+    },
+    {
+     "title": "Polls open in Taiwan's closely watched local elections",
+     "link": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+     "summary": "Polls have opened for local elections in Taiwan. While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing has repeatedly weighed in.",
+     "published": "2026-11-28T02:37+00:00",
+     "image": ""
+    },
+    {
+     "title": "Spain's Sanchez makes final appeal to voters before election",
+     "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+     "summary": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eight-year leftist leadership of Spain.",
+     "published": "2026-11-28T00:51+00:00",
+     "image": ""
+    },
+    {
      "title": "US disables ship in Gulf of Oman under Iran blockade",
      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
      "summary": "The United States said it was continuing \"to strictly enforce the blockade\" of Iran's ports. Meanwhile, Kuwait summoned Iran's ambassador over a strike that killed two Italian technicians.",
@@ -547,27 +573,6 @@
      "summary": "A German businessman is accused of supplying equipment to smugglers organizing migrant crossings from France to the United Kingdom. However, he can't face formal charges until he is extradited to France.",
      "published": "2026-11-27T16:53+00:00",
      "image": ""
-    },
-    {
-     "title": "Divisions deepen between EU member states after tense budget summit",
-     "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
-     "summary": "An EU leaders summit on the bloc's seven-year budget fell apart amid divisions over how to fund Ukraine. The budget proposal also includes a 3% tax on US tech companies, in a bid for the EU to generate additional funds.",
-     "published": "2026-11-27T16:51+00:00",
-     "image": ""
-    },
-    {
-     "title": "Kanal-Centre Pompidou, Brussels' most anticipated new art museum, opens its doors",
-     "link": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-art-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
-     "summary": "A major addition to Europe's cultural scene: Kanal-Centre Pompidou, the new contemporary art museum in a former Citroen factory complex, is celebrating its opening with a free, nonstop weekend program.",
-     "published": "2026-11-27T16:15+00:00",
-     "image": ""
-    },
-    {
-     "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
-     "link": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf",
-     "summary": "After ousting strongman Aleksandar Vucic, Serbia's student movement has now nominated academic Radomir Saicic for the upcoming presidential vote. Saicic accused the \"outgoing regime\" of trying to collapse the state.",
-     "published": "2026-11-27T16:09+00:00",
-     "image": ""
     }
    ]
   },
@@ -578,6 +583,27 @@
    "region": "europa",
    "url": "https://www.france24.com/en/rss",
    "items": [
+    {
+     "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+     "link": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+     "summary": "Russia shot down 1,200 drones targeting Moscow overnight, Russian authorities said Saturday. Both Russia and Ukraine have stepped up their attacks using projectiles in recent months, with Ukraine confirming on Friday it…",
+     "published": "2026-11-28T07:12+00:00",
+     "image": "https://s.france24.com/media/display/2653445a-eafa-11f1-a4ee-174dac1c1bf0/w:1024/p:16x9/AP26327531590182.jpg"
+    },
+    {
+     "title": "Taiwan holds local elections under Beijing's watchful gaze",
+     "link": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+     "summary": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the island-nation’s electoral system. Chinese…",
+     "published": "2026-11-28T06:25+00:00",
+     "image": "https://s.france24.com/media/display/459f0d90-eaf4-11f1-946c-f9cf020caef6/w:1024/p:16x9/AP26332173544113.jpg"
+    },
+    {
+     "title": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+     "link": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+     "summary": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system had been accessed, but insists its…",
+     "published": "2026-11-28T06:04+00:00",
+     "image": "https://s.france24.com/media/display/d18578fc-eaf0-11f1-9279-f9cf020caef6/w:1024/p:16x9/2026-11-27T110013Z-410933699-RC2K8OA5ONF8-RTRMADP-3-USA-PENTAGON-AIR-FORCE-CLOUD.jpg"
+    },
     {
      "title": "S&P revises France's outlook from 'stable' to 'negative'",
      "link": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
@@ -612,27 +638,6 @@
      "summary": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the…",
      "published": "2026-11-27T20:14+00:00",
      "image": "https://s.france24.com/media/display/4df96bdc-ea9c-11f1-a0ee-1991d4929b54/w:1024/p:16x9/6c11ec77-814a-4283-a56b-ff1aabd888a2.jpg"
-    },
-    {
-     "title": "The AI revolution: Will I lose my job?",
-     "link": "https://www.france24.com/en/tv-shows/the-51/20261127-the-ai-revolution-will-i-lose-my-job",
-     "summary": "Have you heard of FOBO? It stands for fear of being obsolete. So as AI spreads, is it going to impact women in the workforce more than men? And are we right to be fearful of becoming obsolete? The International Labour…",
-     "published": "2026-11-27T18:39+00:00",
-     "image": "https://s.france24.com/media/display/7510a19a-ea8d-11f1-b1c8-174dac1c1bf0/w:1024/p:16x9/STILLAI51-4.png"
-    },
-    {
-     "title": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
-     "link": "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
-     "summary": "After eight years of socialist-led government, Spain is at a crossroads. Can Pedro Sánchez pull off another electoral comeback, or will the conservative Partido Popular make way for the far right into national…",
-     "published": "2026-11-27T18:31+00:00",
-     "image": "https://s.france24.com/media/display/6a2a899c-ea8f-11f1-8139-1991d4929b54/w:1024/p:16x9/EN-20261126-151743-152620-CS-01.jpg"
-    },
-    {
-     "title": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
-     "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
-     "summary": "Amid war with the US and Israel, Iranian protesters continue to face death sentences following what Amnesty International describes as grossly unfair, torture-tainted trials. “The situation has changed from bad to…",
-     "published": "2026-11-27T18:18+00:00",
-     "image": "https://s.france24.com/media/display/08ee643c-ea8a-11f1-adde-174dac1c1bf0/w:1024/p:16x9/EN-20261127-081450-082345-CS.jpg"
     }
    ]
   },
@@ -644,60 +649,60 @@
    "url": "https://www.lemonde.fr/international/rss_full.xml",
    "items": [
     {
-     "title": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
-     "link": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
-     "summary": "Cette loi consacre le fait laïc au Québec et tranche avec le multiculturalisme de l’Etat fédéral canadien, ce qui crée des remous dans la classe politique.",
-     "published": "2026-11-27T22:06+00:00",
-     "image": "https://img.lemde.fr/2026/11/27/726/0/6582/3291/644/322/60/0/5c1f0af_ftp-1-p013z7xu2umj-a0d8452d28eb4ef3ac26761354f7dec3-0-7d3859c7d4304302b93dd33a1734d7c0.jpg"
+     "title": "Nabil Djedouani, l’archéologue du cinéma algérien",
+     "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/28/nabil-djedouani-l-archeologue-du-cinema-algerien_6816082_4500055.html",
+     "summary": "Depuis quatorze ans, le réalisateur, acteur et chercheur franco-algérien collecte et restaure des films en lien avec l’Algérie, de l’époque coloniale à la post-indépendance. Des archives désormais librement disponibles…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/26/127/0/1500/750/644/322/60/0/810a6a0_upload-1-l9fnuk6s6oxz-web-le-asotton-nabildjedouani-12.jpg"
     },
     {
-     "title": "En Cisjordanie occupée, la lente asphyxie du système de santé palestinien",
-     "link": "https://www.lemonde.fr/international/article/2026/11/27/en-cisjordanie-occupee-la-lente-asphyxie-du-systeme-de-sante-palestinien_6815929_3210.html",
-     "summary": "A Naplouse, alors que les checkpoints et les attaques de colons entravent l’accès aux soins des malades et le travail des urgentistes, les impayés de l’Autorité palestinienne fragilisent l’ensemble du maillage sanitaire…",
-     "published": "2026-11-27T19:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/26/1784/0/6160/3080/644/322/60/0/701c079_upload-1-7vrxh7vmmga2-ll-cisjordanie-sante-34.jpg"
+     "title": "Marquée par la guerre au Proche-Orient, l’écrivaine Elisa Shua Dusapin raconte comment elle a renoncé au roman pour « Sauf la frontière »",
+     "link": "https://www.lemonde.fr/livres/article/2026/11/28/marquee-par-la-guerre-au-proche-orient-l-ecrivaine-elisa-shua-dusapin-raconte-comment-elle-a-renonce-au-roman-pour-sauf-la-frontiere_6816077_3260.html",
+     "summary": "Au Liban, en octobre 2023, l’écrivaine s’est retrouvée en zone de guerre. Elle a ensuite passé environ deux ans entre la Jordanie, la Palestine et Israël, pour comprendre et pour réinventer son écriture.",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/23/684/0/8192/4096/644/322/60/0/589aa8e_upload-1-odd5x5uhjnmq-20231129-lbn-diegoibarrasanchez-006.jpg"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
-     "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
-     "summary": "Kiev affirme avoir touché l’usine de caoutchouc synthétique d’Iefremov, dans l’oblast de Toula, et la raffinerie de Novochakhtinsk, dans la région de Rostov.",
-     "published": "2026-11-27T18:56+00:00",
-     "image": "https://img.lemde.fr/2026/11/27/669/0/4000/2000/644/322/60/0/f96082b_upload-1-qgplu7ay902k-incendie-drone-kharkiv-4.jpg"
+     "title": "Le Pentagone assure que ses systèmes informatiques sont « sûrs et sécurisés », après une possible cyberattaque annoncée par des médias",
+     "link": "https://www.lemonde.fr/international/article/2026/11/28/le-pentagone-assure-que-ses-systemes-informatiques-sont-surs-et-securises-apres-une-possible-cyberattaque-annoncee-par-des-medias_6816072_3210.html",
+     "summary": "L’agence Reuters puis NBC News ont avancé que le cloud de l’armée de l’air avait été piraté, exposant possiblement « des informations militaires sensibles ».",
+     "published": "2026-11-28T05:30+00:00",
+     "image": "https://img.lemde.fr/2026/11/27/199/0/2048/1024/644/322/60/0/b78bd09_ftp-1-qthdkeq9kroh-2026-11-27t110007z-1971608881-rc27vs91xah3-rtrmadp-3-usa-pentagon-air-force-cloud.JPG"
     },
     {
-     "title": "Salim Cevik, politiste : en Turquie, « les Kurdes ne négocient plus vraiment, ils subissent une sorte de diktat de la part du gouvernement d’Erdogan »",
-     "link": "https://www.lemonde.fr/international/article/2026/11/27/salim-cevik-politiste-en-turquie-les-kurdes-ne-negocient-plus-vraiment-ils-subissent-une-sorte-de-diktat-de-la-part-du-gouvernement-d-erdogan_6815922_3210.html",
-     "summary": "Dans un entretien au « Monde », le chercheur explique que la loi, votée en août, permettant le retour des combattants du PKK à la vie civile n’a pas changé le rapport de force favorable à Ankara. Affaiblis militairement…",
-     "published": "2026-11-27T18:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/24/176/0/5000/2500/644/322/60/0/38cfbe4_upload-1-dcp4fxvjqso5-i-nsan-uc-up-giden-bir-kus-deg-ildir-430x860x20-cm-kar-s-k-teknik-2021.jpeg"
+     "title": "En Syrie, les arbitres de foot jouent les juges de paix",
+     "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/28/en-syrie-les-arbitres-de-foot-jouent-les-juges-de-paix_6816071_4500055.html",
+     "summary": "Depuis la chute de Bachar Al-Assad, la reconstruction du pays se mène jusque dans les stades. Issus des différentes communautés, les arbitres du ballon rond parcourent une Syrie fracturée par plus de dix ans de guerre…",
+     "published": "2026-11-28T05:30+00:00",
+     "image": "https://img.lemde.fr/2026/11/25/420/0/1493/746/644/322/60/0/be929ce_upload-1-cmurqmjwsenq-web-5509-10-50mo.jpg"
     },
     {
-     "title": "Dans « L’Ecole du Sud », l’historien Onur Erdur enquête sur les expériences coloniales des intellectuels de la French Theory",
-     "link": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html",
-     "summary": "L’essai revient sur le parcours de huit figures du courant d’idées des années 1960-1970, dont Michel Foucault et Roland Barthes, et analyse l’influence de leur expérience du Maghreb colonial sur leur pensée.",
-     "published": "2026-11-27T18:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/25/160/0/1920/960/644/322/60/0/5182d6c_upload-1-s7hic8xvsi9n-generated-1795597517973.jpg"
+     "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit, dont une centaine se dirigeant vers Moscou",
+     "link": "https://www.lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-des-centaines-de-drones-ukrainiens-lances-vers-moscou_6814183_3210.html",
+     "summary": "Selon le ministère de la défense russe, les interceptions auraient eu lieu au-dessus de quinze régions russes, dont celles de Moscou, de Rostov et de Samara, ainsi qu’au-dessus de la Crimée, annexée par la Russie. Le…",
+     "published": "2026-11-28T05:13+00:00",
+     "image": "https://img.lemde.fr/2026/11/18/734/0/4259/2129/644/322/60/0/d3a1094_ftp-1-4ck6lkqvsokh-2026-11-18t145550z-2056648136-rc2qmna3h698-rtrmadp-3-ukraine-crisis-russia-oil-refining.JPG"
     },
     {
-     "title": "En RDC, Thomas Lubanga, le perpétuel rebelle de nouveau à l’offensive",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/27/en-rdc-thomas-lubanga-le-perpetuel-rebelle-de-nouveau-a-l-offensive_6815911_3212.html",
-     "summary": "Le vétéran des rébellions congolaises avait été, en 2012, le premier condamné de la Cour pénale internationale pour avoir recruté des enfants-soldats en 2002 et 2003. Désormais exilé en Ouganda, il pilote un groupe…",
-     "published": "2026-11-27T17:00+00:00",
-     "image": "https://img.lemde.fr/2026/10/27/148/0/3277/1638/644/322/60/0/94ebe97_upload-1-r7ltnha84qth-2025-07-16t130910z-488788284-rc2lnfawxvzf-rtrmadp-3-congo-security.JPG"
+     "title": "Au Canada, le premier ministre, Mark Carney, promet la fin du sans-abrisme d’ici à dix ans",
+     "link": "https://www.lemonde.fr/international/article/2026/11/28/au-canada-le-premier-ministre-mark-carney-promet-la-fin-du-sans-abrisme-d-ici-a-dix-ans_6816067_3210.html",
+     "summary": "Le gouvernement s’est engagé à éradiquer un phénomène qui touche de plus en plus de Canadiens. Un défi de taille dans un pays victime d’une sévère crise du logement. A Montréal, le loyer moyen a augmenté de près de 70 %…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/26/265/0/3000/1500/644/322/60/0/04e4314_upload-1-y4lhl4ctyomf-ap25045822930513.jpg"
     },
     {
-     "title": "Au Gabon, le plan de vaccination des nourrissons s’appuie sur les communautés locales",
-     "link": "https://www.lemonde.fr/afrique/article/2026/11/27/au-gabon-le-plan-de-vaccination-des-nourrissons-s-appuie-sur-les-communautes-locales_6815902_3212.html",
-     "summary": "Le ministre de la santé gabonais a mis en place, à la fin d’octobre, plus de 200 sites mobiles de vaccination à travers le pays. Le dispositif s’appuie sur les chefs de quartier pour atteindre des populations réticentes…",
-     "published": "2026-11-27T16:30+00:00",
-     "image": "https://img.lemde.fr/2026/11/23/1435/0/3024/1512/644/322/60/0/4d2a402_upload-1-mpzs6uoppfix-img-9242.jpg"
+     "title": "Egypte : pourquoi la répression contre les journalistes indépendants s’accentue-t-elle ? Comprendre en trois minutes",
+     "link": "https://www.lemonde.fr/afrique/video/2026/11/28/egypte-pourquoi-la-repression-contre-les-journalistes-independants-s-accentue-t-elle-comprendre-en-trois-minutes_6816063_3212.html",
+     "summary": "La fondatrice et rédactrice en chef de « Mada Masr », Lina Attalah, risque un an de prison et de voir le média qu’elle a cofondé définitivement fermé. Ce site d’information est l’un des derniers espaces de liberté…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/27/60/0/1920/960/644/322/60/0/ad3a6e5_upload-1-k37ipnsf8w08-lemondevv-20261126-tile0h.jpg"
     },
     {
-     "title": "En Inde, la cérémonie démesurée d’un député pour le mariage de sa fille : 400 000 invités, 150 plats différents, 500 cuisiniers, 8 millions de friandises…",
-     "link": "https://www.lemonde.fr/international/article/2026/11/27/en-inde-la-ceremonie-demesuree-d-un-depute-pour-le-mariage-de-sa-fille-400-000-invites-150-plats-differents-500-cuisiniers-8-millions-de-friandises_6815896_3210.html",
-     "summary": "Le mariage aux proportions XXL a été organisé par Anant Singh, un député de l’Etat du Bihar. En Inde, où la corruption gangrène la politique, les élus multiplient ces fêtes démesurées. Une manière pour eux d’étaler leur…",
-     "published": "2026-11-27T16:00+00:00",
-     "image": "https://img.lemde.fr/2026/11/27/411/0/930/465/644/322/60/0/b06bc69_upload-1-blhoadkjwdub-capture-d-e-cran-2026-11-27-a-15-06-02.png"
+     "title": "Guerre en Ukraine : Kiev assume l’extension du conflit sur de nouveaux fronts",
+     "link": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
+     "summary": "Ces derniers jours, l’Ukraine s’est enhardie, frappant des navires russes en mer Baltique et en Méditerranée, jusque dans le port libyen de Benghazi. Kiev cherche à motiver l’alliance occidentale à continuer d’aider le…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://img.lemde.fr/2026/11/22/1000/0/1200/600/644/322/60/0/b8f571f_ftp-1-j7e9teid7xge-6082be9426e44ae8b001d82383da4ecd-0-ada77763185b40e9912dae47688c71fb.jpg"
     }
    ]
   },
@@ -708,6 +713,27 @@
    "region": "europa",
    "url": "https://www.euronews.com/rss?level=theme&name=news",
    "items": [
+    {
+     "title": "US military fires at a ship that violated blockade of Iranian ports",
+     "link": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+     "summary": "US military maintained a \"strict\" blockade of Iranian ports by firing at a ship that violated the naval containment on Thursday.",
+     "published": "2026-11-28T06:55+00:00",
+     "image": ""
+    },
+    {
+     "title": "Latest news bulletin | November 28th, 2026 – Morning",
+     "link": "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-morning",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "published": "2026-11-28T06:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Russia charges air force deputy chief with taking large bribe",
+     "link": "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
+     "summary": "Yuri Grekhov, 64, who oversaw procurement of aircraft, missiles and air defence systems and has been under EU sanctions since 2022, is a serving officer, unlike most of the more than a dozen senior defence figures…",
+     "published": "2026-11-28T06:00+00:00",
+     "image": ""
+    },
     {
      "title": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
      "link": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
@@ -742,27 +768,6 @@
      "summary": "Catch up with the most important stories from around Europe and beyond this November 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
      "published": "2026-11-27T17:00+00:00",
      "image": ""
-    },
-    {
-     "title": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
-     "link": "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says",
-     "summary": "The Belarusian leader said medieval history cannot justify territorial claims, since Russian lands were themselves once under Mongol rule, and traced East Slavic statehood to Kyivan Rus'. He then appeared to soften the…",
-     "published": "2026-11-27T15:37+00:00",
-     "image": ""
-    },
-    {
-     "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
-     "link": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
-     "summary": "After a series of Russian strikes and with the onset of winter cold, Ukraine was forced to halt all electricity exports, while imports reached their highest level since mid-June.",
-     "published": "2026-11-27T15:16+00:00",
-     "image": ""
-    },
-    {
-     "title": "UK: London's Cake and Bake Show honours David Attenborough's centenary",
-     "link": "https://www.euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary",
-     "summary": "From lifelike gorillas to miniature sugar sculptures of David Attenborough, bakers in London are celebrating the legendary broadcaster's centenary with spectacular creations inspired by nature.",
-     "published": "2026-11-27T14:48+00:00",
-     "image": ""
     }
    ]
   },
@@ -774,60 +779,60 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "items": [
     {
-     "title": "Estados Unidos ofrece un acuerdo a Caro Quintero para que se declare culpable",
-     "link": "https://elpais.com/mexico/2026-11-27/estados-unidos-ofrece-un-acuerdo-a-caro-quintero-para-que-se-declare-culpable.html",
-     "summary": "Un fiscal estadounidense apunta que “extendió una oferta de acuerdo por escrito” al capo criminal, que enfrentará el juicio en marzo de 2027",
-     "published": "2026-11-27T23:21+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/BAFCWVKNIROZHB3CG4TYU3SVTM.jpg?auth=6d346a6bcdb2e11340a1987f0cd77a1b90a5e27798c8abb179452e98675fa7d0"
+     "title": "¿Qué tiempo hará el día de las elecciones generales del 29-N? El paraguas, solo en Galicia y Cantábrico",
+     "link": "https://elpais.com/el-tiempo/2026-11-28/que-tiempo-hara-el-dia-de-las-elecciones-generales-del-29-n-el-paraguas-solo-en-galicia-y-cantabrico.html",
+     "summary": "En el resto del país predominarán los cielos poco nubosos, habrá bancos de niebla en el interior y el frío normal de esta época del año",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/FMCVCSKBC5PTPKMJBZ6J46Q2PE.jpg?auth=3bc00b17e59e3aa96bd53aeb08e3b608aaa68de52b3448608f75b4f582f85250"
     },
     {
-     "title": "Black Friday 2026, en directo: las mejores ofertas de Amazon y otras tiendas, minuto a minuto",
-     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-en-directo.html",
-     "summary": "¡Arranca la jornada de precios bajos y descuentos muy abultados más esperada del año! Encuentra los chollos más atractivos en las principales categorías de compra",
-     "published": "2026-11-27T23:05+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/TAE357IO7NEI3BKJIZJM3DKLBI.png?auth=50b494417d25e7fc268a3f2dc601031782b3e0173e5229d2052586a04455c219"
+     "title": "La máquina de presoterapia para piernas cansadas que arrasa en Amazon tiene un 32% de descuento por Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-maquina-presoterapia.html",
+     "summary": "Un regalo súper práctico para deportistas: este masajeador de piernas alcanza su precio más bajo del año en Amazon",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/4EKANYCOIJE5HDRES77OM7MBJU.png?auth=27513550c20cfa38c1104ffe161474f4eec081b89e9e089cdf3b5efdf5968dba"
     },
     {
-     "title": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
-     "summary": "La coalición de izquierdas convierte en una fiesta el cierre de campaña en Villaverde (Madrid) empujada por el efecto del debate de este jueves",
-     "published": "2026-11-27T21:27+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/GDFYSLWSUBAXFGCGQ3CKZCOXIM.JPG?auth=4c3e11a37d1fb4b8e51c215ab9228ef6ea249cfb737133be62ce5c891f1e3d2b"
+     "title": "Los auriculares inalámbricos mejor valorados de Amazon tienen un 61% de descuento durante Black Friday",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-auriculares-inalambricos-mejor-valorados.html",
+     "summary": "Este modelo destaca en el comercio electrónico por su gran autonomía, su diseño ergonómico y su sonido potente para escuchar tus canciones favoritas",
+     "published": "2026-11-28T05:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/XC64MYCT2BC3DOIC4K6MYFYSUI.png?auth=78b81343c8a97fd60b7dd1bfab818c932679b559926e1334a589de218ae2d5ed"
     },
     {
-     "title": "Abascal cierra su campaña con una traca de insultos y descalificaciones contra Pedro Sánchez",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/abascal-cierra-su-campana-con-una-traca-de-insultos-y-descalificaciones-contra-pedro-sanchez.html",
-     "summary": "El líder de Vox llena la plaza de toros de Valencia con 12.000 seguidores en su último mitin e iguala a Feijóo",
-     "published": "2026-11-27T21:21+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/3WQRXKPSX5GD7BRARFUYECPHQU.JPG?auth=44c1362a9e5908084db5c8a1ba88a4dbda8235d2cb88ae87c38777dcd6afdd42"
+     "title": "Los 20 productos más vendidos ayer en Black Friday que aún siguen rebajados en Amazon",
+     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-productos-mas-vendidos.html",
+     "summary": "Reunimos los descuentos más populares que han arrasado entre nuestros lectores en categorías principales como belleza, moda, hogar o tecnología",
+     "published": "2026-11-28T05:30+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/PWQE6QRGARHKLFOMGUAKCT3KKE.png?auth=40a330469bcd2f384d1b0f3c11ffef9792ee7d651e7a844579932dee405d6854"
     },
     {
-     "title": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
-     "link": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
-     "summary": "Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing",
-     "published": "2026-11-27T21:13+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/YXJZEQE34NOFNCUR5MNHWRCHZQ.jpg?auth=e940f0e0ef664419ee56d2ddbfa1c80a825c13b78e2fc14b72fea9df740b3e45"
+     "title": "Las mejores prendas térmicas para combatir el frío sin llevar varias capas",
+     "link": "https://elpais.com/escaparate/estilo-de-vida/prendas-termicas-hombre-y-mujer.html",
+     "summary": "La diferencia está en lo que llevas debajo: fichamos camisetas, leggings y accesorios para llevar mejor las bajas temperaturas",
+     "published": "2026-11-28T05:15+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/MEF2E6TEEJHNDFNNO2MHGO4OHU.png?auth=b5534a43744ca588c88afaf56e02c40fa897d5ef6eae147ad69af67fdc6b6d17"
     },
     {
-     "title": "Al menos 15 muertos en el rescate de un cayuco en El Hierro",
-     "link": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
-     "summary": "La embarcación ha sido rescatada la madrugada del jueves, a unos 62 kilómetros de La Restinga, con los fallecidos a bordo",
-     "published": "2026-11-27T20:58+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/2P4XSVADZZG7RDRRYGEIFRWOLU.jpg?auth=bed7fc2dcdbdeaf5554a78cc9319a24cf6abd9a0b439ddf1993cc4d0b122f600"
+     "title": "El Roto: el voto obrero",
+     "link": "https://elpais.com/opinion/2026-11-28/el-roto-el-voto-obrero.html",
+     "summary": "Viñeta del 28 de noviembre de 2026",
+     "published": "2026-11-28T04:45+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/RYUYUWLXJBEYTIAU4RFI3R4NSU.jpg?auth=5ead36b7ed29ff5b0302b0c8efbc8c752ea8c4674522e1f54d9291bd7cb2b134"
     },
     {
-     "title": "Feijóo apela a la izquierda pese a confiar en una mayoría de derechas: “Préstanos tu voto para volver a la honestidad”",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/feijoo-apela-a-la-izquierda-pese-a-confiar-en-una-mayoria-de-derechas-prestanos-tu-voto-para-volver-a-la-honestidad.html",
-     "summary": "El candidato del PP da por hecha la victoria el domingo en el cierre de campaña en Sevilla: “Esta vez, sí. ¡Vamos a conseguirlo! No solo a ganar, sino a gobernar\"",
-     "published": "2026-11-27T20:38+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/P32XTCXWLBCT5MTTFYF5LB65JQ.jpg?auth=aa5101f4ffff194719bc7671838bc95cc12b3e60676afb839909c22de597395e"
+     "title": "Las coaliciones impepinables o por qué se hace tarde para el cordón sanitario",
+     "link": "https://cincodias.elpais.com/opinion/2026-11-28/las-coaliciones-impepinables-o-por-que-se-hace-tarde-para-el-cordon-sanitario.html",
+     "summary": "Los españoles votan entre bloques, como si las alianzas estuvieran predeterminadas. No tenía por qué ser así. En Europa la idea de aislar a los ultras se está debilitando, en España nunca se ensayó",
+     "published": "2026-11-28T04:40+00:00",
+     "image": "https://imagenes.elpais.com/resizer/v2/BVIDDBEGVRHKREXEX56LKVBZ5Y.jpg?auth=33face65287c9357d19e34d21c07620d950f4fb65ec59c6ca40e5416db7109c0"
     },
     {
-     "title": "Una carta para cada generación: así adapta Vox su discurso electoral a la edad del destinatario",
-     "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/una-carta-para-cada-generacion-asi-adapta-vox-su-discurso-electoral-a-la-edad-del-destinatario.html",
-     "summary": "La lingüista Anna Martínez identifica una estrategia de ajuste del mensaje conocida como diseño de audiencias, que busca hacer más persuasivo su contenido",
-     "published": "2026-11-27T20:23+00:00",
-     "image": "https://imagenes.elpais.com/resizer/v2/HP7YU3DXWJBWXGKUQJ5W6OPY3E.jpg?auth=bc73b71a7569f5aa9313fd9aae36a74a79646db87d2811647c899010447acd7e"
+     "title": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+     "link": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+     "summary": "El resultado más probable es una mayoría del PP y Vox, pero dentro del margen de incertidumbre caben otros resultados, desde la remontada de Sánchez hasta la ola derechista",
+     "published": "2026-11-28T04:30+00:00",
+     "image": ""
     }
    ]
   },
@@ -839,60 +844,60 @@
    "url": "https://www.lavanguardia.com/rss/home.xml",
    "items": [
     {
-     "title": "Una carambola en Catalunya",
-     "link": "https://www.lavanguardia.com/politica/20261128/11695233/carambola-catalunya-rufian-puigdemont-colau.html",
-     "summary": "Catalunya será decisiva. Catalunya decidirá el gobierno… Hay unanimidad en los cuarteles electorales de todos los partidos sobre el peso determinante de los 48 diputados que se elegirán en las urnas catalanas. Porque…",
-     "published": "2026-11-27T23:05+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/27/6b09c6dfefbdf.jpeg"
+     "title": "10 electrodomésticos del Black Friday de El Corte Inglés entre el 50% y el 70% de descuento",
+     "link": "https://www.lavanguardia.com/comprar/black-friday/20261127/11693062/black-friday-corte-ingles-electrodomesticos-ofertas-mkt-eci.html",
+     "summary": "Cafeteras, freidoras de aire, robots de limpieza y otros aliados para el hogar protagonizan esta selección de ofertas de El Corte Inglés, con descuentos increíbles para renovar los electrodomésticos por menos dinero",
+     "published": "2026-11-28T06:30+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b06d44ce46f0.r_d.1171-832-2116.jpeg"
     },
     {
-     "title": "“Yo no soy yo. Soy este que va a mi lado sin yo verlo”",
-     "link": "https://www.lavanguardia.com/lacontra/20261128/11695377/joan-garriga-mi-lado-verlo.html",
-     "summary": "Tengo 68 años. Nací en Bellpuig (Lleida) y vivo en Barcelona. Doy talleres de trabajo terapéutico sistémico y constelaciones familiares. A la política le falta humanidad. La fraternidad es la gran olvidada, un antídoto…",
-     "published": "2026-11-27T23:05+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09ddf86b706.r_d.685-498-3750.jpeg"
+     "title": "Aumento generalizo de las temperaturas con lluvias en Galicia, El Hierro y La Palma",
+     "link": "https://www.lavanguardia.com/natural/20261128/11695644/aumento-generalizo-temperaturas-lluvias-galicia-hierro-palma.html",
+     "summary": "Se prevén nieblas matinales densas en las mesetas, depresiones del noreste y Extremadura",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/29/697b6aa146b09.jpeg"
     },
     {
-     "title": "Votadme o moriréis: la campaña del miedo con la que Lyndon B. Johnson ganó las elecciones",
-     "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20261128/11695453/votadme-morireis-campana-miedo-lyndon-b-johnson-gano-elecciones.html",
-     "summary": "El candidato demócrata a la presidencia de Estados Unidos aprovechó el poder persuasivo de la televisión y el temor a un conflicto nuclear tras la Crisis de los Misiles para barrer a Barry Goldwater",
-     "published": "2026-11-27T23:02+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6afee8629304d.jpeg"
+     "title": "“Desde la polarización no se construye y no tiene ningún sentido que nos veamos como enemigos”",
+     "link": "https://www.lavanguardia.com/gente/20261128/11693344/monica-carrillo-polarizacion-construye-ningun-sentido-veamos-enemigos.html",
+     "summary": "La popular presentadora de Antena 3 Noticias publica ‘El día menos pensado’, una novela sobre la reconstrucción emocional y la importancia de preservar la propia identidad en las relaciones de pareja",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b07099e43f71.r_d.1850-2055-1154.jpeg"
     },
     {
-     "title": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
-     "link": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
-     "summary": "El impacto del careo televisivo ha cambiado el paso a una campaña que arrancó a medio gas",
-     "published": "2026-11-27T21:11+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09d9cfdc0c1.r_d.2534-1689-0.jpeg"
+     "title": "María Fernández-Miranda: “Al llegar a los 50, el reproche social te da exactamente igual”",
+     "link": "https://www.lavanguardia.com/magazine/lifestyle/20261128/11694878/maria-fernandez-miranda-llegar-50-reproche-social-te-da-exactamente-igual.html",
+     "summary": "Su nuevo libro 'El desorden de cumplir años', un relato espontáneo construido a partir de decenas de notas escritas por la autora y, al mismo tiempo, muy reflexivo acerca de lo que implica hacerse mayor siendo mujer. Y…",
+     "published": "2026-11-28T05:55+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/27/6b098573cd4ea.jpeg"
     },
     {
-     "title": "Sánchez cierra su campaña en Madrid con la mayor movilización socialista desde 1982",
-     "link": "https://www.lavanguardia.com/politica/20261127/11695394/sanchez-cierra-campana-madrid-mayor-movilizacion-socialista-1982.html",
-     "summary": "Más de 13.000 militantes y simpatizantes del PSOE asisten a la fiesta final de la carrera electoral del presidente del Gobierno en la Caja Mágica, con Almodóvar y Los Planetas como estrellas invitadas",
-     "published": "2026-11-27T21:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09cb43992b3.r_d.2425-2072-0.jpeg"
+     "title": "J Balvin, reguetón sin fronteras: “Los latinos venimos con música, con estilo y con ideas”",
+     "link": "https://www.lavanguardia.com/magazine/protagonistas/20261128/11692983/j-balvin-regueton-fronteras-latinos-venimos-musica-estilo-ideas.html",
+     "summary": "El cantante reivindica la autenticidad y la libertad de expresión como parte de su identidad",
+     "published": "2026-11-28T05:50+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b06b424506ea.r_d.2556-2052-910.jpeg"
     },
     {
-     "title": "Votad, votad, malditos",
-     "link": "https://www.lavanguardia.com/cultura/20261127/11695032/david-ucles-votad-votad-malditos-elecciones.html",
-     "summary": "Hay una película de 1969, dirigida por Sydney Pollack, que me fascina. Fue traducida como Danzad, danzad, malditos . En ella, una jovencísima Jane Fonda se inscribe en una peculiar maratón de baile: ganará quien aguante…",
-     "published": "2026-11-27T21:00+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/27/6b0975da9af11.jpeg"
+     "title": "Dalí y Donayle Luna, encuentros en la tercera fase",
+     "link": "https://www.lavanguardia.com/magazine/lifestyle/20261128/11694074/dali-donayle-luna-encuentros-tercera-fase.html",
+     "summary": "El pintor y la modelo afroamericana Donayle Luna formaron una de las parejas más excéntricas de la década de los sesenta entre perfomances, la moda y exhibiciones publicitarias",
+     "published": "2026-11-28T05:40+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b0949cc56da1.r_d.2766-1818-811.jpeg"
     },
     {
-     "title": "Junts confía en dar la vuelta a los sondeos para que Catalunya sea clave en Madrid",
-     "link": "https://www.lavanguardia.com/politica/20261127/11695391/junts-confia-dar-vuelta-sondeos-catalunya-sea-clave-madrid.html",
-     "summary": "“Queremos representar a toda aquella gente que tiene a Catalunya en la cabeza y en el corazón”, resalta Nogueras",
-     "published": "2026-11-27T20:40+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09e9d92afeb.r_d.3123-2360-748.jpeg"
+     "title": "Catalunya ante el reto de la prevención en la salud respiratoria",
+     "link": "https://www.lavanguardia.com/vida/20261128/11693904/catalunya-reto-prevencion-salud-respiratoria.html",
+     "summary": "Expertos y responsables públicos debaten con La Vanguardia cómo reforzar la vacunación de los adultos y prevenir enfermedades respiratorias en todas las etapas de la vida",
+     "published": "2026-11-28T05:36+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/26/6b080e5b05537.r_d.2932-1954-765.jpeg"
     },
     {
-     "title": "Antes de comprar tu Xiaomi en el Black Friday: lo que debes mirar más allá del descuento",
-     "link": "https://www.lavanguardia.com/comprar/black-friday/20261123/11691080/xiaomi-mejores-ofertas-black-friday-mkt-xiao.html",
-     "summary": "Seleccionamos ocho productos de Xiaomi, REDMI y POCO para renovar el móvil, cambiar de televisor o adelantar regalos de Navidad: qué ofrece cada uno, sus ventajas y sus principales limitaciones",
-     "published": "2026-11-27T20:40+00:00",
-     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b042ca26fc54.r_d.641-549-0.jpeg"
+     "title": "Comparte sus looks en redes, a sus 70 años: “Me da mucho corte salir a la calle a posar”",
+     "link": "https://www.lavanguardia.com/vivo/longevity/20261128/11694747/todas-chicas-llevan-labios-he-envejecido-forma-natural-me-veo-peor-fotos-vida-triunfa-looks-redes-70-anos.html",
+     "summary": "Esta gallega afincada en Madrid empezó a subir contenido a redes sociales hace diez años por una apuesta y sin ninguna pretensión, y hoy tiene a miles de seguidoras atentas a sus outfits",
+     "published": "2026-11-28T05:34+00:00",
+     "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b093f09ccad9.r_d.688-433-3897.jpeg"
     }
    ]
   },
@@ -904,6 +909,48 @@
    "url": "https://www.eldiario.es/rss/",
    "items": [
     {
+     "title": "La fiesta que une a vecinos, villancicos y flamenco desde el siglo XIX ya ha arrancado en esta localidad andaluza",
+     "link": "https://www.eldiario.es/viajes/fiesta-une-vecinos-villancicos-flamenco-siglo-xix-arrancado-localidad-andaluza-pm_1_13700854.html",
+     "summary": "En torno a una hoguera para combatir el frío, en las zambombas de Jerez se adaptan cada Navidad los villancicos tradicionales al ritmo de bulerías, tangos y seguiriyas 'El Principito', protagonista de este espectáculo…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://static.eldiario.es/clip/94c979c4-7bdc-4d8b-83d1-3146b52180ee_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "De impresionantes vistas, se llama Camino de Nietzsche ya que el filósofo recorría habitualmente este sendero mientras vivió en esta localidad francesa",
+     "link": "https://www.eldiario.es/viajes/impresionantes-vistas-llama-camino-nietzsche-filosofo-recorria-habitualmente-sendero-vivio-localidad-francesa-pm_1_13700800.html",
+     "summary": "Se trata de una ruta de cuatro kilómetros, de una cierta exigencia, en la que se disfruta tanto de la vegetación como de contemplar el mar de la Costa Azul francesa Esta laguna es considerada un paraíso ornitológico y…",
+     "published": "2026-11-28T06:03+00:00",
+     "image": "https://static.eldiario.es/clip/060d5110-8004-4824-9955-58aaed99025e_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "El tiempo en España este fin de semana: máximas de 10ºC y precipitaciones en el norte para despedir noviembre",
+     "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-maximas-10oc-precipitaciones-norte-despedir-noviembre-pm_1_13699430.html",
+     "summary": "Un frente atlántico dejará precipitaciones en Galicia y el Cantábrico, mientras que el domingo las máximas bajarán en buena parte de la Península Más de 400 asociaciones exigen a la Defensora del Pueblo en funciones que…",
+     "published": "2026-11-28T05:02+00:00",
+     "image": "https://static.eldiario.es/clip/aee8ec94-e191-4c7a-886e-c3c647612dd2_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "El tiempo en Madrid este fin de semana: ligera subida de las temperaturas y cielos nubosos",
+     "link": "https://www.eldiario.es/madrid/somos/tiempo-madrid-semana-ligera-subida-temperaturas-cielos-nubosos-pm_1_13699898.html",
+     "summary": "La AEMET prevé brumas y posibles bancos de niebla en zonas bajas, además de heladas débiles en las cumbres de la Sierra De la investigación a posibles embargos: las claves del cerco del Tribunal de Cuentas al ático del…",
+     "published": "2026-11-28T05:02+00:00",
+     "image": "https://static.eldiario.es/clip/7d85a5ed-54c3-4153-801e-daa7a4e7f116_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "Galicia pone a prueba la resistencia de la marca Feijóo con un BNG al alza",
+     "link": "https://www.eldiario.es/galicia/galicia-pone-prueba-resistencia-marca-feijoo-bng-alza_1_13696927.html",
+     "summary": "La ultraderecha se enfrenta al territorio que le es más hostil electoralmente sin que las encuestas les auguren resultados El BNG aspira a unificar el voto de izquierdas para un resultado histórico Los sondeos coinciden…",
+     "published": "2026-11-28T05:00+00:00",
+     "image": "https://static.eldiario.es/clip/e0bba4dd-f6fe-41d1-85e5-0168b28d1c86_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
+     "title": "El pueblo de Huesca que duda entre el Ohio aragonés y el recuerdo de un fuego devastador: \"Fueron días feos y tristes\"",
+     "link": "https://www.eldiario.es/aragon/politica/pueblo-huesca-duda-ohio-aragones-recuerdo-fuego-devastador-dias-feos-tristes_1_13694946.html",
+     "summary": "Aragón reúne la mitad de los ayuntamientos donde el partido ganador en todas las elecciones generales coincide con el que vence a nivel nacional. Uno de ellos es Ayerbe, donde la criticada gestión del incendio de Riglos…",
+     "published": "2026-11-27T23:03+00:00",
+     "image": "https://static.eldiario.es/clip/6e086238-3420-4229-bd02-47bcaff4eed2_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
      "title": "La rebautizada Casa Seat Cupra espera más de 100.000 visitantes en su propia Navidad",
      "link": "https://www.eldiario.es/motor/competicion-y-estilo/rebautizada-casa-seat-cupra-espera-100-000-visitantes-propia-navidad_1_13700687.html",
      "summary": "El espacio del grupo automovilístico en Barcelona inaugura los Magic Days 2026, una experiencia navideña inmersiva que se podrá visitar hasta el 5 de enero y que contará con un calendario de Adviento gigante diseñado…",
@@ -911,53 +958,11 @@
      "image": "https://static.eldiario.es/clip/4951c360-4049-45dd-bcfd-e64b7d8dcf6b_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-     "title": "Cazorla en un fin de semana: castillos, patrimonio y rutas por una de las sierras más espectaculares de Jaén",
-     "link": "https://www.eldiario.es/viajes/cazorla-semana-castillos-patrimonio-rutas-sierras-espectaculares-jaen_1_13692311.html",
-     "summary": "Del castillo de la Yedra a la Cerrada de Elías, recorremos Cazorla y algunos de los rincones más interesantes de su parque natural en una escapada de tres días entre cultura, historia y naturaleza Mucho más que un…",
-     "published": "2026-11-27T22:27+00:00",
-     "image": "https://static.eldiario.es/clip/df88f32e-7c9c-4e76-88a7-9855242b2179_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "La izquierda cierra la campaña ilusionada por la \"remontada\" con PP y Vox seguros de poder gobernar pese a los patinazos",
-     "link": "https://www.eldiario.es/politica/izquierda-cierra-campana-ilusionada-remontada-pp-vox-seguros-gobernar-pese-patinazos_1_13698983.html",
-     "summary": "En el PSOE, el estado de ánimo es inversamente proporcional a la media de las encuestas, y manejan sondeos internos que les otorgan primera fuerza con tres puntos de distancia sobre un Feijóo que se ve en la Moncloa a…",
-     "published": "2026-11-27T21:30+00:00",
-     "image": "https://static.eldiario.es/clip/24f352ee-2143-49af-a1b3-3b7091028feb_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "El Frente Amplio apela a la \"remontada\" en su cierre de campaña: “La historia la escribe siempre la gente\"",
-     "link": "https://www.eldiario.es/politica/frente-amplio-cierra-campana-son-si-ada-ada-ada-ada-remontada_1_13700638.html",
-     "summary": "La coalición desborda el espacio La Nave de Madrid con más de 4.000 simpatizantes y apelando al papel de Colau en el debate del jueves para dar la vuelta a las encuestas: “La extrema derecha no nos va a callar jamás\" El…",
-     "published": "2026-11-27T20:54+00:00",
-     "image": "https://static.eldiario.es/clip/7157f573-174d-4179-99f2-ef8cd5e87702_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Abascal acaba la campaña con insultos a Sánchez y asegura que en las elecciones puede haber \"trampas\" o \"violencia\"",
-     "link": "https://www.eldiario.es/politica/abascal-acaba-campana-insultos-sanchez-asegura-elecciones-haber-trampas-violencia_1_13700156.html",
-     "summary": "El dirigente ultra ha cargado a gritos contra el presidente del Gobierno, al que ha llamado \"criminal\" y ha provocado que el público coree \"Pedro Sánchez, hijo de puta\" Feijóo apela al votante de izquierdas a dos días…",
-     "published": "2026-11-27T20:50+00:00",
-     "image": "https://static.eldiario.es/clip/3c2e7935-8e04-4be2-8058-57384c268144_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "El PP en Zaragoza rechazó hablar con los alumnos tras el veto a la obra de teatro: \"Nos dijeron que no era nuestro lugar\"",
-     "link": "https://www.eldiario.es/aragon/cultura/pp-zaragoza-rechazo-hablar-alumnos-veto-obra-teatro-dijeron-no-lugar_1_13700150.html",
-     "summary": "El alumnado de tercero de la Escuela Municipal de Teatro cuestiona los argumentos del Ayuntamiento sobre la retirada de las funciones escolares de 'Historia de una maestra' Los profesores de Literatura, contra la…",
-     "published": "2026-11-27T20:23+00:00",
-     "image": "https://static.eldiario.es/clip/45f9cad3-f83a-4b8d-bf1b-744314c1b698_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-     "title": "Alvise sufre para llenar un pequeño auditorio de Madrid en su final de campaña: \"Podemos entrar en el Congreso\"",
-     "link": "https://www.eldiario.es/politica/alvise-sufre-llenar-pequeno-auditorio-madrid-final-campana-entrar-congreso_1_13700510.html",
-     "summary": "El líder de Se Acabó La Fiesta lee emails de sus seguidores en un acto final en un centro cultural de Mirasierra repitiendo sus promesas de construir una macrocárcel, bajar o eliminar impuestos y expulsar a migrantes…",
-     "published": "2026-11-27T20:21+00:00",
-     "image": "https://static.eldiario.es/clip/c67745e2-32d2-42ee-ac27-5f3eb53e11aa_16-9-discover-aspect-ratio_default_0_x1523y973.jpg"
-    },
-    {
-     "title": "El BNG cierra llamando a concentrar el voto de la izquierda gallega en el nacionalismo y con el viento de cola de las encuestas",
-     "link": "https://www.eldiario.es/galicia/bng-cierra-llamando-concentrar-voto-izquierda-gallega-nacionalismo-viento-cola-encuestas_1_13700561.html",
-     "summary": "Ana Pontón ataca a Feijóo por su machismo al día siguiente del “calladita” del líder del PP a Ada Colau y recuerda que a ella le dijo que “estaba muy necesitada” El BNG aspira a unificar el voto de izquierdas para un…",
-     "published": "2026-11-27T20:10+00:00",
-     "image": "https://static.eldiario.es/clip/b115a0fb-a89c-4250-9077-07ed8c91c7d8_16-9-discover-aspect-ratio_default_0.jpg"
+     "title": "El observador de la ONU para personas mayores abronca a la Generalitat por la dana: 114 de los 234 muertos tenían más de 70 años",
+     "link": "https://www.eldiario.es/comunitat-valenciana/politica/observador-onu-personas-mayores-abronca-generalitat-dana-114-234-muertos-tenian-70-anos_1_13699912.html",
+     "summary": "Zvezdan Pirtošek reclama un \"examen independiente e imparcial\" de las alertas de emergencia, el liderazgo y las decisiones u omisiones de políticos y administraciones durante la riada, en la que casi la mitad de las…",
+     "published": "2026-11-27T22:38+00:00",
+     "image": "https://static.eldiario.es/clip/1d7736db-f594-4f77-a147-f87460676969_16-9-discover-aspect-ratio_default_0.jpg"
     }
    ]
   },
@@ -968,6 +973,41 @@
    "region": "americas",
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "items": [
+    {
+     "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+     "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+     "summary": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.",
+     "published": "2026-11-28T07:43+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+     "summary": "Prime Minister Pedro Sánchez, a staunch critic of President Trump, faces an uphill task to overcome a right-wing challenge in the national election on Sunday.",
+     "published": "2026-11-28T05:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
+     "summary": "Through weeks of antigovernment unrest, hard-right activists have fought with left-wing counterparts in at least 10 towns, according to national and regional leaders.",
+     "published": "2026-11-28T05:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+     "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+     "summary": "Gianni Infantino, the global soccer body’s leader, has stirred concern over his ties to President Trump. Now FIFA is rethinking the award he gave Mr. Trump last year.",
+     "published": "2026-11-28T05:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-trump-fifa-prize-zjpm/28int-trump-fifa-prize-zjpm-mediumSquareAt3X.jpg"
+    },
+    {
+     "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
+     "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
+     "summary": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive.",
+     "published": "2026-11-28T00:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg"
+    },
     {
      "title": "Police Link Release of Substance at Don Toliver Concert to Robbery Attempts",
      "link": "https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html",
@@ -983,46 +1023,11 @@
      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg"
     },
     {
-     "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
-     "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
-     "summary": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.",
-     "published": "2026-11-27T22:46+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg"
-    },
-    {
      "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
      "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
      "summary": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back.",
      "published": "2026-11-27T21:41+00:00",
      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
-     "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-     "summary": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
-     "published": "2026-11-27T21:17+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
-     "link": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
-     "summary": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
-     "published": "2026-11-27T20:51+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/27/world/27int-safrica-joburg-mayor/27int-safrica-joburg-mayor-mediumSquareAt3X.jpg"
-    },
-    {
-     "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
-     "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
-     "summary": "Five people were arrested in southern Spain after a large marijuana farm was found under a playhouse on artificial turf.",
-     "published": "2026-11-27T17:45+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-cannabis-03/27xp-cannabis-03-mediumSquareAt3X.png"
-    },
-    {
-     "title": "Why Russia Is Erasing Stalin’s Crimes",
-     "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
-     "summary": "Across Russia, memorials to victims of Joseph Stalin’s repressive regime are being quietly dismantled as more and more critics of the war in Ukraine are jailed. Our Moscow correspondent Valerie Hopkins takes us to one…",
-     "published": "2026-11-27T16:29+00:00",
-     "image": ""
     }
    ]
   },
@@ -1069,16 +1074,16 @@
      "image": ""
     },
     {
-     "title": "Mail delays at ICE detention centers leave immigrants missing appeals, facing deportation",
-     "link": "https://www.latimes.com/politics/story/2026-11-25/mail-delays-leave-ice-detainees-missing-appeals-facing-deportation",
-     "summary": "The California Collaborative for Immigrant Justice said at least three people have been deported after their immigration appeals failed to arrive by the deadline.",
+     "title": "Shein to pay $100 million to settle claims it deceived U.S. shoppers",
+     "link": "https://www.latimes.com/business/story/2026-11-25/shein-to-pay-100-million-to-settle-claims-it-deceived-u-s-shoppers",
+     "summary": "The agreement, which the Federal Trade Commission says will fund customer refunds, resolves claims over shipping, supplier audits, skewed reviews and cotton origin.",
      "published": "2026-11-25T11:00+00:00",
      "image": ""
     },
     {
-     "title": "Shein to pay $100 million to settle claims it deceived U.S. shoppers",
-     "link": "https://www.latimes.com/business/story/2026-11-25/shein-to-pay-100-million-to-settle-claims-it-deceived-u-s-shoppers",
-     "summary": "The agreement, which the Federal Trade Commission says will fund customer refunds, resolves claims over shipping, supplier audits, skewed reviews and cotton origin.",
+     "title": "Mail delays at ICE detention centers leave immigrants missing appeals, facing deportation",
+     "link": "https://www.latimes.com/politics/story/2026-11-25/mail-delays-leave-ice-detainees-missing-appeals-facing-deportation",
+     "summary": "The California Collaborative for Immigrant Justice said at least three people have been deported after their immigration appeals failed to arrive by the deadline.",
      "published": "2026-11-25T11:00+00:00",
      "image": ""
     },
@@ -1099,60 +1104,60 @@
    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
    "items": [
     {
-     "title": "Paraguay: detuvieron al exministro de Economía de Santiago Peña por el caso Ueno Bank",
-     "link": "https://www.infobae.com/america/america-latina/2026/11/27/paraguay-detuvieron-al-exministro-de-economia-de-santiago-pena-por-el-caso-ueno-bank/",
-     "summary": "El exfuncionario, investigado por autorizar el ingreso de fondos públicos en la entidad intervenida, rendirá declaración indagatoria este sábado",
-     "published": "2026-11-27T23:21+00:00",
-     "image": "https://www.infobae.com/resizer/v2/HNH5CD7OHFF63CCTP2XVZKTSRU.jpg?auth=6847d0818a0f491f4778e3da128a96835ac5be69fc7e7d90849460a47344b599&smart=true&width=786&height=442"
+     "title": "Liberaron al bioquímico de Esquel acusado de haber mantenido secuestrada a su familia",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/11/28/liberaron-al-bioquimico-de-esquel-acusado-de-haber-mantenido-secuestrada-a-su-familia/",
+     "summary": "Luego de cumplir 10 jornadas detenido y un mes bajo arresto domiciliario, el imputado fue habilitado para trabajar desde su chacra. No obstante, deberá presentarse todos los lunes en la comisaría de Trevelin",
+     "published": "2026-11-28T07:37+00:00",
+     "image": "https://www.infobae.com/resizer/v2/BN5B3LKMIBGQVENDQ633PMEXYI.jpg?auth=3f84323ee8fe128c0c25ccb34297bfb9ce649e1594c2af7c2e46b357b961906d&smart=true&width=1980&height=1080"
     },
     {
-     "title": "Corte Suprema pidió negar nueva tutela de Santiago Uribe Vélez contra su condena por el caso de Los Doce Apóstoles",
-     "link": "https://www.infobae.com/colombia/2026/11/27/corte-suprema-pidio-negar-nueva-tutela-de-santiago-uribe-velez-contra-su-condena-por-el-caso-de-los-doce-apostoles/",
-     "summary": "El magistrado Gerson Chaverra sostuvo que la defensa busca reabrir discusiones ya resueltas sobre la sentencia de 28 años de prisión por homicidio agravado y concierto para delinquir agravado",
-     "published": "2026-11-27T23:20+00:00",
-     "image": "https://www.infobae.com/resizer/v2/YA6PV4QZPBENLNON5BVHTKIG34.jpg?auth=9eb0d8cf4c4099d9c061bb8747a5cbdd2b19fcda24948ea022370c305f534136&smart=true&width=640&height=427"
+     "title": "Cabal exige pruebas sobre supuesto encuentro en EE. UU. y niega críticas contra De La Espriella",
+     "link": "https://www.infobae.com/colombia/2026/11/28/cabal-exige-pruebas-sobre-supuesto-encuentro-en-ee-uu-y-niega-criticas-contra-de-la-espriella/",
+     "summary": "La exsenadora pidió revisar registros diplomáticos y rechazó la versión según la cual habría hablado contra el mandatario ante funcionarios estadounidenses",
+     "published": "2026-11-28T07:34+00:00",
+     "image": "https://www.infobae.com/resizer/v2/DJIF5ZPVH5G6PASIZO4SFCJ4BU.jpg?auth=fbfce04cdb5783021f7aaee501b04c8c2939f8f4fb9c358bc1c49d146d772a4e&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Cuota de mercado de celulares en 2026: Android lidera con el 74% y iOS alcanza el 21%, según Counterpoint",
-     "link": "https://www.infobae.com/tecno/2026/11/27/cuota-de-mercado-de-celulares-en-2026-android-lidera-con-el-74-y-ios-alcanza-el-21-segun-counterpoint/",
-     "summary": "La caída histórica en las ventas de celulares durante 2026 reconfigura el reparto entre sistemas operativos, con Apple en ascenso pese a un crecimiento mínimo de sus ventas",
-     "published": "2026-11-27T23:19+00:00",
-     "image": "https://www.infobae.com/resizer/v2/N7FSPBFIIRFR3DBLKM4DW4LWUU.jpg?auth=da045f902e8dda21bb461409176c5382e458626e44b0e88a5bb70814747a2d62&smart=true&width=1920&height=1280"
+     "title": "Resultados del Chispazo: números ganadores del sorteo de hoy 27 de noviembre",
+     "link": "https://www.infobae.com/mexico/2026/11/28/resultados-del-chispazo-numeros-ganadores-del-sorteo-de-hoy-27-de-noviembre/",
+     "summary": "El sorteo de Chispazo se celebra dos veces al día, a las 15:00 horas y a las 21:00 horas, de lunes a domingo. Esta es la combinación ganadora de los sorteos de hoy",
+     "published": "2026-11-28T07:31+00:00",
+     "image": "https://www.infobae.com/resizer/v2/3KXQY5IA3BAAVP5W6DKVTWVE64.jpg?auth=d436a26edb668e24e69ba19f853667c77e5e754ca82fe2e4f3b1cccb23630112&smart=true&width=1920&height=1080"
     },
     {
-     "title": "Noroña se tropieza al responder sobre el pago de impuestos: se exhibe como evasor fiscal por “resistencia civil”",
-     "link": "https://www.infobae.com/mexico/2026/11/27/norona-se-tropieza-al-responder-sobre-el-pago-de-impuestos-se-exhibe-como-evasor-fiscal-por-resistencia-civil/",
-     "summary": "El senador de Morena se dijo dispuesto a ir a la cárcel por la falta de pago tributario al SAT",
-     "published": "2026-11-27T23:18+00:00",
-     "image": "https://www.infobae.com/resizer/v2/7GAYROLJIBGW5DSELHRKFSYMKI.png?auth=ce086d6e47a2e2444dc911cdc71cd89b37267c5b17e901591fb8246f1bb62480&smart=true&width=1046&height=587"
+     "title": "Sánchez, Feijóo y Abascal ejercerán su derecho al voto en Madrid y Colau lo hará en Barcelona",
+     "link": "https://www.infobae.com/espana/agencias/2026/11/28/sanchez-feijoo-y-abascal-ejerceran-su-derecho-al-voto-en-madrid-y-colau-lo-hara-en-barcelona/",
+     "summary": "El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez, volverá a ejercer su derecho al voto en el colegio de Nuestra Señora del Buen Consejo, ubicado en la calle Juan Montalvo del distrito…",
+     "published": "2026-11-28T07:30+00:00",
+     "image": "https://www.infobae.com/resizer/v2/XFDPUEEUZBAFFFOMTGPSGGYTMQ.jpg?auth=39c597fe9924ef981da53c33ec7391f3fd3f3c53071930cced6fca8d911ad5de&smart=true&width=1200&height=675"
     },
     {
-     "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 27 de noviembre: Activan alerta roja y alerta naranja en estas alcaldías",
-     "link": "https://www.infobae.com/mexico/2026/11/27/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-27-de-noviembre-primera-tormenta-invernal-amenaza-con-nieve-y-lluvias-torrenciales/",
-     "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
-     "published": "2026-11-27T23:18+00:00",
-     "image": "https://www.infobae.com/resizer/v2/QKBTF5LVI5CO5ONOL7MRSAFDEA.jpg?auth=b78f749b4f986202df0af9e08b8cd8c4f2a827f728c48ff287529479e47e3ea1&smart=true&width=1920&height=1080"
+     "title": "Los bloques pugnan mañana por 209 escaños: buscan una mayoría suficiente para ser decisivos en el TC",
+     "link": "https://www.infobae.com/espana/agencias/2026/11/28/los-bloques-pugnan-manana-por-209-escanos-buscan-una-mayoria-suficiente-para-ser-decisivos-en-el-tc/",
+     "summary": "Los electores elegirán este domingo a 209 de los 267 senadores que componen la Cámara Alta, con la novedad de que los bloques de izquierda y derecha concurren a estos comicios bajo diferentes coaliciones con el objetivo…",
+     "published": "2026-11-28T07:15+00:00",
+     "image": "https://www.infobae.com/resizer/v2/ITJT2WDS4JGRVNVVLQ5PC5SG4M.jpg?auth=99cbe028a1b8547cd84c00543e4900e5b42fbe3ea58edeca5f39ee38b42c7519&smart=true&width=1600&height=1066"
     },
     {
-     "title": "Intenso calor en Chimbote obliga a 200 escolares a estudiar fuera de sus aulas por temor a desmayos",
-     "link": "https://www.infobae.com/peru/2026/11/27/intenso-calor-en-chimbote-obliga-a-200-escolares-a-estudiar-fuera-de-sus-aulas-por-temor-a-desmayos/",
-     "summary": "Un docente de la institución educativa señaló que algunos estudiantes sufrieron efectos de las altas temperaturas. En tanto, el colegio pidió a los padres enviar a sus hijos con ropa ligera y agua para mantenerse…",
-     "published": "2026-11-27T23:18+00:00",
-     "image": "https://www.infobae.com/resizer/v2/6NQA5KUD3JDRFCVQPO6OWK7SMI.png?auth=1196b9e7cf2a1042839f49963aebc6e059745230a5ec489c7052e6103c46b74f&smart=true&width=1920&height=1080"
+     "title": "Encontraron a una madre y su hijo muertos en Río Cuarto: analizan un presunto homicidio seguido de suicidio",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/11/28/encontraron-a-una-madre-y-su-hijo-muertos-en-rio-cuarto-analizan-un-presunto-homicidio-seguido-de-suicidio/",
+     "summary": "Las víctimas llevaban cinco días sin vida aproximadamente y sus cuerpos estaban en distintas partes de la propiedad. Los misteriosos últimos mensajes que el hombre habría enviado a dos conocidos",
+     "published": "2026-11-28T07:15+00:00",
+     "image": "https://www.infobae.com/resizer/v2/NCJMS56R25HURKZKTNGVJTATTI.jpg?auth=76a731fa4e1515354c4101fe59e8cfb27a4c46530e0db427b79bd1f0d2137c5b&smart=true&width=1980&height=1080"
     },
     {
-     "title": "Sorteo Superior 2905: Resultados del viernes 27 de noviembre del 2026 de la Lotería Nacional",
-     "link": "https://www.infobae.com/mexico/2026/11/27/sorteo-superior-2905-resultados-del-viernes-27-de-noviembre-del-2026-de-la-loteria-nacional/",
-     "summary": "El plazo para cobrar el premio es de 60 días a partir de la fecha en que se anuncian los resultados para quienes hayan adquirido uno de los cachitos ganadores",
-     "published": "2026-11-27T23:18+00:00",
-     "image": "https://www.infobae.com/resizer/v2/LKBOEY5ST5EMXG4RUA5B6VULSE.png?auth=d1905eb02c6b43c1fc74a0b40c3183d449e0d2ffb79d0429403f8b88f4fd465a&smart=true&width=517&height=302"
+     "title": "Croacia anula la extradición a Alemania del sospechoso acusado de sabotaje a los gasoductos Nord Stream",
+     "link": "https://www.infobae.com/america/agencias/2026/11/28/croacia-anula-la-extradicion-a-alemania-del-sospechoso-acusado-de-sabotaje-a-los-gasoductos-nord-stream/",
+     "summary": "Un tribunal de Croacia ha anulado este viernes la extradición a Alemania de uno de los dos ciudadanos ucranianos sospechosos de participar en el sabotaje de los gasoductos Nord Stream dos meses después de que se…",
+     "published": "2026-11-28T07:15+00:00",
+     "image": "https://www.infobae.com/resizer/v2/VJ3GODA2PVDM3C4XD5VIYZ23EE.jpg?auth=2bb4d093f2da66e8e162e4941b115c37b3277375f4aef86d377cc8b73553ed74&smart=true&width=1696&height=954"
     },
     {
-     "title": "¿Qué está pasando en el Metro y Metrobús hoy 27 de noviembre? Líneas 1, 2 y 3 del STC colapsadas",
-     "link": "https://www.infobae.com/mexico/2026/11/27/que-esta-pasando-en-el-metro-y-metrobus-hoy-27-de-noviembre/",
-     "summary": "Información y actualización del servicio de transporte público en la capital este viernes en vivo minuto a minuto",
-     "published": "2026-11-27T23:18+00:00",
-     "image": "https://www.infobae.com/resizer/v2/WYTGKPNFCVEZXE72VQMHQPGYFQ.jpg?auth=547e791c8b691f203e9b2f1112a9feffab07f2201acb2f090f2bad7eef88f47a&smart=true&width=1920&height=1080"
+     "title": "Ecuador cerró las fronteras para impedir ingresos de extranjeros durante las elecciones seccionales",
+     "link": "https://www.infobae.com/america/america-latina/2026/11/28/ecuador-cerro-las-fronteras-para-impedir-ingresos-de-extranjeros-durante-las-elecciones-seccionales/",
+     "summary": "Las Fuerzas Armadas ecuatorianas reforzaron las áreas de seguridad de los pasos terrestres, los principales puertos de la costa y las instalaciones y puertos pesqueros artesanales",
+     "published": "2026-11-28T07:10+00:00",
+     "image": "https://www.infobae.com/resizer/v2/4YLVD72EPRBTXL63YXQESQSLAM.JPG?auth=dffa3defe18f8b3063fb5087ba1dc0d0af6544e90bc0e20fa711df0c4ac900f0&smart=true&width=6500&height=4335"
     }
    ]
   },
@@ -1164,59 +1169,59 @@
    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
    "items": [
     {
-     "title": "Conta de luz continuará com bandeira tarifária verde em dezembro",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/conta-de-luz-continuara-com-bandeira-tarifaria-verde-em-dezembro.shtml",
-     "summary": "A Aneel (Agência Nacional de Energia Elétrica) informou nesta sexta-feira (27), que a bandeira tarifária continuará verde em dezembro. Assim, não haverá custo extra na conta de luz. Leia mais (11/27/2026 - 20h15)",
-     "published": "2026-11-27T23:15+00:00",
+     "title": "Governo avalia transferir Abin para Ministério da Justiça em Lula 4",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-transferir-abin-para-ministerio-da-justica-em-lula-4.shtml",
+     "summary": "O governo federal avalia transferir a Abin (Agência Brasileira de Inteligência) da Casa Civil para o Ministério da Justiça em meio às discussões sobre a criação do Ministério da Segurança Pública . Leia mais (11/28/2026…",
+     "published": "2026-11-28T07:03+00:00",
      "image": ""
     },
     {
-     "title": "Principal plataforma de computação em nuvem da Força Aérea dos EUA sofreu ataque hacker, diz agência",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml",
-     "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos Estados Unidos , segundo informaram à Reuters três pessoas a par do assunto. O episódio pode comprometer uma vasta quantidade de dados…",
-     "published": "2026-11-27T23:00+00:00",
+     "title": "Nova animação da Disney mira público adulto em carta de amor para mães e filhas",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/nova-animacao-da-disney-mira-publico-adulto-em-carta-de-amor-para-maes-e-filhas.shtml",
+     "summary": "A vilã de uma história nem sempre é uma bruxa desconhecida. Às vezes, ela está dentro de casa, ocupa o lugar de uma mãe ou de uma avó e é justamente quem deveria proteger a família. Em \" Enfeitiçadas: Bem-Vindos a Hexe…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Livros reconstituem acidente criminoso com voo da Chape",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/livros-reconstituem-acidente-criminoso-com-voo-da-chape.shtml",
-     "summary": "O escritor Ivan Sant'Anna é apaixonado por futebol . Colado na televisão, assiste a tudo, de preferência a jogos no Brasil e na Europa. Nos últimos anos, cada vez que via em campo o lateral esquerdo Alan Ruschel sentia…",
-     "published": "2026-11-27T23:00+00:00",
+     "title": "Miopia deve afetar metade da população global até 2050; saiba como retardar a condição em crianças",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/11/miopia-deve-afetar-metade-da-populacao-global-ate-2050-saiba-como-retardar-a-condicao-em-criancas.shtml",
+     "summary": "A oftalmologista Patrícia Kakizaki afirma que o mundo vive hoje uma epidemia de miopia . A afirmação tem fundamento estatístico: um estudo frequentemente citado pela OMS (Organização Mundial da Saúde ) estima que metade…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Ação Educativa reabre galeria virtual após cinco anos com mostra sobre ancestralidade negra",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/acao-educativa-reabre-galeria-virtual-apos-cinco-anos-com-mostra-sobre-ancestralidade-negra.shtml",
-     "summary": "A Ação Educativa reabriu em novembro, mês da Consciência Negra , sua galeria virtual com a exposição \"Raízes de um Futuro Antirracista\". A mostra reúne obras que relacionam a memória e os saberes transmitidos entre…",
-     "published": "2026-11-27T23:00+00:00",
+     "title": "Cirurgião brasileiro cria técnica de transplante que mantém dois corações no paciente",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/cirurgiao-brasileiro-cria-tecnica-de-transplante-que-mantem-dois-coracoes-no-paciente.shtml",
+     "summary": "Marcelo Custódio, 21, se tornou o segundo paciente no Brasil a passar por uma cirurgia que utiliza dois corações temporariamente para viabilizar um transplante. Leia mais (11/28/2026 - 04h00)",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Missão tenta se juntar a outros partidos em ação no STF contra regra das sobras eleitorais",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/missao-tenta-se-juntar-a-outros-partidos-em-acao-no-stf-contra-regra-das-sobras-eleitorais.shtml",
-     "summary": "O Partido Missão pediu ao Supremo Tribunal Federal para entrar como amicus curiae em uma ADI (Ação Direta de Inconstitucionalidade) em que o PDT e o Solidariedade contestam o modelo de distribuição das sobras…",
-     "published": "2026-11-27T22:57+00:00",
+     "title": "Unicamp inicia segunda fase do vestibular 2027 neste domingo; veja o que cai",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/unicamp-inicia-segunda-fase-do-vestibular-2027-neste-domingo-veja-o-que-cai.shtml",
+     "summary": "A Unicamp dá início neste domingo (29) à segunda fase do vestibular 2027. As provas serão aplicadas em duas datas -amanhã e segunda-feira (30)- em cidades do estado de São Paulo e em Brasília. Os candidatos terão cinco…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Governo de São Paulo exclui 149 mercadorias da substituição tributária do ICMS",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-de-sao-paulo-exclui-149-mercadorias-da-substituicao-tributaria-do-icms.shtml",
-     "summary": "O Governo de São Paulo retirará 149 mercadorias do regime de substituição tributária do ICMS (Imposto sobre Circulação de Mercadorias e Serviços) a partir de abril de 2027. Leia mais (11/27/2026 - 19h54)",
-     "published": "2026-11-27T22:54+00:00",
+     "title": "Data centers usam recursos brasileiros sem contribuir para desenvolvimento do país, diz Nina da Hora",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/data-centers-usam-recursos-brasileiros-sem-contribuir-para-desenvolvimento-do-pais-diz-nina-da-hora.shtml",
+     "summary": "A política de atração de data centers para o Brasil corre o risco de aprofundar a dependência tecnológica do país ao oferecer às multinacionais água, energia e território sem garantir o desenvolvimento de tecnologias…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Conferência ESG Racial com Emicida reunirá mil CEOs, C-Levels e gestores do mercado financeiro",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/conferencia-esg-racial-com-emicida-reunira-mil-ceos-c-levels-e-gestores-do-mercado-financeiro.shtml",
-     "summary": "Cerca de mil executivos, CEOs, conselheiros de administração, C-Levels, conselheiros e gestores do mercado financeiro irão se reunir na próxima terça-feira (1°) para debater a integração entre equidade racial…",
-     "published": "2026-11-27T22:40+00:00",
+     "title": "Onda de ataques na Colômbia evidencia propaganda a la Bukele de Espriella",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/onda-de-ataques-na-colombia-evidencia-propaganda-a-la-bukele-de-espriella.shtml",
+     "summary": "\"Aqui fala o presidente da República. Esta é a primeira e última mensagem que vou mandar a vocês. Entreguem os reféns, saiam com as mãos para o alto e vamos tratá-los com consideração. Se não fizerem isso, vamos entrar…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     },
     {
-     "title": "Diogo Nogueira fala pela primeira vez sobre comentário feito a Patrícia Abravanel: 'Entrei na brincadeira'",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/diogo-nogueira-fala-pela-primeira-vez-sobre-comentario-feito-a-patricia-abravanel-entrei-na-brincadeira.shtml",
-     "summary": "Diogo Nogueira falou pela primeira vez sobre a interação que teve com a apresentadora Patrícia Abravanel no dia 15 de novembro durante o Programa do Silvio Santos. Na ocasião, durante o Jogo das Três Pistas, após uma…",
-     "published": "2026-11-27T22:30+00:00",
+     "title": "Racismo algorítmico é falha estrutural, não técnica, afirmam pesquisadoras",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/racismo-algoritmico-e-falha-estrutural-nao-tecnica-afirmam-pesquisadoras.shtml",
+     "summary": "Fotos de pessoas brancas em resultados de buscadores de imagem, filtros que clareiam a cor da pele e equívocos em sistemas de reconhecimento facial que apontam pessoas negras como suspeitas sem evidências não são apenas…",
+     "published": "2026-11-28T07:00+00:00",
      "image": ""
     }
    ]
@@ -1229,60 +1234,60 @@
    "url": "https://g1.globo.com/rss/g1/",
    "items": [
     {
-     "title": "Justiça libera navio para cruzeiros no Brasil, mas mantém proibição de deixar o país por dívida milionária",
-     "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/27/justica-libera-navio-para-cruzeiros-no-brasil-mas-mantem-proibicao-de-deixar-o-pais-por-divida-milionaria.ghtml",
-     "summary": "Conheça o navio espanhol que abriu a temporada de cruzeiros O navio de cruzeiro Buenavista, operado pela companhia espanhola Corazul, foi autorizado pela Justiça de São Paulo a deixar o Porto de Santos (SP) para fazer…",
-     "published": "2026-11-27T23:10+00:00",
-     "image": "https://s2-g1.glbimg.com/J1Bsi24qE7Klr19hDtsX4dbTXtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/losvRoTyK84MSVmTGwBA/g1-phed-76-.png"
+     "title": "Mãe se divide entre luto por filha de 4 anos morta em acidente no interior de SP e alegria com alta do filho internado por um mês e meio",
+     "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/28/mae-se-divide-entre-luto-por-filha-de-4-anos-morta-em-acidente-no-interior-de-sp-e-alegria-com-alta-do-filho-internado-por-um-mes-e-meio.ghtml",
+     "summary": "Mãe que perdeu filha de 4 anos em acidente encontra conforto na recuperação do filho Os pertences da pequena Lara, de 4 anos, continuam nos mesmos lugares da casa onde ela vivia com a família em Ribeirão Preto (SP). A…",
+     "published": "2026-11-28T07:01+00:00",
+     "image": "https://s2-g1.glbimg.com/fnMHrqkMPSw6kR9tfnj1oQs_gug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/z0a0QVSNmib9JLSxMbKw/familia.jpg"
     },
     {
-     "title": "'Experiência muito mágica': Anelis Assumpção transforma baile de reggae sobre o rio Guamá, em Belém, em música do novo disco",
-     "link": "https://g1.globo.com/pa/para/noticia/2026/11/27/experiencia-muito-magica-anelis-assumpcao-transforma-baile-de-reggae-sobre-o-rio-guama-em-belem-em-musica-do-novo-disco.ghtml",
-     "summary": "Capa do álbum 'Anelis e o favo favorito', de Anelis Assumpção Divulgação Uma noite em um baile de reggae num bar de palafitas, à beira do rio Guamá, em Belém, virou música no novo trabalho de Anelis Assumpção, um dos…",
-     "published": "2026-11-27T23:09+00:00",
-     "image": "https://s2-g1.glbimg.com/bCZbPrUoX_Nn4cEqoL68Ekvmtu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/ZtVvmMSkqfRs71lB7vkA/anelisassumpcao-favocapa.jpg"
-    },
-    {
-     "title": "Quatro trabalhadores são resgatados em carvoaria com condições análogas à escravidão em Iguatama",
-     "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/27/quatro-trabalhadores-sao-resgatados-em-carvoaria-com-condicoes-analogas-a-escravidao-em-iguatama.ghtml",
-     "summary": "Delegado comenta caso de trabalho análogo à escravidão em Iguatama Quatro trabalhadores, sendo três homens e um adolescente, do Maranhão e Norte de Minas, foram encontrados em situação análoga à escravidão em uma…",
-     "published": "2026-11-27T23:06+00:00",
-     "image": "https://s2-g1.glbimg.com/kF2OkuChqaSd2X0Wml3LIYGO-gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/l/NxbH8mRYqClcWlGqlRsw/trabalhadores.jpeg"
-    },
-    {
-     "title": "VÍDEOS: EPTV 2 Sul de Minas de sexta-feira, 27 de novembro de 2026",
-     "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/27/videos-eptv-2-sul-de-minas-de-sexta-feira-27-de-novembro-de-2026.ghtml",
+     "title": "Dor nas costas é sinal de abdômen fraco? Estudo questiona explicação comum",
+     "link": "https://g1.globo.com/saude/noticia/2026/11/28/dor-nas-costas-e-sinal-de-abdomen-fraco-estudo-questiona-explicacao-comum.ghtml",
      "summary": "",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://s2-g1.glbimg.com/HAzQBdFHj5FsRyoB0l6CdvkCKmI=/s01.video.glbimg.com/deo/vi/59/88/15288859"
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/Q8UqJ018kl3zP1W30o1VmYCLqMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/Vh9cnmTGSqdRA5s5OInA/adobestock-652731694.jpeg"
     },
     {
-     "title": "MPPA faz busca e apreensão na Prefeitura de Medicilândia",
-     "link": "https://g1.globo.com/pa/para/noticia/2026/11/27/mppa-faz-busca-e-apreensao-na-prefeitura-de-medicilandia.ghtml",
-     "summary": "",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://s2-g1.glbimg.com/rKprGOlTv3AsYvIgcaJBDf1dxUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/2BtTjoQrKFB6WxWAwYEg/mp.jpeg"
+     "title": "Martinho da Vila canta músicas de Gilberto Gil, Jorge Ben Jor, Pedro Luís e Xande de Pilares entre os sambas autorais do álbum 'Criações 88'",
+     "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/28/martinho-da-vila-canta-musicas-de-gilberto-gil-jorge-ben-jor-pedro-luis-e-xande-de-pilares-entre-os-sambas-autorais-do-album-criacoes-88.ghtml",
+     "summary": "Martinho da Vila lança o álbum 'Criações 88' na quarta-feira, 2 de dezembro, Dia Nacional do Samba Divulgação ♫ NOTÍCIA ♬ “Criações 88” é o título do álbum de músicas inéditas que Martinho da Vila lançará na…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/uvTcuXaJEFrXatYHUzZ5RwH9CNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/vbVjACSkmSljCdjbjivg/martinhocriacoes88foto.jpg"
     },
     {
-     "title": "Motorista perde controle de carro, bate em veículo estacionado e capota no noroeste de SP; VÍDEO",
-     "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/27/motorista-perde-controle-de-carro-bate-em-veiculo-estacionado-e-capota-no-noroeste-de-sp-video.ghtml",
-     "summary": "Motorista fica ferida perder controle e capotar carro no noroeste de SP Uma mulher ficou ferida após o carro que dirigia capotar na manhã desta sexta-feira (27), na Rua Porangaba, em Araçatuba (SP). O acidente aconteceu…",
-     "published": "2026-11-27T22:59+00:00",
-     "image": "https://s2-g1.glbimg.com/nxywg0SGnUlStilZ_isU4qLHKEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Z/z9ODMzTHAjEopsq5vlUg/capota-aracatuba.jpeg"
+     "title": "BH e Região Metropolitana promovem Dia D de combate à dengue neste sábado; veja programação",
+     "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/28/bh-e-regiao-metropolitana-promovem-dia-d-de-combate-a-dengue-neste-sabado-veja-programacao.ghtml",
+     "summary": "Agente da PBH fazendo vistoria em residência PBH O governo de Minas realiza, neste sábado (28), o Dia D de Enfrentamento às Arboviroses. A mobilização busca conscientizar a população sobre a importância da prevenção e…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/jtnKEu5eZeUaEUmhigXqHHEyMBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/pOC0tGRSa3tcc4gGfcnw/captura-de-tela-2026-11-27-144511.png"
     },
     {
-     "title": "VÍDEOS: JL2 de sexta-feira, 27 de novembro de 2026",
-     "link": "https://g1.globo.com/pa/para/edicao/2026/11/27/videos-jl2-de-sexta-feira-27-de-novembro-de-2026.ghtml",
-     "summary": "Assista aos vídeos do telejornal com notícias do Pará.",
-     "published": "2026-11-27T22:58+00:00",
-     "image": "https://s2-g1.glbimg.com/y3_giIxKPd5ThEvPJth8UPvzuP4=/s01.video.glbimg.com/deo/vi/25/88/15288825"
+     "title": "Robôs viram garçons e até cantam parabéns para clientes em padarias e restaurantes da Grande Vitória",
+     "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/28/robos-viram-garcons-e-ate-cantam-parabens-para-clientes-em-padarias-e-restaurantes-da-grande-vitoria.ghtml",
+     "summary": "Padaria na Serra começa a usar robô como garçom O atendimento robotizado deixou de ser cena de filmes de ficção ou grandes centros no exterior e já faz parte da rotina de estabelecimentos na Grande Vitória, no Espírito…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/uE_3zTGgBUTGIfUYqH7YmsYNQWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/oNS2GzTbSdwQ85DoNYHg/thumb-fotos-32-.jpg"
     },
     {
-     "title": "Assista aos telejornais da TV Liberal",
-     "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-     "summary": "",
-     "published": "2026-11-27T22:53+00:00",
-     "image": ""
+     "title": "Empresa responsável por decoração de Natal de R$ 6 milhões na Avenida Paulista nunca havia vencido edital público",
+     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/28/empresa-responsavel-por-decoracao-de-natal-de-r-6-milhoes-na-avenida-paulista-nunca-havia-vencido-edital-publico.ghtml",
+     "summary": "Após críticas, enfeites de Natal em SP ganham desenhos dos dois lados O Instituto Girassol, selecionado pela Prefeitura de São Paulo para executar o projeto de Natal na Avenida Paulista e no Parque Prefeito Mário Covas…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/dgagQHD6itUHnirf5IjPEI2fp9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/o/Ihg4eeRnqX1Hm1Qhxbag/54988898188-bbb2fe1b21-k.jpg"
+    },
+    {
+     "title": "Data centers gigantes invadem bairros residenciais no Japão e provocam revolta de moradores",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/28/data-centers-gigantes-invadem-bairros-residenciais-no-japao-e-provocam-revolta-de-moradores.ghtml",
+     "summary": "Susumu Goto olha pela janela de sua casa com data centers refletindo no vidro Issei Kato / REUTERS Até alguns anos atrás, a casa de Susumu Goto em Kashiwa, a nordeste de Tóquio, tinha vista para um campo gramado onde os…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/YlvnVAiwBiK3OdWqjluq7VIGmq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/1/jv1wXrTOqHJxvrDpXnzA/2026-11-26t142450z-1-lynxnpemap1a2-rtroptp-4-japan-data-centres.jpg"
+    },
+    {
+     "title": "GTA 6 mostra mulheres no comando, mas ainda derrapa na violência contra elas: o que as jogadoras acharam?",
+     "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/28/gta-6-mostra-mulheres-no-comando-mas-ainda-derrapa-na-violencia-contra-elas-o-que-as-jogadoras-acharam.ghtml",
+     "summary": "O GTA 6 dá uma virada na história da franquia: pela primeira vez, uma mulher assume o protagonismo do jogo com história própria. Lucia ganha espaço e liberdade para fazer o que os personagens masculinos sempre fizeram…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://s2-g1.glbimg.com/B72N7X9FyiXkq1Q6cg3kqBoEslY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/h/yMDbTBQ9GB8FkA99zCCw/fotojet-34-.jpg"
     }
    ]
   },
@@ -1294,59 +1299,59 @@
    "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
    "items": [
     {
+     "title": "Onda de ataques na Colômbia evidencia propaganda a la Bukele de Espriella",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/onda-de-ataques-na-colombia-evidencia-propaganda-a-la-bukele-de-espriella.shtml",
+     "summary": "\"Aqui fala o presidente da República. Esta é a primeira e última mensagem que vou mandar a vocês. Entreguem os reféns, saiam com as mãos para o alto e vamos tratá-los com consideração. Se não fizerem isso, vamos entrar…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Taiwan realiza eleições locais com disputa acirrada pela prefeitura da capital Taipé",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/taiwan-realiza-eleicoes-locais-com-disputa-acirrada-pela-prefeitura-da-capital-taipe.shtml",
+     "summary": "A disputa pela prefeitura de Taipé é o principal teste para o partido do presidente de Taiwan , Lai Ching-te, nas eleições locais deste sábado (28). O atual prefeito, Chiang Wan-an, da opocição KMT (Kuomintang), tenta a…",
+     "published": "2026-11-28T05:41+00:00",
+     "image": ""
+    },
+    {
+     "title": "Ataque israelense mata dois vigias ligado ao Médicos Sem Fronteiras em Gaza",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ataque-israelense-mata-dois-vigias-ligado-ao-medicos-sem-fronteiras-em-gaza.shtml",
+     "summary": "Um ataque aéreo israelense matou dois vigias de uma unidade dos MSF (Médicos Sem Fronteiras), na Cidade de Gaza na noite de sexta-feira (27). O Exército de Israel assumiu a autoria da ação na madrugada de sábado (28)…",
+     "published": "2026-11-28T02:53+00:00",
+     "image": ""
+    },
+    {
+     "title": "Com ofertas de até R$ 500 mil, brasileiros relatam como caíram em golpe para lutar pela Rússia",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-ofertas-de-ate-r-500-mil-brasileiros-relatam-como-cairam-em-golpe-para-lutar-pela-russia.shtml",
+     "summary": "Igor Pereira Santos, 37, um pequeno operador do mercado de ações, ansiava por alguma emoção. Navegando pelo YouTube , lembra ele, deparou-se com um vídeo que oferecia a aventura de uma vida inteira -acompanhada de uma…",
+     "published": "2026-11-28T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "China pressiona Colômbia após visita de delegação de deputados a Taiwan",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/china-pressiona-colombia-apos-visita-de-delegacao-de-deputados-a-taiwan.shtml",
+     "summary": "Embaixadores chineses costumam reclamar por nota, e a nota quase sempre soa igual. Nesta semana, o que representa o país asiático na Colômbia apelou a Confúcio . Leia mais (11/27/2026 - 23h00)",
+     "published": "2026-11-28T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "Precisamos ter um Estado palestino e não podemos ter um Estado palestino, afirma escritor israelense",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/precisamos-ter-um-estado-palestino-e-nao-podemos-ter-um-estado-palestino-afirma-escritor-israelense.shtml",
+     "summary": "A solução que o escritor israelense Yossi Klein Halevi considera indispensável para o futuro de Israel é também aquela que diz mais temer. Leia mais (11/27/2026 - 23h00)",
+     "published": "2026-11-28T02:00+00:00",
+     "image": ""
+    },
+    {
+     "title": "'A guerra é o inferno', escreveu soldado brasileiro que luta na Ucrânia",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/a-guerra-e-o-inferno-escreveu-soldado-brasileiro-que-luta-na-ucrania.shtml",
+     "summary": "Na periferia precária de São Paulo, Chairon Vitor Sepulvida de Souza passava os dias entregando encomendas e as noites trabalhando como segurança. Mesmo assim, o dinheiro era curto. Leia mais (11/27/2026 - 23h00)",
+     "published": "2026-11-28T02:00+00:00",
+     "image": ""
+    },
+    {
      "title": "Líder da seita do jejum é condenado por homicídio culposo de 123 no Quênia",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lider-da-seita-do-jejum-e-condenado-por-homicidio-culposo-de-123-no-quenia.shtml",
      "summary": "Um autoproclamado pastor do Quênia foi considerado culpado nesta sexta-feira (27) por homicídio culposo pela morte de 123 pessoas. A decisão foi anunciada após ele ter sido condenado a 200 anos de prisão pelo…",
      "published": "2026-11-27T19:55+00:00",
-     "image": ""
-    },
-    {
-     "title": "Oito migrantes morrem tentando chegar às ilhas Canárias; Espanha envia militares para conter fluxo",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/oito-migrantes-morrem-tentando-chegar-as-ilhas-canarias-espanha-envia-militares-para-conter-fluxo.shtml",
-     "summary": "Pelo menos oito migrantes foram encontrados mortos quando um barco que carregava cem pessoas foi resgatado no mar próximo às ilhas Canárias, disseram as autoridades espanholas nesta sexta-feira (27). Leia mais…",
-     "published": "2026-11-27T18:54+00:00",
-     "image": ""
-    },
-    {
-     "title": "Como o cristianismo moldou a figura do diabo para combater outras religiões",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/como-o-cristianismo-moldou-a-figura-do-diabo-para-combater-outras-religioes.shtml",
-     "summary": "Olhos \"flamejantes\", \"como labaredas de fogo\", e uma voz de \"rouquidão intensa\". Foi assim que o papa Francisco descreveu o Diabo em seu diário pessoal, que teve sua edição em inglês publicada nesta terça-feira (24)…",
-     "published": "2026-11-27T17:50+00:00",
-     "image": ""
-    },
-    {
-     "title": "Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições do país",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/como-a-imigracao-transformou-a-espanha-na-ultima-decada-e-passou-a-ser-tema-fundamental-das-eleicoes-do-pais.shtml",
-     "summary": "A chegada de milhões de imigrantes nos últimos anos fez com que a população da Espanha atingisse um recorde histórico. Leia mais (11/27/2026 - 14h03)",
-     "published": "2026-11-27T17:03+00:00",
-     "image": ""
-    },
-    {
-     "title": "Edmundo González, opositor exilado da Venezuela, anuncia volta ao país",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/edmundo-gonzalez-opositor-exilado-da-venezuela-anuncia-volta-ao-pais.shtml",
-     "summary": "Edmundo González , ex-candidato presidencial na Venezuela , anunciou nesta quinta-feira (26) que retornará ao país após mais de dois anos de exílio na Espanha, para onde foi após as eleições presidenciais de 2024, nas…",
-     "published": "2026-11-27T15:45+00:00",
-     "image": ""
-    },
-    {
-     "title": "Tempestade e ventania provocam inundações, atrasam voos e deixam quase 1 milhão sem luz nos EUA",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/tempestade-e-ventania-provocam-inundacoes-atrasam-voos-e-deixam-quase-1-milhao-sem-luz-nos-eua.shtml",
-     "summary": "Uma tempestade atingiu a costa leste dos Estados Unidos na quinta-feira (26), durante o feriado de Ação de Graças , e quase 1 milhão de pessoas ficaram sem energia elétrica. Chuvas e rajadas de vento de até 112 km/h…",
-     "published": "2026-11-27T14:11+00:00",
-     "image": ""
-    },
-    {
-     "title": "Xi Jinping amplia expurgo no Partido Comunista e derruba dirigente cotado para topo do poder na China",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/xi-jinping-amplia-expurgo-no-partido-comunista-e-derruba-dirigente-cotado-para-topo-do-poder-na-china.shtml",
-     "summary": "O líder do Partido Comunista em Xangai , Chen Jining, está sendo investigado por suspeita de \"violações graves\", anunciou o regime da China nesta semana. A medida é considerada surpreendente, já que o dirigente era…",
-     "published": "2026-11-27T12:39+00:00",
-     "image": ""
-    },
-    {
-     "title": "Zelenski compara fala de Trump sobre Putin a elogio a Hitler na Segunda Guerra",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/zelenski-compara-fala-de-trump-sobre-putin-a-elogio-a-hitler-na-segunda-guerra.shtml",
-     "summary": "O presidente da Ucrânia , Volodimir Zelenski , comparou a declaração recente de Donald Trump que chamou Vladimir Putin de amigo, a elogios ao líder nazista Adolf Hitler . Leia mais (11/27/2026 - 08h27)",
-     "published": "2026-11-27T11:27+00:00",
      "image": ""
     }
    ]
@@ -1359,60 +1364,60 @@
    "url": "https://www.japantimes.co.jp/feed/",
    "items": [
     {
-     "title": "‘The Moon is Watching’ stages an absurd erotica in the French countryside",
-     "link": "https://www.japantimes.co.jp/culture/2026/11/28/film/the-moon-is-watching/",
-     "summary": "Naoko Watanabe attempts to give a subversive feminist reframing to her adaptation of an erotic novel, but ultimately falls flat.",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/575710.jpg"
+     "title": "Number of births in Japan rises for the first time in 11 years",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/japan/society/japan-births-rise/",
+     "summary": "The rise may have reflected an increase in the number of marriages in 2024 after years of decline during the COVID-19 pandemic.",
+     "published": "2026-11-28T06:22+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576447.jpg"
     },
     {
-     "title": "A former loom house offers a quiet look into Kyoto’s bygone Silk Road",
-     "link": "https://www.japantimes.co.jp/life/2026/11/28/travel/kyoto-tango-peninsula-silk-road-kaya-loom-house/",
-     "summary": "In its heyday, Yosano in northern Kyoto Prefecture used to be filled with the sounds of clacking looms.",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/575940.jpg"
+     "title": "WWE star Bronson Reed dies at 38",
+     "link": "https://www.japantimes.co.jp/sports/2026/11/28/more-sports/bronson-reed-wwe-wrestling/",
+     "summary": "The company paid tribute to Reed, calling him a \"larger-than-life figure in WWE.\"",
+     "published": "2026-11-28T06:21+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576446.jpg"
     },
     {
-     "title": "Kobe city government proposes tax on vacant condo units",
-     "link": "https://www.japantimes.co.jp/news/2026/11/27/japan/kobe-vacant-condo-tax/",
-     "summary": "If enacted, it would mark the first tax in Japan targeting vacant condominium units specifically.",
-     "published": "2026-11-27T08:36+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576371.jpg"
+     "title": "Japan expected to push for debate on nuclear subs in security document revisions",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/japan/japan-nuclear-submarines-security-documents/",
+     "summary": "Japan is expected to say in the documents due by the year-end that it will \"begin considering and reach a conclusion\" on the controversial issue.",
+     "published": "2026-11-28T05:48+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576444.jpg"
     },
     {
-     "title": "Suzuki to domestically produce rare metal-free EV batteries",
-     "link": "https://www.japantimes.co.jp/business/2026/11/27/companies/suzuki-rare-metal-free-batteries/",
-     "summary": "By making rare metal-free batteries, the company aims to curb procurement risks for materials for which Japan relies on imports.",
-     "published": "2026-11-27T08:25+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576368.jpg"
+     "title": "Evidence of deepest explosive volcanic eruption found in Pacific trench",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/world/science-health/deepest-explosive-volcanic-eruption/",
+     "summary": "The researchers are trying to understand how these explosive eruptions occurred at a depth of 6,500 meters below the surface.",
+     "published": "2026-11-28T03:57+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576440.jpg"
     },
     {
-     "title": "A documentarian’s painstaking portrait of Bunyo Ishikawa, the ‘Battlefield Bohemian’",
-     "link": "https://www.japantimes.co.jp/culture/2026/11/27/film/bunyo-ishikawa-documentary-atsunori-kawamura-interview/",
-     "summary": "Former NHK director Atsunori Kawamura spent seven years making his documentary about a photojournalist on the front lines.",
-     "published": "2026-11-27T07:45+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/575672.jpg"
+     "title": "Seoul monitoring signs of possible visit to China by North Korea’s Kim",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/asia-pacific/politics/seoul-north-korea-kim-visit-china/",
+     "summary": "Chinese leader Xi Jinping reportedly told South Korean President Lee Jae Myung during their summit earlier this month that Kim could visit China.",
+     "published": "2026-11-28T03:22+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576441.jpg"
     },
     {
-     "title": "Upper House rejects censure motion against education minister",
-     "link": "https://www.japantimes.co.jp/news/2026/11/27/japan/politics/censure-motion-voted-down/",
-     "summary": "The failure likely ends opposition efforts to unseat Yoshihiro Seki as the focus shifts to getting key bills passed before parliament closes.",
-     "published": "2026-11-27T07:34+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576334.jpg"
+     "title": "North Korean launderers turn to little-known crypto services to move Binance haul: researchers",
+     "link": "https://www.japantimes.co.jp/business/2026/11/28/tech/north-korea-money-laundering-binance/",
+     "summary": "U.S. authorities have blamed North Korean hackers for the largest heist in history after $6.3 billion worth of crypto was stolen on Oct. 29.",
+     "published": "2026-11-28T01:12+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576437.jpg"
     },
     {
-     "title": "Number of students not attending school in Japan reaches record",
-     "link": "https://www.japantimes.co.jp/news/2026/11/27/japan/society/japan-school-absency-record/",
-     "summary": "Over half of the students cited in the education ministry's annual report on student issues did not attend school for at least 90 days.",
-     "published": "2026-11-27T07:26+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576325.jpg"
+     "title": "Russian military flotilla bound for Libya turns around after sinking of warship",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/world/russian-military-flotilla-libya-turns-around/",
+     "summary": "A Ukrainian military intelligence official and a Middle East security official confirmed that the flotilla had turned from heading to Libya.",
+     "published": "2026-11-28T01:11+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576436.jpg"
     },
     {
-     "title": "U.S. tariff plan has Japan asking questions and pushing back",
-     "link": "https://www.japantimes.co.jp/business/2026/11/27/trump-tariff-japan/",
-     "summary": "Rates could be taken to 15% on most Japanese goods, from the current 12.5%.",
-     "published": "2026-11-27T07:17+00:00",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576351.jpg"
+     "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+     "link": "https://www.japantimes.co.jp/news/2026/11/28/world/hackers-us-air-force-computing-platform/",
+     "summary": "The development could jeopardize a vast swathe of sensitive tactical, personnel and logistics data.",
+     "published": "2026-11-28T01:11+00:00",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576435.jpg"
     }
    ]
   },
@@ -1424,60 +1429,60 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "items": [
     {
-     "title": "Wisconsin court rejects prenup after husband's monthly income surpasses $81,000",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-wisconsin-wife-signed-a-prenup-two-days-before-her-2006-wedding-that-promised-350000-after-15-years-of-marriage-20-years-later-judges-rejected-the-deal-as-her-husbands-income-exceeded-81000-a-month/articleshow/136197083.cms",
-     "summary": "In Wisconsin, a marriage contract ignited a lengthy divorce dispute marked by staggering wealth disparities. After almost two decades, Tracy Marie Chernick managed to contest the fairness of their initial agreement. The…",
-     "published": "2026-11-27T22:27+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136197147,imgsize-820561.cms"
+     "title": "A house renovation in London uncovered a basket hidden behind a wall",
+     "link": "https://timesofindia.indiatimes.com/science/archaeology/a-house-renovation-in-london-uncovered-a-basket-hidden-behind-a-wall-inside-were-17th-century-shoes-broken-glass-and-four-dried-chickens/articleshow/136213885.cms",
+     "summary": "In a fascinating archaeological find at Lauderdale House, London, a wicker basket dating back to the 17th century was unearthed, revealing hidden objects like broken shoes. These artifacts were once believed to…",
+     "published": "2026-11-28T07:26+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136214069,imgsize-134936.cms"
     },
     {
-     "title": "Archaeologists in a West Texas rock shelter found a hunting kit left untouched for about 6,500 years",
-     "link": "https://timesofindia.indiatimes.com/science/archaeology/archaeologists-in-a-west-texas-rock-shelter-found-a-hunting-kit-left-untouched-for-about-6500-years-with-10-dart-shafts-a-broken-boomerang-a-spear-thrower-and-a-folded-pronghorn-hide-with-its-hair-still-intact/articleshow/136187073.cms",
-     "summary": "In a remarkable archaeological find in West Texas, researchers uncovered a hunting kit that dates back approximately 6,000 years. The collection features various stone and wooden foreshafts, along with essential hunting…",
-     "published": "2026-11-27T22:17+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136187197,imgsize-174688.cms"
-    },
-    {
-     "title": "Virginia worker wins disability benefits seven years after 20-foot construction fall",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-virginia-construction-worker-fell-about-20-feet-while-installing-siding-and-later-needed-spinal-surgery-seven-years-on-an-appeals-court-has-rejected-his-employers-bid-to-stop-disability-benefits/articleshow/136189169.cms",
-     "summary": "A Virginia appeals court upheld the temporary total disability benefits for construction worker Olegario Felipe Valles. Valles had suffered serious injuries from a 20-foot fall while working in 2019 and underwent spinal…",
-     "published": "2026-11-27T21:25+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136189272,imgsize-1313872.cms"
-    },
-    {
-     "title": "Mayo Clinic to pay $906K in back wages over unpaid pre-shift work",
-     "link": "https://timesofindia.indiatimes.com/world/us/mayo-clinic-has-agreed-to-pay-906088-in-back-wages-after-minnesota-investigated-employees-working-before-their-shifts-to-start-computers-appointment-staff-will-now-get-five-paid-minutes-each-day-just-to-log-in/articleshow/136188742.cms",
-     "summary": "Mayo Clinic has committed to paying over $906,000 in back wages to employees after an investigation uncovered they were required to perform preparatory tasks without compensation prior to their shifts. To rectify this…",
-     "published": "2026-11-27T21:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136188945,imgsize-838365.cms"
-    },
-    {
-     "title": "Three of five adult baboon skulls found in Chad bear puncture marks from eagle talons",
-     "link": "https://timesofindia.indiatimes.com/science/discovery/three-of-five-adult-baboon-skulls-found-in-chad-bear-puncture-marks-consistent-with-eagle-talons-raising-new-questions-about-aerial-predators-faced-by-early-humans/articleshow/136044580.cms",
-     "summary": "In a groundbreaking study, researchers in Chad have uncovered puncture marks on baboon skulls, suggesting that eagles may prey on these large primates. Out of five examined skulls, three displayed signs typical of eagle…",
-     "published": "2026-11-27T21:15+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136185120,imgsize-64772.cms"
-    },
-    {
-     "title": "North Dakota man claimed 1993 map gave access over neighbours' land; court rejected easement claim",
-     "link": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-landowner-said-a-1993-property-map-gave-him-access-over-neighbours-land-but-the-deed-and-map-were-both-recorded-at-noon-in-2026-the-state-supreme-court-rejected-his-easement-claim/articleshow/136187062.cms",
-     "summary": "In a recent legal clash in North Dakota, landowner Rudra Tamm faced a setback as the North Dakota Supreme Court dismissed his case concerning access roads through adjacent properties. The court determined Tamm did not…",
-     "published": "2026-11-27T20:30+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136187179,imgsize-2001520.cms"
-    },
-    {
-     "title": "Michigan couple legally adopts two foster siblings after five years together",
-     "link": "https://timesofindia.indiatimes.com/world/us/erin-and-michael-kramer-spent-five-years-raising-two-foster-siblings-without-knowing-when-they-could-become-a-permanent-family-a-michigan-supreme-court-adoption-ceremony-has-now-made-both-children-legally-theirs/articleshow/136187164.cms",
+     "title": "London Zoo breeds 15 tiny Ghanaian frogs in world-first conservation success",
+     "link": "https://timesofindia.indiatimes.com/world/uk/london-zoo-has-bred-15-tiny-frogs-from-ghana-for-the-first-time-under-human-care-creating-a-new-opportunity-to-protect-a-species-threatened-by-habitat-loss/articleshow/136097215.cms",
      "summary": "",
-     "published": "2026-11-27T20:25+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136187196,imgsize-848456.cms"
+     "published": "2026-11-28T07:23+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136097417,imgsize-1368437.cms"
     },
     {
-     "title": "A Virginia farm that has been cultivated for more than 375 years is now permanently protecting 1,145 acres from development, including 452 acres of active farmland and 4.5 miles of river shoreline",
-     "link": "https://timesofindia.indiatimes.com/world/us/historic-virginia-farm-secures-permanent-protection-for-1145-acres-of-land-and-agriculture-after-375-years/articleshow/136212079.cms",
-     "summary": "Conservation efforts have been successful in protecting 1,145 acres of Retreat Farm in Hanover County, Virginia. This area includes prime farmland, wetlands, and river shoreline along the Pamunkey River. The Capital…",
-     "published": "2026-11-27T20:20+00:00",
-     "image": "https://static.toiimg.com/photo/msid-136213682,imgsize-220954.cms"
+     "title": "Namibia moved 575 animals from drought-hit Etosha to restore wildlife populations",
+     "link": "https://timesofindia.indiatimes.com/science/wildlife/namibia-moves-575-wild-animals-from-drought-hit-etosha-national-park-to-conservancies-aiming-to-restore-wildlife-populations-and-give-lions-more-prey/articleshow/136131863.cms",
+     "summary": "",
+     "published": "2026-11-28T07:15+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136132264,imgsize-168592.cms"
+    },
+    {
+     "title": "C$470 million payout for Nova Scotia workers after court strikes down wage restriction law",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/public-sector-workers-in-nova-scotia-faced-two-years-of-frozen-wages-under-a-2015-law-a-court-has-approved-a-compensation-agreement-estimated-at-c470-million-with-eligible-workers-able-to-receive-up-to-c5000/articleshow/136213149.cms",
+     "summary": "Public sector workers in Canada's Nova Scotia province could receive up to C$5,000 each under a C$470 million compensation deal approved by a court. The settlement follows a ruling that declared a 2015 law restricting…",
+     "published": "2026-11-28T06:33+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136213839,imgsize-158474.cms"
+    },
+    {
+     "title": "Sydney buyers win court fight over promised ocean views",
+     "link": "https://timesofindia.indiatimes.com/real-estate/news/sydney-buyers-who-agreed-to-pay-6-2-million-for-a-bronte-home-won-their-310000-deposit-back-in-court-after-the-selling-agent-failed-to-disclose-plans-for-a-100-apartment-tower-next-door-that-threatened-to-obstruct-the-propertys-advertised-sweeping-ocean-views-the-home-later-sold-for-1-1-million-less/articleshow/136213996.cms",
+     "summary": "In a landmark ruling, a New South Wales court has declared a $6.2 million home sale in Bronte void, citing undisclosed development plans. Buyers discovered a looming nine-storey structure that would block their ocean…",
+     "published": "2026-11-28T06:33+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136214104,imgsize-256656.cms"
+    },
+    {
+     "title": "Hawaii woman's kindness reunites Chicago family with long-lost photo albums",
+     "link": "https://timesofindia.indiatimes.com/world/us/rosa-lopez-rescued-nine-discarded-photo-albums-outside-her-hawaii-home-and-spent-weeks-tracing-their-owner-a-chicago-woman-and-her-mother-then-flew-across-the-us-to-recover-their-late-relatives-family-memories/articleshow/136212084.cms",
+     "summary": "Rosa Lopez discovered old family photo albums outside her condominium in Waikiki, Hawaii, and decided to help. After researching, she found the albums belonged to a family in Chicago. Anna Richardson and her mother…",
+     "published": "2026-11-28T06:32+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136212084,imgsize-87824.cms"
+    },
+    {
+     "title": "Melbourne's 1920 garage-turned-cinema hits market at $2.75 million",
+     "link": "https://timesofindia.indiatimes.com/real-estate/news/a-1920-building-in-melbourne-that-began-as-one-of-the-citys-first-drive-through-garages-then-became-a-petrol-station-and-a-cinema-is-for-sale-for-the-first-time-in-46-years-with-a-2-75-million-top-guide/articleshow/136213923.cms",
+     "summary": "A historic building at 802 High Street, Thornbury, is set to hit the market soon. Initially a motor garage, the property has served various purposes over the years, including an independent cinema. Its renovation in…",
+     "published": "2026-11-28T06:31+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136214005,imgsize-783280.cms"
+    },
+    {
+     "title": "Around six drones swarmed US airbase in Britain, none recovered: Report",
+     "link": "https://timesofindia.indiatimes.com/world/uk/around-six-drones-swarmed-us-airbase-in-britain-none-recovered-report/articleshow/136240362.cms",
+     "summary": "Several unidentified drones reportedly encroached upon RAF Lakenheath, a major US military airbase in Britain. Security alerts prompted US personnel to shelter in place during this incident on November 13. The drones…",
+     "published": "2026-11-28T06:19+00:00",
+     "image": "https://static.toiimg.com/photo/msid-136240400,imgsize-127018.cms"
     }
    ]
   },
@@ -1489,60 +1494,60 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "items": [
     {
-     "title": "Colombian Congress chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
-     "summary": "Colombian congressional leaders lined up to reaffirm the one-China policy in meetings with Beijing’s ambassador, as nine lawmakers neared the end of a trip to Taiwan that Colombian President Abelardo de la Espriella has…",
-     "published": "2026-11-27T22:27+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/e3e66569-6bc7-45c5-9632-5c744f24cfbe_c30bada8.jpg?itok=VplS0C8p&v=1795818453"
+     "title": "About 200 evacuated as scaffolding catches fire at Hong Kong industrial building",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3376121/about-200-evacuated-scaffolding-catches-fire-hong-kong-industrial-building",
+     "summary": "About 200 people have been evacuated after a fire broke out at an industrial building in Hong Kong’s Tuen Mun when exterior scaffolding caught alight. Police said they were alerted to the blaze at No 2 Kin Fat Lane at…",
+     "published": "2026-11-28T07:36+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/d692cc20-00cd-47a3-8a63-e428f33a29b5_d8994601.jpg?itok=4hLfcN-1&v=1795851412"
     },
     {
-     "title": "Taiwan is expanding its military draft. Will those troops make a difference?",
-     "link": "https://www.scmp.com/news/china/politics/article/3376027/taiwan-expanding-its-military-draft-will-those-troops-make-difference",
-     "summary": "Taiwan’s move to toughen up on exemptions to military service has sparked anxiety among some young men facing conscription and raised questions over whether expanding recruitment will actually strengthen the island’s…",
-     "published": "2026-11-27T22:00+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/60e37ebb-e8b6-4738-8017-26e01512cad3_65249b69.jpg?itok=hF7T_CUo&v=1795817947"
+     "title": "Abby Choi’s ex-husband deflects blame as he insists his father killed her",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376114/abby-chois-ex-husband-deflects-blame-he-defends-claim-his-father-killed-her",
+     "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s ex-husband has blamed several people in court while defending an account of the killing that the prosecution and two family members also on trial have dismissed as…",
+     "published": "2026-11-28T07:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/afdd0bd3-3489-47d3-b1eb-35ef94e9d638_034e2f97.jpg?itok=38ewS4oN&v=1795841809"
     },
     {
-     "title": "Philippines could be key player in US-China AI competition",
-     "link": "https://www.scmp.com/opinion/asia-opinion/article/3375746/philippines-could-be-key-player-us-china-ai-competition",
-     "summary": "“We’ve just consummated a trade deal, the biggest trade deal we’ve ever made by far and it’s a fair deal for both countries. … It’s a magnificent deal for both,” US President Donald Trump declared as he visited Manila…",
-     "published": "2026-11-27T21:30+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/19bb8c64-0b75-4ff5-a8c4-6a0af7844721_c1bf0fd6.png?itok=MHTTGY-L&v=1795769733"
+     "title": "No tenders yet for Hong Kong’s first university town, education chief says",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3376120/no-tenders-yet-hong-kongs-first-university-town-education-chief-says",
+     "summary": "Hong Kong universities have yet to apply for sites in the city’s first university town in the Northern Metropolis, but the education minister remains confident the area will attract institutions. Secretary for Education…",
+     "published": "2026-11-28T06:57+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/ae8a466f-f699-46f0-bb60-e9d7d639c674_1b11a287.jpg?itok=lfuPRTVJ&v=1795849017"
     },
     {
-     "title": "Ukraine says it used laser weapon to shoot down Russian drone for first time",
-     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
-     "summary": "Ukraine has for the first time used a laser weapon to shoot down a Russian jet-powered drone, its state-backed defence group Brave1 said on Friday. Earlier this week, Serhiy Beskrestnov, an adviser to President…",
-     "published": "2026-11-27T21:08+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/c821f7d2-2b75-4ab4-86c5-f72362f22122_f58559b8.jpg?itok=-BXRZ9jm&v=1795813704"
+     "title": "India finds unsafe Bisleri sample due to bacteria amid bottled water crackdown",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3376119/india-finds-unsafe-bisleri-sample-due-bacteria-amid-bottled-water-crackdown",
+     "summary": "Indian authorities have found a sample of Bisleri-branded water to be unsafe due to coliform bacteria, a regulatory document shows, the second such finding to come to light in recent days on the nation’s biggest ‌and…",
+     "published": "2026-11-28T06:30+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/e3be00ac-c97c-4fce-9ff9-9de8cf5a495b_268000e4.jpg?itok=EVGv8dBn&v=1795847413"
     },
     {
-     "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
-     "summary": "Canada’s Supreme Court on Friday upheld Quebec’s ban on religious symbols for public servants, prompting rights groups to warn the ruling unfairly targets Muslim women and weakens legal protections for fundamental…",
-     "published": "2026-11-27T20:25+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/2cc34e23-8a20-44a3-8efa-85d74204a0c6_601d8442.jpg?itok=S0EbL_zR&v=1795815180"
+     "title": "Chinese engineers defy Hormuz blockade to install Abu Dhabi drilling rigs",
+     "link": "https://www.scmp.com/news/china/article/3376116/chinese-engineers-defy-hormuz-blockade-install-abu-dhabi-drilling-rigs",
+     "summary": "As fighter jets screamed just above, a group of Chinese engineers defied wartime blockades in the Strait of Hormuz to deliver and install drilling rigs on an Abu Dhabi island. A team from Honghua Group, a unit of…",
+     "published": "2026-11-28T06:00+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/588dd334-2068-49b6-a4d4-ae67381ffd1e_6c21826b.jpg?itok=r_y0-GFx&v=1795844012"
     },
     {
-     "title": "WHO sounds alarm as measles fight falters: ‘it is back’",
-     "link": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
-     "summary": "The World Health Organization sounded the alarm on measles on Friday, warning that progress on elimination had stalled amid rising misinformation and disinformation. The WHO’s overview of the long-term battle against…",
-     "published": "2026-11-27T20:12+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/db8bdf98-87a0-4d4b-865b-86cf1655b3da_5d9c48c4.jpg?itok=9z7xWzEB&v=1795810326"
+     "title": "Sarawak state election: retreat by Anwar and rivals brings ruling GPS closer to victory",
+     "link": "https://www.scmp.com/week-asia/politics/article/3376115/sarawak-state-election-retreat-anwar-and-rivals-brings-ruling-gps-closer-victory",
+     "summary": "The move by Malaysia’s Prime Minister Anwar Ibrahim and his political rivals to sit out next month’s election in Sarawak has led to the state’s ruling coalition, Gabungan Parti Sarawak (GPS), coming in striking distance…",
+     "published": "2026-11-28T05:21+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/c450692c-68bb-4d98-a51b-2e624f91984e_201da8c1.jpg?itok=K2aTPnnS&v=1795843268"
     },
     {
-     "title": "More than 57,000 granted UK permanent residence via BN(O) route in year to September",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3376100/more-57000-granted-uk-permanent-residence-bno-route-year-september",
-     "summary": "More than 57,000 arrivals from Hong Kong became permanent residents in the United Kingdom in the 12 months to September 2026 under the bespoke BN(O) immigration pathway launched five years ago, with the city ranking…",
-     "published": "2026-11-27T16:38+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/199eea68-22f7-44d0-96f1-e02f8a47858e_e1b57349.jpg?itok=UJqgsjzY&v=1795797510"
+     "title": "US military says cyber systems secure after reports of Air Force hack",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+     "summary": "The US military denied on Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked, in what would be the latest high-profile breach of US digital…",
+     "published": "2026-11-28T04:53+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/a85945c0-b723-4830-afd7-1df15821041c_2c09d188.jpg?itok=wSN-OPiF&v=1795841607"
     },
     {
-     "title": "French arrest warrant issued for German man supplying migrant smuggling boats",
-     "link": "https://www.scmp.com/news/world/europe/article/3376097/french-arrest-warrant-issued-german-man-supplying-migrant-smuggling-boats",
-     "summary": "France has issued an arrest warrant for a German national it suspects of involuntary manslaughter as part of an investigation into a series of clandestine migrant crossings to Britain, a prosecutor has said. According…",
-     "published": "2026-11-27T15:14+00:00",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/5608fa08-c6c2-495c-90dc-6b60286d0bc3_faa7660d.jpg?itok=3pY61c66&v=1795791486"
+     "title": "European financial firms plan larger Hong Kong investment, treasury chief says",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376111/european-financial-firms-plan-larger-hong-kong-investment-treasury-chief-says",
+     "summary": "European financial institutions plan to expand investment in Hong Kong’s commodities, gold and renminbi businesses, and are keen to learn from its green finance and tokenised bond experience, the city’s treasury chief…",
+     "published": "2026-11-28T04:08+00:00",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/63e7d456-5b0c-4e78-836f-64f0683c10d6_156cf8b2.jpg?itok=0S3CDiiG&v=1795838883"
     }
    ]
   },
@@ -1554,60 +1559,60 @@
    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
    "items": [
     {
-     "title": "Emergency warning after landslide on the Mornington Peninsula",
-     "link": "https://www.abc.net.au/news/2026-11-28/landslide-mccrae-mornington-peninsula-warning/107437814",
-     "summary": "People are being warned to stay away from the landslide as authorities assess its impact, which is believed to include damage to a house.",
-     "published": "2026-11-27T23:17+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/797d17e7006a9d2bb984ff39c39b062a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "What's the result in your electorate? Take a look at the map of your seat",
+     "link": "https://www.abc.net.au/news/2026-11-28/victoria-election-results-by-electorate/107436184",
+     "summary": "Explore the results across Melbourne and regional Victoria with these maps.",
+     "published": "2026-11-28T07:28+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/fb50bf73247d449dd1d76d2c658aba80?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Police link substance release at concert to robbery attempts",
-     "link": "https://www.abc.net.au/news/2026-11-28/don-toliver-manchester-concert-substance-robbery-attempt-police/107437726",
-     "summary": "One person has been taken to hospital and 89 have required checks for eye and respiratory irritation after the crowd at a Don Toliver concert was evacuated in Manchester.",
-     "published": "2026-11-27T23:10+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/657e78a71558bcf757bacf00a5153c31?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+     "title": "Live: Matildas take on Colombia in Canberra",
+     "link": "https://www.abc.net.au/news/2026-11-28/matildas-live-updates-australia-vs-colombia-in-canberra/107435020",
+     "summary": "The Matildas are in action in the first of two international friendlies against Colombia at Canberra Stadium. Follow live.",
+     "published": "2026-11-28T07:25+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/1cea86cf4f92571e051721bca803ae4b?impolicy=wcms_crop_resize&cropH=1140&cropW=2027&xPos=0&yPos=421&width=862&height=485"
     },
     {
-     "title": "A bomb scare ignites 'terrorist' talk in the Territory, but was it justified?",
-     "link": "https://www.abc.net.au/news/2026-11-28/nt-government-bomb-threat-media-reaction/107435122",
-     "summary": "A bomb threat email was shared with media by the NT government this week, before police had investigated. Some say the move was \"irresponsible\".",
-     "published": "2026-11-27T23:09+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/8559b945c6aa3633c6701056415b0e2f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+     "title": "Bendigo Writers Festival offers 'unreserved' apology to author Abdel-Fattah",
+     "link": "https://www.abc.net.au/news/2026-11-28/bendigo-writers-festival-apology-randa-abdel-fattah/107438282",
+     "summary": "Festival organiser Greater Bendigo City Council says it sincerely regrets infringing Palestinian Australian academic Dr Randa Abdel-Fattah's intellectual and artistic freedom.",
+     "published": "2026-11-28T06:43+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/366c008caca6a83c1e260cb224ed3d5f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     },
     {
-     "title": "Farmers do not miss dusty old days as they embrace harvest technology",
-     "link": "https://www.abc.net.au/news/2026-11-28/advances-in-harvesting-machinery-transformed-farming-western-nsw/107399560",
-     "summary": "Narromine farmer Rob McCutcheon has witnessed more than five decades of technological advances that have transformed the way farmers harvest their crops.",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/85c9c5bfc6b0cd83ab2ce5e965f7b777?impolicy=wcms_crop_resize&cropH=2304&cropW=4096&xPos=0&yPos=384&width=862&height=485"
+     "title": "Israeli air strike on Doctors Without Borders Gaza office kills two",
+     "link": "https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266",
+     "summary": "The World Health Organization condemns attacks on health facilities after an Israeli air strike on an MSF building in Gaza killed two people.",
+     "published": "2026-11-28T06:20+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/f5f8ff4473ded8512d106d912670cf09?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=150&width=862&height=485"
     },
     {
-     "title": "High-heel skipping and handbag throwing: Perth's queer sports history uncovered",
-     "link": "https://www.abc.net.au/news/2026-11-28/gay-games-perth-queer-community-olympics/107384780",
-     "summary": "Volunteers are seeking memorabilia and photographs from Perth's historical 'Gay Olympics' ahead of a major international sporting event.",
-     "published": "2026-11-27T23:00+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/9cbc93bd891aebacbc88dc10dd511083?impolicy=wcms_crop_resize&cropH=951&cropW=1691&xPos=0&yPos=85&width=862&height=485"
+     "title": "Snails cause harvest headache for South Australian farmers",
+     "link": "https://www.abc.net.au/news/2026-11-28/snails-south-australia-harvest-eyre-yorke-peninsula/107420962",
+     "summary": "An increase in snail numbers is causing issues for some farmers in the middle of what is expected to be a record-breaking harvest.",
+     "published": "2026-11-28T06:08+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/ff35b20ef80a8bb08625d2dc42daead0?impolicy=wcms_crop_resize&cropH=405&cropW=720&xPos=0&yPos=227&width=862&height=485"
     },
     {
-     "title": "Nathan Lyon axed as Australia names Test squad",
-     "link": "https://www.abc.net.au/news/2026-11-28/nathan-lyon-axed-as-australia-names-test-squad/107437842",
-     "summary": "Corey Rocchiccioli has ended Nathan Lyon's 13-year reign as Australia's first-choice spinner, with the veteran tweaker one of three players axed for the Test series against New Zealand.",
-     "published": "2026-11-27T22:55+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/fce61470b7efc06bd3eb17e2d1f136f7?impolicy=wcms_crop_resize&cropH=2295&cropW=4080&xPos=0&yPos=213&width=862&height=485"
+     "title": "North Melbourne AFLW duo announce retirement after historic three-peat",
+     "link": "https://www.abc.net.au/news/2026-11-28/emma-kearney-kate-shierlaw-annouce-retirement-afl/107438332",
+     "summary": "Inaugural AFLW Kangaroos captain and eight-time All Australian Emma Kearney has announced her retirement following North Melbourne's third straight premiership victory alongside teammate and partner Kate Shierlaw.",
+     "published": "2026-11-28T05:43+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/f2f16c404669ee37d774156b91974086?impolicy=wcms_crop_resize&cropH=2537&cropW=4511&xPos=0&yPos=443&width=862&height=485"
     },
     {
-     "title": "Aboriginal community captured in ‘timeless, beautiful’ tintype portraits",
-     "link": "https://www.abc.net.au/news/2026-11-28/vintage-photography-exhibition-showcases-kaurna-portraits/107437790",
-     "summary": "When Joan Lamont looks at the greyscale portraits of her Kaurna mob placed side by side, she sees the eyes of her ancestors looking back at her.",
-     "published": "2026-11-27T22:34+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/e16a6826b872953e190b81924c7d355c?impolicy=wcms_crop_resize&cropH=2297&cropW=4084&xPos=0&yPos=115&width=862&height=485"
+     "title": "What to expect with Victoria's election count tonight",
+     "link": "https://www.abc.net.au/news/2026-11-28/victorian-election-results-what-you-need-to-know/107435176",
+     "summary": "For months, the politics and polls of this Victorian state election have been signalling that the result may be one of the most complex in Australian political history.",
+     "published": "2026-11-28T04:45+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/def347bfab646465b50e0ab9fda54c99?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485"
     },
     {
-     "title": "Walker wins Australia's first medal of World Cup season",
-     "link": "https://www.abc.net.au/news/2026-11-28/bree-walker-wins-monobob-bronze-medal-world-cup-germany/107437748",
-     "summary": "Bree Walker has won bronze in the opening women's monobob event in Germany, securing Australia's first World Cup medal of the 2026-27 season.",
-     "published": "2026-11-27T22:33+00:00",
-     "image": "https://live-production.wcms.abc-cdn.net.au/63be28fc58cfc3c1899fafae510df91b?impolicy=wcms_crop_resize&cropH=2026&cropW=3601&xPos=0&yPos=209&width=862&height=485"
+     "title": "MotoGP circuit to claim fewer trees as transplant solution offered",
+     "link": "https://www.abc.net.au/news/2026-11-28/trees-saved-for-adelaide-motogp-circuit/107437992",
+     "summary": "The state government says it will \"save\" 94 olive trees originally destined for removal to make way for the MotoGP circuit design.",
+     "published": "2026-11-28T04:44+00:00",
+     "image": "https://live-production.wcms.abc-cdn.net.au/e0ac46b78753d88d5809a25cd79edd3c?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
     }
    ]
   },
@@ -1619,59 +1624,59 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "items": [
     {
-     "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-     "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-     "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
-     "published": "2026-11-27T23:09+00:00",
+     "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+     "link": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+     "summary": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+     "published": "2026-11-28T07:22+00:00",
      "image": ""
     },
     {
-     "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-     "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-     "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
-     "published": "2026-11-27T22:33+00:00",
+     "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+     "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+     "summary": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+     "published": "2026-11-28T07:21+00:00",
      "image": ""
     },
     {
-     "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-     "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-     "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
-     "published": "2026-11-27T22:22+00:00",
+     "title": "Trump’s tariffs have become America’s new normal",
+     "link": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+     "summary": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
+     "published": "2026-11-28T06:57+00:00",
      "image": ""
     },
     {
-     "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
-     "summary": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
-     "published": "2026-11-27T21:59+00:00",
+     "title": "Elon Musk can afford a little MAGA amnesia",
+     "link": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+     "summary": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+     "published": "2026-11-28T06:25+00:00",
      "image": ""
     },
     {
-     "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-     "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
-     "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
-     "published": "2026-11-27T21:11+00:00",
+     "title": "Behind India’s IIT dream: Student suicides and gaps in support",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
+     "summary": "Rishikesh Kumar made it to IIT, but died months later in a suspected suicide, reviving questions about student support.",
+     "published": "2026-11-28T04:59+00:00",
      "image": ""
     },
     {
-     "title": "Venezuela to repeal law that bans opposition figures from office",
-     "link": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-     "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
-     "published": "2026-11-27T20:44+00:00",
+     "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+     "link": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+     "summary": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+     "published": "2026-11-28T04:57+00:00",
      "image": ""
     },
     {
-     "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-     "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-     "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
-     "published": "2026-11-27T20:40+00:00",
+     "title": "UN chief frontrunner urged to speak out over Albanese detention",
+     "link": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+     "summary": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll.",
+     "published": "2026-11-28T04:46+00:00",
      "image": ""
     },
     {
-     "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-     "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-     "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
-     "published": "2026-11-27T20:39+00:00",
+     "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+     "link": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+     "summary": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.",
+     "published": "2026-11-28T04:30+00:00",
      "image": ""
     }
    ]
@@ -1733,10 +1738,10 @@
      "image": ""
     },
     {
-     "title": "Kenya: Ruto Signs Six Bills Into Law Covering Pensions, Breastfeeding and Justice",
-     "link": "https://allafrica.com/stories/202611270403.html",
-     "summary": "[Capital FM] Nairobi -- President William Ruto has signed six National Assembly Bills into law, introducing changes to public service pensions, workplace facilities for breastfeeding mothers, environmental regulation…",
-     "published": "2026-11-27T13:16+00:00",
+     "title": "Liberia: Drug Crisis Tops Agenda As Lawyers Gather in Buchanan for Bar Convention",
+     "link": "https://allafrica.com/stories/202611270345.html",
+     "summary": "[Liberian Investigator] BUCHANAN -- Liberia's illicit drug crisis is at the center of the Liberia National Bar Association's 2026 national convention, which opens Friday in Buchanan as the bar's president warns that…",
+     "published": "2026-11-27T12:22+00:00",
      "image": ""
     }
    ]
